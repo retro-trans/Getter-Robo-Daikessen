@@ -1,0 +1,400 @@
+[
+ {
+  "id": "BT_160",
+  "en": "Eek!",
+  "note": "Michiru, hit."
+ },
+ {
+  "id": "BT_161",
+  "en": "Eeeeek!",
+  "note": "Michiru, hit hard."
+ },
+ {
+  "id": "BT_162",
+  "en": "Everyone, I'm sorry...",
+  "note": "Michiru, death/downed line."
+ },
+ {
+  "id": "BT_163",
+  "en": "Here I go!",
+  "note": "Michiru (BGR.BIN block after the Michiru name row); attack line."
+ },
+ {
+  "id": "BT_164",
+  "en": "Yaaah!",
+  "note": "Michiru; attack shout."
+ },
+ {
+  "id": "BT_165",
+  "en": "I can fight too, you know!",
+  "note": "Michiru."
+ },
+ {
+  "id": "BT_166",
+  "en": "Lambert",
+  "note": "Name row (speaker label), spelling from speakers.json."
+ },
+ {
+  "id": "BT_167",
+  "en": "...",
+  "note": "Lambert; light hit (silent)."
+ },
+ {
+  "id": "BT_168",
+  "en": "Guhh...",
+  "note": "Lambert; hit."
+ },
+ {
+  "id": "BT_169",
+  "en": "Ugh... ugh...",
+  "note": "Lambert; heavy hit."
+ },
+ {
+  "id": "BT_170",
+  "en": "...Heh heh. Sorry, partner...",
+  "note": "Lambert's defeat line; 'partner' = Schwartz, his Stilva co-pilot."
+ },
+ {
+  "id": "BT_171",
+  "en": "Write me off as an old geezer and you'll get hurt!",
+  "note": "Lambert (middle-aged veteran): 'take me lightly as an old geezer and you'll get hurt'."
+ },
+ {
+  "id": "BT_172",
+  "en": "Hnngah!",
+  "note": "Lambert; attack shout."
+ },
+ {
+  "id": "BT_173",
+  "en": "That's not enough to shoot me down!",
+  "note": "Lambert; otosu read as 'shoot down' (Stilva is an aircraft-type unit)."
+ },
+ {
+  "id": "BT_174",
+  "en": "Schwartz",
+  "note": "Name row (speaker label)."
+ },
+ {
+  "id": "BT_175",
+  "en": "Ugh!!",
+  "note": "Schwartz; hit."
+ },
+ {
+  "id": "BT_176",
+  "en": "Urgh...",
+  "note": "Schwartz; hit."
+ },
+ {
+  "id": "BT_177",
+  "en": "Gwaaah!!",
+  "note": "Schwartz; heavy hit."
+ },
+ {
+  "id": "BT_178",
+  "en": "...Damn. Never figured I'd croak in a place like this.",
+  "note": "Schwartz's defeat line; kutabaru = croak (rough)."
+ },
+ {
+  "id": "BT_179",
+  "en": "Guess it's about time we started the show!",
+  "note": "Schwartz; 'showtime'."
+ },
+ {
+  "id": "BT_180",
+  "en": "Hmph!",
+  "note": "Schwartz; grunt between attack lines."
+ },
+ {
+  "id": "BT_181",
+  "en": "I won't lose to the Japanese!",
+  "note": "Schwartz (hates the Japanese early in the story)."
+ },
+ {
+  "id": "BT_182",
+  "en": "I'll send you bastards straight to heaven!",
+  "note": "Schwartz; temeera = 'you bastards'."
+ },
+ {
+  "id": "BT_183",
+  "en": "Bob",
+  "note": "Name row (speaker label)."
+ },
+ {
+  "id": "BT_184",
+  "en": "Whoa!!",
+  "note": "Bob; hit. Same row is also Sam's hit line."
+ },
+ {
+  "id": "BT_185",
+  "en": "Waaaah!!",
+  "note": "Bob; heavy hit. Same row is also Sam's hit line."
+ },
+ {
+  "id": "BT_186",
+  "en": "So long...",
+  "note": "Bob's defeat line (abayo)."
+ },
+ {
+  "id": "BT_187",
+  "en": "I'll turn every one of you into scrap!",
+  "note": "Bob."
+ },
+ {
+  "id": "BT_188",
+  "en": "Doryaah!"
+ },
+ {
+  "id": "BT_189",
+  "en": "Come back when you've put on some weight!",
+  "note": "Bob; taunt ('come back after gaining more weight')."
+ },
+ {
+  "id": "BT_190",
+  "en": "Sam",
+  "note": "Name row (speaker label)."
+ },
+ {
+  "id": "BT_191",
+  "en": "See ya...",
+  "note": "Sam's defeat line (jaa na); kept distinct from Bob's 'So long...'."
+ },
+ {
+  "id": "BT_192",
+  "en": "Get ready, you're done for!",
+  "note": "Sam; kakugo shiyagare (rough)."
+ },
+ {
+  "id": "BT_193",
+  "en": "Dyaaah!",
+  "note": "Sam; attack shout (deryaa)."
+ },
+ {
+  "id": "BT_194",
+  "en": "Heh! I'll smash everything to smithereens!",
+  "note": "Sam; zenbu = everything/all of it."
+ },
+ {
+  "id": "BT_195",
+  "en": "Linda",
+  "note": "Name row (speaker label)."
+ },
+ {
+  "id": "BT_196",
+  "en": "Eek!!",
+  "note": "Linda; hit."
+ },
+ {
+  "id": "BT_197",
+  "en": "Oh no!!",
+  "note": "Linda; hit (dameee)."
+ },
+ {
+  "id": "BT_198",
+  "en": "Kyaaah!!",
+  "note": "Linda; heavy hit."
+ },
+ {
+  "id": "BT_199",
+  "en": "N-nooooo!!",
+  "note": "Linda's defeat line (i-iyaaa)."
+ },
+ {
+  "id": "BT_200",
+  "en": "Let's make short work of this lot!",
+  "note": "Linda (polite British pilot); -mashou = 'let's', addressed to allies."
+ },
+ {
+  "id": "BT_201",
+  "en": "Eyaaah!",
+  "note": "Linda; attack shout."
+ },
+ {
+  "id": "BT_202",
+  "en": "I'll give you a beautiful death!",
+  "note": "Linda; kirei ni koroshite ageru, kept at full force. [editorial] 'kill you beautifully' was awkward; same force and imagery."
+ },
+ {
+  "id": "BT_203",
+  "en": "Shatner",
+  "note": "Name row (speaker label)."
+ },
+ {
+  "id": "BT_204",
+  "en": "Ohh",
+  "note": "Shatner; light hit. Japanese has no punctuation (oo); kept without."
+ },
+ {
+  "id": "BT_205",
+  "en": "Gwaah!!",
+  "note": "Shatner; hit."
+ },
+ {
+  "id": "BT_206",
+  "en": "Kuoooooh!!!!",
+  "note": "Shatner; heavy hit."
+ },
+ {
+  "id": "BT_207",
+  "en": "Wh-what a disgrace!",
+  "note": "Shatner's defeat line (na-nasakenee = how pathetic, about himself)."
+ },
+ {
+  "id": "BT_208",
+  "en": "You bastards! I'll never forgive you now!",
+  "note": "Shatner."
+ },
+ {
+  "id": "BT_209",
+  "en": "Eat this, damn you!",
+  "note": "Shatner; kore demo kuraiyagare (rough -yagare)."
+ },
+ {
+  "id": "BT_210",
+  "en": "Ooooraaah!",
+  "note": "Shatner; attack shout (oooo)."
+ },
+ {
+  "id": "BT_211",
+  "en": "What a stubborn bastard!",
+  "note": "Shatner; shibutoi yarou."
+ },
+ {
+  "id": "BT_212",
+  "en": "Jack",
+  "note": "Name row (speaker label)."
+ },
+ {
+  "id": "BT_213",
+  "en": "Oops!",
+  "note": "Jack; hit (oops, in katakana)."
+ },
+ {
+  "id": "BT_214",
+  "en": "Ouchie!!",
+  "note": "Jack; hit (ouchie, in katakana)."
+ },
+ {
+  "id": "BT_215",
+  "en": "Oh! No!",
+  "note": "Jack; heavy hit."
+ },
+ {
+  "id": "BT_216",
+  "en": "Oh! Me's tummy feels kinda b-b-bad-desu!",
+  "note": "Jack's defeat line: his stomach feels 'ba-ba-bad(o)'. Jack voice per REVIEW.md ('Me', '-desu')."
+ },
+ {
+  "id": "BT_217",
+  "en": "Go! Fight-desu!",
+  "note": "Jack."
+ },
+ {
+  "id": "BT_218",
+  "en": "Take Me's fearsome technique, pleeease!",
+  "note": "Jack; 'mii no osorubeki waza wo uketemi nasaai' ('pleeease' for the stretched -nasaai, as in mform)."
+ },
+ {
+  "id": "BT_219",
+  "en": "This is no contest at all, ya know!",
+  "note": "Jack; 'mattaku ohanashi ni narimasen nee' (sentence-final nee rendered 'ya know')."
+ },
+ {
+  "id": "BT_220",
+  "en": "Wao! Chaaange, Getter-desu!!",
+  "note": "Jack; Change Getter call with his stretch and -desu; 'Wao' kept as written in the Japanese."
+ },
+ {
+  "id": "BT_221",
+  "en": "WooHooo! Ooopen, Get-deeesu!",
+  "note": "Jack; Open Get call."
+ },
+ {
+  "id": "BT_222",
+  "en": "Mary",
+  "note": "Name row (speaker label)."
+ },
+ {
+  "id": "BT_223",
+  "en": "Owww!",
+  "note": "Mary; hit (ouu)."
+ },
+ {
+  "id": "BT_224",
+  "en": "C-crazy!",
+  "note": "Mary; hit."
+ },
+ {
+  "id": "BT_225",
+  "en": "...Oh! Jesus!!",
+  "note": "Mary; heavy hit ('...oh! Jesus!!')."
+ },
+ {
+  "id": "BT_226",
+  "en": "Ohhh! Has God forsaken me? Hmmm?",
+  "note": "Mary's defeat line; final 'fuun?' rendered 'Hmmm?'."
+ },
+ {
+  "id": "BT_227",
+  "en": "Oh! With Brother, we're invincible, the strongest of all!"
+ },
+ {
+  "id": "BT_228",
+  "en": "I'll beat you to a pulp!",
+  "note": "Mary; kotenpan ni shite ageru wa."
+ },
+ {
+  "id": "BT_229",
+  "en": "Hey! Chaaange, Getter!!",
+  "note": "Mary; Change Getter call."
+ },
+ {
+  "id": "BT_230",
+  "en": "Open, Geeet!!",
+  "note": "Mary; Open Get call (geeet)."
+ },
+ {
+  "id": "BT_231",
+  "en": "Akane",
+  "note": ""
+ },
+ {
+  "id": "BT_232",
+  "en": "Eek!!",
+  "note": "Speaker inferred: Akane. Her block has no extracted name row, but BGR.BIN holds the 1-kanji name string for Akane at 0x2514 right before this line (filtered out by the extractor). Hit."
+ },
+ {
+  "id": "BT_233",
+  "en": "Aah!!",
+  "note": "Akane (inferred, see BT_228); hit. [proof] 'see BT_228' uses an older numbering: read BT_232."
+ },
+ {
+  "id": "BT_234",
+  "en": "Aaaaah!!",
+  "note": "Akane (inferred); heavy hit."
+ },
+ {
+  "id": "BT_235",
+  "en": "...N-no way. ...I let my guard down!",
+  "note": "Akane (inferred); defeat line."
+ },
+ {
+  "id": "BT_236",
+  "en": "I'll show you just how scary a woman can be!",
+  "note": "Akane (inferred); 'I'll make you learn how scary a woman is'."
+ },
+ {
+  "id": "BT_237",
+  "en": "Hyaaah!",
+  "note": "Akane (inferred); attack shout (eei)."
+ },
+ {
+  "id": "BT_238",
+  "en": "You'd better not underestimate my strength!",
+  "note": "Akane (inferred); 'you'd better not underestimate my power'."
+ },
+ {
+  "id": "BT_239",
+  "en": "Tsubaki",
+  "note": ""
+ }
+]

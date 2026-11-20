@@ -1,0 +1,336 @@
+[
+ {
+  "id": "MF20_0BAA",
+  "en": "$s05What?! $s80$s13$s05What's the status of the Getter Reactor?!"
+ },
+ {
+  "id": "MF20_0BF6",
+  "en": "The Emperor's Getter Reactor is operating normally! $s80$s13$s05$f23bWh-$s80$s13$s05what is this?!"
+ },
+ {
+  "id": "MF20_0C6B",
+  "en": "$s05What is it?!"
+ },
+ {
+  "id": "MF20_0C97",
+  "en": "$s05The Getter Rays inside the ship are converging on a single point! $s80$s13$s05The location is... Hangar 18!$/That's where Getter Robo G's cocoon is stored!"
+ },
+ {
+  "id": "MF20_0D2B",
+  "en": "$s05What?! $s80$s13What's going on?!$/$s05Don't tell me... $s80$s13$s05the cocoon is absorbing the ship's Getter Rays?! $s80$s13$s05What's Getter G's status?!"
+ },
+ {
+  "id": "MF20_0DD5",
+  "en": "$s05The cocoon's heat output, $s80$s13$s05in step with the Getter Ray concentration, is rising sharply!$/$f23bDoctor! $s80$s13$s05If it keeps absorbing Getter Rays like this, the Getter Emperor won't be able to function properly!"
+ },
+ {
+  "id": "MF20_0E96",
+  "en": "$s05...!$/$s05$f21gGetter Team! Can you hear me?!"
+ },
+ {
+  "id": "MF20_0EE7",
+  "en": "$s05Yeah! $s80$s13$s05We heard every word!",
+  "note": "Subject 'we': Go answers Saotome's call to the whole Getter Team."
+ },
+ {
+  "id": "MF20_0F25",
+  "en": "$s05What the heck is going on?!"
+ },
+ {
+  "id": "MF20_0F57",
+  "en": "$s05If the Emperor stops working, the Getters can't get resupplied or repaired!"
+ },
+ {
+  "id": "MF20_0FB7",
+  "en": "$s05What are we going to do?! $s80$s13$s05Doctor!"
+ },
+ {
+  "id": "MF20_0FF9",
+  "en": "$s05What are we going to do?! $s80$s13$s05Doctor!",
+  "note": " Editorial: harmonized with the male variant (identical Japanese)."
+ },
+ {
+  "id": "MF20_103B",
+  "en": "$s05Doctor! $s80$s13$s05Let's pull back to orbit for the time being!"
+ },
+ {
+  "id": "MF20_1093",
+  "en": "$s80$s13$s05It can't be helped! $s80$s13$s05All units, we're pulling back for now!"
+ },
+ {
+  "id": "MF20_10E7",
+  "en": "Doctor, $s80$s13what the hell is going on with Getter G?!"
+ },
+ {
+  "id": "MF20_1131",
+  "en": "You said that during an experiment $s80$s13there was a runaway accident nobody could explain... $s80$s13or something like that, right?",
+  "note": "Refers back to Saotome's earlier explanation (MF20_0606)."
+ },
+ {
+  "id": "MF20_1193",
+  "en": "$s20After the runaway accident, $s80$s13$s20the Institute was flooded with dense Getter Rays and too dangerous to enter, so it was temporarily shut down."
+ },
+ {
+  "id": "MF20_1279",
+  "en": "$s20Until now, the fluctuations $s80$s13$s20inside the cocoon had been unstable, but $s80$s13$s20after that incident just now, $s80$s13$s20they suddenly stabilized."
+ },
+ {
+  "id": "MF20_12FD",
+  "en": "Have you $s80$s13figured something out?!"
+ },
+ {
+  "id": "MF20_1339",
+  "en": "$s20Getter Rays are an energy that drives evolution. $s80$s13$s80$s13$s20If their effect isn't limited to living things..."
+ },
+ {
+  "id": "MF20_13BD",
+  "en": "Y-$s80$s13$s05you can't mean..."
+ },
+ {
+  "id": "MF20_13ED",
+  "en": "You mean Getter Robo is...?!",
+  "note": "Sho and Hayato (next row) complete one sentence; cut at the matching point."
+ },
+ {
+  "id": "MF20_1417",
+  "en": "$s20...evolving?!"
+ },
+ {
+  "id": "MF20_1445",
+  "en": "Shin Getter Dragon is an unknown machine! $s80$s13$s80$s13If things look dangerous, $s80$s13come back at once!"
+ },
+ {
+  "id": "MF20_14BB",
+  "en": "All right! $s80$s13$s80$s13This time I'm gonna smash the Insect Army for good! $s80$s13$s80$s13$s05Let's go!"
+ },
+ {
+  "id": "MF20_1527",
+  "en": "Yes! $s80$s13$s80$s13This time I'm going to crush the Insect Army for good!"
+ },
+ {
+  "id": "MF20_1579",
+  "en": "$s20We will not yield it to mere humans! $s80$s13$s80$s13$s20Not the galaxy! $s80$s13$s20This universe shall be ruled $s80$s13$s20by us!"
+ },
+ {
+  "id": "MF20_023E",
+  "en": "But $s80$s13$s20with invader after invader coming, $s80$s13$s20it was never able to fulfill that true purpose. $s80$s13In a sense, $s80$s13$s20this is what the Getter Project was always meant to be."
+ },
+ {
+  "id": "MF20_0A14",
+  "en": "I, $s80$s13$s20Petty Officer Gimbug, $s80$s13$s20shall teach you $s80$s13$s20which creatures are fit to rule the universe!"
+ },
+ {
+  "id": "MF20_120B",
+  "en": "When the Getter Ray levels dropped and we returned to the Institute, $s80$s13$s80$s13$s20Getter G was already wrapped in a cocoon...",
+  "note": "Continuation of Dr. Tachibana's MF20_1193. Subject 'we' (the researchers) inferred; the source does not say who returned."
+ },
+ {
+  "id": "MF20_16D4",
+  "en": "$/Having lost the Getter Emperor and with their supply line cut, the Getter Team could not stop the onrushing Insect Army..."
+ },
+ {
+  "id": "MF21_0028",
+  "en": "This here's MAP 21!",
+  "note": "Debug/placeholder map label, same pattern as the other MAP rows."
+ },
+ {
+  "id": "MF21_00BE",
+  "en": "$s05What?! $s80$s13$s05What's with this swarm?!"
+ },
+ {
+  "id": "MF21_00FC",
+  "en": "$s05This is $s80$s13the enemy's main force?!"
+ },
+ {
+  "id": "MF21_0132",
+  "en": "$s05So this is $s80$s13the enemy's main force?!"
+ },
+ {
+  "id": "MF21_016C",
+  "en": "$s20To win that war, $s80$s13$s20to defeat Getter, $s80$s13$s20this was the only way left!",
+  "note": "Speech continues in MF21_01E4."
+ },
+ {
+  "id": "MF21_0238",
+  "en": "That voice! $s80$s13Is that the big boss from before?!"
+ },
+ {
+  "id": "MF21_02C2",
+  "en": "$s05What's that supposed to mean?!"
+ },
+ {
+  "id": "MF21_02F0",
+  "en": "$s80$s13$s20Several hundred years after this time, $s80$s13$s20we fought war after war to rule the galaxy, $s80$s13$s20to rule the universe.",
+  "note": "Speech continues in MF21_037C."
+ },
+ {
+  "id": "MF21_0408",
+  "en": "$s05Several hundred years from now?!"
+ },
+ {
+  "id": "MF21_0434",
+  "en": "$s20We were dealt a devastating blow... $s80$s13$s20And those of us who remained $s80$s13$s20used the last of our strength to cross time and space!",
+  "note": "Speech continues in MF21_04BC."
+ },
+ {
+  "id": "MF21_0500",
+  "en": "From the future... $s80$s13$s05You came from the future?!"
+ },
+ {
+  "id": "MF21_0542",
+  "en": "$s05No way, $s80$s13$s05that's crazy!"
+ },
+ {
+  "id": "MF21_0578",
+  "en": "$s20Finding humanity was easy! $s80$s13$s80$s13$s80$s13After all, about the only place giving off Getter Rays that powerful $s80$s13$s80$s13$s20is this Earth!"
+ },
+ {
+  "id": "MF21_062A",
+  "en": "I see... $s80$s13$s80$s13So that's why they kept appearing, as if drawn by the Getter Rays!",
+  "note": "'they' = the Insect Army, settled by the scene."
+ },
+ {
+  "id": "MF21_068C",
+  "en": "$s20Here, $s80$s13$s20in this space, $s80$s13$s20in this time, we can win!",
+  "note": "Speech continues in MF21_06EE."
+ },
+ {
+  "id": "MF21_079C",
+  "en": "$s80$s13No waaay..."
+ },
+ {
+  "id": "MF21_07C4",
+  "en": "$s05...Like hell you will!"
+ },
+ {
+  "id": "MF21_07EE",
+  "en": "Everyone! $s80$s13$s05Let's move out!"
+ },
+ {
+  "id": "MF21_0822",
+  "en": "$s05Useless! $s80$s13$s05Useless! $s80$s13Useless! $s80$s13$s20Overwhelming power! $s80$s13$s20Be astounded $s80$s13$s20by the gulf between our forces!"
+ },
+ {
+  "id": "MF21_08B6",
+  "en": "$s20Dammit! $s80$s13$s80$s13Can't we do something about these numbers?!"
+ },
+ {
+  "id": "MF21_0906",
+  "en": "One after another, $s80$s13they just keep crawling out of the woodwork!"
+ },
+ {
+  "id": "MF21_094A",
+  "en": "Damn! $s80$s13At this rate...!"
+ },
+ {
+  "id": "MF21_0984",
+  "en": "$s05Heh! $s80$s13Looks like our devil's luck $s80$s13has finally run out!"
+ },
+ {
+  "id": "MF21_09D6",
+  "en": "$s05You gotta be kidding! $s80$s13I'm not dying in a place like this!"
+ },
+ {
+  "id": "MF21_0A24",
+  "en": "$s05You bet we won't!",
+  "note": "Akane agrees with Go's 'I'm not dying here'; 'we' restored."
+ },
+ {
+  "id": "MF21_0A50",
+  "en": "$s05I swear it! $s80$s13This fight... $s80$s13I'm going to end it!"
+ },
+ {
+  "id": "MF21_0A9E",
+  "en": "$s05Schwartz!"
+ },
+ {
+  "id": "MF21_0AC6",
+  "en": "$s05The Allied Forces' $s80$s13super robot?!"
+ },
+ {
+  "id": "MF21_0B08",
+  "en": "$s05How did you get all the way out here?! $s80$s13Not in that machine...!",
+  "note": "Deliberately trailing: Go means the Stilva shouldn't manage in space."
+ },
+ {
+  "id": "MF21_0B52",
+  "en": "Hah, $s80$s13$s80$s13give it a little refit for space and it does the job just fine!"
+ },
+ {
+  "id": "MF21_0BB4",
+  "en": "But... $s80$s13that's so reckleeess...",
+  "note": "Accuracy: tilde removed per project rule (stretched letters instead); the source's trailing wave is a whine, kept as a drawn-out word."
+ },
+ {
+  "id": "MF21_0BE2",
+  "en": "$s05Hurry and turn back!"
+ },
+ {
+  "id": "MF21_0C0E",
+  "en": "With just a quick refit, $s80$s13you can't keep fighting for long."
+ },
+ {
+  "id": "MF21_0C60",
+  "en": "Don't waste your worry on us! $s80$s13$s80$s13You $s80$s13just think about taking down the enemy!"
+ },
+ {
+  "id": "MF21_0CD4",
+  "en": "Easy for you to say!"
+ },
+ {
+  "id": "MF21_0D00",
+  "en": "$s80$s13You guys...",
+  "note": "Aimed at Schwartz and Lambert."
+ },
+ {
+  "id": "MF21_0D2C",
+  "en": "Everyone..."
+ },
+ {
+  "id": "MF21_0D4E",
+  "en": "Everyone..."
+ },
+ {
+  "id": "MF21_0D70",
+  "en": "$s05Yeah! $s80$s13$s80$s13You don't have to tell us, we'll show you! $s80$s13$s80$s13$m00g$s05Let's go, Getter!",
+  "note": "Answers Lambert's 'just think about beating the enemy'; 'we' (the team) and the object (beating the enemy) inferred."
+ },
+ {
+  "id": "MF21_0DEF",
+  "en": "D-$s80$s13damn you, $s80$s13$s05Getter! $s80$s13$s80$s13$s80$s13Damn you, $s80$s13humanity! $s80$s13$s80$s13$s80$s13Why?! $s80$s13Why can't we win?! $s80$s13$s80$s13$s20Are we not the lords of creation?! $s80$s13$s80$s13$s20Have we no right to rule the universe?!"
+ },
+ {
+  "id": "MF21_0F67",
+  "en": "%2         - Lunar Surface -",
+  "note": "Location banner; kept the source's %2 and leading spaces for centring. The rendered centring has not been checked."
+ },
+ {
+  "id": "MF21_01E4",
+  "en": "To cross time and space, $s80$s13$s20and wipe out the primates $s80$s13$s20while they are still immature!"
+ },
+ {
+  "id": "MF21_0276",
+  "en": "$s20That war?! $s80$s13$s20They crossed time and space?!",
+  "note": "Hayato echoes Gimbug's MF21_016C/01E4; subject 'they' restored."
+ },
+ {
+  "id": "MF21_037C",
+  "en": "But $s80$s13$s20then an obstacle appeared! $s80$s13$s80$s13$s20You humans! $s80$s13$s80$s13$s20Getter Robo stood in our way!",
+  "note": "Continuation of Gimbug's MF21_02F0."
+ },
+ {
+  "id": "MF21_04BC",
+  "en": "And at last, we came here! $s80$s13$s20Into the past!",
+  "note": "Continuation of Gimbug's MF21_0434."
+ },
+ {
+  "id": "MF21_06EE",
+  "en": "We'll destroy you! $s80$s13We'll wipe you out! $s80$s13Humanity! $s80$s13$s80$s13$s80$s13$s20Which life form is fit to rule the universe... $s80$s13$s80$s13$s20we'll make you learn it in your own flesh!",
+  "note": "Continuation of Gimbug's MF21_068C."
+ },
+ {
+  "id": "MF21_0EFD",
+  "en": "Tell me! $s80$s13$s80$s13Someone! Answer me! $s80$s13$s80$s13$s80$s13Answer meeeeeee!",
+  "note": "Continuation of Gimbug's dying MF21_0DEF."
+ }
+]

@@ -1,0 +1,394 @@
+[
+ {
+  "id": "BT_000",
+  "en": "Getter Cutter!",
+  "note": ""
+ },
+ {
+  "id": "BT_001",
+  "en": "Getter Tomahawk!",
+  "note": ""
+ },
+ {
+  "id": "BT_002",
+  "en": "Tomahawk Boomerang!",
+  "note": ""
+ },
+ {
+  "id": "BT_003",
+  "en": "Getter Machine Gun!",
+  "note": ""
+ },
+ {
+  "id": "BT_004",
+  "en": "Getter Beam!",
+  "note": ""
+ },
+ {
+  "id": "BT_005",
+  "en": "Drill Arm!",
+  "note": ""
+ },
+ {
+  "id": "BT_006",
+  "en": "Getter Arm!",
+  "note": ""
+ },
+ {
+  "id": "BT_007",
+  "en": "Jet Drill!",
+  "note": ""
+ },
+ {
+  "id": "BT_008",
+  "en": "Drill Storm!",
+  "note": ""
+ },
+ {
+  "id": "BT_009",
+  "en": "Getter Vision!",
+  "note": ""
+ },
+ {
+  "id": "BT_010",
+  "en": "Getter Smash!",
+  "note": ""
+ },
+ {
+  "id": "BT_011",
+  "en": "Getter Crush!",
+  "note": ""
+ },
+ {
+  "id": "BT_012",
+  "en": "Getter Missile!",
+  "note": ""
+ },
+ {
+  "id": "BT_013",
+  "en": "Daisetsuzan Oroshi!",
+  "note": ""
+ },
+ {
+  "id": "BT_014",
+  "en": "Getter Spin Knuckle!",
+  "note": ""
+ },
+ {
+  "id": "BT_015",
+  "en": "Getter Jumping Press!"
+ },
+ {
+  "id": "BT_016",
+  "en": "Double Tomahawk!",
+  "note": ""
+ },
+ {
+  "id": "BT_017",
+  "en": "Spin Cutter!",
+  "note": ""
+ },
+ {
+  "id": "BT_018",
+  "en": "Double Tomahawk Boomerang!",
+  "note": ""
+ },
+ {
+  "id": "BT_019",
+  "en": "Getter Beam Launcher!",
+  "note": ""
+ },
+ {
+  "id": "BT_020",
+  "en": "Shine Spark!",
+  "note": ""
+ },
+ {
+  "id": "BT_021",
+  "en": "Chain Attack!",
+  "note": ""
+ },
+ {
+  "id": "BT_022",
+  "en": "Liger Missile!",
+  "note": ""
+ },
+ {
+  "id": "BT_023",
+  "en": "Mach Special!",
+  "note": ""
+ },
+ {
+  "id": "BT_024",
+  "en": "Burst Attack!",
+  "note": ""
+ },
+ {
+  "id": "BT_025",
+  "en": "Strong Missile!",
+  "note": ""
+ },
+ {
+  "id": "BT_026",
+  "en": "Finger Net!",
+  "note": ""
+ },
+ {
+  "id": "BT_027",
+  "en": "Getter Cyclone!",
+  "note": ""
+ },
+ {
+  "id": "BT_028",
+  "en": "Knuckle Bomber!",
+  "note": ""
+ },
+ {
+  "id": "BT_029",
+  "en": "Leg Blade!",
+  "note": ""
+ },
+ {
+  "id": "BT_030",
+  "en": "Handy Missile Cannon!",
+  "note": ""
+ },
+ {
+  "id": "BT_031",
+  "en": "Mag Force Thunder!",
+  "note": ""
+ },
+ {
+  "id": "BT_032",
+  "en": "Sword Tomahawk!",
+  "note": ""
+ },
+ {
+  "id": "BT_033",
+  "en": "String Attack!",
+  "note": ""
+ },
+ {
+  "id": "BT_034",
+  "en": "Breast Bomber!",
+  "note": ""
+ },
+ {
+  "id": "BT_035",
+  "en": "Tornado Attack!",
+  "note": ""
+ },
+ {
+  "id": "BT_036",
+  "en": "Harpoon Cannon!"
+ },
+ {
+  "id": "BT_037",
+  "en": "Impact Cannon!",
+  "note": ""
+ },
+ {
+  "id": "BT_038",
+  "en": "Breast Beam!",
+  "note": ""
+ },
+ {
+  "id": "BT_039",
+  "en": "Shin Getter Tomahawk",
+  "note": "No exclamation mark in the JP; kept none."
+ },
+ {
+  "id": "BT_040",
+  "en": "Split Beam!",
+  "note": ""
+ },
+ {
+  "id": "BT_041",
+  "en": "Shin Getter Beam!",
+  "note": ""
+ },
+ {
+  "id": "BT_042",
+  "en": "Stoner Sunshine!",
+  "note": ""
+ },
+ {
+  "id": "BT_043",
+  "en": "Shin Getter Drill!",
+  "note": ""
+ },
+ {
+  "id": "BT_044",
+  "en": "Shin Scissor Arm!",
+  "note": ""
+ },
+ {
+  "id": "BT_045",
+  "en": "Shin Drill Shaker!",
+  "note": ""
+ },
+ {
+  "id": "BT_046",
+  "en": "Drill Hurricane!",
+  "note": "Name only in exe weapon list (exe_800135C8), no MCN row."
+ },
+ {
+  "id": "BT_047",
+  "en": "Shin Getter Vision!",
+  "note": ""
+ },
+ {
+  "id": "BT_048",
+  "en": "Shin Getter Blow!",
+  "note": ""
+ },
+ {
+  "id": "BT_049",
+  "en": "Shin Getter Crush!",
+  "note": ""
+ },
+ {
+  "id": "BT_050",
+  "en": "Missile Storm!",
+  "note": ""
+ },
+ {
+  "id": "BT_051",
+  "en": "Shin Daisetsuzan Oroshi!",
+  "note": ""
+ },
+ {
+  "id": "BT_052",
+  "en": "Flower Frenzy!",
+  "note": ""
+ },
+ {
+  "id": "BT_053",
+  "en": "Twin Flower Frenzy!",
+  "note": ""
+ },
+ {
+  "id": "BT_054",
+  "en": "Combined Windmill!",
+  "note": ""
+ },
+ {
+  "id": "BT_055",
+  "en": "Demonslayer Ray!",
+  "note": ""
+ },
+ {
+  "id": "BT_056",
+  "en": "Myriad Needles!",
+  "note": ""
+ },
+ {
+  "id": "BT_057",
+  "en": "Gale Needles!",
+  "note": ""
+ },
+ {
+  "id": "BT_058",
+  "en": "Serpent Spiral Ray!",
+  "note": ""
+ },
+ {
+  "id": "BT_059",
+  "en": "Getter Shadow Clone!",
+  "note": ""
+ },
+ {
+  "id": "BT_060",
+  "en": "Rush!"
+ },
+ {
+  "id": "BT_061",
+  "en": "Rockbreaker Palm!",
+  "note": ""
+ },
+ {
+  "id": "BT_062",
+  "en": "Great Blade Shuriken!",
+  "note": ""
+ },
+ {
+  "id": "BT_063",
+  "en": "Shura Depth Charge!",
+  "note": ""
+ },
+ {
+  "id": "BT_064",
+  "en": "Drill Rock Buster!",
+  "note": ""
+ },
+ {
+  "id": "BT_065",
+  "en": "Dark Frenzy!",
+  "note": ""
+ },
+ {
+  "id": "BT_066",
+  "en": "Drill Attack!",
+  "note": ""
+ },
+ {
+  "id": "BT_067",
+  "en": "Silent Vulcan, fire!"
+ },
+ {
+  "id": "BT_068",
+  "en": "Hand Cutter!",
+  "note": ""
+ },
+ {
+  "id": "BT_069",
+  "en": "Boomerang Wing!",
+  "note": ""
+ },
+ {
+  "id": "BT_070",
+  "en": "ST Blaster, fire!"
+ },
+ {
+  "id": "BT_071",
+  "en": "Blast Succession!",
+  "note": ""
+ },
+ {
+  "id": "BT_072",
+  "en": "Spread Missile, fire!"
+ },
+ {
+  "id": "BT_073",
+  "en": "Heavy Press!",
+  "note": ""
+ },
+ {
+  "id": "BT_074",
+  "en": "Triple Missile, fire!"
+ },
+ {
+  "id": "BT_075",
+  "en": "Double Cannon, fire!"
+ },
+ {
+  "id": "BT_076",
+  "en": "Super Heavy Press!",
+  "note": ""
+ },
+ {
+  "id": "BT_077",
+  "en": "Stun Saber!",
+  "note": ""
+ },
+ {
+  "id": "BT_078",
+  "en": "Requesting submarine support!",
+  "note": "Call for the 'Submarine Support' weapon (MCN_18A4). Speaker not settled (sits among Stun Saber / Heat Rod lines); kept as neutral radio call."
+ },
+ {
+  "id": "BT_079",
+  "en": "Heat Rod!",
+  "note": ""
+ }
+]

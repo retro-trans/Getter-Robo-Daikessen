@@ -1,0 +1,1052 @@
+[
+ {
+  "id": "game_8008C2E8",
+  "kind": "ui",
+  "max_bytes": 6,
+  "max_px": 24,
+  "en": ""
+ },
+ {
+  "id": "game_8008C344",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 24,
+  "en": ""
+ },
+ {
+  "id": "game_8008C34C",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 24,
+  "en": ""
+ },
+ {
+  "id": "game_8008C358",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 24,
+  "en": ""
+ },
+ {
+  "id": "game_8008C360",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 24,
+  "en": ""
+ },
+ {
+  "id": "game_8008C368",
+  "kind": "ui",
+  "max_bytes": 6,
+  "max_px": 24,
+  "en": ""
+ },
+ {
+  "id": "game_8008C370",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 36,
+  "en": ""
+ },
+ {
+  "id": "game_8008C378",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 36,
+  "en": ""
+ },
+ {
+  "id": "game_8008C380",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 24,
+  "en": ""
+ },
+ {
+  "id": "game_8008C388",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 24,
+  "en": ""
+ },
+ {
+  "id": "game_8008C390",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 36,
+  "en": ""
+ },
+ {
+  "id": "game_8008C398",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 36,
+  "en": ""
+ },
+ {
+  "id": "game_8008C468",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 36,
+  "en": ""
+ },
+ {
+  "id": "game_8008CFE4",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 24,
+  "en": ""
+ },
+ {
+  "id": "game_8008CFEC",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 48,
+  "en": ""
+ },
+ {
+  "id": "game_8008CFF8",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 36,
+  "en": ""
+ },
+ {
+  "id": "game_8008D000",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 24,
+  "en": ""
+ },
+ {
+  "id": "game_8008D008",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 24,
+  "en": ""
+ },
+ {
+  "id": "game_8008D010",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 60,
+  "en": ""
+ },
+ {
+  "id": "game_8008D01C",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 60,
+  "en": ""
+ },
+ {
+  "id": "game_8008D028",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 24,
+  "en": ""
+ },
+ {
+  "id": "game_8008D030",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 24,
+  "en": ""
+ },
+ {
+  "id": "game_8008D038",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 24,
+  "en": ""
+ },
+ {
+  "id": "game_8008D040",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 24,
+  "en": ""
+ },
+ {
+  "id": "game_8008D084",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 36,
+  "en": ""
+ },
+ {
+  "id": "game_8008D08B",
+  "kind": "ui",
+  "max_bytes": 6,
+  "max_px": 24,
+  "en": ""
+ },
+ {
+  "id": "game_8008D092",
+  "kind": "ui",
+  "max_bytes": 6,
+  "max_px": 24,
+  "en": ""
+ },
+ {
+  "id": "game_8008D099",
+  "kind": "ui",
+  "max_bytes": 6,
+  "max_px": 36,
+  "en": ""
+ },
+ {
+  "id": "game_8008D0A0",
+  "kind": "ui",
+  "max_bytes": 7,
+  "max_px": 24,
+  "en": ""
+ },
+ {
+  "id": "game_8008D0A8",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 40,
+  "en": ""
+ },
+ {
+  "id": "game_8008D0B4",
+  "kind": "ui",
+  "max_bytes": 11,
+  "max_px": 48,
+  "en": ""
+ },
+ {
+  "id": "game_8008D0C0",
+  "kind": "ui",
+  "max_bytes": 11,
+  "max_px": 52,
+  "en": ""
+ },
+ {
+  "id": "game_8008D0CC",
+  "kind": "ui",
+  "max_bytes": 7,
+  "max_px": 40,
+  "en": ""
+ },
+ {
+  "id": "game_8008D0D8",
+  "kind": "ui",
+  "max_bytes": 11,
+  "max_px": 48,
+  "en": ""
+ },
+ {
+  "id": "game_8008D0E4",
+  "kind": "ui",
+  "max_bytes": 7,
+  "max_px": 40,
+  "en": ""
+ },
+ {
+  "id": "game_8008D0F0",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 72,
+  "en": ""
+ },
+ {
+  "id": "game_8008D100",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 60,
+  "en": ""
+ },
+ {
+  "id": "game_8008D10C",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 48,
+  "en": ""
+ },
+ {
+  "id": "game_8008D14C",
+  "kind": "ui",
+  "max_bytes": 6,
+  "max_px": 36,
+  "en": ""
+ },
+ {
+  "id": "game_8008D153",
+  "kind": "ui",
+  "max_bytes": 6,
+  "max_px": 36,
+  "en": ""
+ },
+ {
+  "id": "game_8008D15A",
+  "kind": "ui",
+  "max_bytes": 7,
+  "max_px": 36,
+  "en": ""
+ },
+ {
+  "id": "game_8008D16D",
+  "kind": "ui",
+  "max_bytes": 10,
+  "max_px": 48,
+  "en": ""
+ },
+ {
+  "id": "game_8008D178",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 24,
+  "en": ""
+ },
+ {
+  "id": "game_8008D180",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 36,
+  "en": ""
+ },
+ {
+  "id": "game_8008D19C",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 48,
+  "en": ""
+ },
+ {
+  "id": "game_8008D1A8",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 48,
+  "en": ""
+ },
+ {
+  "id": "game_8008D1B4",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 24,
+  "en": ""
+ },
+ {
+  "id": "game_8008D1BC",
+  "kind": "ui",
+  "max_bytes": 6,
+  "max_px": 24,
+  "en": ""
+ },
+ {
+  "id": "game_8008D1C4",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 36,
+  "en": ""
+ },
+ {
+  "id": "game_8008D1D4",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 24,
+  "en": ""
+ },
+ {
+  "id": "game_8008D1DC",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 48,
+  "en": ""
+ },
+ {
+  "id": "game_8008D1EC",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 24,
+  "en": ""
+ },
+ {
+  "id": "game_8008D200",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 48,
+  "en": ""
+ },
+ {
+  "id": "game_8008D20C",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 24,
+  "en": ""
+ },
+ {
+  "id": "game_8008D3B0",
+  "kind": "dialogue",
+  "max_bytes": null,
+  "max_px": null,
+  "en": ""
+ },
+ {
+  "id": "game_8008D3E4",
+  "kind": "dialogue",
+  "max_bytes": null,
+  "max_px": null,
+  "en": ""
+ },
+ {
+  "id": "game_8008D408",
+  "kind": "dialogue",
+  "max_bytes": null,
+  "max_px": null,
+  "en": ""
+ },
+ {
+  "id": "game_8008D458",
+  "kind": "dialogue",
+  "max_bytes": null,
+  "max_px": null,
+  "en": ""
+ },
+ {
+  "id": "game_8008D4AC",
+  "kind": "dialogue",
+  "max_bytes": null,
+  "max_px": null,
+  "en": ""
+ },
+ {
+  "id": "game_8008D4D0",
+  "kind": "dialogue",
+  "max_bytes": null,
+  "max_px": null,
+  "en": ""
+ },
+ {
+  "id": "game_8008D4E0",
+  "kind": "dialogue",
+  "max_bytes": null,
+  "max_px": null,
+  "en": ""
+ },
+ {
+  "id": "game_8008D51C",
+  "kind": "dialogue",
+  "max_bytes": null,
+  "max_px": null,
+  "en": ""
+ },
+ {
+  "id": "game_8008B7F5",
+  "kind": "ui",
+  "max_bytes": 4,
+  "max_px": 12,
+  "en": ""
+ },
+ {
+  "id": "game_8008B7FA",
+  "kind": "ui",
+  "max_bytes": 4,
+  "max_px": 12,
+  "en": ""
+ },
+ {
+  "id": "game_8008B7FF",
+  "kind": "ui",
+  "max_bytes": 4,
+  "max_px": 12,
+  "en": ""
+ },
+ {
+  "id": "game_8008C27C",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 12,
+  "en": ""
+ },
+ {
+  "id": "game_8008C280",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 12,
+  "en": ""
+ },
+ {
+  "id": "game_8008C284",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 12,
+  "en": ""
+ },
+ {
+  "id": "game_8008C288",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 12,
+  "en": ""
+ },
+ {
+  "id": "game_8008C354",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 12,
+  "en": ""
+ },
+ {
+  "id": "game_8008D164",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 12,
+  "en": ""
+ },
+ {
+  "id": "game_8008D1E8",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 12,
+  "en": ""
+ },
+ {
+  "id": "title_8008B8BC",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 48,
+  "en": ""
+ },
+ {
+  "id": "title_8008B8C8",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 228,
+  "en": ""
+ },
+ {
+  "id": "title_8008B8F0",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 180,
+  "en": ""
+ },
+ {
+  "id": "title_8008B910",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 216,
+  "en": ""
+ },
+ {
+  "id": "title_8008B938",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 216,
+  "en": ""
+ },
+ {
+  "id": "title_8008B960",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 48,
+  "en": ""
+ },
+ {
+  "id": "title_8008B96C",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 216,
+  "en": ""
+ },
+ {
+  "id": "title_8008B994",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 204,
+  "en": ""
+ },
+ {
+  "id": "title_8008B9BC",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 120,
+  "en": ""
+ },
+ {
+  "id": "title_8008B9D8",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 216,
+  "en": ""
+ },
+ {
+  "id": "title_8008BA00",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 216,
+  "en": ""
+ },
+ {
+  "id": "title_8008BA2C",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 72,
+  "en": ""
+ },
+ {
+  "id": "title_8008BA40",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 216,
+  "en": ""
+ },
+ {
+  "id": "title_8008BA68",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 108,
+  "en": ""
+ },
+ {
+  "id": "title_8008BA80",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 216,
+  "en": ""
+ },
+ {
+  "id": "title_8008BAA8",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 84,
+  "en": ""
+ },
+ {
+  "id": "title_8008BABC",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 216,
+  "en": ""
+ },
+ {
+  "id": "title_8008BAE4",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 156,
+  "en": ""
+ },
+ {
+  "id": "title_8008BB04",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 216,
+  "en": ""
+ },
+ {
+  "id": "title_8008BB2C",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 84,
+  "en": ""
+ },
+ {
+  "id": "title_8008BB40",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 216,
+  "en": ""
+ },
+ {
+  "id": "title_8008BB68",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 36,
+  "en": ""
+ },
+ {
+  "id": "title_8008BB70",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 216,
+  "en": ""
+ },
+ {
+  "id": "title_8008BB9C",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 216,
+  "en": ""
+ },
+ {
+  "id": "title_8008BBC8",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 132,
+  "en": ""
+ },
+ {
+  "id": "title_8008BBE4",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 216,
+  "en": ""
+ },
+ {
+  "id": "title_8008BC0C",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 216,
+  "en": ""
+ },
+ {
+  "id": "title_8008BC38",
+  "kind": "ui",
+  "max_bytes": 39,
+  "max_px": 204,
+  "en": ""
+ },
+ {
+  "id": "title_8008BC64",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 156,
+  "en": ""
+ },
+ {
+  "id": "title_8008BC80",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 36,
+  "en": ""
+ },
+ {
+  "id": "title_8008C08C",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 192,
+  "en": ""
+ },
+ {
+  "id": "title_8008C0B0",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 144,
+  "en": ""
+ },
+ {
+  "id": "title_8008C0CC",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 36,
+  "en": ""
+ },
+ {
+  "id": "title_8008C0D4",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 204,
+  "en": ""
+ },
+ {
+  "id": "title_8008C100",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 192,
+  "en": ""
+ },
+ {
+  "id": "title_8008C12C",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 48,
+  "en": ""
+ },
+ {
+  "id": "title_8008C138",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 48,
+  "en": ""
+ },
+ {
+  "id": "title_8008C144",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 48,
+  "en": ""
+ },
+ {
+  "id": "title_8008C158",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 24,
+  "en": ""
+ },
+ {
+  "id": "title_8008C160",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 156,
+  "en": ""
+ },
+ {
+  "id": "title_8008C17C",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 24,
+  "en": ""
+ },
+ {
+  "id": "title_8008C184",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 48,
+  "en": ""
+ },
+ {
+  "id": "title_8008C190",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 84,
+  "en": ""
+ },
+ {
+  "id": "title_8008C1A0",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 72,
+  "en": ""
+ },
+ {
+  "id": "title_8008C1B0",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 132,
+  "en": ""
+ },
+ {
+  "id": "title_8008C1C8",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 192,
+  "en": ""
+ },
+ {
+  "id": "title_8008C0F8",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 12,
+  "en": ""
+ },
+ {
+  "id": "title_8008C0FC",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 12,
+  "en": ""
+ },
+ {
+  "id": "battle_800AA92C",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 24,
+  "en": ""
+ },
+ {
+  "id": "battle_800AA938",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 24,
+  "en": ""
+ },
+ {
+  "id": "battle_800AA944",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 24,
+  "en": ""
+ },
+ {
+  "id": "battle_800AA950",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 24,
+  "en": ""
+ },
+ {
+  "id": "battle_800AAB28",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 72,
+  "en": ""
+ },
+ {
+  "id": "battle_800AAB3C",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 36,
+  "en": ""
+ },
+ {
+  "id": "battle_800AAB48",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 36,
+  "en": ""
+ },
+ {
+  "id": "battle_800AAB54",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 36,
+  "en": ""
+ },
+ {
+  "id": "battle_800AAB60",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 48,
+  "en": ""
+ },
+ {
+  "id": "briefing_800A98BC",
+  "kind": "dialogue",
+  "max_bytes": null,
+  "max_px": null,
+  "en": ""
+ },
+ {
+  "id": "briefing_800A98E8",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 24,
+  "en": ""
+ },
+ {
+  "id": "briefing_800A98F0",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 24,
+  "en": ""
+ },
+ {
+  "id": "briefing_800A9958",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 180,
+  "en": ""
+ },
+ {
+  "id": "briefing_800A9978",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 156,
+  "en": ""
+ },
+ {
+  "id": "briefing_800A9994",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 156,
+  "en": ""
+ },
+ {
+  "id": "briefing_800A99B0",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 96,
+  "en": ""
+ },
+ {
+  "id": "briefing_800A99C4",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 132,
+  "en": ""
+ },
+ {
+  "id": "briefing_800A99E8",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 64,
+  "en": ""
+ },
+ {
+  "id": "briefing_800A99F4",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 28,
+  "en": ""
+ },
+ {
+  "id": "briefing_800A99FC",
+  "kind": "ui",
+  "max_bytes": 11,
+  "max_px": 60,
+  "en": ""
+ },
+ {
+  "id": "briefing_800A9A08",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 192,
+  "en": ""
+ },
+ {
+  "id": "briefing_800A9A2C",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 180,
+  "en": ""
+ },
+ {
+  "id": "briefing_800A9A4C",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 180,
+  "en": ""
+ },
+ {
+  "id": "briefing_800A9A6C",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 168,
+  "en": ""
+ },
+ {
+  "id": "briefing_800A9A8C",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 96,
+  "en": ""
+ },
+ {
+  "id": "briefing_800A9AA0",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 156,
+  "en": ""
+ },
+ {
+  "id": "briefing_800A9ABC",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 136,
+  "en": ""
+ },
+ {
+  "id": "briefing_800A9AD4",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 180,
+  "en": ""
+ },
+ {
+  "id": "briefing_800A9AF4",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 120,
+  "en": ""
+ },
+ {
+  "id": "briefing_800A9B0C",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 120,
+  "en": ""
+ }
+]

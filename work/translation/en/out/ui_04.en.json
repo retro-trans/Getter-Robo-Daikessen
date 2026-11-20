@@ -1,0 +1,752 @@
+[
+ {
+  "id": "game_8008C2E8",
+  "en": "Cntr",
+  "note": ""
+ },
+ {
+  "id": "game_8008C344",
+  "en": "Luna",
+  "note": ""
+ },
+ {
+  "id": "game_8008C34C",
+  "en": "Bog",
+  "note": ""
+ },
+ {
+  "id": "game_8008C358",
+  "en": "Base",
+  "note": ""
+ },
+ {
+  "id": "game_8008C360",
+  "en": "Gun",
+  "note": ""
+ },
+ {
+  "id": "game_8008C368",
+  "en": "Fcty",
+  "note": ""
+ },
+ {
+  "id": "game_8008C370",
+  "en": "Lab",
+  "note": ""
+ },
+ {
+  "id": "game_8008C378",
+  "en": "Subsp.",
+  "note": ""
+ },
+ {
+  "id": "game_8008C380",
+  "en": "Gera",
+  "note": ""
+ },
+ {
+  "id": "game_8008C388",
+  "en": "Schl",
+  "note": ""
+ },
+ {
+  "id": "game_8008C390",
+  "en": "Pwr.Pl",
+  "note": ""
+ },
+ {
+  "id": "game_8008C398",
+  "en": "Strat.",
+  "note": ""
+ },
+ {
+  "id": "game_8008C468",
+  "en": "Turn",
+  "note": ""
+ },
+ {
+  "id": "game_8008CFE4",
+  "en": "Eva",
+  "note": ""
+ },
+ {
+  "id": "game_8008CFEC",
+  "en": "Accuracy",
+  "note": ""
+ },
+ {
+  "id": "game_8008CFF8",
+  "en": "Move",
+  "note": ""
+ },
+ {
+  "id": "game_8008D000",
+  "en": "Def",
+  "note": ""
+ },
+ {
+  "id": "game_8008D008",
+  "en": "HP",
+  "note": ""
+ },
+ {
+  "id": "game_8008D010",
+  "en": "Getter Ray",
+  "note": ""
+ },
+ {
+  "id": "game_8008D01C",
+  "en": "Energy",
+  "note": ""
+ },
+ {
+  "id": "game_8008D028",
+  "en": "Pilot",
+  "note": ""
+ },
+ {
+  "id": "game_8008D030",
+  "en": "Refl",
+  "note": ""
+ },
+ {
+  "id": "game_8008D038",
+  "en": "Shot",
+  "note": ""
+ },
+ {
+  "id": "game_8008D040",
+  "en": "Mel.",
+  "note": ""
+ },
+ {
+  "id": "game_8008D084",
+  "en": "HP",
+  "note": ""
+ },
+ {
+  "id": "game_8008D08B",
+  "en": "EN",
+  "note": ""
+ },
+ {
+  "id": "game_8008D092",
+  "en": "Armr",
+  "note": ""
+ },
+ {
+  "id": "game_8008D099",
+  "en": "Mobil.",
+  "note": ""
+ },
+ {
+  "id": "game_8008D0A0",
+  "en": "GE",
+  "note": ""
+ },
+ {
+  "id": "game_8008D0A8",
+  "en": "A/ /",
+  "note": ""
+ },
+ {
+  "id": "game_8008D0B4",
+  "en": "A/L/",
+  "note": ""
+ },
+ {
+  "id": "game_8008D0C0",
+  "en": " /L/S",
+  "note": ""
+ },
+ {
+  "id": "game_8008D0CC",
+  "en": "A/ /",
+  "note": ""
+ },
+ {
+  "id": "game_8008D0D8",
+  "en": "A/L/",
+  "note": ""
+ },
+ {
+  "id": "game_8008D0E4",
+  "en": " /L/",
+  "note": ""
+ },
+ {
+  "id": "game_8008D0F0",
+  "en": "Operates In",
+  "note": ""
+ },
+ {
+  "id": "game_8008D100",
+  "en": "A/L/S",
+  "note": ""
+ },
+ {
+  "id": "game_8008D10C",
+  "en": "Terrain",
+  "note": ""
+ },
+ {
+  "id": "game_8008D14C",
+  "en": "All",
+  "note": ""
+ },
+ {
+  "id": "game_8008D153",
+  "en": "4 Dir",
+  "note": ""
+ },
+ {
+  "id": "game_8008D15A",
+  "en": "2 Dir",
+  "note": ""
+ },
+ {
+  "id": "game_8008D16D",
+  "en": "Line",
+  "note": ""
+ },
+ {
+  "id": "game_8008D178",
+  "en": "Wpn",
+  "note": ""
+ },
+ {
+  "id": "game_8008D180",
+  "en": "Attack",
+  "note": ""
+ },
+ {
+  "id": "game_8008D19C",
+  "en": "GE Cost",
+  "note": ""
+ },
+ {
+  "id": "game_8008D1A8",
+  "en": "EN Cost",
+  "note": ""
+ },
+ {
+  "id": "game_8008D1B4",
+  "en": "Kind",
+  "note": ""
+ },
+ {
+  "id": "game_8008D1BC",
+  "en": "Spec",
+  "note": ""
+ },
+ {
+  "id": "game_8008D1C4",
+  "en": "Sea",
+  "note": ""
+ },
+ {
+  "id": "game_8008D1D4",
+  "en": "Terr",
+  "note": ""
+ },
+ {
+  "id": "game_8008D1DC",
+  "en": "Range",
+  "note": ""
+ },
+ {
+  "id": "game_8008D1EC",
+  "en": "Rng",
+  "note": ""
+ },
+ {
+  "id": "game_8008D200",
+  "en": "Atk Area",
+  "note": ""
+ },
+ {
+  "id": "game_8008D20C",
+  "en": "Area",
+  "note": ""
+ },
+ {
+  "id": "game_8008D3B0",
+  "en": "$f%02da%c2%s%c0 gained %d experience points.",
+  "note": ""
+ },
+ {
+  "id": "game_8008D3E4",
+  "en": "$f%02da%c2%s%c0 reached level %d.",
+  "note": ""
+ },
+ {
+  "id": "game_8008D408",
+  "en": "$/%c2%s%c0's ability rose to level %d.",
+  "note": ""
+ },
+ {
+  "id": "game_8008D458",
+  "en": "$f00aWe've got Ryoma's case to go by, after all. Showing him the real thing will be quicker than talking.",
+  "note": ""
+ },
+ {
+  "id": "game_8008D4AC",
+  "en": "$f00aAnd this is what you'll use to persuade him?",
+  "note": ""
+ },
+ {
+  "id": "game_8008D4D0",
+  "en": "$f50cThat's right.",
+  "note": ""
+ },
+ {
+  "id": "game_8008D4E0",
+  "en": "$f21gHeh, sounds like quite the big shot. So I just gotta talk him into it?",
+  "note": ""
+ },
+ {
+  "id": "game_8008D51C",
+  "en": "$f00aIn the school building you can s%1e%2e over there@00 is a pilot candidate, \"Hayato Jin.\" Some time ago, fed up with the academy's corruption, he formed an opposition group.$/He went to war with the academy head-on.$/$f01aNormally, movements like that end up crushed by the academy, but $f03athe IQ 300 genius \"Hayato Jin\"... $f03bhe was different. Through swift action and solidarity, $f03dand above all Hayato Jin's intellect, he brought the academy to its knees. $f15aEver since, that academy has been known as \"Hayato's school.\"",
+  "note": ""
+ },
+ {
+  "id": "game_8008B7F5",
+  "en": "Wood",
+  "note": ""
+ },
+ {
+  "id": "game_8008B7FA",
+  "en": "Sea",
+  "note": ""
+ },
+ {
+  "id": "game_8008B7FF",
+  "en": "Mtn",
+  "note": ""
+ },
+ {
+  "id": "game_8008C27C",
+  "en": "Spc",
+  "note": ""
+ },
+ {
+  "id": "game_8008C280",
+  "en": "Sea",
+  "note": ""
+ },
+ {
+  "id": "game_8008C284",
+  "en": "Lnd",
+  "note": ""
+ },
+ {
+  "id": "game_8008C288",
+  "en": "Air",
+  "note": ""
+ },
+ {
+  "id": "game_8008C354",
+  "en": "Brg",
+  "note": ""
+ },
+ {
+  "id": "game_8008D164",
+  "en": "Circle",
+  "note": ""
+ },
+ {
+  "id": "game_8008D1E8",
+  "en": "Shp",
+  "note": ""
+ },
+ {
+  "id": "title_8008B8BC",
+  "en": "...",
+  "note": ""
+ },
+ {
+  "id": "title_8008B8C8",
+  "en": "raises Move next turn only,\" right?",
+  "note": ""
+ },
+ {
+  "id": "title_8008B8F0",
+  "en": "Getter Ray collection,\" right?",
+  "note": ""
+ },
+ {
+  "id": "title_8008B910",
+  "en": "restores EN next turn only, or raises",
+  "note": ""
+ },
+ {
+  "id": "title_8008B938",
+  "en": "%0\"Ending a turn with no move or attack",
+  "note": ""
+ },
+ {
+  "id": "title_8008B960",
+  "en": "right?",
+  "note": ""
+ },
+ {
+  "id": "title_8008B96C",
+  "en": "%0\"Regains some HP as each turn begins,\"",
+  "note": ""
+ },
+ {
+  "id": "title_8008B994",
+  "en": "%0\"Raises the critical hit rate,\"%0 right?",
+  "note": ""
+ },
+ {
+  "id": "title_8008B9BC",
+  "en": "%0ally unit,\"%0 right?",
+  "note": ""
+ },
+ {
+  "id": "title_8008B9D8",
+  "en": "%0\"Swaps places between you and a chosen",
+  "note": ""
+ },
+ {
+  "id": "title_8008BA00",
+  "en": "%0\"Boosts Getter Ray collection,\"%0 right?",
+  "note": ""
+ },
+ {
+  "id": "title_8008BA2C",
+  "en": "%0you,\"%0 right?",
+  "note": ""
+ },
+ {
+  "id": "title_8008BA40",
+  "en": "%0\"Lures a chosen enemy unit toward",
+  "note": ""
+ },
+ {
+  "id": "title_8008BA68",
+  "en": "%0set level, Attack goes up,\" right?",
+  "note": ""
+ },
+ {
+  "id": "title_8008BA80",
+  "en": "%0\"When your remaining HP drops below a",
+  "note": ""
+ },
+ {
+  "id": "title_8008BAA8",
+  "en": "%0enemy unit,\"%0 right?",
+  "note": ""
+ },
+ {
+  "id": "title_8008BABC",
+  "en": "%0\"Lets you see the status of a chosen",
+  "note": ""
+ },
+ {
+  "id": "title_8008BAE4",
+  "en": "%0each turn,\"%0 right?",
+  "note": ""
+ },
+ {
+  "id": "title_8008BB04",
+  "en": "%0\"Reduces the first damage you take",
+  "note": ""
+ },
+ {
+  "id": "title_8008BB2C",
+  "en": "chosen units,\"%0 right?",
+  "note": ""
+ },
+ {
+  "id": "title_8008BB40",
+  "en": "%0\"Lets you restore the HP of several",
+  "note": ""
+ },
+ {
+  "id": "title_8008BB68",
+  "en": "right?",
+  "note": ""
+ },
+ {
+  "id": "title_8008BB70",
+  "en": "%0\"Your movement ignores surroundings,\"%0",
+  "note": ""
+ },
+ {
+  "id": "title_8008BB9C",
+  "en": "%0\"Revives you once per episode,\"%0 right?",
+  "note": ""
+ },
+ {
+  "id": "title_8008BBC8",
+  "en": "%0you out of the battle,\"%0 right?",
+  "note": ""
+ },
+ {
+  "id": "title_8008BBE4",
+  "en": "%0\"Damages all units around you and takes",
+  "note": ""
+ },
+ {
+  "id": "title_8008BC0C",
+  "en": "%0\"Lets you move twice per turn,\"%0 right?",
+  "note": ""
+ },
+ {
+  "id": "title_8008BC38",
+  "en": "%0\"Boosts Attack on counters,\"%0 right?",
+  "note": ""
+ },
+ {
+  "id": "title_8008BC64",
+  "en": "It's okay. Life is long.",
+  "note": ""
+ },
+ {
+  "id": "title_8008BC80",
+  "en": "...",
+  "note": ""
+ },
+ {
+  "id": "title_8008C08C",
+  "en": ": You're the pilot candidate.",
+  "note": ""
+ },
+ {
+  "id": "title_8008C0B0",
+  "en": "Will you tell me your name?",
+  "note": ""
+ },
+ {
+  "id": "title_8008C0CC",
+  "en": "Michiru",
+  "note": ""
+ },
+ {
+  "id": "title_8008C0D4",
+  "en": "Michiru: Are you a boy or a girl?",
+  "note": ""
+ },
+ {
+  "id": "title_8008C100",
+  "en": "Michiru: Tell me your name.",
+  "note": ""
+ },
+ {
+  "id": "title_8008C12C",
+  "en": "ABC",
+  "note": ""
+ },
+ {
+  "id": "title_8008C138",
+  "en": "Katakana",
+  "note": ""
+ },
+ {
+  "id": "title_8008C144",
+  "en": "Hiragana",
+  "note": ""
+ },
+ {
+  "id": "title_8008C158",
+  "en": "OK",
+  "note": ""
+ },
+ {
+  "id": "title_8008C160",
+  "en": "Michiru: Is this okay?",
+  "note": ""
+ },
+ {
+  "id": "title_8008C17C",
+  "en": "Yes",
+  "note": ""
+ },
+ {
+  "id": "title_8008C184",
+  "en": "/No",
+  "note": ""
+ },
+ {
+  "id": "title_8008C190",
+  "en": ": Nice name.",
+  "note": ""
+ },
+ {
+  "id": "title_8008C1A0",
+  "en": "I'm Michiru.",
+  "note": ""
+ },
+ {
+  "id": "title_8008C1B0",
+  "en": "Let's work together.",
+  "note": ""
+ },
+ {
+  "id": "title_8008C1C8",
+  "en": "Michiru: What ability do you have?",
+  "note": ""
+ },
+ {
+  "id": "title_8008C0F8",
+  "en": "Male",
+  "note": ""
+ },
+ {
+  "id": "title_8008C0FC",
+  "en": "Female",
+  "note": ""
+ },
+ {
+  "id": "battle_800AA92C",
+  "en": "%3Eva%0",
+  "note": ""
+ },
+ {
+  "id": "battle_800AA938",
+  "en": "%3Def%0",
+  "note": ""
+ },
+ {
+  "id": "battle_800AA944",
+  "en": "%3Cntr%0",
+  "note": ""
+ },
+ {
+  "id": "battle_800AA950",
+  "en": "%3Atk%0",
+  "note": ""
+ },
+ {
+  "id": "battle_800AAB28",
+  "en": "%2Critical%0",
+  "note": ""
+ },
+ {
+  "id": "battle_800AAB3C",
+  "en": "%2/Grit%0",
+  "note": ""
+ },
+ {
+  "id": "battle_800AAB48",
+  "en": "%2/Fury%0",
+  "note": ""
+ },
+ {
+  "id": "battle_800AAB54",
+  "en": "%2/Cntr%0",
+  "note": ""
+ },
+ {
+  "id": "battle_800AAB60",
+  "en": "%2Ability%0",
+  "note": ""
+ },
+ {
+  "id": "briefing_800A98BC",
+  "en": "\"Getter Robo Daikessen!\" (%02ld) %s %s:%s",
+  "note": ""
+ },
+ {
+  "id": "briefing_800A98E8",
+  "en": "Susp",
+  "note": ""
+ },
+ {
+  "id": "briefing_800A98F0",
+  "en": "End",
+  "note": ""
+ },
+ {
+  "id": "briefing_800A9958",
+  "en": "Overwrite the existing data?",
+  "note": ""
+ },
+ {
+  "id": "briefing_800A9978",
+  "en": "Load this data?",
+  "note": ""
+ },
+ {
+  "id": "briefing_800A9994",
+  "en": "Really quit the game",
+  "note": ""
+ },
+ {
+  "id": "briefing_800A99B0",
+  "en": "in progress?",
+  "note": ""
+ },
+ {
+  "id": "briefing_800A99C4",
+  "en": "The data is corrupted.",
+  "note": ""
+ },
+ {
+  "id": "briefing_800A99E8",
+  "en": " Suspended",
+  "note": ""
+ },
+ {
+  "id": "briefing_800A99F4",
+  "en": " End",
+  "note": ""
+ },
+ {
+  "id": "briefing_800A99FC",
+  "en": "Empty",
+  "note": ""
+ },
+ {
+  "id": "briefing_800A9A08",
+  "en": "No Memory Card inserted.",
+  "note": ""
+ },
+ {
+  "id": "briefing_800A9A2C",
+  "en": "Checking Memory Card...",
+  "note": ""
+ },
+ {
+  "id": "briefing_800A9A4C",
+  "en": "Do not insert or remove the",
+  "note": ""
+ },
+ {
+  "id": "briefing_800A9A6C",
+  "en": "Memory Card or controller.",
+  "note": ""
+ },
+ {
+  "id": "briefing_800A9A8C",
+  "en": "The Memory Card",
+  "note": ""
+ },
+ {
+  "id": "briefing_800A9AA0",
+  "en": "is not formatted.",
+  "note": ""
+ },
+ {
+  "id": "briefing_800A9ABC",
+  "en": " Format it now?",
+  "note": ""
+ },
+ {
+  "id": "briefing_800A9AD4",
+  "en": "Formatting Memory Card...",
+  "note": ""
+ },
+ {
+  "id": "briefing_800A9AF4",
+  "en": "Loading data...",
+  "note": ""
+ },
+ {
+  "id": "briefing_800A9B0C",
+  "en": "Saving data...",
+  "note": ""
+ }
+]

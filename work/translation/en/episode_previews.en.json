@@ -1,0 +1,1438 @@
+{
+  "version": "0.1.6",
+  "timing": "Original XA sector clock, 150 sectors/second",
+  "style": "Native proportional font and shadow; transparent background",
+  "previews": {
+    "ANNO02": [
+      {
+        "id": "ANNO02_01",
+        "start": 0,
+        "end": 3.95,
+        "lines": [
+          "With Musashi Tomoe aboard, the",
+          "Getter Team is finally complete."
+        ]
+      },
+      {
+        "id": "ANNO02_02",
+        "start": 4.42,
+        "end": 9.05,
+        "lines": [
+          "Who are these mysterious new",
+          "foes, the Dinosaur Empire?"
+        ]
+      },
+      {
+        "id": "ANNO02_03",
+        "start": 9.2,
+        "end": 10.9,
+        "lines": [
+          "And what are they after?"
+        ]
+      },
+      {
+        "id": "ANNO02_04",
+        "start": 10.9,
+        "end": 15.8,
+        "lines": [
+          "Can Getter Robo defeat them?"
+        ]
+      },
+      {
+        "id": "ANNO02_05",
+        "start": 16.34,
+        "end": 18.2,
+        "lines": [
+          "Next time on Getter Robo Daikessen!"
+        ]
+      },
+      {
+        "id": "ANNO02_06",
+        "start": 18.2,
+        "end": 21.5,
+        "lines": [
+          "\"The Time Has Come! We Are the Dinosaur Empire\""
+        ]
+      },
+      {
+        "id": "ANNO02_07",
+        "start": 21.5,
+        "end": 23.25,
+        "lines": [
+          "Change Getter!"
+        ]
+      }
+    ],
+    "ANNO03": [
+      {
+        "id": "ANNO03_01",
+        "start": 0,
+        "end": 3.0,
+        "lines": [
+          "Mass-produced Getter Robos were",
+          "built to fight the Dinosaur Empire."
+        ]
+      },
+      {
+        "id": "ANNO03_02",
+        "start": 3.0,
+        "end": 6.3,
+        "lines": [
+          "Now someone has stolen them!"
+        ]
+      },
+      {
+        "id": "ANNO03_03",
+        "start": 7.08,
+        "end": 11.9,
+        "lines": [
+          "The Getter Team struggles against",
+          "an army of enemy Getter Robos."
+        ]
+      },
+      {
+        "id": "ANNO03_04",
+        "start": 12.2,
+        "end": 16.6,
+        "lines": [
+          "A new power joins the fight: Getter Robo G!"
+        ]
+      },
+      {
+        "id": "ANNO03_05",
+        "start": 17.18,
+        "end": 19.5,
+        "lines": [
+          "Next time on Getter Robo Daikessen!"
+        ]
+      },
+      {
+        "id": "ANNO03_06",
+        "start": 19.68,
+        "end": 21.3,
+        "lines": [
+          "\"Getter vs. Getter\""
+        ]
+      },
+      {
+        "id": "ANNO03_07",
+        "start": 21.3,
+        "end": 23.0,
+        "lines": [
+          "Change Dragon!"
+        ]
+      }
+    ],
+    "ANNO04": [
+      {
+        "id": "ANNO04_01",
+        "start": 0,
+        "end": 3.2,
+        "lines": [
+          "To destroy Getter Robo, the Dinosaur",
+          "Empire deploys a Mechasaurus"
+        ]
+      },
+      {
+        "id": "ANNO04_02",
+        "start": 3.2,
+        "end": 7.8,
+        "lines": [
+          "that can absorb every form of energy!"
+        ]
+      },
+      {
+        "id": "ANNO04_03",
+        "start": 8.66,
+        "end": 10.7,
+        "lines": [
+          "The Getter Team is helpless against it."
+        ]
+      },
+      {
+        "id": "ANNO04_04",
+        "start": 10.94,
+        "end": 16.3,
+        "lines": [
+          "Dr. Saotome resorts to one last, life-threatening plan."
+        ]
+      },
+      {
+        "id": "ANNO04_05",
+        "start": 16.86,
+        "end": 19.2,
+        "lines": [
+          "Next time on Getter Robo Daikessen!"
+        ]
+      },
+      {
+        "id": "ANNO04_06",
+        "start": 19.2,
+        "end": 21.3,
+        "lines": [
+          "\"Operation: Destroy Getter Robo\""
+        ]
+      },
+      {
+        "id": "ANNO04_07",
+        "start": 21.3,
+        "end": 23.1,
+        "lines": [
+          "Change Getter!"
+        ]
+      }
+    ],
+    "ANNO05": [
+      {
+        "id": "ANNO05_01",
+        "start": 0,
+        "end": 3.1,
+        "lines": [
+          "After repeated defeats, the",
+          "Dinosaur Empire finally launches"
+        ]
+      },
+      {
+        "id": "ANNO05_02",
+        "start": 3.1,
+        "end": 6.25,
+        "lines": [
+          "an all-out attack with its entire army!"
+        ]
+      },
+      {
+        "id": "ANNO05_03",
+        "start": 6.7,
+        "end": 10.0,
+        "lines": [
+          "A new Getter and the shadow of a new enemy"
+        ]
+      },
+      {
+        "id": "ANNO05_04",
+        "start": 10.0,
+        "end": 12.95,
+        "lines": [
+          "will change the course of the war."
+        ]
+      },
+      {
+        "id": "ANNO05_05",
+        "start": 13.4,
+        "end": 15.95,
+        "lines": [
+          "Next time on Getter Robo Daikessen!"
+        ]
+      },
+      {
+        "id": "ANNO05_06",
+        "start": 16.16,
+        "end": 19.05,
+        "lines": [
+          "\"New Power, New Enemy\""
+        ]
+      },
+      {
+        "id": "ANNO05_07",
+        "start": 19.05,
+        "end": 21.3,
+        "lines": [
+          "Change Getter Rekka!"
+        ]
+      }
+    ],
+    "ANNO06": [
+      {
+        "id": "ANNO06_01",
+        "start": 0,
+        "end": 5.7,
+        "lines": [
+          "The Getter Team heads to Tachibana",
+          "Institute to obtain Getter Robo Go."
+        ]
+      },
+      {
+        "id": "ANNO06_02",
+        "start": 6.04,
+        "end": 10.65,
+        "lines": [
+          "But the Hyakki Empire has already",
+          "reached its sinister hand there."
+        ]
+      },
+      {
+        "id": "ANNO06_03",
+        "start": 11.08,
+        "end": 14.85,
+        "lines": [
+          "Who is Maouki, the Hyakki Beast standing in their way?"
+        ]
+      },
+      {
+        "id": "ANNO06_04",
+        "start": 15.46,
+        "end": 17.6,
+        "lines": [
+          "Next time on Getter Robo Daikessen!"
+        ]
+      },
+      {
+        "id": "ANNO06_05",
+        "start": 17.6,
+        "end": 19.15,
+        "lines": [
+          "\"Save the Institutes!\""
+        ]
+      },
+      {
+        "id": "ANNO06_06",
+        "start": 19.15,
+        "end": 21.2,
+        "lines": [
+          "Change Getter Go!"
+        ]
+      }
+    ],
+    "ANNO06A": [
+      {
+        "id": "ANNO06A_01",
+        "start": 0,
+        "end": 4.5,
+        "lines": [
+          "With Getter Robo Go, the team",
+          "defends Tachibana Institute."
+        ]
+      },
+      {
+        "id": "ANNO06A_02",
+        "start": 4.84,
+        "end": 8.4,
+        "lines": [
+          "Ryoma and the others put up a valiant",
+          "fight against the Hyakki Empire."
+        ]
+      },
+      {
+        "id": "ANNO06A_03",
+        "start": 8.4,
+        "end": 13.25,
+        "lines": [
+          "But Emperor Burai has laid a terrible trap for them!"
+        ]
+      },
+      {
+        "id": "ANNO06A_04",
+        "start": 14.26,
+        "end": 16.5,
+        "lines": [
+          "Next time on Getter Robo Daikessen!"
+        ]
+      },
+      {
+        "id": "ANNO06A_05",
+        "start": 16.5,
+        "end": 18.5,
+        "lines": [
+          "\"Save the Institutes! (Part 2)\""
+        ]
+      },
+      {
+        "id": "ANNO06A_06",
+        "start": 18.5,
+        "end": 20.3,
+        "lines": [
+          "Change Getter!"
+        ]
+      }
+    ],
+    "ANNO06B": [
+      {
+        "id": "ANNO06B_01",
+        "start": 0,
+        "end": 4.5,
+        "lines": [
+          "With Getter Robo Go, the team",
+          "defends Saotome Institute."
+        ]
+      },
+      {
+        "id": "ANNO06B_02",
+        "start": 4.78,
+        "end": 8.35,
+        "lines": [
+          "Ryoma and the others put up a valiant",
+          "fight against the Hyakki Empire."
+        ]
+      },
+      {
+        "id": "ANNO06B_03",
+        "start": 8.35,
+        "end": 13.2,
+        "lines": [
+          "But Emperor Burai has laid a terrible trap for them!"
+        ]
+      },
+      {
+        "id": "ANNO06B_04",
+        "start": 14.06,
+        "end": 16.3,
+        "lines": [
+          "Next time on Getter Robo Daikessen!"
+        ]
+      },
+      {
+        "id": "ANNO06B_05",
+        "start": 16.3,
+        "end": 18.3,
+        "lines": [
+          "\"Save the Institutes! (Part 2)\""
+        ]
+      },
+      {
+        "id": "ANNO06B_06",
+        "start": 18.3,
+        "end": 20.2,
+        "lines": [
+          "Change Getter!"
+        ]
+      }
+    ],
+    "ANNO07A": [
+      {
+        "id": "ANNO07A_01",
+        "start": 0,
+        "end": 4.4,
+        "lines": [
+          "A massive Getter Reactor explosion",
+          "forces the team to evacuate."
+        ]
+      },
+      {
+        "id": "ANNO07A_02",
+        "start": 4.78,
+        "end": 8.0,
+        "lines": [
+          "They return to the institute, only to find"
+        ]
+      },
+      {
+        "id": "ANNO07A_03",
+        "start": 8.0,
+        "end": 11.3,
+        "lines": [
+          "bizarre creatures unlike anything they have ever seen!"
+        ]
+      },
+      {
+        "id": "ANNO07A_04",
+        "start": 12.08,
+        "end": 14.4,
+        "lines": [
+          "Next time on Getter Robo Daikessen!"
+        ]
+      },
+      {
+        "id": "ANNO07A_05",
+        "start": 14.4,
+        "end": 15.6,
+        "lines": [
+          "\"First Contact\""
+        ]
+      },
+      {
+        "id": "ANNO07A_06",
+        "start": 15.6,
+        "end": 17.2,
+        "lines": [
+          "Change Getter!"
+        ]
+      }
+    ],
+    "ANNO07B": [
+      {
+        "id": "ANNO07B_01",
+        "start": 0,
+        "end": 4.4,
+        "lines": [
+          "A massive Getter Reactor explosion",
+          "forces the team to evacuate."
+        ]
+      },
+      {
+        "id": "ANNO07B_02",
+        "start": 4.78,
+        "end": 8.0,
+        "lines": [
+          "They return to the institute, only to find"
+        ]
+      },
+      {
+        "id": "ANNO07B_03",
+        "start": 8.0,
+        "end": 11.3,
+        "lines": [
+          "bizarre creatures unlike anything they have ever seen!"
+        ]
+      },
+      {
+        "id": "ANNO07B_04",
+        "start": 12.08,
+        "end": 14.4,
+        "lines": [
+          "Next time on Getter Robo Daikessen!"
+        ]
+      },
+      {
+        "id": "ANNO07B_05",
+        "start": 14.4,
+        "end": 15.6,
+        "lines": [
+          "\"First Contact\""
+        ]
+      },
+      {
+        "id": "ANNO07B_06",
+        "start": 15.6,
+        "end": 17.2,
+        "lines": [
+          "Change Getter!"
+        ]
+      }
+    ],
+    "ANNO08": [
+      {
+        "id": "ANNO08_01",
+        "start": 0,
+        "end": 5.9,
+        "lines": [
+          "Super robots from around the world gather",
+          "in America to attack the Hyakki Empire."
+        ]
+      },
+      {
+        "id": "ANNO08_02",
+        "start": 6.1,
+        "end": 10.4,
+        "lines": [
+          "But Japan is accused of causing",
+          "the Insect Army to appear."
+        ]
+      },
+      {
+        "id": "ANNO08_03",
+        "start": 10.4,
+        "end": 14.6,
+        "lines": [
+          "The Getter Team finds itself",
+          "isolated from the Allied Forces."
+        ]
+      },
+      {
+        "id": "ANNO08_04",
+        "start": 14.96,
+        "end": 18.6,
+        "lines": [
+          "Even now, the Hyakki Empire will not let up its attacks!"
+        ]
+      },
+      {
+        "id": "ANNO08_05",
+        "start": 18.82,
+        "end": 24.0,
+        "lines": [
+          "Can the Allied Forces win in such a desperate situation?"
+        ]
+      },
+      {
+        "id": "ANNO08_06",
+        "start": 24.68,
+        "end": 26.7,
+        "lines": [
+          "Next time on Getter Robo Daikessen!"
+        ]
+      },
+      {
+        "id": "ANNO08_07",
+        "start": 26.7,
+        "end": 28.7,
+        "lines": [
+          "\"Texas, the Large Mobile Battleship\""
+        ]
+      },
+      {
+        "id": "ANNO08_08",
+        "start": 28.7,
+        "end": 30.6,
+        "lines": [
+          "Change Getter!"
+        ]
+      }
+    ],
+    "ANNO09": [
+      {
+        "id": "ANNO09_01",
+        "start": 0,
+        "end": 4.8,
+        "lines": [
+          "The Allied Forces head for the stratosphere",
+          "to trace the mysterious laser attacks."
+        ]
+      },
+      {
+        "id": "ANNO09_02",
+        "start": 4.8,
+        "end": 10.0,
+        "lines": [
+          "But the mysterious Insect Army appears once again!"
+        ]
+      },
+      {
+        "id": "ANNO09_03",
+        "start": 10.38,
+        "end": 13.5,
+        "lines": [
+          "The super robots face certain",
+          "death under a combined attack"
+        ]
+      },
+      {
+        "id": "ANNO09_04",
+        "start": 13.5,
+        "end": 17.3,
+        "lines": [
+          "from the enemy and a laser satellite."
+        ]
+      },
+      {
+        "id": "ANNO09_05",
+        "start": 17.6,
+        "end": 22.05,
+        "lines": [
+          "At last, the most powerful Getter Robo reveals itself!"
+        ]
+      },
+      {
+        "id": "ANNO09_06",
+        "start": 22.54,
+        "end": 24.8,
+        "lines": [
+          "Next time on Getter Robo Daikessen!"
+        ]
+      },
+      {
+        "id": "ANNO09_07",
+        "start": 24.8,
+        "end": 26.65,
+        "lines": [
+          "\"Shin Getter Robo\""
+        ]
+      },
+      {
+        "id": "ANNO09_08",
+        "start": 26.65,
+        "end": 28.6,
+        "lines": [
+          "Change Shin Getter!"
+        ]
+      }
+    ],
+    "ANNO10": [
+      {
+        "id": "ANNO10_01",
+        "start": 0,
+        "end": 3.75,
+        "lines": [
+          "The Getter Team has gained a",
+          "new power: Shin Getter Robo."
+        ]
+      },
+      {
+        "id": "ANNO10_02",
+        "start": 3.75,
+        "end": 7.35,
+        "lines": [
+          "Its tremendous strength makes",
+          "them certain of victory, but..."
+        ]
+      },
+      {
+        "id": "ANNO10_03",
+        "start": 7.35,
+        "end": 10.95,
+        "lines": [
+          "the Hyakki Empire never lets up its attacks!"
+        ]
+      },
+      {
+        "id": "ANNO10_04",
+        "start": 11.78,
+        "end": 16.95,
+        "lines": [
+          "What awaits the Allied Forces at",
+          "a mysterious weapons factory?"
+        ]
+      },
+      {
+        "id": "ANNO10_05",
+        "start": 17.58,
+        "end": 19.9,
+        "lines": [
+          "Next time on Getter Robo Daikessen!"
+        ]
+      },
+      {
+        "id": "ANNO10_06",
+        "start": 19.9,
+        "end": 21.9,
+        "lines": [
+          "\"The Terrifying Germ Missiles\""
+        ]
+      },
+      {
+        "id": "ANNO10_07",
+        "start": 21.9,
+        "end": 23.7,
+        "lines": [
+          "Change Getter!"
+        ]
+      }
+    ],
+    "ANNO11": [
+      {
+        "id": "ANNO11_01",
+        "start": 0,
+        "end": 3.9,
+        "lines": [
+          "At last, the Hyakki Empire launches its final attack!"
+        ]
+      },
+      {
+        "id": "ANNO11_02",
+        "start": 4.38,
+        "end": 9.6,
+        "lines": [
+          "Emperor Burai rides Uzahra, the mightiest",
+          "Hyakki Beast, into the decisive battle."
+        ]
+      },
+      {
+        "id": "ANNO11_03",
+        "start": 9.6,
+        "end": 12.6,
+        "lines": [
+          "The Allied Forces and the Getter Team rise to meet him."
+        ]
+      },
+      {
+        "id": "ANNO11_04",
+        "start": 12.6,
+        "end": 15.7,
+        "lines": [
+          "Who will emerge victorious?"
+        ]
+      },
+      {
+        "id": "ANNO11_05",
+        "start": 16.3,
+        "end": 18.35,
+        "lines": [
+          "Next time on Getter Robo Daikessen!"
+        ]
+      },
+      {
+        "id": "ANNO11_06",
+        "start": 18.35,
+        "end": 20.1,
+        "lines": [
+          "\"The Last Day of the Hyakki Empire\""
+        ]
+      },
+      {
+        "id": "ANNO11_07",
+        "start": 20.1,
+        "end": 21.9,
+        "lines": [
+          "Change Getter!"
+        ]
+      }
+    ],
+    "ANNO12": [
+      {
+        "id": "ANNO12_01",
+        "start": 0,
+        "end": 2.9,
+        "lines": [
+          "A shift in Earth's axis radically alters the environment."
+        ]
+      },
+      {
+        "id": "ANNO12_02",
+        "start": 2.9,
+        "end": 4.75,
+        "lines": [
+          "Chaos engulfs the surface."
+        ]
+      },
+      {
+        "id": "ANNO12_03",
+        "start": 4.75,
+        "end": 10.6,
+        "lines": [
+          "Suddenly, the true enemy appears: Professor Lando!"
+        ]
+      },
+      {
+        "id": "ANNO12_04",
+        "start": 11.02,
+        "end": 16.95,
+        "lines": [
+          "Can the Getter Team defeat his",
+          "powerful army of Metal Beasts?"
+        ]
+      },
+      {
+        "id": "ANNO12_05",
+        "start": 17.5,
+        "end": 19.8,
+        "lines": [
+          "Next time on Getter Robo Daikessen!"
+        ]
+      },
+      {
+        "id": "ANNO12_06",
+        "start": 19.8,
+        "end": 22.2,
+        "lines": [
+          "\"Enter Professor Lando!\""
+        ]
+      },
+      {
+        "id": "ANNO12_07",
+        "start": 22.2,
+        "end": 23.7,
+        "lines": [
+          "Change Getter!"
+        ]
+      }
+    ],
+    "ANNO13": [
+      {
+        "id": "ANNO13_01",
+        "start": 0,
+        "end": 4.6,
+        "lines": [
+          "Professor Lando has transformed",
+          "Sho Tachibana's brother, Shinichi."
+        ]
+      },
+      {
+        "id": "ANNO13_02",
+        "start": 5.12,
+        "end": 8.35,
+        "lines": [
+          "Despite his suffering, Shinichi attacks."
+        ]
+      },
+      {
+        "id": "ANNO13_03",
+        "start": 8.35,
+        "end": 11.3,
+        "lines": [
+          "Sho is forced to make a final decision."
+        ]
+      },
+      {
+        "id": "ANNO13_04",
+        "start": 12,
+        "end": 14.1,
+        "lines": [
+          "Next time on Getter Robo Daikessen!"
+        ]
+      },
+      {
+        "id": "ANNO13_05",
+        "start": 14.1,
+        "end": 15.6,
+        "lines": [
+          "\"Brother and Sister\""
+        ]
+      },
+      {
+        "id": "ANNO13_06",
+        "start": 15.6,
+        "end": 17.4,
+        "lines": [
+          "Change Getter!"
+        ]
+      }
+    ],
+    "ANNO14": [
+      {
+        "id": "ANNO14_01",
+        "start": 0,
+        "end": 4.7,
+        "lines": [
+          "The team heads to Saotome Institute",
+          "to have the Getter Robos serviced."
+        ]
+      },
+      {
+        "id": "ANNO14_02",
+        "start": 4.96,
+        "end": 10.8,
+        "lines": [
+          "But on the way, the mysterious",
+          "Insect Army appears once again!"
+        ]
+      },
+      {
+        "id": "ANNO14_03",
+        "start": 11.36,
+        "end": 15.3,
+        "lines": [
+          "Only one unit remains to fight: Black Getter!"
+        ]
+      },
+      {
+        "id": "ANNO14_04",
+        "start": 15.3,
+        "end": 20.45,
+        "lines": [
+          "Can the Getter Team escape this crisis?"
+        ]
+      },
+      {
+        "id": "ANNO14_05",
+        "start": 20.8,
+        "end": 23.0,
+        "lines": [
+          "Next time on Getter Robo Daikessen!"
+        ]
+      },
+      {
+        "id": "ANNO14_06",
+        "start": 23.0,
+        "end": 24.3,
+        "lines": [
+          "\"The Black Getter\""
+        ]
+      },
+      {
+        "id": "ANNO14_07",
+        "start": 24.3,
+        "end": 26.2,
+        "lines": [
+          "Getter Beam!"
+        ]
+      }
+    ],
+    "ANNO15": [
+      {
+        "id": "ANNO15_01",
+        "start": 0,
+        "end": 5.1,
+        "lines": [
+          "A huge black thundercloud suddenly",
+          "forms above a German city."
+        ]
+      },
+      {
+        "id": "ANNO15_02",
+        "start": 5.44,
+        "end": 9.5,
+        "lines": [
+          "The German government sends a",
+          "special team to investigate, but..."
+        ]
+      },
+      {
+        "id": "ANNO15_03",
+        "start": 9.5,
+        "end": 13.6,
+        "lines": [
+          "all contact with the team suddenly vanishes."
+        ]
+      },
+      {
+        "id": "ANNO15_04",
+        "start": 14.04,
+        "end": 15.85,
+        "lines": [
+          "The Getter Team races to the rescue."
+        ]
+      },
+      {
+        "id": "ANNO15_05",
+        "start": 15.85,
+        "end": 18.6,
+        "lines": [
+          "What will Ryoma and the others find there?"
+        ]
+      },
+      {
+        "id": "ANNO15_06",
+        "start": 19.02,
+        "end": 21.1,
+        "lines": [
+          "Next time on Getter Robo Daikessen!"
+        ]
+      },
+      {
+        "id": "ANNO15_07",
+        "start": 21.1,
+        "end": 23.1,
+        "lines": [
+          "\"The Terrifying Giant Tornado\""
+        ]
+      },
+      {
+        "id": "ANNO15_08",
+        "start": 23.1,
+        "end": 25.0,
+        "lines": [
+          "Change Getter!"
+        ]
+      }
+    ],
+    "ANNO16": [
+      {
+        "id": "ANNO16_01",
+        "start": 0,
+        "end": 3.65,
+        "lines": [
+          "Professor Lando has transformed Emperor Gore."
+        ]
+      },
+      {
+        "id": "ANNO16_02",
+        "start": 3.8,
+        "end": 8.05,
+        "lines": [
+          "Now Gore invades Russia, targeting",
+          "a nuclear missile launch base!"
+        ]
+      },
+      {
+        "id": "ANNO16_03",
+        "start": 8.86,
+        "end": 12.35,
+        "lines": [
+          "The Russian army suffers devastating",
+          "losses and is driven back."
+        ]
+      },
+      {
+        "id": "ANNO16_04",
+        "start": 12.35,
+        "end": 15.9,
+        "lines": [
+          "Can the Allied Forces defend Volga"
+        ]
+      },
+      {
+        "id": "ANNO16_05",
+        "start": 15.9,
+        "end": 19.0,
+        "lines": [
+          "until its Super Weapon Mode can be activated?"
+        ]
+      },
+      {
+        "id": "ANNO16_06",
+        "start": 19.56,
+        "end": 21.6,
+        "lines": [
+          "Next time on Getter Robo Daikessen!"
+        ]
+      },
+      {
+        "id": "ANNO16_07",
+        "start": 21.6,
+        "end": 23.1,
+        "lines": [
+          "\"Super Weapon Volga\""
+        ]
+      },
+      {
+        "id": "ANNO16_08",
+        "start": 23.1,
+        "end": 24.9,
+        "lines": [
+          "Change Getter!"
+        ]
+      }
+    ],
+    "ANNO17": [
+      {
+        "id": "ANNO17_01",
+        "start": 0,
+        "end": 4.85,
+        "lines": [
+          "A vast Metal Beast army",
+          "appears in a flooded British city!"
+        ]
+      },
+      {
+        "id": "ANNO17_02",
+        "start": 5.44,
+        "end": 9.8,
+        "lines": [
+          "Answering a call for help, the Allied",
+          "Forces and the Getter Team arrive."
+        ]
+      },
+      {
+        "id": "ANNO17_03",
+        "start": 9.8,
+        "end": 13.7,
+        "lines": [
+          "Emperor Burai stands in their",
+          "way, consumed by vengeance!"
+        ]
+      },
+      {
+        "id": "ANNO17_04",
+        "start": 14.34,
+        "end": 16.6,
+        "lines": [
+          "Next time on Getter Robo Daikessen!"
+        ]
+      },
+      {
+        "id": "ANNO17_05",
+        "start": 16.6,
+        "end": 18.1,
+        "lines": [
+          "\"The Revived Emperor\""
+        ]
+      },
+      {
+        "id": "ANNO17_06",
+        "start": 18.1,
+        "end": 19.7,
+        "lines": [
+          "Change Getter!"
+        ]
+      }
+    ],
+    "ANNO18": [
+      {
+        "id": "ANNO18_01",
+        "start": 0,
+        "end": 3.4,
+        "lines": [
+          "Lando's massive carrier, Dragon Turtle,"
+        ]
+      },
+      {
+        "id": "ANNO18_02",
+        "start": 3.4,
+        "end": 6.75,
+        "lines": [
+          "begins its advance on Alaska Base!"
+        ]
+      },
+      {
+        "id": "ANNO18_03",
+        "start": 7.22,
+        "end": 11.8,
+        "lines": [
+          "The Allied Forces and the Getter",
+          "Team risk their lives to stop it."
+        ]
+      },
+      {
+        "id": "ANNO18_04",
+        "start": 12,
+        "end": 17.35,
+        "lines": [
+          "The greatest battle on the",
+          "Alaskan front is about to begin!"
+        ]
+      },
+      {
+        "id": "ANNO18_05",
+        "start": 17.9,
+        "end": 20.15,
+        "lines": [
+          "Next time on Getter Robo Daikessen!"
+        ]
+      },
+      {
+        "id": "ANNO18_06",
+        "start": 20.15,
+        "end": 22.4,
+        "lines": [
+          "\"Texas vs. Dragon Turtle\""
+        ]
+      },
+      {
+        "id": "ANNO18_07",
+        "start": 22.4,
+        "end": 24.4,
+        "lines": [
+          "Change Getter!"
+        ]
+      }
+    ],
+    "ANNO19": [
+      {
+        "id": "ANNO19_01",
+        "start": 0,
+        "end": 3.7,
+        "lines": [
+          "After a crushing defeat in Alaska,",
+          "Lando's army activates Vega Zone"
+        ]
+      },
+      {
+        "id": "ANNO19_02",
+        "start": 3.7,
+        "end": 7.9,
+        "lines": [
+          "to challenge the Allied Forces to a final showdown!"
+        ]
+      },
+      {
+        "id": "ANNO19_03",
+        "start": 8.08,
+        "end": 11.5,
+        "lines": [
+          "The Allied Forces send their",
+          "entire army to the Arctic Circle"
+        ]
+      },
+      {
+        "id": "ANNO19_04",
+        "start": 11.5,
+        "end": 15.0,
+        "lines": [
+          "to bring this war to an end."
+        ]
+      },
+      {
+        "id": "ANNO19_05",
+        "start": 15.48,
+        "end": 18.0,
+        "lines": [
+          "What are Minus Getter Rays?"
+        ]
+      },
+      {
+        "id": "ANNO19_06",
+        "start": 18.0,
+        "end": 20.75,
+        "lines": [
+          "And what is Lando really after?"
+        ]
+      },
+      {
+        "id": "ANNO19_07",
+        "start": 21.28,
+        "end": 25.6,
+        "lines": [
+          "Now the final battle for the future of humanity begins!"
+        ]
+      },
+      {
+        "id": "ANNO19_08",
+        "start": 25.98,
+        "end": 28.25,
+        "lines": [
+          "Next time on Getter Robo Daikessen!"
+        ]
+      },
+      {
+        "id": "ANNO19_09",
+        "start": 28.25,
+        "end": 30.6,
+        "lines": [
+          "\"Final Battle at Vega Zone\""
+        ]
+      },
+      {
+        "id": "ANNO19_10",
+        "start": 30.6,
+        "end": 32.6,
+        "lines": [
+          "Change Getter!"
+        ]
+      }
+    ],
+    "ANNO20": [
+      {
+        "id": "ANNO20_01",
+        "start": 0,
+        "end": 3.25,
+        "lines": [
+          "A spatial distortion suddenly appears on the Moon!"
+        ]
+      },
+      {
+        "id": "ANNO20_02",
+        "start": 3.25,
+        "end": 5.35,
+        "lines": [
+          "To uncover its true nature,"
+        ]
+      },
+      {
+        "id": "ANNO20_03",
+        "start": 5.35,
+        "end": 10.35,
+        "lines": [
+          "the Getter Team finally takes",
+          "to space aboard Getter Emperor!"
+        ]
+      },
+      {
+        "id": "ANNO20_04",
+        "start": 10.66,
+        "end": 14.3,
+        "lines": [
+          "A formidable foe blocks their way: the Insect Army!"
+        ]
+      },
+      {
+        "id": "ANNO20_05",
+        "start": 14.5,
+        "end": 17.6,
+        "lines": [
+          "Getter Robo G has gone berserk and formed a cocoon."
+        ]
+      },
+      {
+        "id": "ANNO20_06",
+        "start": 17.6,
+        "end": 19.75,
+        "lines": [
+          "What will become of it?"
+        ]
+      },
+      {
+        "id": "ANNO20_07",
+        "start": 19.88,
+        "end": 22.15,
+        "lines": [
+          "What is the Insect Army?"
+        ]
+      },
+      {
+        "id": "ANNO20_08",
+        "start": 22.64,
+        "end": 24.7,
+        "lines": [
+          "Next time on Getter Robo Daikessen!"
+        ]
+      },
+      {
+        "id": "ANNO20_09",
+        "start": 24.7,
+        "end": 26.0,
+        "lines": [
+          "\"Into Space\""
+        ]
+      },
+      {
+        "id": "ANNO20_10",
+        "start": 26.0,
+        "end": 28.65,
+        "lines": [
+          "Shin Shine Spark!"
+        ]
+      }
+    ],
+    "ANNO21": [
+      {
+        "id": "ANNO21_01",
+        "start": 0,
+        "end": 3.75,
+        "lines": [
+          "An unexpected accident forces",
+          "the Getter Team to retreat."
+        ]
+      },
+      {
+        "id": "ANNO21_02",
+        "start": 3.75,
+        "end": 6.1,
+        "lines": [
+          "They somehow reach the Moon, but..."
+        ]
+      },
+      {
+        "id": "ANNO21_03",
+        "start": 6.1,
+        "end": 11.1,
+        "lines": [
+          "countless members of the Insect",
+          "Army cover the lunar surface!"
+        ]
+      },
+      {
+        "id": "ANNO21_04",
+        "start": 11.64,
+        "end": 13.1,
+        "lines": [
+          "The situation is desperate."
+        ]
+      },
+      {
+        "id": "ANNO21_05",
+        "start": 13.1,
+        "end": 15.9,
+        "lines": [
+          "Facing such an overwhelming difference in strength,"
+        ]
+      },
+      {
+        "id": "ANNO21_06",
+        "start": 15.9,
+        "end": 18.65,
+        "lines": [
+          "can the Getter Team win?"
+        ]
+      },
+      {
+        "id": "ANNO21_07",
+        "start": 18.65,
+        "end": 21.8,
+        "lines": [
+          "What fate awaits humanity and the Earth?"
+        ]
+      },
+      {
+        "id": "ANNO21_08",
+        "start": 22.32,
+        "end": 25.2,
+        "lines": [
+          "Next time, the final episode of Getter Robo Daikessen!"
+        ]
+      },
+      {
+        "id": "ANNO21_09",
+        "start": 25.2,
+        "end": 26.7,
+        "lines": [
+          "\"The Great Battle!\""
+        ]
+      },
+      {
+        "id": "ANNO21_10",
+        "start": 26.7,
+        "end": 28.45,
+        "lines": [
+          "Change Getter-1!"
+        ]
+      },
+      {
+        "id": "ANNO21_11",
+        "start": 28.45,
+        "end": 30.2,
+        "lines": [
+          "Switch on!"
+        ]
+      }
+    ]
+  }
+}

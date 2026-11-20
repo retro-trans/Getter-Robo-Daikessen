@@ -1,0 +1,1052 @@
+[
+ {
+  "id": "exe_80011E20",
+  "kind": "dialogue",
+  "max_bytes": null,
+  "max_px": null,
+  "en": ""
+ },
+ {
+  "id": "exe_80011EF0",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 48,
+  "en": ""
+ },
+ {
+  "id": "exe_80011F30",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 120,
+  "en": ""
+ },
+ {
+  "id": "exe_80011F48",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 120,
+  "en": ""
+ },
+ {
+  "id": "exe_80011F60",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 48,
+  "en": ""
+ },
+ {
+  "id": "exe_80011F6C",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 96,
+  "en": ""
+ },
+ {
+  "id": "exe_80011F80",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 157,
+  "en": ""
+ },
+ {
+  "id": "exe_80011F9C",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 60,
+  "en": ""
+ },
+ {
+  "id": "exe_80011FA8",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 72,
+  "en": ""
+ },
+ {
+  "id": "exe_80011FB8",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 84,
+  "en": ""
+ },
+ {
+  "id": "exe_80011FC8",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 72,
+  "en": ""
+ },
+ {
+  "id": "exe_80011FD8",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 168,
+  "en": ""
+ },
+ {
+  "id": "exe_80011FF8",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 96,
+  "en": ""
+ },
+ {
+  "id": "exe_8001200C",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 108,
+  "en": ""
+ },
+ {
+  "id": "exe_80012020",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 84,
+  "en": ""
+ },
+ {
+  "id": "exe_80012030",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 108,
+  "en": ""
+ },
+ {
+  "id": "exe_80012044",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 120,
+  "en": ""
+ },
+ {
+  "id": "exe_8001205C",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 108,
+  "en": ""
+ },
+ {
+  "id": "exe_80012070",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 120,
+  "en": ""
+ },
+ {
+  "id": "exe_80012088",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 108,
+  "en": ""
+ },
+ {
+  "id": "exe_8001209C",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 144,
+  "en": ""
+ },
+ {
+  "id": "exe_800120B8",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 96,
+  "en": ""
+ },
+ {
+  "id": "exe_800126F4",
+  "kind": "weapon name",
+  "max_bytes": null,
+  "max_px": 72,
+  "en": ""
+ },
+ {
+  "id": "exe_80012728",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 120,
+  "en": ""
+ },
+ {
+  "id": "exe_8001275C",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 72,
+  "en": ""
+ },
+ {
+  "id": "exe_80012790",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 96,
+  "en": ""
+ },
+ {
+  "id": "exe_800127C4",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 108,
+  "en": ""
+ },
+ {
+  "id": "exe_800127F8",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 120,
+  "en": ""
+ },
+ {
+  "id": "exe_8001282C",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 108,
+  "en": ""
+ },
+ {
+  "id": "exe_80012860",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 84,
+  "en": ""
+ },
+ {
+  "id": "exe_80012894",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 72,
+  "en": ""
+ },
+ {
+  "id": "exe_800128C8",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 84,
+  "en": ""
+ },
+ {
+  "id": "exe_800128FC",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 84,
+  "en": ""
+ },
+ {
+  "id": "exe_80012930",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 84,
+  "en": ""
+ },
+ {
+  "id": "exe_80012964",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 96,
+  "en": ""
+ },
+ {
+  "id": "exe_80012998",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 108,
+  "en": ""
+ },
+ {
+  "id": "exe_800129CC",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 108,
+  "en": ""
+ },
+ {
+  "id": "exe_80012A00",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 96,
+  "en": ""
+ },
+ {
+  "id": "exe_80012A34",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 72,
+  "en": ""
+ },
+ {
+  "id": "exe_80012A68",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 108,
+  "en": ""
+ },
+ {
+  "id": "exe_80012A9C",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 120,
+  "en": ""
+ },
+ {
+  "id": "exe_80012AD0",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 72,
+  "en": ""
+ },
+ {
+  "id": "exe_80012B04",
+  "kind": "weapon name",
+  "max_bytes": null,
+  "max_px": 84,
+  "en": ""
+ },
+ {
+  "id": "exe_80012B38",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 132,
+  "en": ""
+ },
+ {
+  "id": "exe_80012B6C",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 156,
+  "en": ""
+ },
+ {
+  "id": "exe_80012BA0",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 48,
+  "en": ""
+ },
+ {
+  "id": "exe_80012BD4",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 48,
+  "en": ""
+ },
+ {
+  "id": "exe_80012C08",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 72,
+  "en": ""
+ },
+ {
+  "id": "exe_80012C3C",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 96,
+  "en": ""
+ },
+ {
+  "id": "exe_80012C70",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 84,
+  "en": ""
+ },
+ {
+  "id": "exe_80012CA4",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 156,
+  "en": ""
+ },
+ {
+  "id": "exe_80012CD8",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 144,
+  "en": ""
+ },
+ {
+  "id": "exe_80012D0C",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 84,
+  "en": ""
+ },
+ {
+  "id": "exe_80012D40",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 96,
+  "en": ""
+ },
+ {
+  "id": "exe_80012D74",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 72,
+  "en": ""
+ },
+ {
+  "id": "exe_80012DA8",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 96,
+  "en": ""
+ },
+ {
+  "id": "exe_80012DDC",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 96,
+  "en": ""
+ },
+ {
+  "id": "exe_80012E10",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 96,
+  "en": ""
+ },
+ {
+  "id": "exe_80012E44",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 96,
+  "en": ""
+ },
+ {
+  "id": "exe_80012E78",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 108,
+  "en": ""
+ },
+ {
+  "id": "exe_80012EAC",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 96,
+  "en": ""
+ },
+ {
+  "id": "exe_80012EE0",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 108,
+  "en": ""
+ },
+ {
+  "id": "exe_80012F14",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 48,
+  "en": ""
+ },
+ {
+  "id": "exe_80012F48",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 48,
+  "en": ""
+ },
+ {
+  "id": "exe_80012F7C",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 48,
+  "en": ""
+ },
+ {
+  "id": "exe_80012FB0",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 96,
+  "en": ""
+ },
+ {
+  "id": "exe_80012FE4",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 84,
+  "en": ""
+ },
+ {
+  "id": "exe_80013018",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 144,
+  "en": ""
+ },
+ {
+  "id": "exe_8001304C",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 120,
+  "en": ""
+ },
+ {
+  "id": "exe_80013080",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 96,
+  "en": ""
+ },
+ {
+  "id": "exe_800130B4",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 84,
+  "en": ""
+ },
+ {
+  "id": "exe_800130E8",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 144,
+  "en": ""
+ },
+ {
+  "id": "exe_8001311C",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 120,
+  "en": ""
+ },
+ {
+  "id": "exe_80013150",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 96,
+  "en": ""
+ },
+ {
+  "id": "exe_80013184",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 108,
+  "en": ""
+ },
+ {
+  "id": "exe_800131B8",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 96,
+  "en": ""
+ },
+ {
+  "id": "exe_800131EC",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 108,
+  "en": ""
+ },
+ {
+  "id": "exe_80013220",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 96,
+  "en": ""
+ },
+ {
+  "id": "exe_80013254",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 108,
+  "en": ""
+ },
+ {
+  "id": "exe_80013288",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 84,
+  "en": ""
+ },
+ {
+  "id": "exe_800132BC",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 144,
+  "en": ""
+ },
+ {
+  "id": "exe_800132F0",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 60,
+  "en": ""
+ },
+ {
+  "id": "exe_80013324",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 60,
+  "en": ""
+ },
+ {
+  "id": "exe_80013358",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 72,
+  "en": ""
+ },
+ {
+  "id": "exe_8001338C",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 120,
+  "en": ""
+ },
+ {
+  "id": "exe_800133C0",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 96,
+  "en": ""
+ },
+ {
+  "id": "exe_800133F4",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 96,
+  "en": ""
+ },
+ {
+  "id": "exe_80013428",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 120,
+  "en": ""
+ },
+ {
+  "id": "exe_8001345C",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 120,
+  "en": ""
+ },
+ {
+  "id": "exe_80013490",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 96,
+  "en": ""
+ },
+ {
+  "id": "exe_800134C4",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 96,
+  "en": ""
+ },
+ {
+  "id": "exe_800134F8",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 120,
+  "en": ""
+ },
+ {
+  "id": "exe_8001352C",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 96,
+  "en": ""
+ },
+ {
+  "id": "exe_80013560",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 84,
+  "en": ""
+ },
+ {
+  "id": "exe_80013594",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 108,
+  "en": ""
+ },
+ {
+  "id": "exe_800135C8",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 96,
+  "en": ""
+ },
+ {
+  "id": "exe_800135FC",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 108,
+  "en": ""
+ },
+ {
+  "id": "exe_80013630",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 96,
+  "en": ""
+ },
+ {
+  "id": "exe_80013664",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 120,
+  "en": ""
+ },
+ {
+  "id": "exe_80013698",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 96,
+  "en": ""
+ },
+ {
+  "id": "exe_800136CC",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 84,
+  "en": ""
+ },
+ {
+  "id": "exe_80013700",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 72,
+  "en": ""
+ },
+ {
+  "id": "exe_80013734",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 72,
+  "en": ""
+ },
+ {
+  "id": "exe_80013768",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 72,
+  "en": ""
+ },
+ {
+  "id": "exe_8001379C",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 36,
+  "en": ""
+ },
+ {
+  "id": "exe_800137D0",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 36,
+  "en": ""
+ },
+ {
+  "id": "exe_80013804",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 60,
+  "en": ""
+ },
+ {
+  "id": "exe_80013838",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 60,
+  "en": ""
+ },
+ {
+  "id": "exe_8001386C",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 36,
+  "en": ""
+ },
+ {
+  "id": "exe_800138A0",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 36,
+  "en": ""
+ },
+ {
+  "id": "exe_800138D4",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 36,
+  "en": ""
+ },
+ {
+  "id": "exe_80013908",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 36,
+  "en": ""
+ },
+ {
+  "id": "exe_8001393C",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 84,
+  "en": ""
+ },
+ {
+  "id": "exe_80013970",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 24,
+  "en": ""
+ },
+ {
+  "id": "exe_800139A4",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 36,
+  "en": ""
+ },
+ {
+  "id": "exe_800139D8",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 60,
+  "en": ""
+ },
+ {
+  "id": "exe_80013A0C",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 48,
+  "en": ""
+ },
+ {
+  "id": "exe_80013A40",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 108,
+  "en": ""
+ },
+ {
+  "id": "exe_80013A74",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 120,
+  "en": ""
+ },
+ {
+  "id": "exe_80013AA8",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 60,
+  "en": ""
+ },
+ {
+  "id": "exe_80013ADC",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 48,
+  "en": ""
+ },
+ {
+  "id": "exe_80013B10",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 84,
+  "en": ""
+ },
+ {
+  "id": "exe_80013B44",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 84,
+  "en": ""
+ },
+ {
+  "id": "exe_80013B78",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 132,
+  "en": ""
+ },
+ {
+  "id": "exe_80013BAC",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 120,
+  "en": ""
+ },
+ {
+  "id": "exe_80013BE0",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 156,
+  "en": ""
+ },
+ {
+  "id": "exe_80013C14",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 108,
+  "en": ""
+ },
+ {
+  "id": "exe_80013C48",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 72,
+  "en": ""
+ },
+ {
+  "id": "exe_80013C7C",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 84,
+  "en": ""
+ },
+ {
+  "id": "exe_80013CB0",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 48,
+  "en": ""
+ },
+ {
+  "id": "exe_80013CE4",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 84,
+  "en": ""
+ },
+ {
+  "id": "exe_80013D18",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 108,
+  "en": ""
+ },
+ {
+  "id": "exe_80013D4C",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 84,
+  "en": ""
+ },
+ {
+  "id": "exe_80013D80",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 120,
+  "en": ""
+ },
+ {
+  "id": "exe_80013DB4",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 108,
+  "en": ""
+ },
+ {
+  "id": "exe_80013DE8",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 72,
+  "en": ""
+ },
+ {
+  "id": "exe_80013E1C",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 72,
+  "en": ""
+ },
+ {
+  "id": "exe_80013E50",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 72,
+  "en": ""
+ },
+ {
+  "id": "exe_80013E84",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 72,
+  "en": ""
+ },
+ {
+  "id": "exe_80013EB8",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 84,
+  "en": ""
+ },
+ {
+  "id": "exe_80013EEC",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 120,
+  "en": ""
+ },
+ {
+  "id": "exe_80013F20",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 128,
+  "en": ""
+ },
+ {
+  "id": "exe_80013F54",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 128,
+  "en": ""
+ },
+ {
+  "id": "exe_80013F88",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 48,
+  "en": ""
+ },
+ {
+  "id": "exe_80013FBC",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 60,
+  "en": ""
+ },
+ {
+  "id": "exe_80013FF0",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 72,
+  "en": ""
+ },
+ {
+  "id": "exe_80014024",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 48,
+  "en": ""
+ },
+ {
+  "id": "exe_80014058",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 60,
+  "en": ""
+ },
+ {
+  "id": "exe_8001408C",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 144,
+  "en": ""
+ },
+ {
+  "id": "exe_800140C0",
+  "kind": "weapon name",
+  "max_bytes": 31,
+  "max_px": 96,
+  "en": ""
+ }
+]

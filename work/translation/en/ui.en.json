@@ -1,0 +1,9038 @@
+[
+ {
+  "id": "exe_80011E20",
+  "file": "exe",
+  "addr": "80011E20",
+  "room": 44,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Good heavens... The world is finished."
+ },
+ {
+  "id": "exe_80011EF0",
+  "file": "exe",
+  "addr": "80011EF0",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Battle Start"
+ },
+ {
+  "id": "exe_80011F30",
+  "file": "exe",
+  "addr": "80011F30",
+  "room": 24,
+  "refs": 2,
+  "kind": "ui",
+  "en": "First Contact"
+ },
+ {
+  "id": "exe_80011F48",
+  "file": "exe",
+  "addr": "80011F48",
+  "room": 24,
+  "refs": 2,
+  "kind": "ui",
+  "en": "Save the Institutes! (Part 2)"
+ },
+ {
+  "id": "exe_80011F60",
+  "file": "exe",
+  "addr": "80011F60",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "The Great Battle!"
+ },
+ {
+  "id": "exe_80011F6C",
+  "file": "exe",
+  "addr": "80011F6C",
+  "room": 20,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Final Battle at Vega Zone"
+ },
+ {
+  "id": "exe_80011F80",
+  "file": "exe",
+  "addr": "80011F80",
+  "room": 28,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Texas vs. Dragon Turtle"
+ },
+ {
+  "id": "exe_80011F9C",
+  "file": "exe",
+  "addr": "80011F9C",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "The Revived Emperor"
+ },
+ {
+  "id": "exe_80011FA8",
+  "file": "exe",
+  "addr": "80011FA8",
+  "room": 16,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Super Weapon Volga"
+ },
+ {
+  "id": "exe_80011FB8",
+  "file": "exe",
+  "addr": "80011FB8",
+  "room": 16,
+  "refs": 1,
+  "kind": "ui",
+  "en": "The Terrifying Giant Tornado"
+ },
+ {
+  "id": "exe_80011FC8",
+  "file": "exe",
+  "addr": "80011FC8",
+  "room": 16,
+  "refs": 1,
+  "kind": "ui",
+  "en": "The Black Getter"
+ },
+ {
+  "id": "exe_80011FD8",
+  "file": "exe",
+  "addr": "80011FD8",
+  "room": 32,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Enter Professor Lando!"
+ },
+ {
+  "id": "exe_80011FF8",
+  "file": "exe",
+  "addr": "80011FF8",
+  "room": 20,
+  "refs": 1,
+  "kind": "ui",
+  "en": "The Last Day of the Hyakki Empire"
+ },
+ {
+  "id": "exe_8001200C",
+  "file": "exe",
+  "addr": "8001200C",
+  "room": 20,
+  "refs": 1,
+  "kind": "ui",
+  "en": "The Terrifying Germ Missiles"
+ },
+ {
+  "id": "exe_80012020",
+  "file": "exe",
+  "addr": "80012020",
+  "room": 16,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Shin Getter Robo"
+ },
+ {
+  "id": "exe_80012030",
+  "file": "exe",
+  "addr": "80012030",
+  "room": 20,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Texas, the Large Mobile Battleship"
+ },
+ {
+  "id": "exe_80012044",
+  "file": "exe",
+  "addr": "80012044",
+  "room": 24,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Save the Institutes! (Part 1)"
+ },
+ {
+  "id": "exe_8001205C",
+  "file": "exe",
+  "addr": "8001205C",
+  "room": 20,
+  "refs": 1,
+  "kind": "ui",
+  "en": "New Power, New Enemy"
+ },
+ {
+  "id": "exe_80012070",
+  "file": "exe",
+  "addr": "80012070",
+  "room": 24,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Operation: Destroy Getter Robo"
+ },
+ {
+  "id": "exe_80012088",
+  "file": "exe",
+  "addr": "80012088",
+  "room": 20,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Getter vs. Getter"
+ },
+ {
+  "id": "exe_8001209C",
+  "file": "exe",
+  "addr": "8001209C",
+  "room": 28,
+  "refs": 1,
+  "kind": "ui",
+  "en": "The Time Has Come! We Are the Dinosaur Empire"
+ },
+ {
+  "id": "exe_800120B8",
+  "file": "exe",
+  "addr": "800120B8",
+  "room": 20,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Launch! Getter Robo"
+ },
+ {
+  "id": "exe_800126F4",
+  "file": "exe",
+  "addr": "800126F4",
+  "room": 32,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Small Missile"
+ },
+ {
+  "id": "exe_80012728",
+  "file": "exe",
+  "addr": "80012728",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Small Jaguar Missile"
+ },
+ {
+  "id": "exe_8001275C",
+  "file": "exe",
+  "addr": "8001275C",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Large Missile"
+ },
+ {
+  "id": "exe_80012790",
+  "file": "exe",
+  "addr": "80012790",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Getter Cutter"
+ },
+ {
+  "id": "exe_800127C4",
+  "file": "exe",
+  "addr": "800127C4",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Getter Tomahawk"
+ },
+ {
+  "id": "exe_800127F8",
+  "file": "exe",
+  "addr": "800127F8",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Tomahawk Boomerang"
+ },
+ {
+  "id": "exe_8001282C",
+  "file": "exe",
+  "addr": "8001282C",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Getter Machine Gun"
+ },
+ {
+  "id": "exe_80012860",
+  "file": "exe",
+  "addr": "80012860",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Getter Beam"
+ },
+ {
+  "id": "exe_80012894",
+  "file": "exe",
+  "addr": "80012894",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Drill Arm"
+ },
+ {
+  "id": "exe_800128C8",
+  "file": "exe",
+  "addr": "800128C8",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Getter Arm"
+ },
+ {
+  "id": "exe_800128FC",
+  "file": "exe",
+  "addr": "800128FC",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Jet Drill"
+ },
+ {
+  "id": "exe_80012930",
+  "file": "exe",
+  "addr": "80012930",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Drill Storm"
+ },
+ {
+  "id": "exe_80012964",
+  "file": "exe",
+  "addr": "80012964",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Getter Vision"
+ },
+ {
+  "id": "exe_80012998",
+  "file": "exe",
+  "addr": "80012998",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Getter Smash"
+ },
+ {
+  "id": "exe_800129CC",
+  "file": "exe",
+  "addr": "800129CC",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Getter Crush"
+ },
+ {
+  "id": "exe_80012A00",
+  "file": "exe",
+  "addr": "80012A00",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Getter Missile"
+ },
+ {
+  "id": "exe_80012A34",
+  "file": "exe",
+  "addr": "80012A34",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Daisetsuzan Oroshi"
+ },
+ {
+  "id": "exe_80012A68",
+  "file": "exe",
+  "addr": "80012A68",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Getter Tomahawk"
+ },
+ {
+  "id": "exe_80012A9C",
+  "file": "exe",
+  "addr": "80012A9C",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Tomahawk Boomerang"
+ },
+ {
+  "id": "exe_80012AD0",
+  "file": "exe",
+  "addr": "80012AD0",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Drill Arm"
+ },
+ {
+  "id": "exe_80012B04",
+  "file": "exe",
+  "addr": "80012B04",
+  "room": 32,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Jet Drill"
+ },
+ {
+  "id": "exe_80012B38",
+  "file": "exe",
+  "addr": "80012B38",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Getter Spin Knuckle"
+ },
+ {
+  "id": "exe_80012B6C",
+  "file": "exe",
+  "addr": "80012B6C",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Getter Jumping Press"
+ },
+ {
+  "id": "exe_80012BA0",
+  "file": "exe",
+  "addr": "80012BA0",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Vulcan"
+ },
+ {
+  "id": "exe_80012BD4",
+  "file": "exe",
+  "addr": "80012BD4",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Laser"
+ },
+ {
+  "id": "exe_80012C08",
+  "file": "exe",
+  "addr": "80012C08",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Large Missile"
+ },
+ {
+  "id": "exe_80012C3C",
+  "file": "exe",
+  "addr": "80012C3C",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Double Tomahawk"
+ },
+ {
+  "id": "exe_80012C70",
+  "file": "exe",
+  "addr": "80012C70",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Spin Cutter"
+ },
+ {
+  "id": "exe_80012CA4",
+  "file": "exe",
+  "addr": "80012CA4",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Double Tomahawk Boomerang"
+ },
+ {
+  "id": "exe_80012CD8",
+  "file": "exe",
+  "addr": "80012CD8",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Getter Beam Launcher"
+ },
+ {
+  "id": "exe_80012D0C",
+  "file": "exe",
+  "addr": "80012D0C",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Getter Beam"
+ },
+ {
+  "id": "exe_80012D40",
+  "file": "exe",
+  "addr": "80012D40",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Shine Spark"
+ },
+ {
+  "id": "exe_80012D74",
+  "file": "exe",
+  "addr": "80012D74",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Drill Arm"
+ },
+ {
+  "id": "exe_80012DA8",
+  "file": "exe",
+  "addr": "80012DA8",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Chain Attack"
+ },
+ {
+  "id": "exe_80012DDC",
+  "file": "exe",
+  "addr": "80012DDC",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Liger Missile"
+ },
+ {
+  "id": "exe_80012E10",
+  "file": "exe",
+  "addr": "80012E10",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Mach Special"
+ },
+ {
+  "id": "exe_80012E44",
+  "file": "exe",
+  "addr": "80012E44",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Burst Attack"
+ },
+ {
+  "id": "exe_80012E78",
+  "file": "exe",
+  "addr": "80012E78",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Strong Missile"
+ },
+ {
+  "id": "exe_80012EAC",
+  "file": "exe",
+  "addr": "80012EAC",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Finger Net"
+ },
+ {
+  "id": "exe_80012EE0",
+  "file": "exe",
+  "addr": "80012EE0",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Getter Cyclone"
+ },
+ {
+  "id": "exe_80012F14",
+  "file": "exe",
+  "addr": "80012F14",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Vulcan"
+ },
+ {
+  "id": "exe_80012F48",
+  "file": "exe",
+  "addr": "80012F48",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Vulcan"
+ },
+ {
+  "id": "exe_80012F7C",
+  "file": "exe",
+  "addr": "80012F7C",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Missile"
+ },
+ {
+  "id": "exe_80012FB0",
+  "file": "exe",
+  "addr": "80012FB0",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Knuckle Bomber"
+ },
+ {
+  "id": "exe_80012FE4",
+  "file": "exe",
+  "addr": "80012FE4",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Leg Blade"
+ },
+ {
+  "id": "exe_80013018",
+  "file": "exe",
+  "addr": "80013018",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Handy Missile Cannon"
+ },
+ {
+  "id": "exe_8001304C",
+  "file": "exe",
+  "addr": "8001304C",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Mag Force Thunder"
+ },
+ {
+  "id": "exe_80013080",
+  "file": "exe",
+  "addr": "80013080",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Knuckle Bomber"
+ },
+ {
+  "id": "exe_800130B4",
+  "file": "exe",
+  "addr": "800130B4",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Leg Blade"
+ },
+ {
+  "id": "exe_800130E8",
+  "file": "exe",
+  "addr": "800130E8",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Handy Missile Cannon"
+ },
+ {
+  "id": "exe_8001311C",
+  "file": "exe",
+  "addr": "8001311C",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Mag Force Thunder"
+ },
+ {
+  "id": "exe_80013150",
+  "file": "exe",
+  "addr": "80013150",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Sword Tomahawk"
+ },
+ {
+  "id": "exe_80013184",
+  "file": "exe",
+  "addr": "80013184",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "String Attack"
+ },
+ {
+  "id": "exe_800131B8",
+  "file": "exe",
+  "addr": "800131B8",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Breast Bomber"
+ },
+ {
+  "id": "exe_800131EC",
+  "file": "exe",
+  "addr": "800131EC",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Tornado Attack"
+ },
+ {
+  "id": "exe_80013220",
+  "file": "exe",
+  "addr": "80013220",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Harpoon Cannon"
+ },
+ {
+  "id": "exe_80013254",
+  "file": "exe",
+  "addr": "80013254",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Impact Cannon"
+ },
+ {
+  "id": "exe_80013288",
+  "file": "exe",
+  "addr": "80013288",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Breast Beam"
+ },
+ {
+  "id": "exe_800132BC",
+  "file": "exe",
+  "addr": "800132BC",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Spin Tornado Attack"
+ },
+ {
+  "id": "exe_800132F0",
+  "file": "exe",
+  "addr": "800132F0",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Straight Beam"
+ },
+ {
+  "id": "exe_80013324",
+  "file": "exe",
+  "addr": "80013324",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Spread Beam"
+ },
+ {
+  "id": "exe_80013358",
+  "file": "exe",
+  "addr": "80013358",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Guided Missile"
+ },
+ {
+  "id": "exe_8001338C",
+  "file": "exe",
+  "addr": "8001338C",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Shin Getter Tomahawk"
+ },
+ {
+  "id": "exe_800133C0",
+  "file": "exe",
+  "addr": "800133C0",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Split Beam"
+ },
+ {
+  "id": "exe_800133F4",
+  "file": "exe",
+  "addr": "800133F4",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Shin Getter Beam"
+ },
+ {
+  "id": "exe_80013428",
+  "file": "exe",
+  "addr": "80013428",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Stoner Sunshine"
+ },
+ {
+  "id": "exe_8001345C",
+  "file": "exe",
+  "addr": "8001345C",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Shin Getter Tomahawk"
+ },
+ {
+  "id": "exe_80013490",
+  "file": "exe",
+  "addr": "80013490",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Split Beam"
+ },
+ {
+  "id": "exe_800134C4",
+  "file": "exe",
+  "addr": "800134C4",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Shin Getter Beam"
+ },
+ {
+  "id": "exe_800134F8",
+  "file": "exe",
+  "addr": "800134F8",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Stoner Sunshine"
+ },
+ {
+  "id": "exe_8001352C",
+  "file": "exe",
+  "addr": "8001352C",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Shin Getter Drill"
+ },
+ {
+  "id": "exe_80013560",
+  "file": "exe",
+  "addr": "80013560",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Shin Scissor Arm"
+ },
+ {
+  "id": "exe_80013594",
+  "file": "exe",
+  "addr": "80013594",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Shin Drill Shaker"
+ },
+ {
+  "id": "exe_800135C8",
+  "file": "exe",
+  "addr": "800135C8",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Drill Hurricane"
+ },
+ {
+  "id": "exe_800135FC",
+  "file": "exe",
+  "addr": "800135FC",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Shin Getter Vision"
+ },
+ {
+  "id": "exe_80013630",
+  "file": "exe",
+  "addr": "80013630",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Shin Getter Blow"
+ },
+ {
+  "id": "exe_80013664",
+  "file": "exe",
+  "addr": "80013664",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Shin Getter Crush"
+ },
+ {
+  "id": "exe_80013698",
+  "file": "exe",
+  "addr": "80013698",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Missile Storm"
+ },
+ {
+  "id": "exe_800136CC",
+  "file": "exe",
+  "addr": "800136CC",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Shin Daisetsuzan Oroshi"
+ },
+ {
+  "id": "exe_80013700",
+  "file": "exe",
+  "addr": "80013700",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Small Vulcan"
+ },
+ {
+  "id": "exe_80013734",
+  "file": "exe",
+  "addr": "80013734",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Small Vulcan"
+ },
+ {
+  "id": "exe_80013768",
+  "file": "exe",
+  "addr": "80013768",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Small Missile"
+ },
+ {
+  "id": "exe_8001379C",
+  "file": "exe",
+  "addr": "8001379C",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Hizanto"
+ },
+ {
+  "id": "exe_800137D0",
+  "file": "exe",
+  "addr": "800137D0",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Flower Frenzy"
+ },
+ {
+  "id": "exe_80013804",
+  "file": "exe",
+  "addr": "80013804",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Twin Flower Frenzy"
+ },
+ {
+  "id": "exe_80013838",
+  "file": "exe",
+  "addr": "80013838",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Combined Windmill"
+ },
+ {
+  "id": "exe_8001386C",
+  "file": "exe",
+  "addr": "8001386C",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Demonslayer Ray"
+ },
+ {
+  "id": "exe_800138A0",
+  "file": "exe",
+  "addr": "800138A0",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Myriad Needles"
+ },
+ {
+  "id": "exe_800138D4",
+  "file": "exe",
+  "addr": "800138D4",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Gale Needles"
+ },
+ {
+  "id": "exe_80013908",
+  "file": "exe",
+  "addr": "80013908",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Serpent Spiral Ray"
+ },
+ {
+  "id": "exe_8001393C",
+  "file": "exe",
+  "addr": "8001393C",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Getter Shadow Clone"
+ },
+ {
+  "id": "exe_80013970",
+  "file": "exe",
+  "addr": "80013970",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Rush"
+ },
+ {
+  "id": "exe_800139A4",
+  "file": "exe",
+  "addr": "800139A4",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Rockbreaker Palm"
+ },
+ {
+  "id": "exe_800139D8",
+  "file": "exe",
+  "addr": "800139D8",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Great Blade Shuriken"
+ },
+ {
+  "id": "exe_80013A0C",
+  "file": "exe",
+  "addr": "80013A0C",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Shura Depth Charge"
+ },
+ {
+  "id": "exe_80013A40",
+  "file": "exe",
+  "addr": "80013A40",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Getter Tomahawk"
+ },
+ {
+  "id": "exe_80013A74",
+  "file": "exe",
+  "addr": "80013A74",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Drill Rock Buster"
+ },
+ {
+  "id": "exe_80013AA8",
+  "file": "exe",
+  "addr": "80013AA8",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Arm Gun"
+ },
+ {
+  "id": "exe_80013ADC",
+  "file": "exe",
+  "addr": "80013ADC",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Dark Frenzy"
+ },
+ {
+  "id": "exe_80013B10",
+  "file": "exe",
+  "addr": "80013B10",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Getter Beam"
+ },
+ {
+  "id": "exe_80013B44",
+  "file": "exe",
+  "addr": "80013B44",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Shin Drill Arm"
+ },
+ {
+  "id": "exe_80013B78",
+  "file": "exe",
+  "addr": "80013B78",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Shin Tomahawk Boomerang"
+ },
+ {
+  "id": "exe_80013BAC",
+  "file": "exe",
+  "addr": "80013BAC",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Shin Strong Missile"
+ },
+ {
+  "id": "exe_80013BE0",
+  "file": "exe",
+  "addr": "80013BE0",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Shin Getter Beam Launcher"
+ },
+ {
+  "id": "exe_80013C14",
+  "file": "exe",
+  "addr": "80013C14",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Shin Shine Spark"
+ },
+ {
+  "id": "exe_80013C48",
+  "file": "exe",
+  "addr": "80013C48",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Silent Vulcan"
+ },
+ {
+  "id": "exe_80013C7C",
+  "file": "exe",
+  "addr": "80013C7C",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Drill Attack"
+ },
+ {
+  "id": "exe_80013CB0",
+  "file": "exe",
+  "addr": "80013CB0",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Vulcan"
+ },
+ {
+  "id": "exe_80013CE4",
+  "file": "exe",
+  "addr": "80013CE4",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Hand Cutter"
+ },
+ {
+  "id": "exe_80013D18",
+  "file": "exe",
+  "addr": "80013D18",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Boomerang Wing"
+ },
+ {
+  "id": "exe_80013D4C",
+  "file": "exe",
+  "addr": "80013D4C",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "ST Blaster"
+ },
+ {
+  "id": "exe_80013D80",
+  "file": "exe",
+  "addr": "80013D80",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Blast Succession"
+ },
+ {
+  "id": "exe_80013DB4",
+  "file": "exe",
+  "addr": "80013DB4",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Strike Armed"
+ },
+ {
+  "id": "exe_80013DE8",
+  "file": "exe",
+  "addr": "80013DE8",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Spread Missile"
+ },
+ {
+  "id": "exe_80013E1C",
+  "file": "exe",
+  "addr": "80013E1C",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Super Weapon Cannon"
+ },
+ {
+  "id": "exe_80013E50",
+  "file": "exe",
+  "addr": "80013E50",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Heavy Press"
+ },
+ {
+  "id": "exe_80013E84",
+  "file": "exe",
+  "addr": "80013E84",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Triple Missile"
+ },
+ {
+  "id": "exe_80013EB8",
+  "file": "exe",
+  "addr": "80013EB8",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Double Cannon"
+ },
+ {
+  "id": "exe_80013EEC",
+  "file": "exe",
+  "addr": "80013EEC",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Super Heavy Press"
+ },
+ {
+  "id": "exe_80013F20",
+  "file": "exe",
+  "addr": "80013F20",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Stun Saber (Land)"
+ },
+ {
+  "id": "exe_80013F54",
+  "file": "exe",
+  "addr": "80013F54",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Stun Saber (Air)"
+ },
+ {
+  "id": "exe_80013F88",
+  "file": "exe",
+  "addr": "80013F88",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Homing Torpedo"
+ },
+ {
+  "id": "exe_80013FBC",
+  "file": "exe",
+  "addr": "80013FBC",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Submarine Support"
+ },
+ {
+  "id": "exe_80013FF0",
+  "file": "exe",
+  "addr": "80013FF0",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Heat Rod"
+ },
+ {
+  "id": "exe_80014024",
+  "file": "exe",
+  "addr": "80014024",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Spread Mines"
+ },
+ {
+  "id": "exe_80014058",
+  "file": "exe",
+  "addr": "80014058",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Large Rapid-Fire Gun"
+ },
+ {
+  "id": "exe_8001408C",
+  "file": "exe",
+  "addr": "8001408C",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Remote Combination"
+ },
+ {
+  "id": "exe_800140C0",
+  "file": "exe",
+  "addr": "800140C0",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Texas Blade"
+ },
+ {
+  "id": "exe_800140F4",
+  "file": "exe",
+  "addr": "800140F4",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Texas Rifle"
+ },
+ {
+  "id": "exe_80014128",
+  "file": "exe",
+  "addr": "80014128",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Texas Magnum 444"
+ },
+ {
+  "id": "exe_8001415C",
+  "file": "exe",
+  "addr": "8001415C",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Hat Machine Attack"
+ },
+ {
+  "id": "exe_80014190",
+  "file": "exe",
+  "addr": "80014190",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Salt Gun"
+ },
+ {
+  "id": "exe_800141C4",
+  "file": "exe",
+  "addr": "800141C4",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Over Boost"
+ },
+ {
+  "id": "exe_800141F8",
+  "file": "exe",
+  "addr": "800141F8",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Ground Laser"
+ },
+ {
+  "id": "exe_8001422C",
+  "file": "exe",
+  "addr": "8001422C",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Dover Cannon"
+ },
+ {
+  "id": "exe_80014260",
+  "file": "exe",
+  "addr": "80014260",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Emperor Beam"
+ },
+ {
+  "id": "exe_80014294",
+  "file": "exe",
+  "addr": "80014294",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Buzzsaw Boomerang"
+ },
+ {
+  "id": "exe_800142C8",
+  "file": "exe",
+  "addr": "800142C8",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Dorsal Cutter"
+ },
+ {
+  "id": "exe_800142FC",
+  "file": "exe",
+  "addr": "800142FC",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Horn Boomerang"
+ },
+ {
+  "id": "exe_80014330",
+  "file": "exe",
+  "addr": "80014330",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Horn Charge"
+ },
+ {
+  "id": "exe_80014364",
+  "file": "exe",
+  "addr": "80014364",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Arrow Missile"
+ },
+ {
+  "id": "exe_80014398",
+  "file": "exe",
+  "addr": "80014398",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Pounce"
+ },
+ {
+  "id": "exe_800143CC",
+  "file": "exe",
+  "addr": "800143CC",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Vacuum Tornado Throw"
+ },
+ {
+  "id": "exe_80014400",
+  "file": "exe",
+  "addr": "80014400",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Clinging Drill"
+ },
+ {
+  "id": "exe_80014434",
+  "file": "exe",
+  "addr": "80014434",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Tunnel Torpedo Charge"
+ },
+ {
+  "id": "exe_80014468",
+  "file": "exe",
+  "addr": "80014468",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Missile"
+ },
+ {
+  "id": "exe_8001449C",
+  "file": "exe",
+  "addr": "8001449C",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Launch Bat Men"
+ },
+ {
+  "id": "exe_800144D0",
+  "file": "exe",
+  "addr": "800144D0",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Bite"
+ },
+ {
+  "id": "exe_80014504",
+  "file": "exe",
+  "addr": "80014504",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Large Guided Missile"
+ },
+ {
+  "id": "exe_80014538",
+  "file": "exe",
+  "addr": "80014538",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Binding Foot"
+ },
+ {
+  "id": "exe_8001456C",
+  "file": "exe",
+  "addr": "8001456C",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Scratch Climb"
+ },
+ {
+  "id": "exe_800145A0",
+  "file": "exe",
+  "addr": "800145A0",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Tornado Vacuum Slash"
+ },
+ {
+  "id": "exe_800145D4",
+  "file": "exe",
+  "addr": "800145D4",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Tornado Charge"
+ },
+ {
+  "id": "exe_80014608",
+  "file": "exe",
+  "addr": "80014608",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Tornado Throw"
+ },
+ {
+  "id": "exe_8001463C",
+  "file": "exe",
+  "addr": "8001463C",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Cobra Venom"
+ },
+ {
+  "id": "exe_80014670",
+  "file": "exe",
+  "addr": "80014670",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Thunder Roar"
+ },
+ {
+  "id": "exe_800146A4",
+  "file": "exe",
+  "addr": "800146A4",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Horn Scoop Stab"
+ },
+ {
+  "id": "exe_800146D8",
+  "file": "exe",
+  "addr": "800146D8",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Spread Melt Shock"
+ },
+ {
+  "id": "exe_8001470C",
+  "file": "exe",
+  "addr": "8001470C",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Horiz. Claw Chop"
+ },
+ {
+  "id": "exe_80014740",
+  "file": "exe",
+  "addr": "80014740",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Electric Shock"
+ },
+ {
+  "id": "exe_80014774",
+  "file": "exe",
+  "addr": "80014774",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Tentacles"
+ },
+ {
+  "id": "exe_800147A8",
+  "file": "exe",
+  "addr": "800147A8",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Hurricane"
+ },
+ {
+  "id": "exe_800147DC",
+  "file": "exe",
+  "addr": "800147DC",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Large Missile"
+ },
+ {
+  "id": "exe_80014810",
+  "file": "exe",
+  "addr": "80014810",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Tomahawk Boomerang"
+ },
+ {
+  "id": "exe_80014844",
+  "file": "exe",
+  "addr": "80014844",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Getter Tomahawk"
+ },
+ {
+  "id": "exe_80014878",
+  "file": "exe",
+  "addr": "80014878",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Getter Beam"
+ },
+ {
+  "id": "exe_800148AC",
+  "file": "exe",
+  "addr": "800148AC",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Jet Drill"
+ },
+ {
+  "id": "exe_800148E0",
+  "file": "exe",
+  "addr": "800148E0",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Drill Arm"
+ },
+ {
+  "id": "exe_80014914",
+  "file": "exe",
+  "addr": "80014914",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Getter Missile"
+ },
+ {
+  "id": "exe_80014948",
+  "file": "exe",
+  "addr": "80014948",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Getter Smash"
+ },
+ {
+  "id": "exe_8001497C",
+  "file": "exe",
+  "addr": "8001497C",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Getter Crush"
+ },
+ {
+  "id": "exe_800149B0",
+  "file": "exe",
+  "addr": "800149B0",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Cannon"
+ },
+ {
+  "id": "exe_80014A18",
+  "file": "exe",
+  "addr": "80014A18",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Plasma Fireball"
+ },
+ {
+  "id": "exe_80014A4C",
+  "file": "exe",
+  "addr": "80014A4C",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Air Cutter"
+ },
+ {
+  "id": "exe_80014A80",
+  "file": "exe",
+  "addr": "80014A80",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Wing Cutter"
+ },
+ {
+  "id": "exe_80014AB4",
+  "file": "exe",
+  "addr": "80014AB4",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Horn Beam"
+ },
+ {
+  "id": "exe_80014AE8",
+  "file": "exe",
+  "addr": "80014AE8",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Scissor Hand"
+ },
+ {
+  "id": "exe_80014B1C",
+  "file": "exe",
+  "addr": "80014B1C",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Tentacle Press"
+ },
+ {
+  "id": "exe_80014B50",
+  "file": "exe",
+  "addr": "80014B50",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Leap"
+ },
+ {
+  "id": "exe_80014B84",
+  "file": "exe",
+  "addr": "80014B84",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Air Torpedo"
+ },
+ {
+  "id": "exe_80014BB8",
+  "file": "exe",
+  "addr": "80014BB8",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Telekinesis"
+ },
+ {
+  "id": "exe_80014BEC",
+  "file": "exe",
+  "addr": "80014BEC",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Sickle Cutter 1"
+ },
+ {
+  "id": "exe_80014C20",
+  "file": "exe",
+  "addr": "80014C20",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Sickle Cutter 2"
+ },
+ {
+  "id": "exe_80014C54",
+  "file": "exe",
+  "addr": "80014C54",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Sickle Cutter 3"
+ },
+ {
+  "id": "exe_80014C88",
+  "file": "exe",
+  "addr": "80014C88",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Large Missile"
+ },
+ {
+  "id": "exe_80014CBC",
+  "file": "exe",
+  "addr": "80014CBC",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Homing Disc Cutter"
+ },
+ {
+  "id": "exe_80014CF0",
+  "file": "exe",
+  "addr": "80014CF0",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Disc Cutter Slash"
+ },
+ {
+  "id": "exe_80014D24",
+  "file": "exe",
+  "addr": "80014D24",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Jyubo Sword"
+ },
+ {
+  "id": "exe_80014D58",
+  "file": "exe",
+  "addr": "80014D58",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Belt Saber"
+ },
+ {
+  "id": "exe_80014D8C",
+  "file": "exe",
+  "addr": "80014D8C",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Twin-Sword Thrusts"
+ },
+ {
+  "id": "exe_80014DC0",
+  "file": "exe",
+  "addr": "80014DC0",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Uzahra Eye Beam"
+ },
+ {
+  "id": "exe_80014DF4",
+  "file": "exe",
+  "addr": "80014DF4",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Uzahra Head Beam"
+ },
+ {
+  "id": "exe_80014E28",
+  "file": "exe",
+  "addr": "80014E28",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Gravity Cut Beam"
+ },
+ {
+  "id": "exe_80014E5C",
+  "file": "exe",
+  "addr": "80014E5C",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Chain Needle"
+ },
+ {
+  "id": "exe_80014E90",
+  "file": "exe",
+  "addr": "80014E90",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Brick Bomb"
+ },
+ {
+  "id": "exe_80014EC4",
+  "file": "exe",
+  "addr": "80014EC4",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Iron Tomahawk"
+ },
+ {
+  "id": "exe_80014EF8",
+  "file": "exe",
+  "addr": "80014EF8",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Flamethrower"
+ },
+ {
+  "id": "exe_80014F2C",
+  "file": "exe",
+  "addr": "80014F2C",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Horn Homing Missile"
+ },
+ {
+  "id": "exe_80014F94",
+  "file": "exe",
+  "addr": "80014F94",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Parts Attack"
+ },
+ {
+  "id": "exe_80014FC8",
+  "file": "exe",
+  "addr": "80014FC8",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Mount Punch"
+ },
+ {
+  "id": "exe_80014FFC",
+  "file": "exe",
+  "addr": "80014FFC",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Gust Cannon"
+ },
+ {
+  "id": "exe_80015030",
+  "file": "exe",
+  "addr": "80015030",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Claw Flurry"
+ },
+ {
+  "id": "exe_80015064",
+  "file": "exe",
+  "addr": "80015064",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Cannon"
+ },
+ {
+  "id": "exe_80015098",
+  "file": "exe",
+  "addr": "80015098",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Venom Sting"
+ },
+ {
+  "id": "exe_800150CC",
+  "file": "exe",
+  "addr": "800150CC",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Spin Attack"
+ },
+ {
+  "id": "exe_80015100",
+  "file": "exe",
+  "addr": "80015100",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Arm Bite"
+ },
+ {
+  "id": "exe_80015134",
+  "file": "exe",
+  "addr": "80015134",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Dropkick"
+ },
+ {
+  "id": "exe_80015168",
+  "file": "exe",
+  "addr": "80015168",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Arm Hammer"
+ },
+ {
+  "id": "exe_8001519C",
+  "file": "exe",
+  "addr": "8001519C",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Acid"
+ },
+ {
+  "id": "exe_800151D0",
+  "file": "exe",
+  "addr": "800151D0",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Pincer Attack"
+ },
+ {
+  "id": "exe_80015204",
+  "file": "exe",
+  "addr": "80015204",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Small Twin Laser"
+ },
+ {
+  "id": "exe_80015238",
+  "file": "exe",
+  "addr": "80015238",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Satellite Sight Beam"
+ },
+ {
+  "id": "exe_8001526C",
+  "file": "exe",
+  "addr": "8001526C",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Illusion Wave"
+ },
+ {
+  "id": "exe_800152A0",
+  "file": "exe",
+  "addr": "800152A0",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Subspace Cosmos"
+ },
+ {
+  "id": "exe_800152D4",
+  "file": "exe",
+  "addr": "800152D4",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Satellite Sight Beam"
+ },
+ {
+  "id": "exe_80015308",
+  "file": "exe",
+  "addr": "80015308",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Red Eye Glare"
+ },
+ {
+  "id": "exe_8001533C",
+  "file": "exe",
+  "addr": "8001533C",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Zanbu Sword"
+ },
+ {
+  "id": "exe_80015370",
+  "file": "exe",
+  "addr": "80015370",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Iai Slash"
+ },
+ {
+  "id": "exe_800153A4",
+  "file": "exe",
+  "addr": "800153A4",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Uzahra Eye Beam"
+ },
+ {
+  "id": "exe_800153D8",
+  "file": "exe",
+  "addr": "800153D8",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Uzahra Head Beam"
+ },
+ {
+  "id": "exe_8001540C",
+  "file": "exe",
+  "addr": "8001540C",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Gravity Cut Beam"
+ },
+ {
+  "id": "exe_80015440",
+  "file": "exe",
+  "addr": "80015440",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Large Long-Range Gun"
+ },
+ {
+  "id": "exe_80015474",
+  "file": "exe",
+  "addr": "80015474",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Magma Tentacle"
+ },
+ {
+  "id": "exe_800154A8",
+  "file": "exe",
+  "addr": "800154A8",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Magma Cannon"
+ },
+ {
+  "id": "exe_800154DC",
+  "file": "exe",
+  "addr": "800154DC",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Scatter Laser"
+ },
+ {
+  "id": "exe_80015510",
+  "file": "exe",
+  "addr": "80015510",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "MSDI"
+ },
+ {
+  "id": "exe_80015544",
+  "file": "exe",
+  "addr": "80015544",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Ultrasonic"
+ },
+ {
+  "id": "exe_80015578",
+  "file": "exe",
+  "addr": "80015578",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Slash"
+ },
+ {
+  "id": "exe_800155AC",
+  "file": "exe",
+  "addr": "800155AC",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Formic Acid"
+ },
+ {
+  "id": "exe_800155E0",
+  "file": "exe",
+  "addr": "800155E0",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Bite"
+ },
+ {
+  "id": "exe_80015614",
+  "file": "exe",
+  "addr": "80015614",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Formic Acid"
+ },
+ {
+  "id": "exe_80015648",
+  "file": "exe",
+  "addr": "80015648",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Undermine"
+ },
+ {
+  "id": "exe_8001567C",
+  "file": "exe",
+  "addr": "8001567C",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "1000 Needles"
+ },
+ {
+  "id": "exe_800156B0",
+  "file": "exe",
+  "addr": "800156B0",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Needle Charge"
+ },
+ {
+  "id": "exe_800156E4",
+  "file": "exe",
+  "addr": "800156E4",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Body Dive"
+ },
+ {
+  "id": "exe_80015718",
+  "file": "exe",
+  "addr": "80015718",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Impale"
+ },
+ {
+  "id": "exe_8001574C",
+  "file": "exe",
+  "addr": "8001574C",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Jaw Throw"
+ },
+ {
+  "id": "exe_80015780",
+  "file": "exe",
+  "addr": "80015780",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Subspace Orb"
+ },
+ {
+  "id": "exe_800157B4",
+  "file": "exe",
+  "addr": "800157B4",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Dark Matter"
+ },
+ {
+  "id": "exe_800157E8",
+  "file": "exe",
+  "addr": "800157E8",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Spawn"
+ },
+ {
+  "id": "exe_80015850",
+  "file": "exe",
+  "addr": "80015850",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Cosmic Light"
+ },
+ {
+  "id": "exe_80015920",
+  "file": "exe",
+  "addr": "80015920",
+  "room": 34,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Recon (Lv1)"
+ },
+ {
+  "id": "exe_80015954",
+  "file": "exe",
+  "addr": "80015954",
+  "room": 34,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Recon (Lv2)"
+ },
+ {
+  "id": "exe_80015988",
+  "file": "exe",
+  "addr": "80015988",
+  "room": 34,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Recon (Lv3)"
+ },
+ {
+  "id": "exe_800159BC",
+  "file": "exe",
+  "addr": "800159BC",
+  "room": 32,
+  "refs": 2,
+  "kind": "ui",
+  "en": "Self-Destruct Lv1"
+ },
+ {
+  "id": "exe_800159F0",
+  "file": "exe",
+  "addr": "800159F0",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Self-Destruct Lv2"
+ },
+ {
+  "id": "exe_80015A24",
+  "file": "exe",
+  "addr": "80015A24",
+  "room": 33,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Self-Destruct Lv3"
+ },
+ {
+  "id": "exe_80015A58",
+  "file": "exe",
+  "addr": "80015A58",
+  "room": 34,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Level 1"
+ },
+ {
+  "id": "exe_80015A8C",
+  "file": "exe",
+  "addr": "80015A8C",
+  "room": 34,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Level 2"
+ },
+ {
+  "id": "exe_80015AC0",
+  "file": "exe",
+  "addr": "80015AC0",
+  "room": 34,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Level 3"
+ },
+ {
+  "id": "exe_80015AF4",
+  "file": "exe",
+  "addr": "80015AF4",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Level 1"
+ },
+ {
+  "id": "exe_80015B28",
+  "file": "exe",
+  "addr": "80015B28",
+  "room": 32,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Level 2"
+ },
+ {
+  "id": "exe_80015B5C",
+  "file": "exe",
+  "addr": "80015B5C",
+  "room": 33,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Level 3"
+ },
+ {
+  "id": "exe_80015BA8",
+  "file": "exe",
+  "addr": "80015BA8",
+  "room": 24,
+  "refs": 4,
+  "kind": "ui",
+  "en": "Getter-1"
+ },
+ {
+  "id": "exe_80015BE2",
+  "file": "exe",
+  "addr": "80015BE2",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Getter-2"
+ },
+ {
+  "id": "exe_80015C1C",
+  "file": "exe",
+  "addr": "80015C1C",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Getter-3"
+ },
+ {
+  "id": "exe_80015C56",
+  "file": "exe",
+  "addr": "80015C56",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Eagle-Gou"
+ },
+ {
+  "id": "exe_80015C90",
+  "file": "exe",
+  "addr": "80015C90",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Jaguar-Gou"
+ },
+ {
+  "id": "exe_80015CCA",
+  "file": "exe",
+  "addr": "80015CCA",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Bear-Gou"
+ },
+ {
+  "id": "exe_80015D04",
+  "file": "exe",
+  "addr": "80015D04",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Getter-1/2"
+ },
+ {
+  "id": "exe_80015D3E",
+  "file": "exe",
+  "addr": "80015D3E",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Getter-2/3"
+ },
+ {
+  "id": "exe_80015D78",
+  "file": "exe",
+  "addr": "80015D78",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Getter-3/1"
+ },
+ {
+  "id": "exe_80015DB2",
+  "file": "exe",
+  "addr": "80015DB2",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Getter Dragon"
+ },
+ {
+  "id": "exe_80015DEC",
+  "file": "exe",
+  "addr": "80015DEC",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Getter Liger"
+ },
+ {
+  "id": "exe_80015E26",
+  "file": "exe",
+  "addr": "80015E26",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Getter Poseidon"
+ },
+ {
+  "id": "exe_80015E60",
+  "file": "exe",
+  "addr": "80015E60",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Dragon-Gou"
+ },
+ {
+  "id": "exe_80015E9A",
+  "file": "exe",
+  "addr": "80015E9A",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Liger-Gou"
+ },
+ {
+  "id": "exe_80015ED4",
+  "file": "exe",
+  "addr": "80015ED4",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Poseidon-Gou"
+ },
+ {
+  "id": "exe_80015F82",
+  "file": "exe",
+  "addr": "80015F82",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Getter Gai"
+ },
+ {
+  "id": "exe_80015FBC",
+  "file": "exe",
+  "addr": "80015FBC",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Get Machine 1"
+ },
+ {
+  "id": "exe_80015FF6",
+  "file": "exe",
+  "addr": "80015FF6",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Get Machine 2"
+ },
+ {
+  "id": "exe_80016030",
+  "file": "exe",
+  "addr": "80016030",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Get Machine 3"
+ },
+ {
+  "id": "exe_8001606A",
+  "file": "exe",
+  "addr": "8001606A",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Shin Getter-1"
+ },
+ {
+  "id": "exe_800160A4",
+  "file": "exe",
+  "addr": "800160A4",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Shin Getter-2"
+ },
+ {
+  "id": "exe_800160DE",
+  "file": "exe",
+  "addr": "800160DE",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Shin Getter-3"
+ },
+ {
+  "id": "exe_80016118",
+  "file": "exe",
+  "addr": "80016118",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Shin Eagle-Gou"
+ },
+ {
+  "id": "exe_80016152",
+  "file": "exe",
+  "addr": "80016152",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Shin Jaguar-Gou"
+ },
+ {
+  "id": "exe_8001618C",
+  "file": "exe",
+  "addr": "8001618C",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Shin Bear-Gou"
+ },
+ {
+  "id": "exe_800161C6",
+  "file": "exe",
+  "addr": "800161C6",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Shin Getter Dragon"
+ },
+ {
+  "id": "exe_80016200",
+  "file": "exe",
+  "addr": "80016200",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Black Getter"
+ },
+ {
+  "id": "exe_8001623A",
+  "file": "exe",
+  "addr": "8001623A",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Getter Rekka"
+ },
+ {
+  "id": "exe_80016274",
+  "file": "exe",
+  "addr": "80016274",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Getter Shiten"
+ },
+ {
+  "id": "exe_800162AE",
+  "file": "exe",
+  "addr": "800162AE",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Getter Kongo"
+ },
+ {
+  "id": "exe_800162E8",
+  "file": "exe",
+  "addr": "800162E8",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Rekka-Gou"
+ },
+ {
+  "id": "exe_80016322",
+  "file": "exe",
+  "addr": "80016322",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Shiten-Gou"
+ },
+ {
+  "id": "exe_8001635C",
+  "file": "exe",
+  "addr": "8001635C",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Kongo-Gou"
+ },
+ {
+  "id": "exe_80016396",
+  "file": "exe",
+  "addr": "80016396",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "BT-23"
+ },
+ {
+  "id": "exe_800163D0",
+  "file": "exe",
+  "addr": "800163D0",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Lady Command"
+ },
+ {
+  "id": "exe_8001640A",
+  "file": "exe",
+  "addr": "8001640A",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Kujira 2005D1"
+ },
+ {
+  "id": "exe_80016444",
+  "file": "exe",
+  "addr": "80016444",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Getter Emperor"
+ },
+ {
+  "id": "exe_8001647E",
+  "file": "exe",
+  "addr": "8001647E",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Stilva"
+ },
+ {
+  "id": "exe_800164B8",
+  "file": "exe",
+  "addr": "800164B8",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Stilva"
+ },
+ {
+  "id": "exe_800164F2",
+  "file": "exe",
+  "addr": "800164F2",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Volga 80000"
+ },
+ {
+  "id": "exe_8001652C",
+  "file": "exe",
+  "addr": "8001652C",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Robo Stone"
+ },
+ {
+  "id": "exe_80016566",
+  "file": "exe",
+  "addr": "80016566",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Kingdom 007"
+ },
+ {
+  "id": "exe_800165A0",
+  "file": "exe",
+  "addr": "800165A0",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Gustaf"
+ },
+ {
+  "id": "exe_800165DA",
+  "file": "exe",
+  "addr": "800165DA",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Texas Mack"
+ },
+ {
+  "id": "exe_80016614",
+  "file": "exe",
+  "addr": "80016614",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Battleship Texas"
+ },
+ {
+  "id": "exe_8001664E",
+  "file": "exe",
+  "addr": "8001664E",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Bazu"
+ },
+ {
+  "id": "exe_80016688",
+  "file": "exe",
+  "addr": "80016688",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Baru"
+ },
+ {
+  "id": "exe_800166C2",
+  "file": "exe",
+  "addr": "800166C2",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Giro"
+ },
+ {
+  "id": "exe_800166FC",
+  "file": "exe",
+  "addr": "800166FC",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Jiga"
+ },
+ {
+  "id": "exe_80016736",
+  "file": "exe",
+  "addr": "80016736",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Mogrow"
+ },
+ {
+  "id": "exe_80016770",
+  "file": "exe",
+  "addr": "80016770",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Gigi"
+ },
+ {
+  "id": "exe_800167AA",
+  "file": "exe",
+  "addr": "800167AA",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Uru"
+ },
+ {
+  "id": "exe_800167E4",
+  "file": "exe",
+  "addr": "800167E4",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Mecha Typhoon"
+ },
+ {
+  "id": "exe_8001681E",
+  "file": "exe",
+  "addr": "8001681E",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Moba"
+ },
+ {
+  "id": "exe_80016858",
+  "file": "exe",
+  "addr": "80016858",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Pikudoron"
+ },
+ {
+  "id": "exe_80016892",
+  "file": "exe",
+  "addr": "80016892",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Gera"
+ },
+ {
+  "id": "exe_800168CC",
+  "file": "exe",
+  "addr": "800168CC",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Dinosaur Ship"
+ },
+ {
+  "id": "exe_80016906",
+  "file": "exe",
+  "addr": "80016906",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "MP Getter-1"
+ },
+ {
+  "id": "exe_80016940",
+  "file": "exe",
+  "addr": "80016940",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "MP Getter-2"
+ },
+ {
+  "id": "exe_8001697A",
+  "file": "exe",
+  "addr": "8001697A",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "MP Getter-3"
+ },
+ {
+  "id": "exe_800169B4",
+  "file": "exe",
+  "addr": "800169B4",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Mecha Hangetsuki"
+ },
+ {
+  "id": "exe_800169EE",
+  "file": "exe",
+  "addr": "800169EE",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Mecha Ikkakuki"
+ },
+ {
+  "id": "exe_80016A28",
+  "file": "exe",
+  "addr": "80016A28",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Mecha Kaiouki"
+ },
+ {
+  "id": "exe_80016A62",
+  "file": "exe",
+  "addr": "80016A62",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Mecha Santoki"
+ },
+ {
+  "id": "exe_80016A9C",
+  "file": "exe",
+  "addr": "80016A9C",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Kyoraiki"
+ },
+ {
+  "id": "exe_80016AD6",
+  "file": "exe",
+  "addr": "80016AD6",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Mecha Kotoki"
+ },
+ {
+  "id": "exe_80016B10",
+  "file": "exe",
+  "addr": "80016B10",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Mecha Gohonki"
+ },
+ {
+  "id": "exe_80016B4A",
+  "file": "exe",
+  "addr": "80016B4A",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Mecha Ipponki"
+ },
+ {
+  "id": "exe_80016B84",
+  "file": "exe",
+  "addr": "80016B84",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Uzahra"
+ },
+ {
+  "id": "exe_80016BBE",
+  "file": "exe",
+  "addr": "80016BBE",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Mecha Tekkoki"
+ },
+ {
+  "id": "exe_80016BF8",
+  "file": "exe",
+  "addr": "80016BF8",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Maouki"
+ },
+ {
+  "id": "exe_80016C32",
+  "file": "exe",
+  "addr": "80016C32",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Kyojuki"
+ },
+ {
+  "id": "exe_80016C6C",
+  "file": "exe",
+  "addr": "80016C6C",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Bean"
+ },
+ {
+  "id": "exe_80016CA6",
+  "file": "exe",
+  "addr": "80016CA6",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Worm"
+ },
+ {
+  "id": "exe_80016CE0",
+  "file": "exe",
+  "addr": "80016CE0",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Jakotsu"
+ },
+ {
+  "id": "exe_80016D1A",
+  "file": "exe",
+  "addr": "80016D1A",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Crab"
+ },
+ {
+  "id": "exe_80016D8E",
+  "file": "exe",
+  "addr": "80016D8E",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Bein RX1"
+ },
+ {
+  "id": "exe_80016DC8",
+  "file": "exe",
+  "addr": "80016DC8",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Garman B25"
+ },
+ {
+  "id": "exe_80016E3C",
+  "file": "exe",
+  "addr": "80016E3C",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Garon Z54"
+ },
+ {
+  "id": "exe_80016E76",
+  "file": "exe",
+  "addr": "80016E76",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Remodeled Uzahra"
+ },
+ {
+  "id": "exe_80016EB0",
+  "file": "exe",
+  "addr": "80016EB0",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Dragon Turtle"
+ },
+ {
+  "id": "exe_80016EEA",
+  "file": "exe",
+  "addr": "80016EEA",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Deviler Mu"
+ },
+ {
+  "id": "exe_80016F24",
+  "file": "exe",
+  "addr": "80016F24",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Vega Zone"
+ },
+ {
+  "id": "exe_80016F5E",
+  "file": "exe",
+  "addr": "80016F5E",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Getter Reactor"
+ },
+ {
+  "id": "exe_80016F98",
+  "file": "exe",
+  "addr": "80016F98",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Mecha Cicada"
+ },
+ {
+  "id": "exe_80016FD2",
+  "file": "exe",
+  "addr": "80016FD2",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Mecha Ant"
+ },
+ {
+  "id": "exe_8001700C",
+  "file": "exe",
+  "addr": "8001700C",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Mecha Antlion"
+ },
+ {
+  "id": "exe_80017046",
+  "file": "exe",
+  "addr": "80017046",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Mecha Bee"
+ },
+ {
+  "id": "exe_80017080",
+  "file": "exe",
+  "addr": "80017080",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Mecha Stag"
+ },
+ {
+  "id": "exe_800170BA",
+  "file": "exe",
+  "addr": "800170BA",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Hogram D7"
+ },
+ {
+  "id": "exe_800170F4",
+  "file": "exe",
+  "addr": "800170F4",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Chrono Worm"
+ },
+ {
+  "id": "exe_80017168",
+  "file": "exe",
+  "addr": "80017168",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Battleship Dai"
+ },
+ {
+  "id": "exe_800171A2",
+  "file": "exe",
+  "addr": "800171A2",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "God Turtle"
+ },
+ {
+  "id": "exe_80017216",
+  "file": "exe",
+  "addr": "80017216",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Missile Battery"
+ },
+ {
+  "id": "exe_80017250",
+  "file": "exe",
+  "addr": "80017250",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Getter Emperor"
+ },
+ {
+  "id": "exe_8001728A",
+  "file": "exe",
+  "addr": "8001728A",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Shin Getter-1"
+ },
+ {
+  "id": "exe_800172C4",
+  "file": "exe",
+  "addr": "800172C4",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Battleship Texas"
+ },
+ {
+  "id": "exe_800172FE",
+  "file": "exe",
+  "addr": "800172FE",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Dragon Turtle"
+ },
+ {
+  "id": "exe_80017338",
+  "file": "exe",
+  "addr": "80017338",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Vega Zone"
+ },
+ {
+  "id": "exe_80017372",
+  "file": "exe",
+  "addr": "80017372",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Chrono Worm"
+ },
+ {
+  "id": "exe_800173AC",
+  "file": "exe",
+  "addr": "800173AC",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Dinosaur Ship"
+ },
+ {
+  "id": "exe_800173E6",
+  "file": "exe",
+  "addr": "800173E6",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Nuclear Plant"
+ },
+ {
+  "id": "exe_80017420",
+  "file": "exe",
+  "addr": "80017420",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "MP Eagle-Gou"
+ },
+ {
+  "id": "exe_8001745A",
+  "file": "exe",
+  "addr": "8001745A",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "MP Jaguar-Gou"
+ },
+ {
+  "id": "exe_80017494",
+  "file": "exe",
+  "addr": "80017494",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": "MP Bear-Gou"
+ },
+ {
+  "id": "exe_800174F5",
+  "file": "exe",
+  "addr": "800174F5",
+  "room": 7,
+  "refs": 0,
+  "kind": "ui",
+  "en": "AL "
+ },
+ {
+  "id": "exe_80017503",
+  "file": "exe",
+  "addr": "80017503",
+  "room": 7,
+  "refs": 0,
+  "kind": "ui",
+  "en": "AL"
+ },
+ {
+  "id": "exe_80017511",
+  "file": "exe",
+  "addr": "80017511",
+  "room": 7,
+  "refs": 0,
+  "kind": "ui",
+  "en": "AL "
+ },
+ {
+  "id": "exe_80017526",
+  "file": "exe",
+  "addr": "80017526",
+  "room": 7,
+  "refs": 0,
+  "kind": "ui",
+  "en": " LS"
+ },
+ {
+  "id": "exe_8001752D",
+  "file": "exe",
+  "addr": "8001752D",
+  "room": 7,
+  "refs": 0,
+  "kind": "ui",
+  "en": "ALS"
+ },
+ {
+  "id": "exe_80017534",
+  "file": "exe",
+  "addr": "80017534",
+  "room": 7,
+  "refs": 0,
+  "kind": "ui",
+  "en": " LS"
+ },
+ {
+  "id": "exe_8001753B",
+  "file": "exe",
+  "addr": "8001753B",
+  "room": 7,
+  "refs": 0,
+  "kind": "ui",
+  "en": "ALS"
+ },
+ {
+  "id": "exe_80017542",
+  "file": "exe",
+  "addr": "80017542",
+  "room": 7,
+  "refs": 0,
+  "kind": "ui",
+  "en": " LS"
+ },
+ {
+  "id": "exe_80017549",
+  "file": "exe",
+  "addr": "80017549",
+  "room": 7,
+  "refs": 0,
+  "kind": "ui",
+  "en": "ALS"
+ },
+ {
+  "id": "exe_80017584",
+  "file": "exe",
+  "addr": "80017584",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Unit Name"
+ },
+ {
+  "id": "exe_80017590",
+  "file": "exe",
+  "addr": "80017590",
+  "room": 16,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Pilot Name"
+ },
+ {
+  "id": "exe_800175A0",
+  "file": "exe",
+  "addr": "800175A0",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "By Level"
+ },
+ {
+  "id": "exe_800175AC",
+  "file": "exe",
+  "addr": "800175AC",
+  "room": 16,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Units Aboard"
+ },
+ {
+  "id": "exe_800175BC",
+  "file": "exe",
+  "addr": "800175BC",
+  "room": 16,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Settings"
+ },
+ {
+  "id": "exe_80017800",
+  "file": "exe",
+  "addr": "80017800",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Move Charge"
+ },
+ {
+  "id": "exe_8001781C",
+  "file": "exe",
+  "addr": "8001781C",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "EN Regen"
+ },
+ {
+  "id": "exe_8001783C",
+  "file": "exe",
+  "addr": "8001783C",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "HP Regen"
+ },
+ {
+  "id": "exe_80017858",
+  "file": "exe",
+  "addr": "80017858",
+  "room": 16,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Critical"
+ },
+ {
+  "id": "exe_800178DC",
+  "file": "exe",
+  "addr": "800178DC",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Move Assist"
+ },
+ {
+  "id": "exe_80017914",
+  "file": "exe",
+  "addr": "80017914",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "2x Move"
+ },
+ {
+  "id": "exe_80017D20",
+  "file": "exe",
+  "addr": "80017D20",
+  "room": 36,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Mission: Wipe out the enemy.\\nNote: From underground..."
+ },
+ {
+  "id": "exe_80017D44",
+  "file": "exe",
+  "addr": "80017D44",
+  "room": 48,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Mission: Wipe out the enemy.\\nNote: It might be best to fight at sea..."
+ },
+ {
+  "id": "exe_80017D74",
+  "file": "exe",
+  "addr": "80017D74",
+  "room": 40,
+  "refs": 2,
+  "kind": "ui",
+  "en": "Mission: Wipe out the enemy.\\nNote: Make full use of the battlefield!"
+ },
+ {
+  "id": "exe_80017D9C",
+  "file": "exe",
+  "addr": "80017D9C",
+  "room": 48,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Mission: Destroy the Chrono Worm.\\nNote: Charge ahead!"
+ },
+ {
+  "id": "exe_80017DCC",
+  "file": "exe",
+  "addr": "80017DCC",
+  "room": 36,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Mission: Defeat the enemy!\\nNote: Don't let your guard down!"
+ },
+ {
+  "id": "exe_80017DF0",
+  "file": "exe",
+  "addr": "80017DF0",
+  "room": 52,
+  "refs": 2,
+  "kind": "ui",
+  "en": "Mission: Destroy Vega Zone.\\nNote: It'll be tough if the Kujira goes down."
+ },
+ {
+  "id": "exe_80017E24",
+  "file": "exe",
+  "addr": "80017E24",
+  "room": 76,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Mission: Destroy the Dragon Turtle.\\nNote: Don't let it reach Alaska Base at the\\n        bottom of the map!"
+ },
+ {
+  "id": "exe_80017E70",
+  "file": "exe",
+  "addr": "80017E70",
+  "room": 56,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Mission: Wipe out the enemy.\\nNote: Save your energy for later!"
+ },
+ {
+  "id": "exe_80017EA8",
+  "file": "exe",
+  "addr": "80017EA8",
+  "room": 56,
+  "refs": 2,
+  "kind": "ui",
+  "en": "Mission: Escort the Volga.\\nNote: Protect the Volga for a set number of\\n        turns!"
+ },
+ {
+  "id": "exe_80017EE0",
+  "file": "exe",
+  "addr": "80017EE0",
+  "room": 36,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Mission: Investigate the area.\\nNote: Head for the town!"
+ },
+ {
+  "id": "exe_80017F04",
+  "file": "exe",
+  "addr": "80017F04",
+  "room": 40,
+  "refs": 2,
+  "kind": "ui",
+  "en": "Mission: Wipe out the enemy.\\nNote: Go all out!"
+ },
+ {
+  "id": "exe_80017F2C",
+  "file": "exe",
+  "addr": "80017F2C",
+  "room": 48,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Mission: Destroy Garon.\\nNote: Its target is Sho."
+ },
+ {
+  "id": "exe_80017F5C",
+  "file": "exe",
+  "addr": "80017F5C",
+  "room": 44,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Mission: Wipe out the enemy.\\nNote: Remember the enemy's traits!"
+ },
+ {
+  "id": "exe_80017F88",
+  "file": "exe",
+  "addr": "80017F88",
+  "room": 56,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Mission: Destroy Uzahra.\\nNote: Go around it, or straight ahead..."
+ },
+ {
+  "id": "exe_80017FC0",
+  "file": "exe",
+  "addr": "80017FC0",
+  "room": 84,
+  "refs": 2,
+  "kind": "ui",
+  "en": "Mission: Destroy the germ missile battery.\\nNote: The missile battery is easier to handle if\\n        you take it out later."
+ },
+ {
+  "id": "exe_80018014",
+  "file": "exe",
+  "addr": "80018014",
+  "room": 88,
+  "refs": 2,
+  "kind": "ui",
+  "en": "Mission: Destroy the Getter Reactors.\\nNote: Destroy the 3 Getter Reactors around the\\n        beam satellite!"
+ },
+ {
+  "id": "exe_8001806C",
+  "file": "exe",
+  "addr": "8001806C",
+  "room": 52,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Mission: Wipe out the enemy.\\nNote: Keep your eyes on the Texas!"
+ },
+ {
+  "id": "exe_800180A0",
+  "file": "exe",
+  "addr": "800180A0",
+  "room": 52,
+  "refs": 2,
+  "kind": "ui",
+  "en": "Mission: Wipe out the enemy.\\nNote: Make good use of Getter Robo Go!"
+ },
+ {
+  "id": "exe_800180D4",
+  "file": "exe",
+  "addr": "800180D4",
+  "room": 64,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Mission: Destroy Maouki.\\nNote: Maouki is a tough foe, but it must have a\\n        weakness."
+ },
+ {
+  "id": "exe_80018114",
+  "file": "exe",
+  "addr": "80018114",
+  "room": 48,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Mission: Wipe out the enemy.\\nNote: Getter-3 is the one for underwater combat!"
+ },
+ {
+  "id": "exe_80018144",
+  "file": "exe",
+  "addr": "80018144",
+  "room": 60,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Mission: Destroy Gera.\\nNote: Gera doesn't move, but stay on your guard!"
+ },
+ {
+  "id": "exe_80018180",
+  "file": "exe",
+  "addr": "80018180",
+  "room": 68,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Mission: Destroy the Mass-Production Getter-1.\\nNote: Make good use of Getter Robo G!"
+ },
+ {
+  "id": "exe_800181C4",
+  "file": "exe",
+  "addr": "800181C4",
+  "room": 56,
+  "refs": 2,
+  "kind": "ui",
+  "en": "Mission: Wipe out the enemy.\\nNote: Save energy with Getter-2!"
+ },
+ {
+  "id": "exe_800181FC",
+  "file": "exe",
+  "addr": "800181FC",
+  "room": 44,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Mission: Persuade Hayato.\\nNote: Go to Hayato's school!"
+ },
+ {
+  "id": "exe_80018228",
+  "file": "exe",
+  "addr": "80018228",
+  "room": 24,
+  "refs": 15,
+  "kind": "ui",
+  "en": "Eyes! Ears! Nooose!"
+ },
+ {
+  "id": "exe_80018240",
+  "file": "exe",
+  "addr": "80018240",
+  "room": 56,
+  "refs": 2,
+  "kind": "ui",
+  "en": "Mission: Wipe out the enemy.\\nNote: Enemies are hard to see in the forest. Don't\\n        lose sight of them!"
+ },
+ {
+  "id": "exe_80018278",
+  "file": "exe",
+  "addr": "80018278",
+  "room": 40,
+  "refs": 2,
+  "kind": "ui",
+  "en": "Mission: Wipe out the enemy.\\nNote: Make good use of the sea!"
+ },
+ {
+  "id": "exe_800182A0",
+  "file": "exe",
+  "addr": "800182A0",
+  "room": 60,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Mission: Destroy the Chrono Worm.\\nNote: Gimbug is your only target!"
+ },
+ {
+  "id": "exe_800182DC",
+  "file": "exe",
+  "addr": "800182DC",
+  "room": 68,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Mission: Destroy Hogram D7.\\nNote: Hogram D7 is a tough foe. Stay on your\\n        guard!"
+ },
+ {
+  "id": "exe_80018320",
+  "file": "exe",
+  "addr": "80018320",
+  "room": 108,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Mission: Ram the Texas into the Dragon Turtle!\\nNote: Each time the Texas is attacked, its\\n        movement drops by 1 square."
+ },
+ {
+  "id": "exe_8001838C",
+  "file": "exe",
+  "addr": "8001838C",
+  "room": 64,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Mission: Destroy Remodeled Uzahra.\\nNote: Underwater, the Gravity Cut Beam..."
+ },
+ {
+  "id": "exe_800183CC",
+  "file": "exe",
+  "addr": "800183CC",
+  "room": 52,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Mission: Destroy Mecha Typhoon.\\nNote: Watch out for tornadoes...?"
+ },
+ {
+  "id": "exe_80018400",
+  "file": "exe",
+  "addr": "80018400",
+  "room": 48,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Mission: Destroy Garon.\\nNote: Don't hesitate, Sho!"
+ },
+ {
+  "id": "exe_80018430",
+  "file": "exe",
+  "addr": "80018430",
+  "room": 52,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Mission: Wipe out the enemy.\\nNote: Watch out for the Metal Beasts!"
+ },
+ {
+  "id": "exe_80018464",
+  "file": "exe",
+  "addr": "80018464",
+  "room": 60,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Mission: Destroy Uzahra.\\nNote: Go around it... or straight ahead..."
+ },
+ {
+  "id": "exe_800184A0",
+  "file": "exe",
+  "addr": "800184A0",
+  "room": 56,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Mission: Wipe out the enemy.\\nNote: Use the terrain well and plan your strategy!"
+ },
+ {
+  "id": "exe_800184D8",
+  "file": "exe",
+  "addr": "800184D8",
+  "room": 68,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Mission: Wipe out the enemy.\\nNote: Getter Robo Go is a little different from the\\n        other Getters."
+ },
+ {
+  "id": "exe_8001851C",
+  "file": "exe",
+  "addr": "8001851C",
+  "room": 52,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Mission: Destroy the Dinosaur Ship.\\nNote: Carve a way out with Getter Zan!"
+ },
+ {
+  "id": "exe_80018550",
+  "file": "exe",
+  "addr": "80018550",
+  "room": 64,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Mission: Destroy Gera.\\nNote: Get inside Gera's body with Getter Robo!"
+ },
+ {
+  "id": "exe_80018590",
+  "file": "exe",
+  "addr": "80018590",
+  "room": 64,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Mission: Destroy the Mass-Production Getter-1.\\nNote: Make good use of Getter Robo G!"
+ },
+ {
+  "id": "exe_800185D0",
+  "file": "exe",
+  "addr": "800185D0",
+  "room": 48,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Mission: Wipe out the enemy.\\nNote: Master the Getters!"
+ },
+ {
+  "id": "exe_80018600",
+  "file": "exe",
+  "addr": "80018600",
+  "room": 36,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Defeat: Getter Emperor destroyed."
+ },
+ {
+  "id": "exe_80018624",
+  "file": "exe",
+  "addr": "80018624",
+  "room": 64,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Defeat: The Texas is destroyed.\\n          Dragon Turtle reaches Alaska Base."
+ },
+ {
+  "id": "exe_80018664",
+  "file": "exe",
+  "addr": "80018664",
+  "room": 24,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Defeat: The Volga is destroyed."
+ },
+ {
+  "id": "exe_8001867C",
+  "file": "exe",
+  "addr": "8001867C",
+  "room": 60,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Defeat: All allied units destroyed.\\n          Missile not destroyed within the turn limit."
+ },
+ {
+  "id": "exe_800186B8",
+  "file": "exe",
+  "addr": "800186B8",
+  "room": 24,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Defeat: The Texas is destroyed."
+ },
+ {
+  "id": "exe_800186D0",
+  "file": "exe",
+  "addr": "800186D0",
+  "room": 52,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Defeat: All allied units destroyed.\\n          Nuclear plant destroyed."
+ },
+ {
+  "id": "exe_80018704",
+  "file": "exe",
+  "addr": "80018704",
+  "room": 28,
+  "refs": 19,
+  "kind": "ui",
+  "en": "Defeat: All allied units destroyed."
+ },
+ {
+  "id": "exe_80018D58",
+  "file": "exe",
+  "addr": "80018D58",
+  "room": 80,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$m00d%2Ryoma%0$s13: Damn! I let my guard down! Looks like there's someone out here with a bit of backbone!"
+ },
+ {
+  "id": "exe_80018DA8",
+  "file": "exe",
+  "addr": "80018DA8",
+  "room": 64,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$f63f%2Hayato%0$s13: I-I got out... hee hee hee. Ph-phew, I'm saved..."
+ },
+ {
+  "id": "exe_80018DE8",
+  "file": "exe",
+  "addr": "80018DE8",
+  "room": 48,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$m01b%2Hayato%0$s13: ...I got left behind again."
+ },
+ {
+  "id": "exe_80018E18",
+  "file": "exe",
+  "addr": "80018E18",
+  "room": 92,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$m02b%2Musashi%0$s13: Good ol' Musashi's built tough and built to last, so I'm still alive and kickin', see?! Wahahaha..."
+ },
+ {
+  "id": "exe_80018E74",
+  "file": "exe",
+  "addr": "80018E74",
+  "room": 76,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$m03a%2Benkei%0$s13: Man, I'm real sorry. Everybody, you'll have to fight hard enough to cover for me too..."
+ },
+ {
+  "id": "exe_80018EC0",
+  "file": "exe",
+  "addr": "80018EC0",
+  "room": 84,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$m04d%2Go%0$s13: Gaaah! Getting taken out in a place like this?! You've gotta be kidding me!"
+ },
+ {
+  "id": "exe_80018F14",
+  "file": "exe",
+  "addr": "80018F14",
+  "room": 56,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$m05b%2Sho%0$s13: I've been hit. It's galling, but I'm returning to base."
+ },
+ {
+  "id": "exe_80018F4C",
+  "file": "exe",
+  "addr": "80018F4C",
+  "room": 68,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$m06a%2Gai%0$s13: Daaamn! Just you wait! I'll be back on the front line in no time!"
+ },
+ {
+  "id": "exe_80018F90",
+  "file": "exe",
+  "addr": "80018F90",
+  "room": 76,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$m07a%2Michiru%0$s13: I made it out safely. ...I'm sorry. I'm leaving the rest to you!"
+ },
+ {
+  "id": "exe_80018FDC",
+  "file": "exe",
+  "addr": "80018FDC",
+  "room": 88,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$m08a%2Lambert%0$s13: Hmm... It seems I'm just an old has-been after all... Returning to base."
+ },
+ {
+  "id": "exe_80019034",
+  "file": "exe",
+  "addr": "80019034",
+  "room": 92,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$m09d%2Schwartz%0$s13: Raaaaagh! You'll pay for this! It'll take more than this to beat America!"
+ },
+ {
+  "id": "exe_80019090",
+  "file": "exe",
+  "addr": "80019090",
+  "room": 44,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$m10b%2Bob%0$s13: Tch! They got me."
+ },
+ {
+  "id": "exe_800190BC",
+  "file": "exe",
+  "addr": "800190BC",
+  "room": 48,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$m11b%2Sam%0$s13: Damn it. I'm hit!"
+ },
+ {
+  "id": "exe_800190EC",
+  "file": "exe",
+  "addr": "800190EC",
+  "room": 72,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$m12b%2Linda%0$s13: How could this happen?! For me, of all people, to be shot down..."
+ },
+ {
+  "id": "exe_80019134",
+  "file": "exe",
+  "addr": "80019134",
+  "room": 80,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$m13d%2Shatner%0$s13: Ugh! I almost had that one won... Returning to base now."
+ },
+ {
+  "id": "exe_80019184",
+  "file": "exe",
+  "addr": "80019184",
+  "room": 72,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$f14f%2Jack%0$s13: Oh! No! Sometimes these things happen-desu!"
+ },
+ {
+  "id": "exe_800191CC",
+  "file": "exe",
+  "addr": "800191CC",
+  "room": 76,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$f15f%2Mary%0$s13: Oh! My God! Real combat sure is tough, isn't it, Brother!"
+ },
+ {
+  "id": "exe_80019218",
+  "file": "exe",
+  "addr": "80019218",
+  "room": 56,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$m16d%2Akane%0$s13: Sorry! I got hit. Daaamn it!!"
+ },
+ {
+  "id": "exe_80019250",
+  "file": "exe",
+  "addr": "80019250",
+  "room": 56,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$m17d%2Tsubaki%0$s13: Ngh... Next time, you won't get off so easy!"
+ },
+ {
+  "id": "exe_80019288",
+  "file": "exe",
+  "addr": "80019288",
+  "room": 44,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$m18a%2Kaede%0$s13: Uuuh... I'm so hungryyy..."
+ },
+ {
+  "id": "exe_800192B4",
+  "file": "exe",
+  "addr": "800192B4",
+  "room": 60,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$m61b%2$n%0$s13: Damn, they got me! I'm counting on you guys for the rest!"
+ },
+ {
+  "id": "exe_800192F0",
+  "file": "exe",
+  "addr": "800192F0",
+  "room": 68,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$m62a%2$n%0$s13: I did all I could! I'm leaving the rest to you. Returning to base."
+ },
+ {
+  "id": "exe_80019334",
+  "file": "exe",
+  "addr": "80019334",
+  "room": 116,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$m21a%2Dr. Saotome%0$s13: Wh-what a disaster! To think this Getter could be beaten! It seems the enemy was stronger than I thought..."
+ },
+ {
+  "id": "exe_800193A8",
+  "file": "exe",
+  "addr": "800193A8",
+  "room": 52,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$f23a%2Furuta%0$s13: I've been hit... I'm sorry!"
+ },
+ {
+  "id": "exe_800193DC",
+  "file": "exe",
+  "addr": "800193DC",
+  "room": 64,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$f19d%2Captain Texas%0$s13: ......Wh-why am I still alive?"
+ },
+ {
+  "id": "exe_8001941C",
+  "file": "exe",
+  "addr": "8001941C",
+  "room": 112,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$f25a%2Researcher%0$s13: I made it out safely, but... I'm sorry! I've gone and wrecked the precious Getter Robo G..."
+ },
+ {
+  "id": "exe_8001948C",
+  "file": "exe",
+  "addr": "8001948C",
+  "room": 92,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$f26a%2Researcher%0$s13: I thought I could handle it... Piloting a Getter really is hard, after all..."
+ },
+ {
+  "id": "exe_800194E8",
+  "file": "exe",
+  "addr": "800194E8",
+  "room": 60,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$m00b%2Ryoma%0$s13: Damn it! The Getter won't listen to me!"
+ },
+ {
+  "id": "exe_80019524",
+  "file": "exe",
+  "addr": "80019524",
+  "room": 80,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$f63b%2Hayato%0$s13: S-something's wrong...?! I-is it broken?! Waaaaaah!"
+ },
+ {
+  "id": "exe_80019574",
+  "file": "exe",
+  "addr": "80019574",
+  "room": 64,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$m01b%2Hayato%0$s13: Ngh! The Getter Ray level is over the safe limit!"
+ },
+ {
+  "id": "exe_800195B4",
+  "file": "exe",
+  "addr": "800195B4",
+  "room": 60,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$m02b%2Musashi%0$s13: Waaaah! Wh-what's goin' on?!"
+ },
+ {
+  "id": "exe_800195F0",
+  "file": "exe",
+  "addr": "800195F0",
+  "room": 56,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$m03b%2Benkei%0$s13: Th-the Getter's--! H-help meee!"
+ },
+ {
+  "id": "exe_80019628",
+  "file": "exe",
+  "addr": "80019628",
+  "room": 52,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$m04b%2Go%0$s13: Damn you! Move like you're supposed to!"
+ },
+ {
+  "id": "exe_8001965C",
+  "file": "exe",
+  "addr": "8001965C",
+  "room": 68,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$m05b%2Sho%0$s13: It's no use! The Getter won't respond to the controls!"
+ },
+ {
+  "id": "exe_800196A0",
+  "file": "exe",
+  "addr": "800196A0",
+  "room": 56,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$m06b%2Gai%0$s13: Th-the robot's Getter Ray level won't stabilize!"
+ },
+ {
+  "id": "exe_800196D8",
+  "file": "exe",
+  "addr": "800196D8",
+  "room": 48,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$m07b%2Michiru%0$s13: Wh-what's happening?!"
+ },
+ {
+  "id": "exe_80019708",
+  "file": "exe",
+  "addr": "80019708",
+  "room": 64,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$m08b%2Lambert%0$s13: Blast it! The Getter won't obey me!"
+ },
+ {
+  "id": "exe_80019748",
+  "file": "exe",
+  "addr": "80019748",
+  "room": 68,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$m09b%2Schwartz%0$s13: Damn it! This is why you can't trust anything made in Japan!"
+ },
+ {
+  "id": "exe_8001978C",
+  "file": "exe",
+  "addr": "8001978C",
+  "room": 60,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$m10b%2Bob%0$s13: Wh-what the--! This thing's moving on its own!"
+ },
+ {
+  "id": "exe_800197C8",
+  "file": "exe",
+  "addr": "800197C8",
+  "room": 60,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$m11b%2Sam%0$s13: Come on! Move the way I tell you, damn it!"
+ },
+ {
+  "id": "exe_80019804",
+  "file": "exe",
+  "addr": "80019804",
+  "room": 60,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$m12b%2Linda%0$s13: What?! You won't do as I say?!"
+ },
+ {
+  "id": "exe_80019840",
+  "file": "exe",
+  "addr": "80019840",
+  "room": 72,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$m13d%2Shatner%0$s13: Wh-what?! Something's wrong with this Getter!"
+ },
+ {
+  "id": "exe_80019888",
+  "file": "exe",
+  "addr": "80019888",
+  "room": 68,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$f14f%2Jack%0$s13: WHAT?! The Getter is moving all by itself-desu!"
+ },
+ {
+  "id": "exe_800198CC",
+  "file": "exe",
+  "addr": "800198CC",
+  "room": 56,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$f15f%2Mary%0$s13: Oh! H-help me, pleeease!"
+ },
+ {
+  "id": "exe_80019904",
+  "file": "exe",
+  "addr": "80019904",
+  "room": 68,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$m16b%2Akane%0$s13: What's going on?! The Getter's moving on its own?!"
+ },
+ {
+  "id": "exe_80019948",
+  "file": "exe",
+  "addr": "80019948",
+  "room": 52,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$m17b%2Tsubaki%0$s13: The Getter's gone berserk?! What does this mean?!"
+ },
+ {
+  "id": "exe_8001997C",
+  "file": "exe",
+  "addr": "8001997C",
+  "room": 44,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$m18b%2Kaede%0$s13: Jeez... I'm so hungryyy..."
+ },
+ {
+  "id": "exe_800199A8",
+  "file": "exe",
+  "addr": "800199A8",
+  "room": 56,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$m61b%2$n%0$s13: Th-the Getter... is it going berserk?!"
+ },
+ {
+  "id": "exe_800199E0",
+  "file": "exe",
+  "addr": "800199E0",
+  "room": 52,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$m62b%2$n%0$s13: Th-the Getter's going berserk?!"
+ },
+ {
+  "id": "exe_80019A14",
+  "file": "exe",
+  "addr": "80019A14",
+  "room": 84,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$m21d%2Dr. Saotome%0$s13: This is bad! The Getter Rays are running wild! I can't control the Getter!"
+ },
+ {
+  "id": "exe_80019A68",
+  "file": "exe",
+  "addr": "80019A68",
+  "room": 28,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$f23a%2Furuta%0$s13: ?!"
+ },
+ {
+  "id": "exe_80019A84",
+  "file": "exe",
+  "addr": "80019A84",
+  "room": 36,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$f19d%2Captain Texas%0$s13: ?!"
+ },
+ {
+  "id": "exe_80019AA8",
+  "file": "exe",
+  "addr": "80019AA8",
+  "room": 56,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$f25b%2Researcher%0$s13: Th-this is bad! It's gone berserk!"
+ },
+ {
+  "id": "exe_80019AE0",
+  "file": "exe",
+  "addr": "80019AE0",
+  "room": 52,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$f26b%2Researcher%0$s13: What the...! It's running wild!"
+ },
+ {
+  "id": "exe_8001E8ED",
+  "file": "exe",
+  "addr": "8001E8ED",
+  "room": 6,
+  "refs": 0,
+  "kind": "ui",
+  "en": ""
+ },
+ {
+  "id": "exe_8001ED0D",
+  "file": "exe",
+  "addr": "8001ED0D",
+  "room": 6,
+  "refs": 0,
+  "kind": "ui",
+  "en": ""
+ },
+ {
+  "id": "exe_8002121E",
+  "file": "exe",
+  "addr": "8002121E",
+  "room": 5,
+  "refs": 0,
+  "kind": "ui",
+  "en": ""
+ },
+ {
+  "id": "exe_8002E5FA",
+  "file": "exe",
+  "addr": "8002E5FA",
+  "room": 5,
+  "refs": 0,
+  "kind": "ui",
+  "en": ""
+ },
+ {
+  "id": "exe_8003A7C7",
+  "file": "exe",
+  "addr": "8003A7C7",
+  "room": 7,
+  "refs": 0,
+  "kind": "ui",
+  "en": ""
+ },
+ {
+  "id": "exe_80080B6D",
+  "file": "exe",
+  "addr": "80080B6D",
+  "room": 889,
+  "refs": 0,
+  "kind": "ui",
+  "en": ""
+ },
+ {
+  "id": "exe_80082210",
+  "file": "exe",
+  "addr": "80082210",
+  "room": 72,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Defeat: All allied units destroyed.\n          Getter Robo or a Get Machine destroyed."
+ },
+ {
+  "id": "exe_80082C68",
+  "file": "exe",
+  "addr": "80082C68",
+  "room": 8,
+  "refs": 0,
+  "kind": "ui",
+  "en": ""
+ },
+ {
+  "id": "exe_80082D4C",
+  "file": "exe",
+  "addr": "80082D4C",
+  "room": 8,
+  "refs": 2,
+  "kind": "ui",
+  "en": "Nobody"
+ },
+ {
+  "id": "exe_80082E90",
+  "file": "exe",
+  "addr": "80082E90",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Fine"
+ },
+ {
+  "id": "exe_80082E98",
+  "file": "exe",
+  "addr": "80082E98",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Def"
+ },
+ {
+  "id": "exe_80082EA0",
+  "file": "exe",
+  "addr": "80082EA0",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Eva"
+ },
+ {
+  "id": "exe_80082EA8",
+  "file": "exe",
+  "addr": "80082EA8",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Cntr"
+ },
+ {
+  "id": "exe_80082EB0",
+  "file": "exe",
+  "addr": "80082EB0",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Pick"
+ },
+ {
+  "id": "exe_80082EBC",
+  "file": "exe",
+  "addr": "80082EBC",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Pt.1"
+ },
+ {
+  "id": "exe_80082EC4",
+  "file": "exe",
+  "addr": "80082EC4",
+  "room": 8,
+  "refs": 2,
+  "kind": "ui",
+  "en": "Pt.2"
+ },
+ {
+  "id": "exe_80082ECC",
+  "file": "exe",
+  "addr": "80082ECC",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Into Space"
+ },
+ {
+  "id": "exe_80082ED4",
+  "file": "exe",
+  "addr": "80082ED4",
+  "room": 10,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Siblings"
+ },
+ {
+  "id": "exe_80082EF0",
+  "file": "exe",
+  "addr": "80082EF0",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Abrd"
+ },
+ {
+  "id": "exe_80082EF8",
+  "file": "exe",
+  "addr": "80082EF8",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Brsk"
+ },
+ {
+  "id": "exe_80082F10",
+  "file": "exe",
+  "addr": "80082F10",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Wpn"
+ },
+ {
+  "id": "exe_80082F18",
+  "file": "exe",
+  "addr": "80082F18",
+  "room": 8,
+  "refs": 2,
+  "kind": "ui",
+  "en": "Atk"
+ },
+ {
+  "id": "exe_80082F2C",
+  "file": "exe",
+  "addr": "80082F2C",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Stat"
+ },
+ {
+  "id": "exe_80082F34",
+  "file": "exe",
+  "addr": "80082F34",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "By HP"
+ },
+ {
+  "id": "exe_80082F7C",
+  "file": "exe",
+  "addr": "80082F7C",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Swap"
+ },
+ {
+  "id": "exe_80082F84",
+  "file": "exe",
+  "addr": "80082F84",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Ray+"
+ },
+ {
+  "id": "exe_80082F8C",
+  "file": "exe",
+  "addr": "80082F8C",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Lure"
+ },
+ {
+  "id": "exe_80082F94",
+  "file": "exe",
+  "addr": "80082F94",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Fury"
+ },
+ {
+  "id": "exe_80082F9C",
+  "file": "exe",
+  "addr": "80082F9C",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Scan"
+ },
+ {
+  "id": "exe_80082FA4",
+  "file": "exe",
+  "addr": "80082FA4",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Grit"
+ },
+ {
+  "id": "exe_80082FAC",
+  "file": "exe",
+  "addr": "80082FAC",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Mend"
+ },
+ {
+  "id": "exe_80082FB4",
+  "file": "exe",
+  "addr": "80082FB4",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Rise"
+ },
+ {
+  "id": "exe_80082FBC",
+  "file": "exe",
+  "addr": "80082FBC",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Boom"
+ },
+ {
+  "id": "exe_80082FC4",
+  "file": "exe",
+  "addr": "80082FC4",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Cntr"
+ },
+ {
+  "id": "exe_80082FCC",
+  "file": "exe",
+  "addr": "80082FCC",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "None"
+ },
+ {
+  "id": "exe_80082FD4",
+  "file": "exe",
+  "addr": "80082FD4",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Nobody"
+ },
+ {
+  "id": "exe_80011F24",
+  "file": "exe",
+  "addr": "80011F24",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Episode %ld%s"
+ },
+ {
+  "id": "exe_8008078C",
+  "file": "exe",
+  "addr": "8008078C",
+  "room": 104,
+  "refs": 1,
+  "kind": "ui",
+  "en": ""
+ },
+ {
+  "id": "game_8008B7F0",
+  "file": "game",
+  "addr": "8008B7F0",
+  "room": 5,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Flat"
+ },
+ {
+  "id": "game_8008B804",
+  "file": "game",
+  "addr": "8008B804",
+  "room": 5,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Ice"
+ },
+ {
+  "id": "game_8008B809",
+  "file": "game",
+  "addr": "8008B809",
+  "room": 5,
+  "refs": 0,
+  "kind": "ui",
+  "en": "City"
+ },
+ {
+  "id": "game_8008B80E",
+  "file": "game",
+  "addr": "8008B80E",
+  "room": 5,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Road"
+ },
+ {
+  "id": "game_8008B813",
+  "file": "game",
+  "addr": "8008B813",
+  "room": 5,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Spc"
+ },
+ {
+  "id": "game_8008B818",
+  "file": "game",
+  "addr": "8008B818",
+  "room": 5,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Bog"
+ },
+ {
+  "id": "game_8008BA8C",
+  "file": "game",
+  "addr": "8008BA8C",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Controls"
+ },
+ {
+  "id": "game_8008BA98",
+  "file": "game",
+  "addr": "8008BA98",
+  "room": 16,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Square: ON"
+ },
+ {
+  "id": "game_8008BAA8",
+  "file": "game",
+  "addr": "8008BAA8",
+  "room": 20,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Square: OFF"
+ },
+ {
+  "id": "game_8008BABC",
+  "file": "game",
+  "addr": "8008BABC",
+  "room": 24,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Vibration: ON"
+ },
+ {
+  "id": "game_8008BAD4",
+  "file": "game",
+  "addr": "8008BAD4",
+  "room": 28,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Vibration: OFF"
+ },
+ {
+  "id": "game_8008BAF0",
+  "file": "game",
+  "addr": "8008BAF0",
+  "room": 20,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Sound: Stereo"
+ },
+ {
+  "id": "game_8008BB04",
+  "file": "game",
+  "addr": "8008BB04",
+  "room": 20,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Sound: Mono"
+ },
+ {
+  "id": "game_8008BB58",
+  "file": "game",
+  "addr": "8008BB58",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Roster"
+ },
+ {
+  "id": "game_8008BB60",
+  "file": "game",
+  "addr": "8008BB60",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Full Map"
+ },
+ {
+  "id": "game_8008BB6C",
+  "file": "game",
+  "addr": "8008BB6C",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Cancel"
+ },
+ {
+  "id": "game_8008BB78",
+  "file": "game",
+  "addr": "8008BB78",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "OK"
+ },
+ {
+  "id": "game_8008BB80",
+  "file": "game",
+  "addr": "8008BB80",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Defaults"
+ },
+ {
+  "id": "game_8008BB8C",
+  "file": "game",
+  "addr": "8008BB8C",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Back"
+ },
+ {
+  "id": "game_8008BBFE",
+  "file": "game",
+  "addr": "8008BBFE",
+  "room": 10,
+  "refs": 0,
+  "kind": "ui",
+  "en": "SFStatus"
+ },
+ {
+  "id": "game_8008BC08",
+  "file": "game",
+  "addr": "8008BC08",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Wait"
+ },
+ {
+  "id": "game_8008BC10",
+  "file": "game",
+  "addr": "8008BC10",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Lnch"
+ },
+ {
+  "id": "game_8008BC18",
+  "file": "game",
+  "addr": "8008BC18",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Board"
+ },
+ {
+  "id": "game_8008BC20",
+  "file": "game",
+  "addr": "8008BC20",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Scan"
+ },
+ {
+  "id": "game_8008BC28",
+  "file": "game",
+  "addr": "8008BC28",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Swap"
+ },
+ {
+  "id": "game_8008BC30",
+  "file": "game",
+  "addr": "8008BC30",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Mend"
+ },
+ {
+  "id": "game_8008BC38",
+  "file": "game",
+  "addr": "8008BC38",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Fix"
+ },
+ {
+  "id": "game_8008BC40",
+  "file": "game",
+  "addr": "8008BC40",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Refill"
+ },
+ {
+  "id": "game_8008BC48",
+  "file": "game",
+  "addr": "8008BC48",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Dig"
+ },
+ {
+  "id": "game_8008BC50",
+  "file": "game",
+  "addr": "8008BC50",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Up"
+ },
+ {
+  "id": "game_8008BC58",
+  "file": "game",
+  "addr": "8008BC58",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Split"
+ },
+ {
+  "id": "game_8008BC60",
+  "file": "game",
+  "addr": "8008BC60",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Form"
+ },
+ {
+  "id": "game_8008BC68",
+  "file": "game",
+  "addr": "8008BC68",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Join"
+ },
+ {
+  "id": "game_8008BC70",
+  "file": "game",
+  "addr": "8008BC70",
+  "room": 8,
+  "refs": 3,
+  "kind": "ui",
+  "en": "Atk"
+ },
+ {
+  "id": "game_8008BC78",
+  "file": "game",
+  "addr": "8008BC78",
+  "room": 8,
+  "refs": 2,
+  "kind": "ui",
+  "en": "Move"
+ },
+ {
+  "id": "game_8008BC80",
+  "file": "game",
+  "addr": "8008BC80",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Debug"
+ },
+ {
+  "id": "game_8008BC8C",
+  "file": "game",
+  "addr": "8008BC8C",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "End Turn"
+ },
+ {
+  "id": "game_8008BC98",
+  "file": "game",
+  "addr": "8008BC98",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Settings"
+ },
+ {
+  "id": "game_8008BCA4",
+  "file": "game",
+  "addr": "8008BCA4",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Load"
+ },
+ {
+  "id": "game_8008BCAC",
+  "file": "game",
+  "addr": "8008BCAC",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Save"
+ },
+ {
+  "id": "game_8008BCB4",
+  "file": "game",
+  "addr": "8008BCB4",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Objectives"
+ },
+ {
+  "id": "game_8008BCC0",
+  "file": "game",
+  "addr": "8008BCC0",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Full Map"
+ },
+ {
+  "id": "game_8008BCCC",
+  "file": "game",
+  "addr": "8008BCCC",
+  "room": 8,
+  "refs": 2,
+  "kind": "ui",
+  "en": "Roster"
+ },
+ {
+  "id": "game_8008BCD4",
+  "file": "game",
+  "addr": "8008BCD4",
+  "room": 16,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Battle: OFF"
+ },
+ {
+  "id": "game_8008BCE4",
+  "file": "game",
+  "addr": "8008BCE4",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Battle: ON"
+ },
+ {
+  "id": "game_8008BCF0",
+  "file": "game",
+  "addr": "8008BCF0",
+  "room": 16,
+  "refs": 1,
+  "kind": "ui",
+  "en": "AI: OFF"
+ },
+ {
+  "id": "game_8008BD00",
+  "file": "game",
+  "addr": "8008BD00",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "AI: ON"
+ },
+ {
+  "id": "game_8008BD54",
+  "file": "game",
+  "addr": "8008BD54",
+  "room": 20,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Model Preview"
+ },
+ {
+  "id": "game_8008BD68",
+  "file": "game",
+  "addr": "8008BD68",
+  "room": 20,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Reload Params"
+ },
+ {
+  "id": "game_8008BD7C",
+  "file": "game",
+  "addr": "8008BD7C",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "U-Turn"
+ },
+ {
+  "id": "game_8008BD88",
+  "file": "game",
+  "addr": "8008BD88",
+  "room": 16,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Stage Clear"
+ },
+ {
+  "id": "game_8008BE20",
+  "file": "game",
+  "addr": "8008BE20",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Victory"
+ },
+ {
+  "id": "game_8008BE2C",
+  "file": "game",
+  "addr": "8008BE2C",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Defeat"
+ },
+ {
+  "id": "game_8008BFF8",
+  "file": "game",
+  "addr": "8008BFF8",
+  "room": 20,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Player Turn"
+ },
+ {
+  "id": "game_8008C00C",
+  "file": "game",
+  "addr": "8008C00C",
+  "room": 12,
+  "refs": 2,
+  "kind": "ui",
+  "en": "Enemy Turn"
+ },
+ {
+  "id": "game_8008C018",
+  "file": "game",
+  "addr": "8008C018",
+  "room": 16,
+  "refs": 2,
+  "kind": "ui",
+  "en": "Berserk Turn"
+ },
+ {
+  "id": "game_8008C124",
+  "file": "game",
+  "addr": "8008C124",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Choose action"
+ },
+ {
+  "id": "game_8008C130",
+  "file": "game",
+  "addr": "8008C130",
+  "room": 20,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Move where?"
+ },
+ {
+  "id": "game_8008C144",
+  "file": "game",
+  "addr": "8008C144",
+  "room": 20,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Repair which unit?"
+ },
+ {
+  "id": "game_8008C158",
+  "file": "game",
+  "addr": "8008C158",
+  "room": 20,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Mend which unit?"
+ },
+ {
+  "id": "game_8008C16C",
+  "file": "game",
+  "addr": "8008C16C",
+  "room": 24,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Swap with which unit?"
+ },
+ {
+  "id": "game_8008C184",
+  "file": "game",
+  "addr": "8008C184",
+  "room": 20,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Refill which unit?"
+ },
+ {
+  "id": "game_8008C198",
+  "file": "game",
+  "addr": "8008C198",
+  "room": 20,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Board which unit?"
+ },
+ {
+  "id": "game_8008C1AC",
+  "file": "game",
+  "addr": "8008C1AC",
+  "room": 20,
+  "refs": 2,
+  "kind": "ui",
+  "en": "Scan which enemy?"
+ },
+ {
+  "id": "game_8008C1C0",
+  "file": "game",
+  "addr": "8008C1C0",
+  "room": 24,
+  "refs": 2,
+  "kind": "ui",
+  "en": "Where to aim?"
+ },
+ {
+  "id": "game_8008C2B0",
+  "file": "game",
+  "addr": "8008C2B0",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": " Terr.:"
+ },
+ {
+  "id": "game_8008C2B8",
+  "file": "game",
+  "addr": "8008C2B8",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Sea Mod:"
+ },
+ {
+  "id": "game_8008C2C8",
+  "file": "game",
+  "addr": "8008C2C8",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Cost"
+ },
+ {
+  "id": "game_8008C2D8",
+  "file": "game",
+  "addr": "8008C2D8",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Eva"
+ },
+ {
+  "id": "game_8008C2E0",
+  "file": "game",
+  "addr": "8008C2E0",
+  "room": 8,
+  "refs": 2,
+  "kind": "ui",
+  "en": "Def"
+ },
+ {
+  "id": "game_8008C2E8",
+  "file": "game",
+  "addr": "8008C2E8",
+  "room": 8,
+  "refs": 2,
+  "kind": "ui",
+  "en": "Cntr"
+ },
+ {
+  "id": "game_8008C344",
+  "file": "game",
+  "addr": "8008C344",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Luna"
+ },
+ {
+  "id": "game_8008C34C",
+  "file": "game",
+  "addr": "8008C34C",
+  "room": 8,
+  "refs": 2,
+  "kind": "ui",
+  "en": "Bog"
+ },
+ {
+  "id": "game_8008C358",
+  "file": "game",
+  "addr": "8008C358",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Base"
+ },
+ {
+  "id": "game_8008C360",
+  "file": "game",
+  "addr": "8008C360",
+  "room": 8,
+  "refs": 2,
+  "kind": "ui",
+  "en": "Gun"
+ },
+ {
+  "id": "game_8008C368",
+  "file": "game",
+  "addr": "8008C368",
+  "room": 8,
+  "refs": 2,
+  "kind": "ui",
+  "en": "Fcty"
+ },
+ {
+  "id": "game_8008C370",
+  "file": "game",
+  "addr": "8008C370",
+  "room": 8,
+  "refs": 3,
+  "kind": "ui",
+  "en": "Lab"
+ },
+ {
+  "id": "game_8008C378",
+  "file": "game",
+  "addr": "8008C378",
+  "room": 8,
+  "refs": 2,
+  "kind": "ui",
+  "en": "Subsp."
+ },
+ {
+  "id": "game_8008C380",
+  "file": "game",
+  "addr": "8008C380",
+  "room": 8,
+  "refs": 3,
+  "kind": "ui",
+  "en": "Gera"
+ },
+ {
+  "id": "game_8008C388",
+  "file": "game",
+  "addr": "8008C388",
+  "room": 8,
+  "refs": 3,
+  "kind": "ui",
+  "en": "Schl"
+ },
+ {
+  "id": "game_8008C390",
+  "file": "game",
+  "addr": "8008C390",
+  "room": 8,
+  "refs": 3,
+  "kind": "ui",
+  "en": "Pwr.Pl"
+ },
+ {
+  "id": "game_8008C398",
+  "file": "game",
+  "addr": "8008C398",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Strat."
+ },
+ {
+  "id": "game_8008C468",
+  "file": "game",
+  "addr": "8008C468",
+  "room": 7,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Turn"
+ },
+ {
+  "id": "game_8008CFE4",
+  "file": "game",
+  "addr": "8008CFE4",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Eva"
+ },
+ {
+  "id": "game_8008CFEC",
+  "file": "game",
+  "addr": "8008CFEC",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Accuracy"
+ },
+ {
+  "id": "game_8008CFF8",
+  "file": "game",
+  "addr": "8008CFF8",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Move"
+ },
+ {
+  "id": "game_8008D000",
+  "file": "game",
+  "addr": "8008D000",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Def"
+ },
+ {
+  "id": "game_8008D008",
+  "file": "game",
+  "addr": "8008D008",
+  "room": 8,
+  "refs": 2,
+  "kind": "ui",
+  "en": "HP"
+ },
+ {
+  "id": "game_8008D010",
+  "file": "game",
+  "addr": "8008D010",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Getter Ray"
+ },
+ {
+  "id": "game_8008D01C",
+  "file": "game",
+  "addr": "8008D01C",
+  "room": 12,
+  "refs": 2,
+  "kind": "ui",
+  "en": "Energy"
+ },
+ {
+  "id": "game_8008D028",
+  "file": "game",
+  "addr": "8008D028",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Pilot"
+ },
+ {
+  "id": "game_8008D030",
+  "file": "game",
+  "addr": "8008D030",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Refl"
+ },
+ {
+  "id": "game_8008D038",
+  "file": "game",
+  "addr": "8008D038",
+  "room": 8,
+  "refs": 3,
+  "kind": "ui",
+  "en": "Shot"
+ },
+ {
+  "id": "game_8008D040",
+  "file": "game",
+  "addr": "8008D040",
+  "room": 8,
+  "refs": 4,
+  "kind": "ui",
+  "en": "Mel."
+ },
+ {
+  "id": "game_8008D084",
+  "file": "game",
+  "addr": "8008D084",
+  "room": 7,
+  "refs": 1,
+  "kind": "ui",
+  "en": "HP"
+ },
+ {
+  "id": "game_8008D08B",
+  "file": "game",
+  "addr": "8008D08B",
+  "room": 7,
+  "refs": 0,
+  "kind": "ui",
+  "en": "EN"
+ },
+ {
+  "id": "game_8008D092",
+  "file": "game",
+  "addr": "8008D092",
+  "room": 7,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Armr"
+ },
+ {
+  "id": "game_8008D099",
+  "file": "game",
+  "addr": "8008D099",
+  "room": 7,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Mobil."
+ },
+ {
+  "id": "game_8008D0A0",
+  "file": "game",
+  "addr": "8008D0A0",
+  "room": 8,
+  "refs": 0,
+  "kind": "ui",
+  "en": "GE"
+ },
+ {
+  "id": "game_8008D0A8",
+  "file": "game",
+  "addr": "8008D0A8",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "A/ /"
+ },
+ {
+  "id": "game_8008D0B4",
+  "file": "game",
+  "addr": "8008D0B4",
+  "room": 12,
+  "refs": 0,
+  "kind": "ui",
+  "en": "A/L/"
+ },
+ {
+  "id": "game_8008D0C0",
+  "file": "game",
+  "addr": "8008D0C0",
+  "room": 12,
+  "refs": 0,
+  "kind": "ui",
+  "en": " /L/S"
+ },
+ {
+  "id": "game_8008D0CC",
+  "file": "game",
+  "addr": "8008D0CC",
+  "room": 12,
+  "refs": 0,
+  "kind": "ui",
+  "en": "A/ /"
+ },
+ {
+  "id": "game_8008D0D8",
+  "file": "game",
+  "addr": "8008D0D8",
+  "room": 12,
+  "refs": 0,
+  "kind": "ui",
+  "en": "A/L/"
+ },
+ {
+  "id": "game_8008D0E4",
+  "file": "game",
+  "addr": "8008D0E4",
+  "room": 12,
+  "refs": 0,
+  "kind": "ui",
+  "en": " /L/"
+ },
+ {
+  "id": "game_8008D0F0",
+  "file": "game",
+  "addr": "8008D0F0",
+  "room": 16,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Operates In"
+ },
+ {
+  "id": "game_8008D100",
+  "file": "game",
+  "addr": "8008D100",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "A/L/S"
+ },
+ {
+  "id": "game_8008D10C",
+  "file": "game",
+  "addr": "8008D10C",
+  "room": 12,
+  "refs": 2,
+  "kind": "ui",
+  "en": "Terrain"
+ },
+ {
+  "id": "game_8008D14C",
+  "file": "game",
+  "addr": "8008D14C",
+  "room": 7,
+  "refs": 1,
+  "kind": "ui",
+  "en": "All"
+ },
+ {
+  "id": "game_8008D153",
+  "file": "game",
+  "addr": "8008D153",
+  "room": 7,
+  "refs": 0,
+  "kind": "ui",
+  "en": "4 Dir"
+ },
+ {
+  "id": "game_8008D15A",
+  "file": "game",
+  "addr": "8008D15A",
+  "room": 10,
+  "refs": 0,
+  "kind": "ui",
+  "en": "2 Dir"
+ },
+ {
+  "id": "game_8008D16D",
+  "file": "game",
+  "addr": "8008D16D",
+  "room": 11,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Line"
+ },
+ {
+  "id": "game_8008D178",
+  "file": "game",
+  "addr": "8008D178",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Wpn"
+ },
+ {
+  "id": "game_8008D180",
+  "file": "game",
+  "addr": "8008D180",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Attack"
+ },
+ {
+  "id": "game_8008D19C",
+  "file": "game",
+  "addr": "8008D19C",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "GE Cost"
+ },
+ {
+  "id": "game_8008D1A8",
+  "file": "game",
+  "addr": "8008D1A8",
+  "room": 12,
+  "refs": 2,
+  "kind": "ui",
+  "en": "EN Cost"
+ },
+ {
+  "id": "game_8008D1B4",
+  "file": "game",
+  "addr": "8008D1B4",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Kind"
+ },
+ {
+  "id": "game_8008D1BC",
+  "file": "game",
+  "addr": "8008D1BC",
+  "room": 8,
+  "refs": 2,
+  "kind": "ui",
+  "en": "Spec"
+ },
+ {
+  "id": "game_8008D1C4",
+  "file": "game",
+  "addr": "8008D1C4",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Sea"
+ },
+ {
+  "id": "game_8008D1D4",
+  "file": "game",
+  "addr": "8008D1D4",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Terr"
+ },
+ {
+  "id": "game_8008D1DC",
+  "file": "game",
+  "addr": "8008D1DC",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Range"
+ },
+ {
+  "id": "game_8008D1EC",
+  "file": "game",
+  "addr": "8008D1EC",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Rng"
+ },
+ {
+  "id": "game_8008D200",
+  "file": "game",
+  "addr": "8008D200",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Atk Area"
+ },
+ {
+  "id": "game_8008D20C",
+  "file": "game",
+  "addr": "8008D20C",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Area"
+ },
+ {
+  "id": "game_8008D3B0",
+  "file": "game",
+  "addr": "8008D3B0",
+  "room": 48,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$f%02da%c2%s%c0 gained %d experience points."
+ },
+ {
+  "id": "game_8008D3E4",
+  "file": "game",
+  "addr": "8008D3E4",
+  "room": 36,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$f%02da%c2%s%c0 reached level %d."
+ },
+ {
+  "id": "game_8008D408",
+  "file": "game",
+  "addr": "8008D408",
+  "room": 40,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$/%c2%s%c0's ability rose to level %d."
+ },
+ {
+  "id": "game_8008D458",
+  "file": "game",
+  "addr": "8008D458",
+  "room": 84,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$f00aWe've got Ryoma's case to go by, after all. Showing him the real thing will be quicker than talking."
+ },
+ {
+  "id": "game_8008D4AC",
+  "file": "game",
+  "addr": "8008D4AC",
+  "room": 36,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$f00aAnd this is what you'll use to persuade him?"
+ },
+ {
+  "id": "game_8008D4D0",
+  "file": "game",
+  "addr": "8008D4D0",
+  "room": 16,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$f50cThat's right."
+ },
+ {
+  "id": "game_8008D4E0",
+  "file": "game",
+  "addr": "8008D4E0",
+  "room": 60,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$f21gHeh, sounds like quite the big shot. So I just gotta talk him into it?"
+ },
+ {
+  "id": "game_8008D51C",
+  "file": "game",
+  "addr": "8008D51C",
+  "room": 396,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$f00aIn the school building you can s%1e%2e over there@00 is a pilot candidate, \"Hayato Jin.\" Some time ago, fed up with the academy's corruption, he formed an opposition group.$/He went to war with the academy head-on.$/$f01aNormally, movements like that end up crushed by the academy, but $f03athe IQ 300 genius \"Hayato Jin\"... $f03bhe was different. Through swift action and solidarity, $f03dand above all Hayato Jin's intellect, he brought the academy to its knees. $f15aEver since, that academy has been known as \"Hayato's school.\""
+ },
+ {
+  "id": "game_8008C460",
+  "file": "game",
+  "addr": "8008C460",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "\"%s\""
+ },
+ {
+  "id": "game_8008D1F8",
+  "file": "game",
+  "addr": "8008D1F8",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "%d-%d"
+ },
+ {
+  "id": "game_8008B7F5",
+  "file": "game",
+  "addr": "8008B7F5",
+  "room": 5,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Wood"
+ },
+ {
+  "id": "game_8008B7FA",
+  "file": "game",
+  "addr": "8008B7FA",
+  "room": 5,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Sea"
+ },
+ {
+  "id": "game_8008B7FF",
+  "file": "game",
+  "addr": "8008B7FF",
+  "room": 5,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Mtn"
+ },
+ {
+  "id": "game_8008C27C",
+  "file": "game",
+  "addr": "8008C27C",
+  "room": 4,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Spc"
+ },
+ {
+  "id": "game_8008C280",
+  "file": "game",
+  "addr": "8008C280",
+  "room": 4,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Sea"
+ },
+ {
+  "id": "game_8008C284",
+  "file": "game",
+  "addr": "8008C284",
+  "room": 4,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Lnd"
+ },
+ {
+  "id": "game_8008C288",
+  "file": "game",
+  "addr": "8008C288",
+  "room": 4,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Air"
+ },
+ {
+  "id": "game_8008C354",
+  "file": "game",
+  "addr": "8008C354",
+  "room": 4,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Brg"
+ },
+ {
+  "id": "game_8008D164",
+  "file": "game",
+  "addr": "8008D164",
+  "room": 9,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Circle"
+ },
+ {
+  "id": "game_8008D1E8",
+  "file": "game",
+  "addr": "8008D1E8",
+  "room": 4,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Shp"
+ },
+ {
+  "id": "game_8008BB18",
+  "file": "game",
+  "addr": "8008BB18",
+  "room": 16,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Find Enemy (R)"
+ },
+ {
+  "id": "game_8008BB28",
+  "file": "game",
+  "addr": "8008BB28",
+  "room": 16,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Find Enemy (L)"
+ },
+ {
+  "id": "game_8008BB38",
+  "file": "game",
+  "addr": "8008BB38",
+  "room": 16,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Find Ally (R)"
+ },
+ {
+  "id": "game_8008BB48",
+  "file": "game",
+  "addr": "8008BB48",
+  "room": 16,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Find Ally (L)"
+ },
+ {
+  "id": "game_8008BD0C",
+  "file": "game",
+  "addr": "8008BD0C",
+  "room": 16,
+  "refs": 1,
+  "kind": "ui",
+  "en": "1P Invuln: ON"
+ },
+ {
+  "id": "game_8008BD1C",
+  "file": "game",
+  "addr": "8008BD1C",
+  "room": 20,
+  "refs": 1,
+  "kind": "ui",
+  "en": "1P Invuln: OFF"
+ },
+ {
+  "id": "game_8008BD30",
+  "file": "game",
+  "addr": "8008BD30",
+  "room": 16,
+  "refs": 1,
+  "kind": "ui",
+  "en": "AI Invuln: ON"
+ },
+ {
+  "id": "game_8008BD40",
+  "file": "game",
+  "addr": "8008BD40",
+  "room": 20,
+  "refs": 1,
+  "kind": "ui",
+  "en": "AI Invuln: OFF"
+ },
+ {
+  "id": "game_8008C28C",
+  "file": "game",
+  "addr": "8008C28C",
+  "room": 20,
+  "refs": 1,
+  "kind": "ui",
+  "en": "?????????"
+ },
+ {
+  "id": "title_8008B8BC",
+  "file": "title",
+  "addr": "8008B8BC",
+  "room": 12,
+  "refs": 4,
+  "kind": "ui",
+  "en": "..."
+ },
+ {
+  "id": "title_8008B8C8",
+  "file": "title",
+  "addr": "8008B8C8",
+  "room": 40,
+  "refs": 1,
+  "kind": "ui",
+  "en": "raises Move next turn only,\" right?"
+ },
+ {
+  "id": "title_8008B8F0",
+  "file": "title",
+  "addr": "8008B8F0",
+  "room": 32,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Getter Ray collection,\" right?"
+ },
+ {
+  "id": "title_8008B910",
+  "file": "title",
+  "addr": "8008B910",
+  "room": 40,
+  "refs": 1,
+  "kind": "ui",
+  "en": "restores EN next turn only, or raises"
+ },
+ {
+  "id": "title_8008B938",
+  "file": "title",
+  "addr": "8008B938",
+  "room": 40,
+  "refs": 2,
+  "kind": "ui",
+  "en": "%0\"Ending a turn with no move or attack"
+ },
+ {
+  "id": "title_8008B960",
+  "file": "title",
+  "addr": "8008B960",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "right?"
+ },
+ {
+  "id": "title_8008B96C",
+  "file": "title",
+  "addr": "8008B96C",
+  "room": 40,
+  "refs": 1,
+  "kind": "ui",
+  "en": "%0\"Regains some HP as each turn begins,\""
+ },
+ {
+  "id": "title_8008B994",
+  "file": "title",
+  "addr": "8008B994",
+  "room": 40,
+  "refs": 1,
+  "kind": "ui",
+  "en": "%0\"Raises the critical hit rate,\"%0 right?"
+ },
+ {
+  "id": "title_8008B9BC",
+  "file": "title",
+  "addr": "8008B9BC",
+  "room": 28,
+  "refs": 1,
+  "kind": "ui",
+  "en": "%0ally unit,\"%0 right?"
+ },
+ {
+  "id": "title_8008B9D8",
+  "file": "title",
+  "addr": "8008B9D8",
+  "room": 40,
+  "refs": 1,
+  "kind": "ui",
+  "en": "%0\"Swaps places between you and a chosen"
+ },
+ {
+  "id": "title_8008BA00",
+  "file": "title",
+  "addr": "8008BA00",
+  "room": 44,
+  "refs": 1,
+  "kind": "ui",
+  "en": "%0\"Boosts Getter Ray collection,\"%0 right?"
+ },
+ {
+  "id": "title_8008BA2C",
+  "file": "title",
+  "addr": "8008BA2C",
+  "room": 20,
+  "refs": 1,
+  "kind": "ui",
+  "en": "%0you,\"%0 right?"
+ },
+ {
+  "id": "title_8008BA40",
+  "file": "title",
+  "addr": "8008BA40",
+  "room": 40,
+  "refs": 1,
+  "kind": "ui",
+  "en": "%0\"Lures a chosen enemy unit toward"
+ },
+ {
+  "id": "title_8008BA68",
+  "file": "title",
+  "addr": "8008BA68",
+  "room": 24,
+  "refs": 1,
+  "kind": "ui",
+  "en": "%0set level, Attack goes up,\" right?"
+ },
+ {
+  "id": "title_8008BA80",
+  "file": "title",
+  "addr": "8008BA80",
+  "room": 40,
+  "refs": 1,
+  "kind": "ui",
+  "en": "%0\"When your remaining HP drops below a"
+ },
+ {
+  "id": "title_8008BAA8",
+  "file": "title",
+  "addr": "8008BAA8",
+  "room": 20,
+  "refs": 1,
+  "kind": "ui",
+  "en": "%0enemy unit,\"%0 right?"
+ },
+ {
+  "id": "title_8008BABC",
+  "file": "title",
+  "addr": "8008BABC",
+  "room": 40,
+  "refs": 1,
+  "kind": "ui",
+  "en": "%0\"Lets you see the status of a chosen"
+ },
+ {
+  "id": "title_8008BAE4",
+  "file": "title",
+  "addr": "8008BAE4",
+  "room": 32,
+  "refs": 1,
+  "kind": "ui",
+  "en": "%0each turn,\"%0 right?"
+ },
+ {
+  "id": "title_8008BB04",
+  "file": "title",
+  "addr": "8008BB04",
+  "room": 40,
+  "refs": 1,
+  "kind": "ui",
+  "en": "%0\"Reduces the first damage you take"
+ },
+ {
+  "id": "title_8008BB2C",
+  "file": "title",
+  "addr": "8008BB2C",
+  "room": 20,
+  "refs": 1,
+  "kind": "ui",
+  "en": "chosen units,\"%0 right?"
+ },
+ {
+  "id": "title_8008BB40",
+  "file": "title",
+  "addr": "8008BB40",
+  "room": 40,
+  "refs": 1,
+  "kind": "ui",
+  "en": "%0\"Lets you restore the HP of several"
+ },
+ {
+  "id": "title_8008BB68",
+  "file": "title",
+  "addr": "8008BB68",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "right?"
+ },
+ {
+  "id": "title_8008BB70",
+  "file": "title",
+  "addr": "8008BB70",
+  "room": 44,
+  "refs": 1,
+  "kind": "ui",
+  "en": "%0\"Your movement ignores surroundings,\"%0"
+ },
+ {
+  "id": "title_8008BB9C",
+  "file": "title",
+  "addr": "8008BB9C",
+  "room": 44,
+  "refs": 1,
+  "kind": "ui",
+  "en": "%0\"Revives you once per episode,\"%0 right?"
+ },
+ {
+  "id": "title_8008BBC8",
+  "file": "title",
+  "addr": "8008BBC8",
+  "room": 28,
+  "refs": 1,
+  "kind": "ui",
+  "en": "%0you out of the battle,\"%0 right?"
+ },
+ {
+  "id": "title_8008BBE4",
+  "file": "title",
+  "addr": "8008BBE4",
+  "room": 40,
+  "refs": 1,
+  "kind": "ui",
+  "en": "%0\"Damages all units around you and takes"
+ },
+ {
+  "id": "title_8008BC0C",
+  "file": "title",
+  "addr": "8008BC0C",
+  "room": 44,
+  "refs": 1,
+  "kind": "ui",
+  "en": "%0\"Lets you move twice per turn,\"%0 right?"
+ },
+ {
+  "id": "title_8008BC38",
+  "file": "title",
+  "addr": "8008BC38",
+  "room": 44,
+  "refs": 1,
+  "kind": "ui",
+  "en": "%0\"Boosts Attack on counters,\"%0 right?"
+ },
+ {
+  "id": "title_8008BC64",
+  "file": "title",
+  "addr": "8008BC64",
+  "room": 28,
+  "refs": 1,
+  "kind": "ui",
+  "en": "It's okay. Life is long."
+ },
+ {
+  "id": "title_8008BC80",
+  "file": "title",
+  "addr": "8008BC80",
+  "room": 8,
+  "refs": 5,
+  "kind": "ui",
+  "en": "..."
+ },
+ {
+  "id": "title_8008C08C",
+  "file": "title",
+  "addr": "8008C08C",
+  "room": 36,
+  "refs": 2,
+  "kind": "ui",
+  "en": ": You're the pilot candidate."
+ },
+ {
+  "id": "title_8008C0B0",
+  "file": "title",
+  "addr": "8008C0B0",
+  "room": 28,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Will you tell me your name?"
+ },
+ {
+  "id": "title_8008C0CC",
+  "file": "title",
+  "addr": "8008C0CC",
+  "room": 8,
+  "refs": 2,
+  "kind": "ui",
+  "en": "Michiru"
+ },
+ {
+  "id": "title_8008C0D4",
+  "file": "title",
+  "addr": "8008C0D4",
+  "room": 36,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Michiru: Are you a boy or a girl?"
+ },
+ {
+  "id": "title_8008C100",
+  "file": "title",
+  "addr": "8008C100",
+  "room": 36,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Michiru: Tell me your name."
+ },
+ {
+  "id": "title_8008C12C",
+  "file": "title",
+  "addr": "8008C12C",
+  "room": 12,
+  "refs": 3,
+  "kind": "ui",
+  "en": "ABC"
+ },
+ {
+  "id": "title_8008C138",
+  "file": "title",
+  "addr": "8008C138",
+  "room": 12,
+  "refs": 4,
+  "kind": "ui",
+  "en": "Katakana"
+ },
+ {
+  "id": "title_8008C144",
+  "file": "title",
+  "addr": "8008C144",
+  "room": 12,
+  "refs": 4,
+  "kind": "ui",
+  "en": "Hiragana"
+ },
+ {
+  "id": "title_8008C158",
+  "file": "title",
+  "addr": "8008C158",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "OK"
+ },
+ {
+  "id": "title_8008C160",
+  "file": "title",
+  "addr": "8008C160",
+  "room": 28,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Michiru: Is this okay?"
+ },
+ {
+  "id": "title_8008C17C",
+  "file": "title",
+  "addr": "8008C17C",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Yes"
+ },
+ {
+  "id": "title_8008C184",
+  "file": "title",
+  "addr": "8008C184",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "/No"
+ },
+ {
+  "id": "title_8008C190",
+  "file": "title",
+  "addr": "8008C190",
+  "room": 16,
+  "refs": 2,
+  "kind": "ui",
+  "en": ": Nice name."
+ },
+ {
+  "id": "title_8008C1A0",
+  "file": "title",
+  "addr": "8008C1A0",
+  "room": 16,
+  "refs": 1,
+  "kind": "ui",
+  "en": "I'm Michiru."
+ },
+ {
+  "id": "title_8008C1B0",
+  "file": "title",
+  "addr": "8008C1B0",
+  "room": 24,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Let's work together."
+ },
+ {
+  "id": "title_8008C1C8",
+  "file": "title",
+  "addr": "8008C1C8",
+  "room": 36,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Michiru: What ability do you have?"
+ },
+ {
+  "id": "title_8008C0F8",
+  "file": "title",
+  "addr": "8008C0F8",
+  "room": 4,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Male"
+ },
+ {
+  "id": "title_8008C0FC",
+  "file": "title",
+  "addr": "8008C0FC",
+  "room": 4,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Female"
+ },
+ {
+  "id": "debug_8008D1C8",
+  "file": "debug",
+  "addr": "8008D1C8",
+  "room": 20,
+  "refs": 1,
+  "kind": "ui",
+  "en": " %sSFX name : %s"
+ },
+ {
+  "id": "debug_8008D1DC",
+  "file": "debug",
+  "addr": "8008D1DC",
+  "room": 20,
+  "refs": 0,
+  "kind": "ui",
+  "en": " %sVol (R) : %3d"
+ },
+ {
+  "id": "debug_8008D1F0",
+  "file": "debug",
+  "addr": "8008D1F0",
+  "room": 20,
+  "refs": 0,
+  "kind": "ui",
+  "en": " %sVol (L) : %3d"
+ },
+ {
+  "id": "debug_8008D204",
+  "file": "debug",
+  "addr": "8008D204",
+  "room": 9,
+  "refs": 1,
+  "kind": "ui",
+  "en": " %sQuit"
+ },
+ {
+  "id": "debug_8008D22C",
+  "file": "debug",
+  "addr": "8008D22C",
+  "room": 8,
+  "refs": 3,
+  "kind": "ui",
+  "en": "Quit"
+ },
+ {
+  "id": "debug_8008D238",
+  "file": "debug",
+  "addr": "8008D238",
+  "room": 8,
+  "refs": 3,
+  "kind": "ui",
+  "en": "OFF"
+ },
+ {
+  "id": "debug_8008D240",
+  "file": "debug",
+  "addr": "8008D240",
+  "room": 8,
+  "refs": 3,
+  "kind": "ui",
+  "en": "ON"
+ },
+ {
+  "id": "debug_8008D258",
+  "file": "debug",
+  "addr": "8008D258",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "  Play%s"
+ },
+ {
+  "id": "debug_8008D264",
+  "file": "debug",
+  "addr": "8008D264",
+  "room": 16,
+  "refs": 1,
+  "kind": "ui",
+  "en": "  Seek%s"
+ },
+ {
+  "id": "debug_8008D274",
+  "file": "debug",
+  "addr": "8008D274",
+  "room": 24,
+  "refs": 1,
+  "kind": "ui",
+  "en": " %sXA No.  : %3ld"
+ },
+ {
+  "id": "debug_8008D28C",
+  "file": "debug",
+  "addr": "8008D28C",
+  "room": 24,
+  "refs": 0,
+  "kind": "ui",
+  "en": " %sRepeat   : %3ld"
+ },
+ {
+  "id": "debug_8008D2A4",
+  "file": "debug",
+  "addr": "8008D2A4",
+  "room": 20,
+  "refs": 0,
+  "kind": "ui",
+  "en": " %sPAUSE: %s"
+ },
+ {
+  "id": "debug_8008D2B8",
+  "file": "debug",
+  "addr": "8008D2B8",
+  "room": 9,
+  "refs": 1,
+  "kind": "ui",
+  "en": " %sQuit"
+ },
+ {
+  "id": "debug_8008D388",
+  "file": "debug",
+  "addr": "8008D388",
+  "room": 52,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Debug menu: \"Choose the attacking unit\""
+ },
+ {
+  "id": "debug_8008D3BC",
+  "file": "debug",
+  "addr": "8008D3BC",
+  "room": 20,
+  "refs": 2,
+  "kind": "ui",
+  "en": "Skill    /%2d:%s"
+ },
+ {
+  "id": "debug_8008D3D0",
+  "file": "debug",
+  "addr": "8008D3D0",
+  "room": 32,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Skill    /%2d:Preview"
+ },
+ {
+  "id": "debug_8008D3F0",
+  "file": "debug",
+  "addr": "8008D3F0",
+  "room": 16,
+  "refs": 2,
+  "kind": "ui",
+  "en": "Terrain  /%2d"
+ },
+ {
+  "id": "debug_8008D400",
+  "file": "debug",
+  "addr": "8008D400",
+  "room": 16,
+  "refs": 2,
+  "kind": "ui",
+  "en": "Pilot    /%2d"
+ },
+ {
+  "id": "debug_8008D438",
+  "file": "debug",
+  "addr": "8008D438",
+  "room": 20,
+  "refs": 4,
+  "kind": "ui",
+  "en": "Defense  /Evade"
+ },
+ {
+  "id": "debug_8008D44C",
+  "file": "debug",
+  "addr": "8008D44C",
+  "room": 20,
+  "refs": 4,
+  "kind": "ui",
+  "en": "Defense  /Gera"
+ },
+ {
+  "id": "debug_8008D474",
+  "file": "debug",
+  "addr": "8008D474",
+  "room": 24,
+  "refs": 4,
+  "kind": "ui",
+  "en": "  HP/Check"
+ },
+ {
+  "id": "debug_8008D4BC",
+  "file": "debug",
+  "addr": "8008D4BC",
+  "room": 52,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Debug menu: \"Choose the defending unit\""
+ },
+ {
+  "id": "debug_8008D4F0",
+  "file": "debug",
+  "addr": "8008D4F0",
+  "room": 24,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Skill    /%2d:None"
+ },
+ {
+  "id": "debug_8008D508",
+  "file": "debug",
+  "addr": "8008D508",
+  "room": 20,
+  "refs": 1,
+  "kind": "ui",
+  "en": "%2d/Atk/%1d/%2d"
+ },
+ {
+  "id": "debug_8008D51C",
+  "file": "debug",
+  "addr": "8008D51C",
+  "room": 24,
+  "refs": 2,
+  "kind": "ui",
+  "en": "%2d/Def/%1d/%2d"
+ },
+ {
+  "id": "debug_8008D548",
+  "file": "debug",
+  "addr": "8008D548",
+  "room": 8,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Attack"
+ },
+ {
+  "id": "debug_8008D5E0",
+  "file": "debug",
+  "addr": "8008D5E0",
+  "room": 24,
+  "refs": 1,
+  "kind": "ui",
+  "en": "\"Debug menu@02\""
+ },
+ {
+  "id": "debug_8008D5F8",
+  "file": "debug",
+  "addr": "8008D5F8",
+  "room": 28,
+  "refs": 2,
+  "kind": "ui",
+  "en": " 1.@01 Scene change"
+ },
+ {
+  "id": "debug_8008D614",
+  "file": "debug",
+  "addr": "8008D614",
+  "room": 28,
+  "refs": 2,
+  "kind": "ui",
+  "en": " 2.@0E@0FCamera mode"
+ },
+ {
+  "id": "debug_8008D630",
+  "file": "debug",
+  "addr": "8008D630",
+  "room": 24,
+  "refs": 2,
+  "kind": "ui",
+  "en": " 3.@0C@0DEXIT"
+ },
+ {
+  "id": "debug_8008D1B4",
+  "file": "debug",
+  "addr": "8008D1B4",
+  "room": 20,
+  "refs": 1,
+  "kind": "ui",
+  "en": "SFX test"
+ },
+ {
+  "id": "debug_8008D248",
+  "file": "debug",
+  "addr": "8008D248",
+  "room": 16,
+  "refs": 1,
+  "kind": "ui",
+  "en": "XA test"
+ },
+ {
+  "id": "debug_8008D410",
+  "file": "debug",
+  "addr": "8008D410",
+  "room": 20,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Defense  /Normal"
+ },
+ {
+  "id": "debug_8008D424",
+  "file": "debug",
+  "addr": "8008D424",
+  "room": 20,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Defense  /Guard"
+ },
+ {
+  "id": "debug_8008D460",
+  "file": "debug",
+  "addr": "8008D460",
+  "room": 20,
+  "refs": 1,
+  "kind": "ui",
+  "en": "  HP/Normal"
+ },
+ {
+  "id": "debug_8008D48C",
+  "file": "debug",
+  "addr": "8008D48C",
+  "room": 20,
+  "refs": 1,
+  "kind": "ui",
+  "en": "  HP/Dead"
+ },
+ {
+  "id": "debug_8008D4A0",
+  "file": "debug",
+  "addr": "8008D4A0",
+  "room": 20,
+  "refs": 1,
+  "kind": "ui",
+  "en": "  HP/Fixed"
+ },
+ {
+  "id": "battle_800AA922",
+  "file": "battle",
+  "addr": "800AA922",
+  "room": 10,
+  "refs": 0,
+  "kind": "ui",
+  "en": ""
+ },
+ {
+  "id": "battle_800AA92C",
+  "file": "battle",
+  "addr": "800AA92C",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "%3Eva%0"
+ },
+ {
+  "id": "battle_800AA938",
+  "file": "battle",
+  "addr": "800AA938",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "%3Def%0"
+ },
+ {
+  "id": "battle_800AA944",
+  "file": "battle",
+  "addr": "800AA944",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "%3Cntr%0"
+ },
+ {
+  "id": "battle_800AA950",
+  "file": "battle",
+  "addr": "800AA950",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "%3Atk%0"
+ },
+ {
+  "id": "battle_800AAB28",
+  "file": "battle",
+  "addr": "800AAB28",
+  "room": 20,
+  "refs": 1,
+  "kind": "ui",
+  "en": "%2Critical%0"
+ },
+ {
+  "id": "battle_800AAB3C",
+  "file": "battle",
+  "addr": "800AAB3C",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "%2/Grit%0"
+ },
+ {
+  "id": "battle_800AAB48",
+  "file": "battle",
+  "addr": "800AAB48",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "%2/Fury%0"
+ },
+ {
+  "id": "battle_800AAB54",
+  "file": "battle",
+  "addr": "800AAB54",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "%2/Cntr%0"
+ },
+ {
+  "id": "battle_800AAB60",
+  "file": "battle",
+  "addr": "800AAB60",
+  "room": 13,
+  "refs": 1,
+  "kind": "ui",
+  "en": "%2Ability%0"
+ },
+ {
+  "id": "battle_800AA4C4",
+  "file": "battle",
+  "addr": "800AA4C4",
+  "room": 16,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$f%sa %s: %s"
+ },
+ {
+  "id": "battle_800AA4D4",
+  "file": "battle",
+  "addr": "800AA4D4",
+  "room": 16,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$f%sb %s: %s"
+ },
+ {
+  "id": "battle_800AA4E4",
+  "file": "battle",
+  "addr": "800AA4E4",
+  "room": 16,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$f%sc %s: %s"
+ },
+ {
+  "id": "battle_800AA4F4",
+  "file": "battle",
+  "addr": "800AA4F4",
+  "room": 16,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$f%sd %s: %s"
+ },
+ {
+  "id": "battle_800AA504",
+  "file": "battle",
+  "addr": "800AA504",
+  "room": 16,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$f%se %s: %s"
+ },
+ {
+  "id": "battle_800AA514",
+  "file": "battle",
+  "addr": "800AA514",
+  "room": 16,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$f%sf %s: %s"
+ },
+ {
+  "id": "battle_800AA524",
+  "file": "battle",
+  "addr": "800AA524",
+  "room": 16,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$f%sg %s: %s"
+ },
+ {
+  "id": "battle_800AA534",
+  "file": "battle",
+  "addr": "800AA534",
+  "room": 16,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$m%sa %s: %s"
+ },
+ {
+  "id": "battle_800AA544",
+  "file": "battle",
+  "addr": "800AA544",
+  "room": 16,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$m%sb %s: %s"
+ },
+ {
+  "id": "battle_800AA554",
+  "file": "battle",
+  "addr": "800AA554",
+  "room": 16,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$m%sc %s: %s"
+ },
+ {
+  "id": "battle_800AA564",
+  "file": "battle",
+  "addr": "800AA564",
+  "room": 16,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$m%sd %s: %s"
+ },
+ {
+  "id": "battle_800AA574",
+  "file": "battle",
+  "addr": "800AA574",
+  "room": 16,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$m%se %s: %s"
+ },
+ {
+  "id": "battle_800AA584",
+  "file": "battle",
+  "addr": "800AA584",
+  "room": 16,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$m%sf %s: %s"
+ },
+ {
+  "id": "battle_800AA594",
+  "file": "battle",
+  "addr": "800AA594",
+  "room": 20,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$m%sg %s: %s"
+ },
+ {
+  "id": "battle_800AA8BC",
+  "file": "battle",
+  "addr": "800AA8BC",
+  "room": 24,
+  "refs": 1,
+  "kind": "ui",
+  "en": ""
+ },
+ {
+  "id": "battle_800AA920",
+  "file": "battle",
+  "addr": "800AA920",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "%3--%0"
+ },
+ {
+  "id": "briefing_800A98BC",
+  "file": "briefing",
+  "addr": "800A98BC",
+  "room": 44,
+  "refs": 1,
+  "kind": "ui",
+  "en": "\"Getter Robo Daikessen!\" (%02ld) %s %s:%s"
+ },
+ {
+  "id": "briefing_800A98E8",
+  "file": "briefing",
+  "addr": "800A98E8",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Susp"
+ },
+ {
+  "id": "briefing_800A98F0",
+  "file": "briefing",
+  "addr": "800A98F0",
+  "room": 8,
+  "refs": 2,
+  "kind": "ui",
+  "en": "End"
+ },
+ {
+  "id": "briefing_800A9958",
+  "file": "briefing",
+  "addr": "800A9958",
+  "room": 32,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Overwrite the existing data?"
+ },
+ {
+  "id": "briefing_800A9978",
+  "file": "briefing",
+  "addr": "800A9978",
+  "room": 28,
+  "refs": 2,
+  "kind": "ui",
+  "en": "Load this data?"
+ },
+ {
+  "id": "briefing_800A9994",
+  "file": "briefing",
+  "addr": "800A9994",
+  "room": 28,
+  "refs": 2,
+  "kind": "ui",
+  "en": "Really quit the game"
+ },
+ {
+  "id": "briefing_800A99B0",
+  "file": "briefing",
+  "addr": "800A99B0",
+  "room": 20,
+  "refs": 2,
+  "kind": "ui",
+  "en": "in progress?"
+ },
+ {
+  "id": "briefing_800A99C4",
+  "file": "briefing",
+  "addr": "800A99C4",
+  "room": 24,
+  "refs": 2,
+  "kind": "ui",
+  "en": "The data is corrupted."
+ },
+ {
+  "id": "briefing_800A99E8",
+  "file": "briefing",
+  "addr": "800A99E8",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": " Suspended"
+ },
+ {
+  "id": "briefing_800A99F4",
+  "file": "briefing",
+  "addr": "800A99F4",
+  "room": 8,
+  "refs": 2,
+  "kind": "ui",
+  "en": " End"
+ },
+ {
+  "id": "briefing_800A99FC",
+  "file": "briefing",
+  "addr": "800A99FC",
+  "room": 12,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Empty"
+ },
+ {
+  "id": "briefing_800A9A08",
+  "file": "briefing",
+  "addr": "800A9A08",
+  "room": 36,
+  "refs": 1,
+  "kind": "ui",
+  "en": "No Memory Card inserted."
+ },
+ {
+  "id": "briefing_800A9A2C",
+  "file": "briefing",
+  "addr": "800A9A2C",
+  "room": 32,
+  "refs": 2,
+  "kind": "ui",
+  "en": "Checking Memory Card..."
+ },
+ {
+  "id": "briefing_800A9A4C",
+  "file": "briefing",
+  "addr": "800A9A4C",
+  "room": 32,
+  "refs": 6,
+  "kind": "ui",
+  "en": "Do not insert or remove the"
+ },
+ {
+  "id": "briefing_800A9A6C",
+  "file": "briefing",
+  "addr": "800A9A6C",
+  "room": 32,
+  "refs": 6,
+  "kind": "ui",
+  "en": "Memory Card or controller."
+ },
+ {
+  "id": "briefing_800A9A8C",
+  "file": "briefing",
+  "addr": "800A9A8C",
+  "room": 20,
+  "refs": 3,
+  "kind": "ui",
+  "en": "The Memory Card"
+ },
+ {
+  "id": "briefing_800A9AA0",
+  "file": "briefing",
+  "addr": "800A9AA0",
+  "room": 28,
+  "refs": 3,
+  "kind": "ui",
+  "en": "is not formatted."
+ },
+ {
+  "id": "briefing_800A9ABC",
+  "file": "briefing",
+  "addr": "800A9ABC",
+  "room": 24,
+  "refs": 2,
+  "kind": "ui",
+  "en": " Format it now?"
+ },
+ {
+  "id": "briefing_800A9AD4",
+  "file": "briefing",
+  "addr": "800A9AD4",
+  "room": 32,
+  "refs": 2,
+  "kind": "ui",
+  "en": "Formatting Memory Card..."
+ },
+ {
+  "id": "briefing_800A9AF4",
+  "file": "briefing",
+  "addr": "800A9AF4",
+  "room": 24,
+  "refs": 2,
+  "kind": "ui",
+  "en": "Loading data..."
+ },
+ {
+  "id": "briefing_800A9B0C",
+  "file": "briefing",
+  "addr": "800A9B0C",
+  "room": 24,
+  "refs": 3,
+  "kind": "ui",
+  "en": "Saving data..."
+ },
+ {
+  "id": "briefing_800A9B24",
+  "file": "briefing",
+  "addr": "800A9B24",
+  "room": 28,
+  "refs": 2,
+  "kind": "ui",
+  "en": "Not enough free blocks."
+ },
+ {
+  "id": "briefing_800A9B40",
+  "file": "briefing",
+  "addr": "800A9B40",
+  "room": 32,
+  "refs": 2,
+  "kind": "ui",
+  "en": "Saving requires 1 block."
+ },
+ {
+  "id": "briefing_800A9B60",
+  "file": "briefing",
+  "addr": "800A9B60",
+  "room": 24,
+  "refs": 3,
+  "kind": "ui",
+  "en": "Load failed."
+ },
+ {
+  "id": "briefing_800A9B78",
+  "file": "briefing",
+  "addr": "800A9B78",
+  "room": 24,
+  "refs": 3,
+  "kind": "ui",
+  "en": "The data is corrupted."
+ },
+ {
+  "id": "briefing_800A9BB8",
+  "file": "briefing",
+  "addr": "800A9BB8",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "No"
+ },
+ {
+  "id": "briefing_800A9BC0",
+  "file": "briefing",
+  "addr": "800A9BC0",
+  "room": 9,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Yes"
+ },
+ {
+  "id": "briefing_800A9EAC",
+  "file": "briefing",
+  "addr": "800A9EAC",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Next Map"
+ },
+ {
+  "id": "briefing_800A9EB8",
+  "file": "briefing",
+  "addr": "800A9EB8",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Settings"
+ },
+ {
+  "id": "briefing_800A9EC4",
+  "file": "briefing",
+  "addr": "800A9EC4",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Assign"
+ },
+ {
+  "id": "briefing_800A9ED0",
+  "file": "briefing",
+  "addr": "800A9ED0",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Combo Test"
+ },
+ {
+  "id": "briefing_800A9EDC",
+  "file": "briefing",
+  "addr": "800A9EDC",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Practice"
+ },
+ {
+  "id": "briefing_800A9EE8",
+  "file": "briefing",
+  "addr": "800A9EE8",
+  "room": 8,
+  "refs": 3,
+  "kind": "ui",
+  "en": "Load"
+ },
+ {
+  "id": "briefing_800A9EF0",
+  "file": "briefing",
+  "addr": "800A9EF0",
+  "room": 8,
+  "refs": 3,
+  "kind": "ui",
+  "en": "Save"
+ },
+ {
+  "id": "briefing_800A9EF8",
+  "file": "briefing",
+  "addr": "800A9EF8",
+  "room": 16,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Level S (--:--)"
+ },
+ {
+  "id": "briefing_800A9F08",
+  "file": "briefing",
+  "addr": "800A9F08",
+  "room": 16,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Level A (--:--)"
+ },
+ {
+  "id": "briefing_800A9F18",
+  "file": "briefing",
+  "addr": "800A9F18",
+  "room": 16,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Level B (--:--)"
+ },
+ {
+  "id": "briefing_800A9F28",
+  "file": "briefing",
+  "addr": "800A9F28",
+  "room": 16,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Level C (--:--)"
+ },
+ {
+  "id": "briefing_800A9F38",
+  "file": "briefing",
+  "addr": "800A9F38",
+  "room": 16,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Level D (--:--)"
+ },
+ {
+  "id": "briefing_800A9FF8",
+  "file": "briefing",
+  "addr": "800A9FF8",
+  "room": 28,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Which map will you practice?"
+ },
+ {
+  "id": "briefing_800AA014",
+  "file": "briefing",
+  "addr": "800AA014",
+  "room": 36,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Proceed to the next map?"
+ },
+ {
+  "id": "briefing_800AA038",
+  "file": "briefing",
+  "addr": "800AA038",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Yes"
+ },
+ {
+  "id": "briefing_800AA040",
+  "file": "briefing",
+  "addr": "800AA040",
+  "room": 12,
+  "refs": 2,
+  "kind": "ui",
+  "en": "No"
+ },
+ {
+  "id": "briefing_800AA0F8",
+  "file": "briefing",
+  "addr": "800AA0F8",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Exit"
+ },
+ {
+  "id": "briefing_800AA22E",
+  "file": "briefing",
+  "addr": "800AA22E",
+  "room": 33,
+  "refs": 1,
+  "kind": "ui",
+  "en": "A newly added pilot."
+ },
+ {
+  "id": "briefing_800AA24F",
+  "file": "briefing",
+  "addr": "800AA24F",
+  "room": 252,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$f21a%2Dr. Saotome%0: New equipment has arrived from Dr. Tachibana. It's the G-Arm Riser, built specially for %1\"Getter Robo Go\"%0.$/With this, %1\"Getter Robo Go\"%0 will be able to combine into %1\"Super Getter Robo Go\"%0!$/But it burns through a lot of energy, so you'll need to be careful."
+ },
+ {
+  "id": "briefing_800AA34B",
+  "file": "briefing",
+  "addr": "800AA34B",
+  "room": 226,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$f21a%2Dr. Saotome%0: The new equipment for Getter-1 and Getter Dragon is finished!$/For Getter-1, its very own weapon: the %1\"Getter Machine Gun\"%0.$/And for Getter Dragon, its very own weapon: the %1\"Getter Beam Launcher\"%0!$/With these, the fighting should get a little easier."
+ },
+ {
+  "id": "briefing_800AA42D",
+  "file": "briefing",
+  "addr": "800AA42D",
+  "room": 154,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$f99a%3Lambert%0, %3Schwartz%0, %3Linda%0, %3Bob%0, %3Sam%0 and %3Shatner%0 have left the team.$/%1Getter Robo G%0 is currently unavailable."
+ },
+ {
+  "id": "briefing_800AA4C7",
+  "file": "briefing",
+  "addr": "800AA4C7",
+  "room": 85,
+  "refs": 1,
+  "kind": "ui",
+  "en": "There are no units that can sortie.$/Use \"Assign\" to put pilots in the machines."
+ },
+ {
+  "id": "briefing_800AA51C",
+  "file": "briefing",
+  "addr": "800AA51C",
+  "room": 144,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$f99a%1Eagle-Gou%0 has been added.$/%1Jaguar-Gou%0 has been added.$/%1BT-23%0 has been added.$/%1Lady Command%0 has been added."
+ },
+ {
+  "id": "briefing_800AA5AC",
+  "file": "briefing",
+  "addr": "800AA5AC",
+  "room": 36,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$f99a%1Bear-Gou%0 has been added."
+ },
+ {
+  "id": "briefing_800AA5D0",
+  "file": "briefing",
+  "addr": "800AA5D0",
+  "room": 42,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$f99a%1Getter Robo G%0 has been added."
+ },
+ {
+  "id": "briefing_800AA5FA",
+  "file": "briefing",
+  "addr": "800AA5FA",
+  "room": 42,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$f99a%1Getter Robo Zan%0 has been added."
+ },
+ {
+  "id": "briefing_800AA624",
+  "file": "briefing",
+  "addr": "800AA624",
+  "room": 42,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$f99a%1Getter Robo Go%0 has been added."
+ },
+ {
+  "id": "briefing_800AA64E",
+  "file": "briefing",
+  "addr": "800AA64E",
+  "room": 157,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$f99a%1Stilva%0 has been added.$/%1Texas Mack%0 has been added.$/%1Robo Stone%0, %1Kingdom 007%0 and %1Gustaf%0 can't sortie on the next map."
+ },
+ {
+  "id": "briefing_800AA6EB",
+  "file": "briefing",
+  "addr": "800AA6EB",
+  "room": 109,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$f99a%1Shin Getter Robo%0 has been added.$/%1Robo Stone%0, %1Kingdom 007%0 and %1Gustaf%0 are now available."
+ },
+ {
+  "id": "briefing_800AA758",
+  "file": "briefing",
+  "addr": "800AA758",
+  "room": 48,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$f99a%1Black Getter Robo%0 has been added."
+ },
+ {
+  "id": "briefing_800AA788",
+  "file": "briefing",
+  "addr": "800AA788",
+  "room": 46,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$f99a%1Shin Getter Dragon%0 has been added."
+ },
+ {
+  "id": "briefing_800AA7B6",
+  "file": "briefing",
+  "addr": "800AA7B6",
+  "room": 96,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$f21a%2Dr. Saotome%0: There's no telling what might happen, or when. Save often, so you'll have nothing to regret!"
+ },
+ {
+  "id": "briefing_800AA816",
+  "file": "briefing",
+  "addr": "800AA816",
+  "room": 44,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$f63a%2Hayato%0$p01: Guess it can't be helped. I'll lend you a hand."
+ },
+ {
+  "id": "briefing_800AA842",
+  "file": "briefing",
+  "addr": "800AA842",
+  "room": 52,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$f02a%2Musashi%0$p02: With the great Musashi on board, it's like having a hundred men!"
+ },
+ {
+  "id": "briefing_800AA876",
+  "file": "briefing",
+  "addr": "800AA876",
+  "room": 62,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$f03a%2Benkei%0$p03: I'm Benkei. It's an honor to fight alongside Musashi."
+ },
+ {
+  "id": "briefing_800AA8B4",
+  "file": "briefing",
+  "addr": "800AA8B4",
+  "room": 42,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$f04a%2Go%0$p04: The name's Go! I'm counting on you guys!"
+ },
+ {
+  "id": "briefing_800AA8DE",
+  "file": "briefing",
+  "addr": "800AA8DE",
+  "room": 40,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$f05a%2Sho%0$p05: I'm Sho Tachibana. Nice to meet you."
+ },
+ {
+  "id": "briefing_800AA906",
+  "file": "briefing",
+  "addr": "800AA906",
+  "room": 46,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$f06a%2Gai%0$p06: Leave the robot repairs to me."
+ },
+ {
+  "id": "briefing_800AA934",
+  "file": "briefing",
+  "addr": "800AA934",
+  "room": 62,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$f08a%2Lambert%0$p08: I may be an old fossil, but I'll prove I can still be of use."
+ },
+ {
+  "id": "briefing_800AA972",
+  "file": "briefing",
+  "addr": "800AA972",
+  "room": 60,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$f09a%2Schwartz%0$p09: Very well, I suppose I'll lend you my strength."
+ },
+ {
+  "id": "briefing_800AA9AE",
+  "file": "briefing",
+  "addr": "800AA9AE",
+  "room": 50,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$f10a%2Bob%0$p0a: I'll fight with everything I've got. I'm counting on you."
+ },
+ {
+  "id": "briefing_800AA9E0",
+  "file": "briefing",
+  "addr": "800AA9E0",
+  "room": 56,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$f11a%2Sam%0$p0b: Defense is my strong suit. Leave it to me."
+ },
+ {
+  "id": "briefing_800AAA18",
+  "file": "briefing",
+  "addr": "800AAA18",
+  "room": 50,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$f12a%2Linda%0$p0c: Hello, everyone. I look forward to working with you."
+ },
+ {
+  "id": "briefing_800AAA4A",
+  "file": "briefing",
+  "addr": "800AAA4A",
+  "room": 72,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$f13a%2Shatner%0$p0d: I'm Heim Shatner. Just call me Shatner."
+ },
+ {
+  "id": "briefing_800AAA92",
+  "file": "briefing",
+  "addr": "800AAA92",
+  "room": 60,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$f14a%2Jack%0$p0e: Hey, everybodyyy! Let's have a fun time, OK-desu!"
+ },
+ {
+  "id": "briefing_800AAACE",
+  "file": "briefing",
+  "addr": "800AAACE",
+  "room": 76,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$f15a%2Mary%0$p0f: Hiii! My brother and I are joining you! Nice to meet you!"
+ },
+ {
+  "id": "briefing_800AAB1A",
+  "file": "briefing",
+  "addr": "800AAB1A",
+  "room": 46,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$f16a%2Akane%0$p10: Let's join forces and give it our all!"
+ },
+ {
+  "id": "briefing_800AAB48",
+  "file": "briefing",
+  "addr": "800AAB48",
+  "room": 42,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$f17a%2Tsubaki%0$p11: I'm Tsubaki... I'll be counting on you."
+ },
+ {
+  "id": "briefing_800AAB72",
+  "file": "briefing",
+  "addr": "800AAB72",
+  "room": 58,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$f18a%2Kaede%0$p12: Ummm... uh... I'll do my beeest."
+ },
+ {
+  "id": "briefing_800AB034",
+  "file": "briefing",
+  "addr": "800AB034",
+  "room": 16,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Texas Mack"
+ },
+ {
+  "id": "briefing_800AB044",
+  "file": "briefing",
+  "addr": "800AB044",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Gustaf"
+ },
+ {
+  "id": "briefing_800AB050",
+  "file": "briefing",
+  "addr": "800AB050",
+  "room": 20,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Kingdom 007"
+ },
+ {
+  "id": "briefing_800AB064",
+  "file": "briefing",
+  "addr": "800AB064",
+  "room": 16,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Robo Stone"
+ },
+ {
+  "id": "briefing_800AB074",
+  "file": "briefing",
+  "addr": "800AB074",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Stilva"
+ },
+ {
+  "id": "briefing_800AB080",
+  "file": "briefing",
+  "addr": "800AB080",
+  "room": 16,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Lady Command"
+ },
+ {
+  "id": "briefing_800AB090",
+  "file": "briefing",
+  "addr": "800AB090",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "BT-23"
+ },
+ {
+  "id": "briefing_800AB09C",
+  "file": "briefing",
+  "addr": "800AB09C",
+  "room": 40,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Getter Robo Zan %1Female  Req. Rank: B"
+ },
+ {
+  "id": "briefing_800AB0C4",
+  "file": "briefing",
+  "addr": "800AB0C4",
+  "room": 40,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Black Getter          %1Req. Rank: A"
+ },
+ {
+  "id": "briefing_800AB0EC",
+  "file": "briefing",
+  "addr": "800AB0EC",
+  "room": 40,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Shin Getter Dragon  %1Req. Rank: S"
+ },
+ {
+  "id": "briefing_800AB114",
+  "file": "briefing",
+  "addr": "800AB114",
+  "room": 36,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Shin Getter Robo     %1Req. Rank: A"
+ },
+ {
+  "id": "briefing_800AB138",
+  "file": "briefing",
+  "addr": "800AB138",
+  "room": 36,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Getter Robo Go       %1Req. Rank: B"
+ },
+ {
+  "id": "briefing_800AB15C",
+  "file": "briefing",
+  "addr": "800AB15C",
+  "room": 36,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Getter Robo G        %1Req. Rank: C"
+ },
+ {
+  "id": "briefing_800AB180",
+  "file": "briefing",
+  "addr": "800AB180",
+  "room": 36,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Getter Robo           %1Req. Rank: D"
+ },
+ {
+  "id": "briefing_800AB1A4",
+  "file": "briefing",
+  "addr": "800AB1A4",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Rank: S"
+ },
+ {
+  "id": "briefing_800AB1B0",
+  "file": "briefing",
+  "addr": "800AB1B0",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Rank: A"
+ },
+ {
+  "id": "briefing_800AB1BC",
+  "file": "briefing",
+  "addr": "800AB1BC",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Rank: B"
+ },
+ {
+  "id": "briefing_800AB1C8",
+  "file": "briefing",
+  "addr": "800AB1C8",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Rank: C"
+ },
+ {
+  "id": "briefing_800AB1D4",
+  "file": "briefing",
+  "addr": "800AB1D4",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Rank: D"
+ },
+ {
+  "id": "briefing_800AB1E0",
+  "file": "briefing",
+  "addr": "800AB1E0",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Rank: -"
+ },
+ {
+  "id": "briefing_800AB1EC",
+  "file": "briefing",
+  "addr": "800AB1EC",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "GE"
+ },
+ {
+  "id": "briefing_800AB1F4",
+  "file": "briefing",
+  "addr": "800AB1F4",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Eva"
+ },
+ {
+  "id": "briefing_800AB1FC",
+  "file": "briefing",
+  "addr": "800AB1FC",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Hit"
+ },
+ {
+  "id": "briefing_800AB204",
+  "file": "briefing",
+  "addr": "800AB204",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Mov"
+ },
+ {
+  "id": "briefing_800AB20C",
+  "file": "briefing",
+  "addr": "800AB20C",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Def"
+ },
+ {
+  "id": "briefing_800AB214",
+  "file": "briefing",
+  "addr": "800AB214",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "EN"
+ },
+ {
+  "id": "briefing_800AB21C",
+  "file": "briefing",
+  "addr": "800AB21C",
+  "room": 8,
+  "refs": 2,
+  "kind": "ui",
+  "en": "HP"
+ },
+ {
+  "id": "briefing_800AB224",
+  "file": "briefing",
+  "addr": "800AB224",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Ctrl"
+ },
+ {
+  "id": "briefing_800AB22C",
+  "file": "briefing",
+  "addr": "800AB22C",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Reac"
+ },
+ {
+  "id": "briefing_800AB234",
+  "file": "briefing",
+  "addr": "800AB234",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Shot"
+ },
+ {
+  "id": "briefing_800AB23C",
+  "file": "briefing",
+  "addr": "800AB23C",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Mel"
+ },
+ {
+  "id": "briefing_800AB4E0",
+  "file": "briefing",
+  "addr": "800AB4E0",
+  "room": 8,
+  "refs": 5,
+  "kind": "ui",
+  "en": "Empty"
+ },
+ {
+  "id": "briefing_800AB4E8",
+  "file": "briefing",
+  "addr": "800AB4E8",
+  "room": 12,
+  "refs": 6,
+  "kind": "ui",
+  "en": "None"
+ },
+ {
+  "id": "briefing_800AB5A0",
+  "file": "briefing",
+  "addr": "800AB5A0",
+  "room": 20,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Please assign"
+ },
+ {
+  "id": "briefing_800AB5B4",
+  "file": "briefing",
+  "addr": "800AB5B4",
+  "room": 16,
+  "refs": 2,
+  "kind": "ui",
+  "en": "a pilot to the"
+ },
+ {
+  "id": "briefing_800AB5C4",
+  "file": "briefing",
+  "addr": "800AB5C4",
+  "room": 20,
+  "refs": 4,
+  "kind": "ui",
+  "en": "Black Getter."
+ },
+ {
+  "id": "briefing_800AB5D8",
+  "file": "briefing",
+  "addr": "800AB5D8",
+  "room": 24,
+  "refs": 1,
+  "kind": "ui",
+  "en": "For Getter units,"
+ },
+ {
+  "id": "briefing_800AB5F0",
+  "file": "briefing",
+  "addr": "800AB5F0",
+  "room": 20,
+  "refs": 2,
+  "kind": "ui",
+  "en": "put 3 pilots"
+ },
+ {
+  "id": "briefing_800AB604",
+  "file": "briefing",
+  "addr": "800AB604",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Exit"
+ },
+ {
+  "id": "briefing_800AB60C",
+  "file": "briefing",
+  "addr": "800AB60C",
+  "room": 8,
+  "refs": 2,
+  "kind": "ui",
+  "en": "Cont."
+ },
+ {
+  "id": "briefing_800AB614",
+  "file": "briefing",
+  "addr": "800AB614",
+  "room": 16,
+  "refs": 2,
+  "kind": "ui",
+  "en": "Undo edits"
+ },
+ {
+  "id": "briefing_800AB62C",
+  "file": "briefing",
+  "addr": "800AB62C",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Sortie"
+ },
+ {
+  "id": "briefing_800AB640",
+  "file": "briefing",
+  "addr": "800AB640",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Bench"
+ },
+ {
+  "id": "briefing_800ABC0C",
+  "file": "briefing",
+  "addr": "800ABC0C",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Near the Moon"
+ },
+ {
+  "id": "briefing_800ABC24",
+  "file": "briefing",
+  "addr": "800ABC24",
+  "room": 8,
+  "refs": 2,
+  "kind": "ui",
+  "en": "Arctic"
+ },
+ {
+  "id": "briefing_800ABC2C",
+  "file": "briefing",
+  "addr": "800ABC2C",
+  "room": 16,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Alaska Base"
+ },
+ {
+  "id": "briefing_800ABC3C",
+  "file": "briefing",
+  "addr": "800ABC3C",
+  "room": 12,
+  "refs": 2,
+  "kind": "ui",
+  "en": "Texas"
+ },
+ {
+  "id": "briefing_800ABC48",
+  "file": "briefing",
+  "addr": "800ABC48",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Japan"
+ },
+ {
+  "id": "briefing_800ABC64",
+  "file": "briefing",
+  "addr": "800ABC64",
+  "room": 16,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Tachibana Area"
+ },
+ {
+  "id": "briefing_800ABC74",
+  "file": "briefing",
+  "addr": "800ABC74",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Pacific"
+ },
+ {
+  "id": "briefing_800ABC80",
+  "file": "briefing",
+  "addr": "800ABC80",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "City"
+ },
+ {
+  "id": "briefing_800ABC88",
+  "file": "briefing",
+  "addr": "800ABC88",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Russia"
+ },
+ {
+  "id": "briefing_800ABC90",
+  "file": "briefing",
+  "addr": "800ABC90",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Germany"
+ },
+ {
+  "id": "briefing_800ABC98",
+  "file": "briefing",
+  "addr": "800ABC98",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Britain"
+ },
+ {
+  "id": "briefing_800ABCA4",
+  "file": "briefing",
+  "addr": "800ABCA4",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Hayato's School"
+ },
+ {
+  "id": "briefing_800ABCB0",
+  "file": "briefing",
+  "addr": "800ABCB0",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Tachibana Inst."
+ },
+ {
+  "id": "briefing_800ABCBC",
+  "file": "briefing",
+  "addr": "800ABCBC",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Factory"
+ },
+ {
+  "id": "briefing_800ABCC8",
+  "file": "briefing",
+  "addr": "800ABCC8",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Asama Crater"
+ },
+ {
+  "id": "briefing_800ABCD4",
+  "file": "briefing",
+  "addr": "800ABCD4",
+  "room": 16,
+  "refs": 3,
+  "kind": "ui",
+  "en": "Saotome Inst."
+ },
+ {
+  "id": "briefing_800B1FA8",
+  "file": "briefing",
+  "addr": "800B1FA8",
+  "room": 8,
+  "refs": 0,
+  "kind": "ui",
+  "en": ""
+ },
+ {
+  "id": "briefing_800A99E0",
+  "file": "briefing",
+  "addr": "800A99E0",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "\"%s\""
+ },
+ {
+  "id": "briefing_800AA0F0",
+  "file": "briefing",
+  "addr": "800AA0F0",
+  "room": 8,
+  "refs": 1,
+  "kind": "ui",
+  "en": "\"%s\""
+ },
+ {
+  "id": "briefing_800ABC08",
+  "file": "briefing",
+  "addr": "800ABC08",
+  "room": 4,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Moon"
+ },
+ {
+  "id": "briefing_800ABC14",
+  "file": "briefing",
+  "addr": "800ABC14",
+  "room": 16,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Satellite (Strat.)"
+ },
+ {
+  "id": "briefing_800ABC50",
+  "file": "briefing",
+  "addr": "800ABC50",
+  "room": 20,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Saotome Area"
+ },
+ {
+  "id": "flight_800DEF6D",
+  "file": "flight",
+  "addr": "800DEF6D",
+  "room": 5,
+  "refs": 0,
+  "kind": "ui",
+  "en": ""
+ },
+ {
+  "id": "flight_800E777D",
+  "file": "flight",
+  "addr": "800E777D",
+  "room": 5,
+  "refs": 0,
+  "kind": "ui",
+  "en": ""
+ },
+ {
+  "id": "flight_800E8782",
+  "file": "flight",
+  "addr": "800E8782",
+  "room": 23,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Press the button"
+ },
+ {
+  "id": "flight_800E8799",
+  "file": "flight",
+  "addr": "800E8799",
+  "room": 17,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Button: quit"
+ },
+ {
+  "id": "flight_800E87AA",
+  "file": "flight",
+  "addr": "800E87AA",
+  "room": 7,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Level"
+ },
+ {
+  "id": "flight_800E87C0",
+  "file": "flight",
+  "addr": "800E87C0",
+  "room": 9,
+  "refs": 2,
+  "kind": "ui",
+  "en": "Training"
+ },
+ {
+  "id": "flight_800E87CC",
+  "file": "flight",
+  "addr": "800E87CC",
+  "room": 11,
+  "refs": 2,
+  "kind": "ui",
+  "en": "Sunset Sea"
+ },
+ {
+  "id": "flight_800E87D7",
+  "file": "flight",
+  "addr": "800E87D7",
+  "room": 7,
+  "refs": 2,
+  "kind": "ui",
+  "en": "Night City"
+ },
+ {
+  "id": "flight_800E87DE",
+  "file": "flight",
+  "addr": "800E87DE",
+  "room": 7,
+  "refs": 2,
+  "kind": "ui",
+  "en": "Storm"
+ },
+ {
+  "id": "flight_800E87E5",
+  "file": "flight",
+  "addr": "800E87E5",
+  "room": 7,
+  "refs": 2,
+  "kind": "ui",
+  "en": "Stratosphere"
+ },
+ {
+  "id": "flight_800E87EC",
+  "file": "flight",
+  "addr": "800E87EC",
+  "room": 5,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Info"
+ },
+ {
+  "id": "flight_800E87F1",
+  "file": "flight",
+  "addr": "800E87F1",
+  "room": 9,
+  "refs": 0,
+  "kind": "ui",
+  "en": "None"
+ },
+ {
+  "id": "flight_800E87FA",
+  "file": "flight",
+  "addr": "800E87FA",
+  "room": 38,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Learn the %1timing to combine here!"
+ },
+ {
+  "id": "flight_800E8820",
+  "file": "flight",
+  "addr": "800E8820",
+  "room": 17,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Blinding glare!"
+ },
+ {
+  "id": "flight_800E8831",
+  "file": "flight",
+  "addr": "800E8831",
+  "room": 28,
+  "refs": 0,
+  "kind": "ui",
+  "en": "%1Watch out for gusts!"
+ },
+ {
+  "id": "flight_800E884D",
+  "file": "flight",
+  "addr": "800E884D",
+  "room": 13,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Urban canyon"
+ },
+ {
+  "id": "flight_800E885A",
+  "file": "flight",
+  "addr": "800E885A",
+  "room": 36,
+  "refs": 0,
+  "kind": "ui",
+  "en": "%1Beware oncoming towers and gusts!"
+ },
+ {
+  "id": "flight_800E887E",
+  "file": "flight",
+  "addr": "800E887E",
+  "room": 21,
+  "refs": 0,
+  "kind": "ui",
+  "en": "%1Storm winds rage"
+ },
+ {
+  "id": "flight_800E8893",
+  "file": "flight",
+  "addr": "800E8893",
+  "room": 36,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Lost your team? %1Use the radar!"
+ },
+ {
+  "id": "flight_800E88B7",
+  "file": "flight",
+  "addr": "800E88B7",
+  "room": 39,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Gauges broken, %1radar's hard to read"
+ },
+ {
+  "id": "flight_800E88DE",
+  "file": "flight",
+  "addr": "800E88DE",
+  "room": 40,
+  "refs": 0,
+  "kind": "ui",
+  "en": "Hit %1big rocks%0 and you'll go flying!"
+ },
+ {
+  "id": "flight_800E8906",
+  "file": "flight",
+  "addr": "800E8906",
+  "room": 5,
+  "refs": 2,
+  "kind": "ui",
+  "en": "Spd"
+ },
+ {
+  "id": "flight_800E890B",
+  "file": "flight",
+  "addr": "800E890B",
+  "room": 5,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Slow"
+ },
+ {
+  "id": "flight_800E8910",
+  "file": "flight",
+  "addr": "800E8910",
+  "room": 5,
+  "refs": 2,
+  "kind": "ui",
+  "en": "Med"
+ },
+ {
+  "id": "flight_800E8915",
+  "file": "flight",
+  "addr": "800E8915",
+  "room": 5,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Fast"
+ },
+ {
+  "id": "flight_800E891A",
+  "file": "flight",
+  "addr": "800E891A",
+  "room": 7,
+  "refs": 2,
+  "kind": "ui",
+  "en": "Turbo"
+ },
+ {
+  "id": "flight_800E8921",
+  "file": "flight",
+  "addr": "800E8921",
+  "room": 10,
+  "refs": 2,
+  "kind": "ui",
+  "en": "@02 Button"
+ },
+ {
+  "id": "flight_800E892B",
+  "file": "flight",
+  "addr": "800E892B",
+  "room": 10,
+  "refs": 2,
+  "kind": "ui",
+  "en": "@01 Button"
+ },
+ {
+  "id": "flight_800E8935",
+  "file": "flight",
+  "addr": "800E8935",
+  "room": 9,
+  "refs": 1,
+  "kind": "ui",
+  "en": "D-Pad"
+ },
+ {
+  "id": "flight_800E893E",
+  "file": "flight",
+  "addr": "800E893E",
+  "room": 5,
+  "refs": 2,
+  "kind": "ui",
+  "en": "Fly"
+ },
+ {
+  "id": "flight_800E8943",
+  "file": "flight",
+  "addr": "800E8943",
+  "room": 5,
+  "refs": 2,
+  "kind": "ui",
+  "en": "Accel"
+ },
+ {
+  "id": "flight_800E8948",
+  "file": "flight",
+  "addr": "800E8948",
+  "room": 5,
+  "refs": 2,
+  "kind": "ui",
+  "en": "Slow"
+ },
+ {
+  "id": "flight_800E894D",
+  "file": "flight",
+  "addr": "800E894D",
+  "room": 9,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Normal"
+ },
+ {
+  "id": "flight_800E8956",
+  "file": "flight",
+  "addr": "800E8956",
+  "room": 13,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Inverted"
+ },
+ {
+  "id": "flight_800E896B",
+  "file": "flight",
+  "addr": "800E896B",
+  "room": 15,
+  "refs": 3,
+  "kind": "ui",
+  "en": "%1Ascend%0"
+ },
+ {
+  "id": "flight_800E897A",
+  "file": "flight",
+  "addr": "800E897A",
+  "room": 15,
+  "refs": 3,
+  "kind": "ui",
+  "en": "%2Descend%0"
+ },
+ {
+  "id": "flight_800E8989",
+  "file": "flight",
+  "addr": "800E8989",
+  "room": 29,
+  "refs": 1,
+  "kind": "ui",
+  "en": "No new Getter Robo yet, so"
+ },
+ {
+  "id": "flight_800E89A6",
+  "file": "flight",
+  "addr": "800E89A6",
+  "room": 21,
+  "refs": 1,
+  "kind": "ui",
+  "en": "you can't take a test."
+ },
+ {
+  "id": "flight_800E89BB",
+  "file": "flight",
+  "addr": "800E89BB",
+  "room": 39,
+  "refs": 2,
+  "kind": "ui",
+  "en": "Hone your combining in practice for now!"
+ },
+ {
+  "id": "flight_800E89E2",
+  "file": "flight",
+  "addr": "800E89E2",
+  "room": 13,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Quit?"
+ },
+ {
+  "id": "flight_800E89EF",
+  "file": "flight",
+  "addr": "800E89EF",
+  "room": 9,
+  "refs": 1,
+  "kind": "ui",
+  "en": ": Quit"
+ },
+ {
+  "id": "flight_800E89F8",
+  "file": "flight",
+  "addr": "800E89F8",
+  "room": 9,
+  "refs": 1,
+  "kind": "ui",
+  "en": ": Back"
+ },
+ {
+  "id": "flight_800E87B1",
+  "file": "flight",
+  "addr": "800E87B1",
+  "room": 3,
+  "refs": 1,
+  "kind": "ui",
+  "en": "D"
+ },
+ {
+  "id": "flight_800E87B4",
+  "file": "flight",
+  "addr": "800E87B4",
+  "room": 3,
+  "refs": 1,
+  "kind": "ui",
+  "en": "C"
+ },
+ {
+  "id": "flight_800E87B7",
+  "file": "flight",
+  "addr": "800E87B7",
+  "room": 3,
+  "refs": 1,
+  "kind": "ui",
+  "en": "B"
+ },
+ {
+  "id": "flight_800E87BA",
+  "file": "flight",
+  "addr": "800E87BA",
+  "room": 3,
+  "refs": 1,
+  "kind": "ui",
+  "en": "A"
+ },
+ {
+  "id": "flight_800E87BD",
+  "file": "flight",
+  "addr": "800E87BD",
+  "room": 3,
+  "refs": 1,
+  "kind": "ui",
+  "en": "S"
+ },
+ {
+  "id": "flight_800E87C9",
+  "file": "flight",
+  "addr": "800E87C9",
+  "room": 3,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Forest"
+ },
+ {
+  "id": "map04_800F87EC",
+  "file": "map04",
+  "addr": "800F87EC",
+  "room": 12,
+  "refs": 1,
+  "kind": "ui",
+  "en": "Gera heals!"
+ },
+ {
+  "id": "map04_800F87F8",
+  "file": "map04",
+  "addr": "800F87F8",
+  "room": 64,
+  "refs": 2,
+  "kind": "ui",
+  "en": "Gera damaged!\nTurns until destroyed: %d\nThis is the last turn!"
+ },
+ {
+  "id": "map04_800F8838",
+  "file": "map04",
+  "addr": "800F8838",
+  "room": 38,
+  "refs": 2,
+  "kind": "ui",
+  "en": "Gera damaged.\nDestroyed in %d turns."
+ },
+ {
+  "id": "map10_800F8834",
+  "file": "map10",
+  "addr": "800F8834",
+  "room": 76,
+  "refs": 2,
+  "kind": "ui",
+  "en": "Turns until missile launch: %d\nThis is your last turn to stop the launch!"
+ },
+ {
+  "id": "map10_800F8880",
+  "file": "map10",
+  "addr": "800F8880",
+  "room": 32,
+  "refs": 2,
+  "kind": "ui",
+  "en": "Turns until missile launch: %d"
+ },
+ {
+  "id": "map16_800F87F0",
+  "file": "map16",
+  "addr": "800F87F0",
+  "room": 60,
+  "refs": 2,
+  "kind": "ui",
+  "en": "Turns to Super Weapon Cannon: %d\nThis is the last turn!"
+ },
+ {
+  "id": "map16_800F882C",
+  "file": "map16",
+  "addr": "800F882C",
+  "room": 35,
+  "refs": 2,
+  "kind": "ui",
+  "en": "Turns to Super Weapon Cannon: %d"
+ },
+ {
+  "id": "map18_800F8814",
+  "file": "map18",
+  "addr": "800F8814",
+  "room": 76,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$f27b%%2Texas Crew%%0$s13: Th-the Dragon Turtle... has reached Alaska Base..."
+ },
+ {
+  "id": "map18_800F8860",
+  "file": "map18",
+  "addr": "800F8860",
+  "room": 108,
+  "refs": 2,
+  "kind": "ui",
+  "en": "$f27a%%2Texas Crew%%0$s13: The Dragon Turtle is advancing! %d more to Alaska Base!$/$f27bI-is this the end...?!"
+ },
+ {
+  "id": "map18_800F88CC",
+  "file": "map18",
+  "addr": "800F88CC",
+  "room": 120,
+  "refs": 2,
+  "kind": "ui",
+  "en": "$f27a%%2Texas Crew%%0$s13: The Dragon Turtle is advancing! %d more to Alaska Base!$/$f27bIt's almost there. Hurry!"
+ },
+ {
+  "id": "map18_800F8944",
+  "file": "map18",
+  "addr": "800F8944",
+  "room": 80,
+  "refs": 1,
+  "kind": "ui",
+  "en": "$f27a%%2Texas Crew%%0$s13: The Dragon Turtle is advancing! %d more to Alaska Base!"
+ }
+]

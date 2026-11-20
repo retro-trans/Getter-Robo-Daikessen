@@ -1,0 +1,403 @@
+[
+ {
+  "id": "MF10_027A",
+  "speaker_en": "Ryoma",
+  "en": ""
+ },
+ {
+  "id": "MF10_0316",
+  "speaker_en": "Tsubaki",
+  "en": ""
+ },
+ {
+  "id": "MF10_034A",
+  "speaker_en": "Akane",
+  "en": ""
+ },
+ {
+  "id": "MF10_0382",
+  "speaker_en": "Kaede",
+  "en": ""
+ },
+ {
+  "id": "MF10_03B8",
+  "speaker_en": "Schwartz",
+  "en": ""
+ },
+ {
+  "id": "MF10_03F2",
+  "speaker_en": "Gai",
+  "en": ""
+ },
+ {
+  "id": "MF10_041A",
+  "speaker_en": "Schwartz",
+  "en": ""
+ },
+ {
+  "id": "MF10_048A",
+  "speaker_en": "Michiru",
+  "en": ""
+ },
+ {
+  "id": "MF10_04B4",
+  "speaker_en": "Schwartz",
+  "en": ""
+ },
+ {
+  "id": "MF10_054E",
+  "speaker_en": "Ryoma",
+  "en": ""
+ },
+ {
+  "id": "MF10_0570",
+  "speaker_en": "Ship Announcement",
+  "en": ""
+ },
+ {
+  "id": "MF10_05F4",
+  "speaker_en": "Captain",
+  "en": ""
+ },
+ {
+  "id": "MF10_065A",
+  "speaker_en": "Bob",
+  "en": ""
+ },
+ {
+  "id": "MF10_0686",
+  "speaker_en": "Linda",
+  "en": ""
+ },
+ {
+  "id": "MF10_06CC",
+  "speaker_en": "Captain",
+  "en": ""
+ },
+ {
+  "id": "MF10_0780",
+  "speaker_en": "Sam",
+  "en": ""
+ },
+ {
+  "id": "MF10_07C6",
+  "speaker_en": "Captain",
+  "en": ""
+ },
+ {
+  "id": "MF10_0820",
+  "speaker_en": "Shatner",
+  "en": ""
+ },
+ {
+  "id": "MF10_0850",
+  "speaker_en": "Schwartz",
+  "en": ""
+ },
+ {
+  "id": "MF10_0890",
+  "speaker_en": "Captain",
+  "en": ""
+ },
+ {
+  "id": "MF10_0914",
+  "speaker_en": "Lambert",
+  "en": ""
+ },
+ {
+  "id": "MF10_0966",
+  "speaker_en": "Captain",
+  "en": ""
+ },
+ {
+  "id": "MF10_0A18",
+  "speaker_en": "Mary",
+  "en": ""
+ },
+ {
+  "id": "MF10_0A7A",
+  "speaker_en": "Jack",
+  "en": ""
+ },
+ {
+  "id": "MF10_0ADC",
+  "speaker_en": "Emperor Burai",
+  "en": ""
+ },
+ {
+  "id": "MF10_0BD8",
+  "speaker_en": "Jyuboki",
+  "en": ""
+ },
+ {
+  "id": "MF10_0C22",
+  "speaker_en": "Captain",
+  "en": ""
+ },
+ {
+  "id": "MF10_0750",
+  "speaker_en": "Captain",
+  "en": ""
+ },
+ {
+  "id": "MF10_09C8",
+  "speaker_en": "Captain",
+  "en": ""
+ },
+ {
+  "id": "MF10_0D72",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "en": ""
+ },
+ {
+  "id": "MF10_0D55",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "en": ""
+ },
+ {
+  "id": "MF10_0DA6",
+  "speaker_en": "Emperor Burai",
+  "en": ""
+ },
+ {
+  "id": "MF11_0018",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "en": ""
+ },
+ {
+  "id": "MF11_0063",
+  "speaker_en": "Emperor Burai",
+  "en": ""
+ },
+ {
+  "id": "MF11_0219",
+  "speaker_en": "Hyakki Soldier",
+  "en": ""
+ },
+ {
+  "id": "MF11_023F",
+  "speaker_en": "Texas Crew",
+  "en": ""
+ },
+ {
+  "id": "MF11_02C3",
+  "speaker_en": "Captain",
+  "en": ""
+ },
+ {
+  "id": "MF11_032D",
+  "speaker_en": "Furuta",
+  "en": ""
+ },
+ {
+  "id": "MF11_037E",
+  "speaker_en": "Ryoma",
+  "en": ""
+ },
+ {
+  "id": "MF11_03C2",
+  "speaker_en": "Hayato",
+  "en": ""
+ },
+ {
+  "id": "MF11_03F6",
+  "speaker_en": "Go",
+  "en": ""
+ },
+ {
+  "id": "MF11_0442",
+  "speaker_jp": "$n",
+  "speaker_en": "$n (player)",
+  "en": "",
+  "gender_variant": "male player"
+ },
+ {
+  "id": "MF11_0478",
+  "speaker_jp": "$n",
+  "speaker_en": "$n (player)",
+  "en": "",
+  "gender_variant": "female player"
+ },
+ {
+  "id": "MF11_04AC",
+  "speaker_en": "Schwartz",
+  "en": ""
+ },
+ {
+  "id": "MF11_04DC",
+  "speaker_en": "Emperor Burai",
+  "en": ""
+ },
+ {
+  "id": "MF11_06BC",
+  "speaker_en": "Dr. Saotome",
+  "en": ""
+ },
+ {
+  "id": "MF11_072C",
+  "speaker_jp": "$n",
+  "speaker_en": "$n (player)",
+  "en": "",
+  "gender_variant": "male player"
+ },
+ {
+  "id": "MF11_0768",
+  "speaker_jp": "$n",
+  "speaker_en": "$n (player)",
+  "en": "",
+  "gender_variant": "female player"
+ },
+ {
+  "id": "MF11_07A4",
+  "speaker_en": "Dr. Saotome",
+  "en": ""
+ },
+ {
+  "id": "MF11_0804",
+  "speaker_en": "Hayato",
+  "en": ""
+ },
+ {
+  "id": "MF11_010B",
+  "speaker_en": "Emperor Burai",
+  "en": ""
+ },
+ {
+  "id": "MF11_0191",
+  "speaker_en": "Emperor Burai",
+  "en": ""
+ },
+ {
+  "id": "MF11_02EB",
+  "speaker_en": "Captain",
+  "en": ""
+ },
+ {
+  "id": "MF11_0566",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "en": ""
+ },
+ {
+  "id": "MF11_05D2",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "en": ""
+ },
+ {
+  "id": "MF11_0668",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "en": ""
+ },
+ {
+  "id": "MF11_06AE",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "en": ""
+ },
+ {
+  "id": "MF11_0862",
+  "speaker_en": "Emperor Burai",
+  "en": ""
+ },
+ {
+  "id": "MF11_0937",
+  "speaker_en": "Michiru",
+  "en": ""
+ },
+ {
+  "id": "MF12_0014",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "en": ""
+ },
+ {
+  "id": "MF12_006F",
+  "speaker_en": "Hayato",
+  "en": ""
+ },
+ {
+  "id": "MF12_00D5",
+  "speaker_en": "Dr. Saotome",
+  "en": ""
+ },
+ {
+  "id": "MF12_0387",
+  "speaker_en": "Texas Crew",
+  "en": ""
+ },
+ {
+  "id": "MF12_03F1",
+  "speaker_en": "Captain",
+  "en": ""
+ },
+ {
+  "id": "MF12_0435",
+  "speaker_en": "Jack",
+  "en": ""
+ },
+ {
+  "id": "MF12_04A3",
+  "speaker_en": "Captain",
+  "en": ""
+ },
+ {
+  "id": "MF12_04C7",
+  "speaker_en": "Mary",
+  "en": ""
+ },
+ {
+  "id": "MF12_0537",
+  "speaker_en": "Akane",
+  "en": ""
+ },
+ {
+  "id": "MF12_0591",
+  "speaker_en": "Ryoma",
+  "en": ""
+ },
+ {
+  "id": "MF12_05DD",
+  "speaker_en": "Go",
+  "en": ""
+ },
+ {
+  "id": "MF12_0611",
+  "speaker_en": "Captain",
+  "en": ""
+ },
+ {
+  "id": "MF12_0669",
+  "speaker_jp": "????",
+  "speaker_en": "????",
+  "en": ""
+ },
+ {
+  "id": "MF12_06A7",
+  "speaker_en": "Musashi",
+  "en": ""
+ },
+ {
+  "id": "MF12_06C7",
+  "speaker_en": "Rasetsu",
+  "en": ""
+ },
+ {
+  "id": "MF12_0741",
+  "speaker_jp": "$n",
+  "speaker_en": "$n (player)",
+  "en": "",
+  "gender_variant": "male player"
+ },
+ {
+  "id": "MF12_0769",
+  "speaker_jp": "$n",
+  "speaker_en": "$n (player)",
+  "en": "",
+  "gender_variant": "female player"
+ }
+]

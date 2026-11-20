@@ -1,0 +1,128 @@
+[
+ {
+  "id": "flight_800E89F8",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 48,
+  "en": ""
+ },
+ {
+  "id": "flight_800E87B1",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 12,
+  "en": ""
+ },
+ {
+  "id": "flight_800E87B4",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 12,
+  "en": ""
+ },
+ {
+  "id": "flight_800E87B7",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 12,
+  "en": ""
+ },
+ {
+  "id": "flight_800E87BA",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 12,
+  "en": ""
+ },
+ {
+  "id": "flight_800E87BD",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 12,
+  "en": ""
+ },
+ {
+  "id": "flight_800E87C9",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 12,
+  "en": ""
+ },
+ {
+  "id": "map04_800F87EC",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 60,
+  "en": ""
+ },
+ {
+  "id": "map04_800F87F8",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 375,
+  "en": ""
+ },
+ {
+  "id": "map04_800F8838",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 216,
+  "en": ""
+ },
+ {
+  "id": "map10_800F8834",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 432,
+  "en": ""
+ },
+ {
+  "id": "map10_800F8880",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 168,
+  "en": ""
+ },
+ {
+  "id": "map16_800F87F0",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 348,
+  "en": ""
+ },
+ {
+  "id": "map16_800F882C",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 192,
+  "en": ""
+ },
+ {
+  "id": "map18_800F8814",
+  "kind": "dialogue",
+  "max_bytes": null,
+  "max_px": null,
+  "en": ""
+ },
+ {
+  "id": "map18_800F8860",
+  "kind": "dialogue",
+  "max_bytes": null,
+  "max_px": null,
+  "en": ""
+ },
+ {
+  "id": "map18_800F88CC",
+  "kind": "dialogue",
+  "max_bytes": null,
+  "max_px": null,
+  "en": ""
+ },
+ {
+  "id": "map18_800F8944",
+  "kind": "dialogue",
+  "max_bytes": null,
+  "max_px": null,
+  "en": ""
+ }
+]

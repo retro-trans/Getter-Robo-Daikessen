@@ -1,0 +1,10 @@
+[
+  {
+    "jp": "ドーバー砲",
+    "en": "Dover Cannon",
+    "type": "weapon",
+    "source": "Original C11.STR, 10.8-13.6 and 38.0-40.65 seconds; independently corroborated local recognition passes",
+    "confidence": "medium",
+    "note": "The Texas's final firing command. Keep distinct from the enemy ship Dragon Turtle. Audio-based spelling; human listening review remains pending."
+  }
+]

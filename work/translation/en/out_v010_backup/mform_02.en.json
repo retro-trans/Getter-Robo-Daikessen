@@ -1,0 +1,320 @@
+[
+ {
+  "id": "MF04_044A",
+  "en": "But hey! Energy so big it can't grow fast enough to keep up... $s80$s13something like that$s30...$s80$s13!"
+ },
+ {
+  "id": "MF04_04BE",
+  "en": "$s05No way!"
+ },
+ {
+  "id": "MF04_04E4",
+  "en": "$s05The Getter! $s80$s13We fly the Getter inside its body and blast it with Getter Energy at maximum output!"
+ },
+ {
+  "id": "MF04_055A",
+  "en": "That's right!$/But while it's inside, that Getter will be completely defenseless! $s80$s13The remaining Getters must stand guard over it! $s80$s13$s05Can you manage it!?"
+ },
+ {
+  "id": "MF04_05FA",
+  "en": "It's the only way, isn't it!? $s80$s13You don't even need to ask!$/$m00g$s05Let's go!"
+ },
+ {
+  "id": "MF04_06DD",
+  "en": "Hm? $s80$s13$s80$s13So you came after all, Getter Team."
+ },
+ {
+  "id": "MF04_098F",
+  "en": "$s05Ngh! $s80$s13$s80$s13$s80$s13To think there was a way to do that!",
+  "note": "Bat reacting to the Getter attacking Gera from inside."
+ },
+ {
+  "id": "MF04_0731",
+  "en": "$s20Today is the day you all die!"
+ },
+ {
+  "id": "MF04_0663",
+  "en": "That's right!$/All right, $s80$s13Getter Team, withdraw at once. $s80$s13We'll regroup and sortie again!"
+ },
+ {
+  "id": "MF04_09ED",
+  "en": "$s05Curse you! $s80$s13Curse you, Getter Robo! $s80$s13$s05Gwaaaah!"
+ },
+ {
+  "id": "MF04_08CD",
+  "en": "Get inside the beast's body, $s80$s13and hold out there!$/$s80$s13Will the Getter be turned into energy first, $s80$s13or will the Getter's energy break the beast down first...$s80$s13$s05It's a showdown!"
+ },
+ {
+  "id": "MF04_0AD8",
+  "en": "$/Having lost Getter Robo, the Getter Team could do nothing but watch as Gera swallowed up the city..."
+ },
+ {
+  "id": "MF05_001C",
+  "en": "This here's MAP05, pal!"
+ },
+ {
+  "id": "MF05_0091",
+  "en": "Multiple readings over the Pacific! $s80$s13They appear to be Dinosaur Empire Mechasaurs!",
+  "note": "Plural 'Mechasaurs' per the glossary note."
+ },
+ {
+  "id": "MF05_00EF",
+  "en": "Man, would you look at how many there are!"
+ },
+ {
+  "id": "MF05_0115",
+  "en": "$s20So those Dinosaur Empire bastards $s80$s13$s80$s13are finally getting serious, huh!"
+ },
+ {
+  "id": "MF05_016D",
+  "en": "$s20We cannot let them into the city! $s80$s13We'll meet them on the coastline!"
+ },
+ {
+  "id": "MF05_01FF",
+  "en": "$s05Damn it! $s80$s13$s05These dino bastards! $s80$s13$s05There's too many of them to handle!",
+  "note": "Male-player version (paired with MF05_0263)."
+ },
+ {
+  "id": "MF05_0263",
+  "en": "$s05There are so many dinosaurs! $s80$s13$s05I can't handle them anymore!",
+  "note": "Female-player version (paired with MF05_01FF)."
+ },
+ {
+  "id": "MF05_02B7",
+  "en": "$s05We've got a reading on radar!"
+ },
+ {
+  "id": "MF05_02EB",
+  "en": "$s80$s13$s05Wh-- $s80$s13$s05More of 'em coming!?"
+ },
+ {
+  "id": "MF05_032B",
+  "en": "$s05No, that's not it!"
+ },
+ {
+  "id": "MF05_0355",
+  "en": "Whoa! $s80$s13What is that thing!?"
+ },
+ {
+  "id": "MF05_0387",
+  "en": "$s30That's $s80$s13the large transport plane Kujira!"
+ },
+ {
+  "id": "MF05_03C5",
+  "en": "So you've come! $s80$s13Dr. Tachibana!"
+ },
+ {
+  "id": "MF05_03FF",
+  "en": "$s30...! $s80$s13%1Getter Zan%0!"
+ },
+ {
+  "id": "MF05_0439",
+  "en": "Nice to meet you! $s80$s13%1Getter Zan%0!"
+ },
+ {
+  "id": "MF05_01C3",
+  "en": "Getter Team, $s80$s13launch!"
+ },
+ {
+  "id": "MF05_0524",
+  "en": "It's %2a Getter Robo built for women only%0.$/I built it so it can be expected to match the fighting strength of Dr. Saotome's Getter Robo. $s80$s13Use it to fight your way out of this!"
+ },
+ {
+  "id": "MF05_04A8",
+  "en": "Bring any damaged units over to the Kujira! $s80$s13If you %2'Board'%0 them here, they can be repaired and resupplied!"
+ },
+ {
+  "id": "MF06_0EE5",
+  "en": "%2The Getter Team was on its way to the Tachibana Institute to receive \"Getter Robo Go\"...",
+  "note": "Source has %2 with no closing %0; kept as is."
+ },
+ {
+  "id": "MF06_001C",
+  "en": "This here's MAP06, pal!",
+  "note": "Debug/placeholder map label."
+ },
+ {
+  "id": "MF06_0062",
+  "en": "$s20As you all know, a new enemy, $s20the %3Hyakki Empire%0, appeared in the last battle."
+ },
+ {
+  "id": "MF06_0186",
+  "en": "When sparks fall on you$s30...$s80$s13 huh?"
+ },
+ {
+  "id": "MF06_01C6",
+  "en": "Yes, $s80$s13you must brush them off."
+ },
+ {
+  "id": "MF06_0264",
+  "en": "An allied force...?"
+ },
+ {
+  "id": "MF06_0286",
+  "en": "That's right. $s80$s13Besides Getter Robo, nations all over the world are developing super robots.$/But development takes enormous funding and manpower, and above all, there aren't enough engineers.$/So no nation has managed to mass-produce super robots yet."
+ },
+ {
+  "id": "MF06_0384",
+  "en": "And we went and smashed the mass-produced Getter Robos too, after all.",
+  "note": "Refers to the mass-produced Getters hijacked by Neon in MF03."
+ },
+ {
+  "id": "MF06_03CA",
+  "en": "Losing that much fighting strength really stings!",
+  "note": "Male-player version (paired with MF06_03F8)."
+ },
+ {
+  "id": "MF06_03F8",
+  "en": "It kind of feels like such a waste, doesn't it?",
+  "note": "Female-player version (paired with MF06_03CA)."
+ },
+ {
+  "id": "MF06_042E",
+  "en": "Besides, a single unit may be able to defend, but going on the offensive is difficult."
+ },
+ {
+  "id": "MF06_04C0",
+  "en": "So when's that going to happen?"
+ },
+ {
+  "id": "MF06_04F6",
+  "en": "Every nation is still in the preparation stage.$/It will take a while yet, but it isn't far off."
+ },
+ {
+  "id": "MF06_0560",
+  "en": "And then, for the first time, we can take the fight to them!"
+ },
+ {
+  "id": "MF06_05A8",
+  "en": "$s05Dr. Tachibana! $s05The Hyakki Empire is attacking the Tachibana Institute!"
+ },
+ {
+  "id": "MF06_05EC",
+  "en": "$s05What!?"
+ },
+ {
+  "id": "MF06_0614",
+  "en": "$s05No way! $s80$s13$s05They're targeting a Getter Ray research institute!?",
+  "note": "Male-player version (paired with MF06_0660)."
+ },
+ {
+  "id": "MF06_0660",
+  "en": "$s05Could it be...! $s80$s13$s05They're targeting a Getter Ray research institute!?",
+  "note": "Female-player version (paired with MF06_0614)."
+ },
+ {
+  "id": "MF06_06B0",
+  "en": "$s05That's not all! $s80$s13$s05Right now at the institute, a new Getter Robo, $/%1Getter Robo Go%0, is just about to be completed!"
+ },
+ {
+  "id": "MF06_0734",
+  "en": "$s05All Getter Robos! $s80$s13$s05Launch to rescue the Tachibana Institute!"
+ },
+ {
+  "id": "MF06_078C",
+  "en": "Listen up! This time our objective is to defend the institute!$/$s05$m01gDon't let them get a single step closer!"
+ },
+ {
+  "id": "MF06_07EF",
+  "en": "Long time no see! $s80$s13Hayato!"
+ },
+ {
+  "id": "MF06_0825",
+  "en": "$s05!? $s80$s13That voice! $s80$s13$s05Ryuji!"
+ },
+ {
+  "id": "MF06_086B",
+  "en": "So you still remember me..."
+ },
+ {
+  "id": "MF06_089B",
+  "en": "Ryuji! You...$s80$s13why..."
+ },
+ {
+  "id": "MF06_08D3",
+  "en": "$s20After you left the school, $s80$s13$s20we lost you, our commander, $s80$s13and the school took its revenge on us in all kinds of ways."
+ },
+ {
+  "id": "MF06_0A75",
+  "en": "$s05Ryuji!"
+ },
+ {
+  "id": "MF06_0A99",
+  "en": "$s05Dr. Tachibana, $s80$s13can't Getter Go move yet!?"
+ },
+ {
+  "id": "MF06_0AE5",
+  "en": "If we don't hurry, everyone's gonna--!",
+  "note": "Deliberately unfinished in the source."
+ },
+ {
+  "id": "MF06_0B13",
+  "en": "Almost! $s80$s13Just a little longer!"
+ },
+ {
+  "id": "MF06_0B49",
+  "en": "$s05Father! $s80$s13$s05Hurry!"
+ },
+ {
+  "id": "MF06_0B81",
+  "en": "$s20That isn't what you wanted, was it... $s80$s13Power that does nothing but destroy...",
+  "note": "Hayato to Ryuji, answering Ryuji's 'I wanted power' (MF06_099F)."
+ },
+ {
+  "id": "MF06_0C3F",
+  "en": "$s05Damn it! $s80$s13$s05Even more small fry showed up!"
+ },
+ {
+  "id": "MF06_0C89",
+  "en": "$s05Isn't it ready yet!? $s80$s13$s05The Getter Go!"
+ },
+ {
+  "id": "MF06_0D97",
+  "en": "$s05Everyone! $s80$s13We're getting a distress signal from the Saotome Institute!"
+ },
+ {
+  "id": "MF06_0DE5",
+  "en": "$s05What did you say!?"
+ },
+ {
+  "id": "MF06_0E0F",
+  "en": "So the attack here is a diversion!?"
+ },
+ {
+  "id": "MF06_0E3B",
+  "en": "No, I can't tell. $s80$s13The attack on the Saotome Institute might be the diversion!"
+ },
+ {
+  "id": "MF06_0E8B",
+  "en": "$s05$n! What do we do!?",
+  "note": "Ryoma asks the player to make the call (route choice follows)."
+ },
+ {
+  "id": "MF06_00CA",
+  "en": "$s20They have already declared war on every nation in the world, $s80$s13$s20and the fighting has begun."
+ },
+ {
+  "id": "MF06_0124",
+  "en": "But $s80$s13$s20just as with the Dinosaur Empire, $s80$s13$s20what we must do remains the same."
+ },
+ {
+  "id": "MF06_01FC",
+  "en": "Soon, we plan to gather %1super robots%0 from nations all over the world $s80$s13and form an allied force."
+ },
+ {
+  "id": "MF06_0482",
+  "en": "I see, so that's what the allied force is for."
+ },
+ {
+  "id": "MF06_0959",
+  "en": "$s20And many of our friends quit the school..."
+ },
+ {
+  "id": "MF06_099F",
+  "en": "I wanted power! $s80$s13Power that would never bow to anyone!"
+ },
+ {
+  "id": "MF06_09E7",
+  "en": "$s20And I got it! $s80$s13The power called Maouki! $s80$s13$s80$s13Yes! $s80$s13From the Hyakki Empire, $s80$s13from His Majesty Emperor Burai!"
+ }
+]

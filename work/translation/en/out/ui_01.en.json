@@ -1,0 +1,752 @@
+[
+ {
+  "id": "exe_800140F4",
+  "en": "Texas Rifle",
+  "note": ""
+ },
+ {
+  "id": "exe_80014128",
+  "en": "Texas Magnum 444",
+  "note": ""
+ },
+ {
+  "id": "exe_8001415C",
+  "en": "Hat Machine Attack",
+  "note": ""
+ },
+ {
+  "id": "exe_80014190",
+  "en": "Salt Gun",
+  "note": ""
+ },
+ {
+  "id": "exe_800141C4",
+  "en": "Over Boost",
+  "note": ""
+ },
+ {
+  "id": "exe_800141F8",
+  "en": "Ground Laser",
+  "note": ""
+ },
+ {
+  "id": "exe_8001422C",
+  "en": "Dover Cannon",
+  "note": ""
+ },
+ {
+  "id": "exe_80014260",
+  "en": "Emperor Beam",
+  "note": ""
+ },
+ {
+  "id": "exe_80014294",
+  "en": "Buzzsaw Boomerang",
+  "note": ""
+ },
+ {
+  "id": "exe_800142C8",
+  "en": "Dorsal Cutter",
+  "note": ""
+ },
+ {
+  "id": "exe_800142FC",
+  "en": "Horn Boomerang",
+  "note": ""
+ },
+ {
+  "id": "exe_80014330",
+  "en": "Horn Charge",
+  "note": ""
+ },
+ {
+  "id": "exe_80014364",
+  "en": "Arrow Missile",
+  "note": ""
+ },
+ {
+  "id": "exe_80014398",
+  "en": "Pounce",
+  "note": ""
+ },
+ {
+  "id": "exe_800143CC",
+  "en": "Vacuum Tornado Throw",
+  "note": ""
+ },
+ {
+  "id": "exe_80014400",
+  "en": "Clinging Drill",
+  "note": ""
+ },
+ {
+  "id": "exe_80014434",
+  "en": "Tunnel Torpedo Charge",
+  "note": ""
+ },
+ {
+  "id": "exe_80014468",
+  "en": "Missile",
+  "note": ""
+ },
+ {
+  "id": "exe_8001449C",
+  "en": "Launch Bat Men",
+  "note": ""
+ },
+ {
+  "id": "exe_800144D0",
+  "en": "Bite",
+  "note": ""
+ },
+ {
+  "id": "exe_80014504",
+  "en": "Large Guided Missile",
+  "note": "editorial: oogata = Large, as in data_names"
+ },
+ {
+  "id": "exe_80014538",
+  "en": "Binding Foot",
+  "note": ""
+ },
+ {
+  "id": "exe_8001456C",
+  "en": "Scratch Climb",
+  "note": ""
+ },
+ {
+  "id": "exe_800145A0",
+  "en": "Tornado Vacuum Slash",
+  "note": ""
+ },
+ {
+  "id": "exe_800145D4",
+  "en": "Tornado Charge",
+  "note": ""
+ },
+ {
+  "id": "exe_80014608",
+  "en": "Tornado Throw",
+  "note": ""
+ },
+ {
+  "id": "exe_8001463C",
+  "en": "Cobra Venom",
+  "note": ""
+ },
+ {
+  "id": "exe_80014670",
+  "en": "Thunder Roar",
+  "note": ""
+ },
+ {
+  "id": "exe_800146A4",
+  "en": "Horn Scoop Stab",
+  "note": ""
+ },
+ {
+  "id": "exe_800146D8",
+  "en": "Spread Melt Shock",
+  "note": ""
+ },
+ {
+  "id": "exe_8001470C",
+  "en": "Horiz. Claw Chop",
+  "note": ""
+ },
+ {
+  "id": "exe_80014740",
+  "en": "Electric Shock",
+  "note": ""
+ },
+ {
+  "id": "exe_80014774",
+  "en": "Tentacles",
+  "note": ""
+ },
+ {
+  "id": "exe_800147A8",
+  "en": "Hurricane",
+  "note": ""
+ },
+ {
+  "id": "exe_800147DC",
+  "en": "Large Missile",
+  "note": "editorial: oogata = Large, as in the other rows and data_names"
+ },
+ {
+  "id": "exe_80014810",
+  "en": "Tomahawk Boomerang",
+  "note": ""
+ },
+ {
+  "id": "exe_80014844",
+  "en": "Getter Tomahawk",
+  "note": ""
+ },
+ {
+  "id": "exe_80014878",
+  "en": "Getter Beam",
+  "note": ""
+ },
+ {
+  "id": "exe_800148AC",
+  "en": "Jet Drill",
+  "note": ""
+ },
+ {
+  "id": "exe_800148E0",
+  "en": "Drill Arm",
+  "note": ""
+ },
+ {
+  "id": "exe_80014914",
+  "en": "Getter Missile",
+  "note": ""
+ },
+ {
+  "id": "exe_80014948",
+  "en": "Getter Smash",
+  "note": ""
+ },
+ {
+  "id": "exe_8001497C",
+  "en": "Getter Crush",
+  "note": ""
+ },
+ {
+  "id": "exe_800149B0",
+  "en": "Cannon",
+  "note": ""
+ },
+ {
+  "id": "exe_80014A18",
+  "en": "Plasma Fireball",
+  "note": ""
+ },
+ {
+  "id": "exe_80014A4C",
+  "en": "Air Cutter",
+  "note": ""
+ },
+ {
+  "id": "exe_80014A80",
+  "en": "Wing Cutter",
+  "note": ""
+ },
+ {
+  "id": "exe_80014AB4",
+  "en": "Horn Beam",
+  "note": ""
+ },
+ {
+  "id": "exe_80014AE8",
+  "en": "Scissor Hand",
+  "note": ""
+ },
+ {
+  "id": "exe_80014B1C",
+  "en": "Tentacle Press",
+  "note": ""
+ },
+ {
+  "id": "exe_80014B50",
+  "en": "Leap",
+  "note": ""
+ },
+ {
+  "id": "exe_80014B84",
+  "en": "Air Torpedo",
+  "note": ""
+ },
+ {
+  "id": "exe_80014BB8",
+  "en": "Telekinesis",
+  "note": ""
+ },
+ {
+  "id": "exe_80014BEC",
+  "en": "Sickle Cutter 1",
+  "note": ""
+ },
+ {
+  "id": "exe_80014C20",
+  "en": "Sickle Cutter 2",
+  "note": ""
+ },
+ {
+  "id": "exe_80014C54",
+  "en": "Sickle Cutter 3",
+  "note": ""
+ },
+ {
+  "id": "exe_80014C88",
+  "en": "Large Missile",
+  "note": "editorial: oogata = Large, as in the other rows and data_names"
+ },
+ {
+  "id": "exe_80014CBC",
+  "en": "Homing Disc Cutter",
+  "note": ""
+ },
+ {
+  "id": "exe_80014CF0",
+  "en": "Disc Cutter Slash",
+  "note": ""
+ },
+ {
+  "id": "exe_80014D24",
+  "en": "Jyubo Sword",
+  "note": ""
+ },
+ {
+  "id": "exe_80014D58",
+  "en": "Belt Saber",
+  "note": ""
+ },
+ {
+  "id": "exe_80014D8C",
+  "en": "Twin-Sword Thrusts",
+  "note": ""
+ },
+ {
+  "id": "exe_80014DC0",
+  "en": "Uzahra Eye Beam",
+  "note": ""
+ },
+ {
+  "id": "exe_80014DF4",
+  "en": "Uzahra Head Beam",
+  "note": ""
+ },
+ {
+  "id": "exe_80014E28",
+  "en": "Gravity Cut Beam",
+  "note": ""
+ },
+ {
+  "id": "exe_80014E5C",
+  "en": "Chain Needle",
+  "note": ""
+ },
+ {
+  "id": "exe_80014E90",
+  "en": "Brick Bomb",
+  "note": ""
+ },
+ {
+  "id": "exe_80014EC4",
+  "en": "Iron Tomahawk",
+  "note": ""
+ },
+ {
+  "id": "exe_80014EF8",
+  "en": "Flamethrower",
+  "note": ""
+ },
+ {
+  "id": "exe_80014F2C",
+  "en": "Horn Homing Missile",
+  "note": ""
+ },
+ {
+  "id": "exe_80014F94",
+  "en": "Parts Attack",
+  "note": ""
+ },
+ {
+  "id": "exe_80014FC8",
+  "en": "Mount Punch",
+  "note": ""
+ },
+ {
+  "id": "exe_80014FFC",
+  "en": "Gust Cannon",
+  "note": ""
+ },
+ {
+  "id": "exe_80015030",
+  "en": "Claw Flurry",
+  "note": ""
+ },
+ {
+  "id": "exe_80015064",
+  "en": "Cannon",
+  "note": ""
+ },
+ {
+  "id": "exe_80015098",
+  "en": "Venom Sting",
+  "note": ""
+ },
+ {
+  "id": "exe_800150CC",
+  "en": "Spin Attack",
+  "note": ""
+ },
+ {
+  "id": "exe_80015100",
+  "en": "Arm Bite",
+  "note": ""
+ },
+ {
+  "id": "exe_80015134",
+  "en": "Dropkick",
+  "note": ""
+ },
+ {
+  "id": "exe_80015168",
+  "en": "Arm Hammer",
+  "note": ""
+ },
+ {
+  "id": "exe_8001519C",
+  "en": "Acid",
+  "note": ""
+ },
+ {
+  "id": "exe_800151D0",
+  "en": "Pincer Attack",
+  "note": ""
+ },
+ {
+  "id": "exe_80015204",
+  "en": "Small Twin Laser",
+  "note": ""
+ },
+ {
+  "id": "exe_80015238",
+  "en": "Satellite Sight Beam",
+  "note": ""
+ },
+ {
+  "id": "exe_8001526C",
+  "en": "Illusion Wave",
+  "note": ""
+ },
+ {
+  "id": "exe_800152A0",
+  "en": "Subspace Cosmos",
+  "note": ""
+ },
+ {
+  "id": "exe_800152D4",
+  "en": "Satellite Sight Beam",
+  "note": ""
+ },
+ {
+  "id": "exe_80015308",
+  "en": "Red Eye Glare",
+  "note": ""
+ },
+ {
+  "id": "exe_8001533C",
+  "en": "Zanbu Sword",
+  "note": ""
+ },
+ {
+  "id": "exe_80015370",
+  "en": "Iai Slash",
+  "note": ""
+ },
+ {
+  "id": "exe_800153A4",
+  "en": "Uzahra Eye Beam",
+  "note": ""
+ },
+ {
+  "id": "exe_800153D8",
+  "en": "Uzahra Head Beam",
+  "note": ""
+ },
+ {
+  "id": "exe_8001540C",
+  "en": "Gravity Cut Beam",
+  "note": ""
+ },
+ {
+  "id": "exe_80015440",
+  "en": "Large Long-Range Gun",
+  "note": "editorial: oogata = Large, as in data_names"
+ },
+ {
+  "id": "exe_80015474",
+  "en": "Magma Tentacle",
+  "note": ""
+ },
+ {
+  "id": "exe_800154A8",
+  "en": "Magma Cannon",
+  "note": ""
+ },
+ {
+  "id": "exe_800154DC",
+  "en": "Scatter Laser",
+  "note": ""
+ },
+ {
+  "id": "exe_80015510",
+  "en": "MSDI",
+  "note": ""
+ },
+ {
+  "id": "exe_80015544",
+  "en": "Ultrasonic",
+  "note": ""
+ },
+ {
+  "id": "exe_80015578",
+  "en": "Slash",
+  "note": ""
+ },
+ {
+  "id": "exe_800155AC",
+  "en": "Formic Acid",
+  "note": ""
+ },
+ {
+  "id": "exe_800155E0",
+  "en": "Bite",
+  "note": ""
+ },
+ {
+  "id": "exe_80015614",
+  "en": "Formic Acid",
+  "note": ""
+ },
+ {
+  "id": "exe_80015648",
+  "en": "Undermine",
+  "note": ""
+ },
+ {
+  "id": "exe_8001567C",
+  "en": "1000 Needles",
+  "note": ""
+ },
+ {
+  "id": "exe_800156B0",
+  "en": "Needle Charge",
+  "note": ""
+ },
+ {
+  "id": "exe_800156E4",
+  "en": "Body Dive",
+  "note": ""
+ },
+ {
+  "id": "exe_80015718",
+  "en": "Impale",
+  "note": ""
+ },
+ {
+  "id": "exe_8001574C",
+  "en": "Jaw Throw",
+  "note": ""
+ },
+ {
+  "id": "exe_80015780",
+  "en": "Subspace Orb",
+  "note": ""
+ },
+ {
+  "id": "exe_800157B4",
+  "en": "Dark Matter",
+  "note": ""
+ },
+ {
+  "id": "exe_800157E8",
+  "en": "Spawn",
+  "note": ""
+ },
+ {
+  "id": "exe_80015850",
+  "en": "Cosmic Light",
+  "note": ""
+ },
+ {
+  "id": "exe_80015920",
+  "en": "Recon (Lv1)",
+  "note": ""
+ },
+ {
+  "id": "exe_80015954",
+  "en": "Recon (Lv2)",
+  "note": ""
+ },
+ {
+  "id": "exe_80015988",
+  "en": "Recon (Lv3)",
+  "note": ""
+ },
+ {
+  "id": "exe_800159BC",
+  "en": "Self-Destruct Lv1",
+  "note": ""
+ },
+ {
+  "id": "exe_800159F0",
+  "en": "Self-Destruct Lv2",
+  "note": ""
+ },
+ {
+  "id": "exe_80015A24",
+  "en": "Self-Destruct Lv3",
+  "note": ""
+ },
+ {
+  "id": "exe_80015A58",
+  "en": "Level 1",
+  "note": ""
+ },
+ {
+  "id": "exe_80015A8C",
+  "en": "Level 2",
+  "note": ""
+ },
+ {
+  "id": "exe_80015AC0",
+  "en": "Level 3",
+  "note": ""
+ },
+ {
+  "id": "exe_80015AF4",
+  "en": "Level 1",
+  "note": ""
+ },
+ {
+  "id": "exe_80015B28",
+  "en": "Level 2",
+  "note": ""
+ },
+ {
+  "id": "exe_80015B5C",
+  "en": "Level 3",
+  "note": ""
+ },
+ {
+  "id": "exe_80015BA8",
+  "en": "Getter-1",
+  "note": ""
+ },
+ {
+  "id": "exe_80015BE2",
+  "en": "Getter-2",
+  "note": ""
+ },
+ {
+  "id": "exe_80015C1C",
+  "en": "Getter-3",
+  "note": ""
+ },
+ {
+  "id": "exe_80015C56",
+  "en": "Eagle-Gou",
+  "note": ""
+ },
+ {
+  "id": "exe_80015C90",
+  "en": "Jaguar-Gou",
+  "note": ""
+ },
+ {
+  "id": "exe_80015CCA",
+  "en": "Bear-Gou",
+  "note": ""
+ },
+ {
+  "id": "exe_80015D04",
+  "en": "Getter-1/2",
+  "note": ""
+ },
+ {
+  "id": "exe_80015D3E",
+  "en": "Getter-2/3",
+  "note": ""
+ },
+ {
+  "id": "exe_80015D78",
+  "en": "Getter-3/1",
+  "note": ""
+ },
+ {
+  "id": "exe_80015DB2",
+  "en": "Getter Dragon",
+  "note": ""
+ },
+ {
+  "id": "exe_80015DEC",
+  "en": "Getter Liger",
+  "note": ""
+ },
+ {
+  "id": "exe_80015E26",
+  "en": "Getter Poseidon",
+  "note": ""
+ },
+ {
+  "id": "exe_80015E60",
+  "en": "Dragon-Gou",
+  "note": ""
+ },
+ {
+  "id": "exe_80015E9A",
+  "en": "Liger-Gou",
+  "note": ""
+ },
+ {
+  "id": "exe_80015ED4",
+  "en": "Poseidon-Gou",
+  "note": ""
+ },
+ {
+  "id": "exe_80015F82",
+  "en": "Getter Gai",
+  "note": ""
+ },
+ {
+  "id": "exe_80015FBC",
+  "en": "Get Machine 1",
+  "note": ""
+ },
+ {
+  "id": "exe_80015FF6",
+  "en": "Get Machine 2",
+  "note": ""
+ },
+ {
+  "id": "exe_80016030",
+  "en": "Get Machine 3",
+  "note": ""
+ },
+ {
+  "id": "exe_8001606A",
+  "en": "Shin Getter-1",
+  "note": ""
+ },
+ {
+  "id": "exe_800160A4",
+  "en": "Shin Getter-2",
+  "note": ""
+ },
+ {
+  "id": "exe_800160DE",
+  "en": "Shin Getter-3",
+  "note": ""
+ },
+ {
+  "id": "exe_80016118",
+  "en": "Shin Eagle-Gou",
+  "note": ""
+ },
+ {
+  "id": "exe_80016152",
+  "en": "Shin Jaguar-Gou",
+  "note": ""
+ },
+ {
+  "id": "exe_8001618C",
+  "en": "Shin Bear-Gou",
+  "note": ""
+ }
+]

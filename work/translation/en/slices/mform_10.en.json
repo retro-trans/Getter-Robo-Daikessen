@@ -1,0 +1,404 @@
+[
+ {
+  "id": "MF19_0109",
+  "speaker_en": "Tatsuhito",
+  "en": ""
+ },
+ {
+  "id": "MF19_01A8",
+  "speaker_en": "Dr. Saotome",
+  "en": ""
+ },
+ {
+  "id": "MF19_01D6",
+  "speaker_en": "Tatsuhito",
+  "en": ""
+ },
+ {
+  "id": "MF19_024E",
+  "speaker_en": "Dr. Saotome",
+  "en": ""
+ },
+ {
+  "id": "MF19_0310",
+  "speaker_en": "Tatsuhito",
+  "en": ""
+ },
+ {
+  "id": "MF19_034E",
+  "speaker_en": "Dr. Saotome",
+  "en": ""
+ },
+ {
+  "id": "MF19_048F",
+  "speaker_en": "Schwartz",
+  "en": ""
+ },
+ {
+  "id": "MF19_04DF",
+  "speaker_en": "Shatner",
+  "en": ""
+ },
+ {
+  "id": "MF19_052B",
+  "speaker_en": "Hayato",
+  "en": ""
+ },
+ {
+  "id": "MF19_0593",
+  "speaker_jp": "$n",
+  "speaker_en": "$n (player)",
+  "en": "",
+  "gender_variant": "male player"
+ },
+ {
+  "id": "MF19_05C1",
+  "speaker_jp": "$n",
+  "speaker_en": "$n (player)",
+  "en": "",
+  "gender_variant": "female player"
+ },
+ {
+  "id": "MF19_05F7",
+  "speaker_en": "Dr. Saotome",
+  "en": ""
+ },
+ {
+  "id": "MF19_065D",
+  "speaker_en": "Dr. Tachibana",
+  "en": ""
+ },
+ {
+  "id": "MF19_06CB",
+  "speaker_en": "Ryoma",
+  "en": ""
+ },
+ {
+  "id": "MF19_0711",
+  "speaker_en": "Benkei",
+  "en": ""
+ },
+ {
+  "id": "MF19_073B",
+  "speaker_en": "Musashi",
+  "en": ""
+ },
+ {
+  "id": "MF19_0787",
+  "speaker_en": "Dr. Saotome",
+  "en": ""
+ },
+ {
+  "id": "MF19_07EB",
+  "speaker_en": "Gai",
+  "en": ""
+ },
+ {
+  "id": "MF19_0837",
+  "speaker_en": "Sho",
+  "en": ""
+ },
+ {
+  "id": "MF19_0871",
+  "speaker_en": "Dr. Saotome",
+  "en": ""
+ },
+ {
+  "id": "MF19_08F5",
+  "speaker_en": "Linda",
+  "en": ""
+ },
+ {
+  "id": "MF19_093B",
+  "speaker_en": "Sho",
+  "en": ""
+ },
+ {
+  "id": "MF19_095D",
+  "speaker_en": "Lando",
+  "en": ""
+ },
+ {
+  "id": "MF19_09AD",
+  "speaker_en": "Go",
+  "en": ""
+ },
+ {
+  "id": "MF19_09E9",
+  "speaker_en": "Lando",
+  "en": ""
+ },
+ {
+  "id": "MF19_0A31",
+  "speaker_en": "Dr. Tachibana",
+  "en": ""
+ },
+ {
+  "id": "MF19_0A69",
+  "speaker_en": "Lando",
+  "en": ""
+ },
+ {
+  "id": "MF19_0ACD",
+  "speaker_en": "Dr. Tachibana",
+  "en": ""
+ },
+ {
+  "id": "MF19_0B23",
+  "speaker_en": "Lando",
+  "en": ""
+ },
+ {
+  "id": "MF19_0BB5",
+  "speaker_en": "Dr. Tachibana",
+  "en": ""
+ },
+ {
+  "id": "MF19_0BFF",
+  "speaker_en": "Lando",
+  "en": ""
+ },
+ {
+  "id": "MF19_0C93",
+  "speaker_en": "Go",
+  "en": ""
+ },
+ {
+  "id": "MF19_0CE3",
+  "speaker_en": "Dr. Tachibana",
+  "en": ""
+ },
+ {
+  "id": "MF19_0D51",
+  "speaker_en": "Lando",
+  "en": ""
+ },
+ {
+  "id": "MF19_0DBE",
+  "speaker_en": "Tsubaki",
+  "en": ""
+ },
+ {
+  "id": "MF19_0DFA",
+  "speaker_en": "Akane",
+  "en": ""
+ },
+ {
+  "id": "MF19_0E3E",
+  "speaker_en": "Lando",
+  "en": ""
+ },
+ {
+  "id": "MF19_0F27",
+  "speaker_en": "Sho",
+  "en": ""
+ },
+ {
+  "id": "MF19_0F67",
+  "speaker_en": "Lando",
+  "en": ""
+ },
+ {
+  "id": "MF19_0FF1",
+  "speaker_en": "Cyborg Burai",
+  "en": ""
+ },
+ {
+  "id": "MF19_1037",
+  "speaker_en": "Lando",
+  "en": ""
+ },
+ {
+  "id": "MF19_10AB",
+  "speaker_en": "Lando",
+  "en": ""
+ },
+ {
+  "id": "MF19_116B",
+  "speaker_en": "Lando",
+  "en": ""
+ },
+ {
+  "id": "MF19_0429",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "en": ""
+ },
+ {
+  "id": "MF19_128F",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "en": ""
+ },
+ {
+  "id": "MF19_0E96",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "en": ""
+ },
+ {
+  "id": "MF20_0020",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "en": ""
+ },
+ {
+  "id": "MF20_0094",
+  "speaker_en": "Ryoma",
+  "en": ""
+ },
+ {
+  "id": "MF20_00CC",
+  "speaker_en": "Dr. Saotome",
+  "en": ""
+ },
+ {
+  "id": "MF20_0162",
+  "speaker_en": "Benkei",
+  "en": ""
+ },
+ {
+  "id": "MF20_019A",
+  "speaker_en": "Musashi",
+  "en": ""
+ },
+ {
+  "id": "MF20_01E6",
+  "speaker_en": "Dr. Saotome",
+  "en": ""
+ },
+ {
+  "id": "MF20_02E6",
+  "speaker_en": "Hayato",
+  "en": ""
+ },
+ {
+  "id": "MF20_037A",
+  "speaker_en": "Michiru",
+  "en": ""
+ },
+ {
+  "id": "MF20_03A6",
+  "speaker_en": "Dr. Saotome",
+  "en": ""
+ },
+ {
+  "id": "MF20_042A",
+  "speaker_en": "Go",
+  "en": ""
+ },
+ {
+  "id": "MF20_045E",
+  "speaker_en": "Ryoma",
+  "en": ""
+ },
+ {
+  "id": "MF20_0484",
+  "speaker_jp": "$n",
+  "speaker_en": "$n (player)",
+  "en": "",
+  "gender_variant": "male player"
+ },
+ {
+  "id": "MF20_04EA",
+  "speaker_jp": "$n",
+  "speaker_en": "$n (player)",
+  "en": "",
+  "gender_variant": "female player"
+ },
+ {
+  "id": "MF20_0550",
+  "speaker_en": "Dr. Saotome",
+  "en": ""
+ },
+ {
+  "id": "MF20_05A6",
+  "speaker_en": "Sho",
+  "en": ""
+ },
+ {
+  "id": "MF20_05E2",
+  "speaker_en": "Gai",
+  "en": ""
+ },
+ {
+  "id": "MF20_0606",
+  "speaker_en": "Dr. Saotome",
+  "en": ""
+ },
+ {
+  "id": "MF20_06B2",
+  "speaker_en": "Go",
+  "en": ""
+ },
+ {
+  "id": "MF20_06EC",
+  "speaker_en": "Furuta",
+  "en": ""
+ },
+ {
+  "id": "MF20_072E",
+  "speaker_en": "Kaede",
+  "en": ""
+ },
+ {
+  "id": "MF20_0750",
+  "speaker_en": "Tsubaki",
+  "en": ""
+ },
+ {
+  "id": "MF20_077A",
+  "speaker_en": "Akane",
+  "en": ""
+ },
+ {
+  "id": "MF20_07CC",
+  "speaker_en": "Dr. Saotome",
+  "en": ""
+ },
+ {
+  "id": "MF20_083A",
+  "speaker_en": "Furuta",
+  "en": ""
+ },
+ {
+  "id": "MF20_088C",
+  "speaker_en": "Dr. Saotome",
+  "en": ""
+ },
+ {
+  "id": "MF20_08BE",
+  "speaker_en": "Gimbug",
+  "en": ""
+ },
+ {
+  "id": "MF20_093E",
+  "speaker_en": "Hayato",
+  "en": ""
+ },
+ {
+  "id": "MF20_096A",
+  "speaker_en": "Ryoma",
+  "en": ""
+ },
+ {
+  "id": "MF20_09A4",
+  "speaker_en": "Gimbug",
+  "en": ""
+ },
+ {
+  "id": "MF20_0A86",
+  "speaker_en": "Ryoma",
+  "en": ""
+ },
+ {
+  "id": "MF20_0AD0",
+  "speaker_en": "Gimbug",
+  "en": ""
+ },
+ {
+  "id": "MF20_0B36",
+  "speaker_en": "Furuta",
+  "en": ""
+ }
+]

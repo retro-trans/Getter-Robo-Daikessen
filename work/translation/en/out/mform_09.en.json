@@ -1,0 +1,340 @@
+[
+ {
+  "id": "MF17_0176",
+  "en": "So the sea level is rising rapidly all over the world?",
+  "note": "Female-player version of MF17_0136 (question form); the slice has no gender_variant field, but MF17_0136 in mform_08 is the same line with the male ending."
+ },
+ {
+  "id": "MF17_01B2",
+  "en": "What?!$s80$s13Huh?$s80$s13There's something like a shadow on the sea!"
+ },
+ {
+  "id": "MF17_0202",
+  "en": "Fiiish?",
+  "note": "[accuracy] Project rule: no '~' tildes, stretch the letters instead."
+ },
+ {
+  "id": "MF17_0220",
+  "en": "Out here...$s80$s13Is it a pod of whales?"
+ },
+ {
+  "id": "MF17_0262",
+  "en": "$s80$s13$s05...No!$s80$s13That's not it!...$s80$s13$s80$s13$m08dThose are Metal Beasts!$s80$s13$s05A whole swarm of Metal Beasts!!"
+ },
+ {
+  "id": "MF17_02F9",
+  "en": "$s05Super robots, emergency launch!$s80$s13$s05Destroy the Metal Beasts!"
+ },
+ {
+  "id": "MF17_0359",
+  "en": "$s05What the--?!$s80$s13What's with this shaking?!",
+  "note": "[editorial] ?! rule; natural phrasing."
+ },
+ {
+  "id": "MF17_0395",
+  "en": "$s20You who stand against my plans..."
+ },
+ {
+  "id": "MF17_03D3",
+  "en": "That voice...$s80$s13$s05Professor Lando!"
+ },
+ {
+  "id": "MF17_041B",
+  "en": "You're abusing the Getter Rays, you bastard!$s80$s13$s80$s13$s05Get over here and fight me!"
+ },
+ {
+  "id": "MF17_047D",
+  "en": "$s20The Getter Rays that the likes of Saotome and Tachibana know are but a fraction of the whole...$s80$s13$s80$s13$s80$s13$s20In time, you will come to know it..."
+ },
+ {
+  "id": "MF17_050D",
+  "en": "What?!$s80$s13$s80$s13$s05What's that supposed to mean!",
+  "note": "[editorial] ?! rule."
+ },
+ {
+  "id": "MF17_0553",
+  "en": "$s20Now...$s80$s13$s80$s13$s20let the devil I revived with my own hand$s80$s13$s20burn you in the fires of hell.",
+  "note": "Lando's speech continues in MF17_05C9 (same portrait, closing quote there). 'Devil' (akuma) is probably Uzahra, which Benkei names next; not certain. [editorial] double 'by' construction."
+ },
+ {
+  "id": "MF17_05F1",
+  "en": "$s05This thing!$s80$s13$s05It's Uzahra!"
+ },
+ {
+  "id": "MF17_062F",
+  "en": "$s05Wh-$s80$s13$s05what the hell!"
+ },
+ {
+  "id": "MF17_066B",
+  "en": "$s30Die...$s80$s13Getter!"
+ },
+ {
+  "id": "MF17_06A7",
+  "en": "$s30Getter...$/$s30Getter...$/$s30Ki$s80$s13$s30ll you!",
+  "note": "JP splits 'korosu' with a pause; the English word is split at the same point."
+ },
+ {
+  "id": "MF17_05C9",
+  "en": "...Come forth...$s80$s13$s80$s13Oni!",
+  "note": "No speaker tag, but it uses Lando's portrait ($f50a) and closes the quote opened in MF17_0553, so it is the end of Lando's summoning speech. 'Oni' kept literal; the summoned one may be Cyborg Burai (Hyakki emperor), who speaks right after, or Uzahra."
+ },
+ {
+  "id": "MF18_0020",
+  "en": "This here's MAP 18!",
+  "note": "Debug/placeholder line. [editorial] uniform debug line."
+ },
+ {
+  "id": "MF18_146E",
+  "en": "Once we take this place, the Allied Forces will be split apart!$s80$s13$s05Our victory is assured!$/$f48d$s05Do it!$s80$s13$s05Smash Alaska Base to pieces!",
+  "note": "The JP had literal \\n breaks in the raw script; not carried over (the build word-wraps)."
+ },
+ {
+  "id": "MF18_0085",
+  "en": "Apparently, right now,$s80$s13Lando's giant mothership, %1the Dragon Turtle%0,$s80$s13is closing in on Alaska Base.",
+  "note": "[editorial] 'I hear that right now' awkward."
+ },
+ {
+  "id": "MF18_0109",
+  "en": "$s05OK!$s80$s13$s05OK!$s80$s13With$s80$s13the invincible superhero,$s80$s13Me, on the job,$s80$s13that$s80$s13piece of junk$s80$s13is as good as beaten-desu!",
+  "note": "[proofreading] super hero -> superhero (spelling)."
+ },
+ {
+  "id": "MF18_0213",
+  "en": "$s20You sure you can handle it?$s80$s13$s80$s13Besides,$s80$s13you've barely been in a real fight so far!",
+  "note": "[accuracy] 'Daitai omae... ja nee ka' is a jab ('besides, you haven't even...!'), not a musing 'come to think of it'; exclamation restored. [editorial] doubt about the boast, not concern."
+ },
+ {
+  "id": "MF18_0293",
+  "en": "$s05Oh!$s80$s13No!$s80$s13$s80$s13Really,$s80$s13Me hates being stuck on bodyguard duty-desu!",
+  "note": "Senzoku goei = 'assigned personal escort'; whom Jack escorts is not stated in this scene, so left as 'bodyguard duty'."
+ },
+ {
+  "id": "MF18_039B",
+  "en": "What's that about?"
+ },
+ {
+  "id": "MF18_03C1",
+  "en": "Oh!$s80$s13Brother!$s80$s13Then that makes me the heroine!"
+ },
+ {
+  "id": "MF18_04D3",
+  "en": "Mary's riiight.",
+  "note": "[accuracy] Project rule: no '~' tildes, stretch the letters instead. [editorial] 'Just like Mary saaays' not a natural utterance."
+ },
+ {
+  "id": "MF18_0509",
+  "en": "$s80$s13...Except you two are fighting on the same side, plain as day.",
+  "note": "Retort to Mary's fantasy (MF18_0411) that the siblings end up on opposite sides; 'issho ni tatakatte' read as Jack and Mary fighting together. [editorial] retort to MF18_0411 made explicit."
+ },
+ {
+  "id": "MF18_0553",
+  "en": "$s20Oh!$s80$s13$s05Mary!$s80$s13$s80$s13$s05Oh!$s80$s13$s05Mary!$s80$s13$s20What an unlucky star we were born under!"
+ },
+ {
+  "id": "MF18_05F9",
+  "en": "$s20Oh!$s80$s13That's my$s80$s13brother!"
+ },
+ {
+  "id": "MF18_063F",
+  "en": "...You two$s80$s13sure look happy.",
+  "note": "JP '2-ri tomo shiawase-sou ne' could also be said about them rather than to them; rendered as said to them."
+ },
+ {
+  "id": "MF18_067D",
+  "en": "Entering the canyon!$/The Dragon Turtle is advancing on Alaska!"
+ },
+ {
+  "id": "MF18_06D9",
+  "en": "What's the Dragon Turtle's speed?!",
+  "note": "[editorial] ?! rule."
+ },
+ {
+  "id": "MF18_0713",
+  "en": "The enemy ship is accelerating even further.",
+  "note": "[accuracy] 'Sarani kasoku-chuu' = accelerating further, not merely 'still'."
+ },
+ {
+  "id": "MF18_0749",
+  "en": "$s20Good!$s80$s13$s80$s13$s20The biggest battle of the Alaska front is about to begin!"
+ },
+ {
+  "id": "MF18_07A3",
+  "en": "$s05Forward!!$s80$s13Scatter everything in our path and advance!"
+ },
+ {
+  "id": "MF18_07ED",
+  "en": "The Dragon Turtle is speeding up even more!$s80$s13$s05Captain,$s80$s13$s05we won't make it in time!"
+ },
+ {
+  "id": "MF18_0867",
+  "en": "$s05Nonsense!$s80$s13$s05I won't let it all go to waste after we've come this far!$/$s05Come in! Jack, Mary!",
+  "note": "[editorial] come/coming repetition."
+ },
+ {
+  "id": "MF18_08D9",
+  "en": "$s80$s13Texas!...$s80$s13This is Jack King-desu!"
+ },
+ {
+  "id": "MF18_0931",
+  "en": "$s05Are you all right, Jack?!",
+  "note": "[proofreading] Yes/no question took only \"!\"; now \"?!\" (keeps the JP emphasis)."
+ },
+ {
+  "id": "MF18_095F",
+  "en": "We're safe, more or less.$s80$s13How's the battle going right now?"
+ },
+ {
+  "id": "MF18_09AF",
+  "en": "The enemy Dragon Turtle is charging toward Alaska Base at tremendous speed!$/To stop its advance, this ship will now ram the Dragon Turtle!"
+ },
+ {
+  "id": "MF18_0A4D",
+  "en": "$s05What?!",
+  "note": "[editorial] ?! rule."
+ },
+ {
+  "id": "MF18_0A79",
+  "en": "$s05Wh-$s80$s13$s05what did you say!"
+ },
+ {
+  "id": "MF18_0AB9",
+  "en": "There's no other way to stop a battleship that huge...$/$s05Don't worry! The Texas won't go down from something like this!!$/She's American-made, after all!!$s80$s13$s05Ha ha ha ha ha!"
+ },
+ {
+  "id": "MF18_0B83",
+  "en": "Captain..."
+ },
+ {
+  "id": "MF18_0BA7",
+  "en": "Heh... I suppose so.",
+  "note": "Schwartz agreeing with the Captain's 'American-made' boast."
+ },
+ {
+  "id": "MF18_0BD7",
+  "en": "We have 2 hours and 51 minutes left.",
+  "note": "Time until the Texas can ram the Dragon Turtle (inferred from Lambert's reply 'we'll buy time until then')."
+ },
+ {
+  "id": "MF18_0C01",
+  "en": "$s05Got it,$s80$s13we'll buy time until then."
+ },
+ {
+  "id": "MF18_0C53",
+  "en": "...$s80$s13$s05Can you do it?"
+ },
+ {
+  "id": "MF18_0C85",
+  "en": "$s05This is nothing!$s80$s13$s05We Americans can handle it by ourselves!"
+ },
+ {
+  "id": "MF18_0CF1",
+  "en": "$s05Schwartz!$s80$s13$s05Now's the time to work together!$s80$s13We've got amazing comrades on our side!"
+ },
+ {
+  "id": "MF18_0D69",
+  "en": "Yes,$s80$s13exactly right!$/We'll match the enemy and %2raise our speed%0 too.$/But,$s80$s13because of the forced acceleration,$s80$s13%2we'll slow down if we take enemy fire%0!$s80$s13%2Our speed comes back next turn%0,$s80$s13but keep the enemy away from us as much as you can.$/$s05I'm counting on you!$s80$s13$s05Everyone!"
+ },
+ {
+  "id": "MF18_0E87",
+  "en": "$s05Roger!",
+  "note": "Probably the male-player reply (ryoukai); MF18_0EA9 is the female one (hai)."
+ },
+ {
+  "id": "MF18_0EA9",
+  "en": "$s05Yes, sir!",
+  "note": "Probably the female-player reply; 'sir' added since she answers the Captain's order."
+ },
+ {
+  "id": "MF18_0ECB",
+  "en": "$s05Leave it to me!"
+ },
+ {
+  "id": "MF18_0EF1",
+  "en": "$s05Bring it on!$s80$s13Even if I'm blown to smithereens!"
+ },
+ {
+  "id": "MF18_0F3B",
+  "en": "From here on,$s80$s13not one single step...",
+  "note": "One sentence split between Sho and Gai (MF18_0F75); cut at the matching point."
+ },
+ {
+  "id": "MF18_0F75",
+  "en": "$s05...will we let you take!!",
+  "note": "[editorial] split sentence now reads as one English sentence."
+ },
+ {
+  "id": "MF18_0FA1",
+  "en": "$s05Tch!$s80$s13Bunch of show-offs!"
+ },
+ {
+  "id": "MF18_0FE7",
+  "en": "$s80$s13$s05What's going on!"
+ },
+ {
+  "id": "MF18_1017",
+  "en": "$s05Explosion at the port bow!"
+ },
+ {
+  "id": "MF18_104B",
+  "en": "$s05Never mind that, advance!$s80$s13$s05Stopping is not permitted!",
+  "note": "[editorial] awkward 'allow us to stop'."
+ },
+ {
+  "id": "MF18_1097",
+  "en": "$s80$s13!$s80$s13$s05The shadow of a huge object!"
+ },
+ {
+  "id": "MF18_10DF",
+  "en": "$s05What?!",
+  "note": "[editorial] ?! rule."
+ },
+ {
+  "id": "MF18_1105",
+  "en": "$s05It's no use!$s80$s13$s05We're stopping!"
+ },
+ {
+  "id": "MF18_114B",
+  "en": "$s05Cut loose the damaged sections!$/I will not permit this ship to stop!",
+  "note": "[editorial] awkward 'allow us to stop'."
+ },
+ {
+  "id": "MF18_01C7",
+  "en": "You guys$s80$s13can go home and take a nap-desu!"
+ },
+ {
+  "id": "MF18_030B",
+  "en": "If not for that,$s80$s13this game's title would've been$s80$s13$s05%3\"Texas Mack$s80$s13$s05Saves the Day!\"%0$s80$s13-desu!",
+  "note": "Meta joke: 'kono taitoru' = the game's title. 'Dai-katsuyaku' rendered as 'Saves the Day'."
+ },
+ {
+  "id": "MF18_0411",
+  "en": "I bet$s80$s13$s20our father$s80$s13$s20is a mysterious scientist$s80$s13$s20with amazing technology,$s80$s13$s20and we siblings$s80$s13$s20end up fighting$s80$s13$s20on opposite sides!",
+  "note": "JP splits teki / mikata (enemy / ally) with a pause; the English pause falls before 'on opposite sides' instead."
+ },
+ {
+  "id": "MF18_12E2",
+  "en": "$/The Getter Team could not defend Alaska Base.$/This defeat led to the collapse of the Allied front. Humanity could never again stop the advance of Lando's army..."
+ },
+ {
+  "id": "MF18_1515",
+  "en": "$s05Ngh!...$s80$s13$s13To think the Texas would rot away in a place like this...$/I-$s80$s13$s30I've failed..."
+ },
+ {
+  "id": "MF18_1399",
+  "en": "$/With the Texas's ramming attack made impossible, the Allied Forces could not defend Alaska Base.$/This defeat led to the collapse of the Allied front. Humanity could never again stop the advance of Lando's army..."
+ },
+ {
+  "id": "MF19_0024",
+  "en": "This here's MAP 19!",
+  "note": "Debug/placeholder line. [editorial] uniform debug line."
+ },
+ {
+  "id": "MF19_0083",
+  "en": "Dr. Saotome, the abnormal weather in the Arctic Circle is causing even more damage."
+ },
+ {
+  "id": "MF19_00D5",
+  "en": "What does the data show?!",
+  "note": "[proofreading] Information-seeking question took only \"!\"; now \"?!\" (keeps the JP emphasis)."
+ }
+]

@@ -1,0 +1,399 @@
+[
+ {
+  "id": "MF12_0799",
+  "speaker_en": "Tsubaki",
+  "en": ""
+ },
+ {
+  "id": "MF12_07E9",
+  "speaker_en": "Rasetsu",
+  "en": ""
+ },
+ {
+  "id": "MF12_08B7",
+  "speaker_en": "Kaede",
+  "en": ""
+ },
+ {
+  "id": "MF12_08E3",
+  "speaker_en": "Rasetsu",
+  "en": ""
+ },
+ {
+  "id": "MF12_093E",
+  "speaker_en": "Sho",
+  "en": ""
+ },
+ {
+  "id": "MF12_0984",
+  "speaker_en": "Rasetsu",
+  "en": ""
+ },
+ {
+  "id": "MF12_09E8",
+  "speaker_en": "Sho",
+  "en": ""
+ },
+ {
+  "id": "MF12_0A74",
+  "speaker_en": "Shinichi",
+  "en": ""
+ },
+ {
+  "id": "MF12_0A9E",
+  "speaker_en": "Sho",
+  "en": ""
+ },
+ {
+  "id": "MF12_0AC2",
+  "speaker_en": "Rasetsu",
+  "en": ""
+ },
+ {
+  "id": "MF12_0B52",
+  "speaker_en": "Sho",
+  "en": ""
+ },
+ {
+  "id": "MF12_0B8E",
+  "speaker_en": "Rasetsu",
+  "en": ""
+ },
+ {
+  "id": "MF12_0123",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "en": ""
+ },
+ {
+  "id": "MF12_0199",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "en": ""
+ },
+ {
+  "id": "MF12_022F",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "en": ""
+ },
+ {
+  "id": "MF12_02E5",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "en": ""
+ },
+ {
+  "id": "MF12_0319",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "en": ""
+ },
+ {
+  "id": "MF12_0BF8",
+  "speaker_en": "Rasetsu",
+  "en": ""
+ },
+ {
+  "id": "MF13_001C",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "en": ""
+ },
+ {
+  "id": "MF13_003E",
+  "speaker_en": "Shinichi",
+  "en": ""
+ },
+ {
+  "id": "MF13_008A",
+  "speaker_en": "Go",
+  "en": ""
+ },
+ {
+  "id": "MF13_00C2",
+  "speaker_jp": "$n",
+  "speaker_en": "$n (player)",
+  "en": "",
+  "gender_variant": "male player"
+ },
+ {
+  "id": "MF13_00FA",
+  "speaker_jp": "$n",
+  "speaker_en": "$n (player)",
+  "en": "",
+  "gender_variant": "female player"
+ },
+ {
+  "id": "MF13_012A",
+  "speaker_en": "Gai",
+  "en": ""
+ },
+ {
+  "id": "MF13_0160",
+  "speaker_en": "Rasetsu",
+  "en": ""
+ },
+ {
+  "id": "MF13_01AE",
+  "speaker_en": "Shinichi",
+  "en": ""
+ },
+ {
+  "id": "MF13_0214",
+  "speaker_en": "Sho",
+  "en": ""
+ },
+ {
+  "id": "MF13_025A",
+  "speaker_en": "Shinichi",
+  "en": ""
+ },
+ {
+  "id": "MF13_02E8",
+  "speaker_en": "Shinichi",
+  "en": ""
+ },
+ {
+  "id": "MF13_034A",
+  "speaker_en": "Go",
+  "en": ""
+ },
+ {
+  "id": "MF13_037E",
+  "speaker_en": "Sho",
+  "en": ""
+ },
+ {
+  "id": "MF13_03B8",
+  "speaker_en": "Shinichi",
+  "en": ""
+ },
+ {
+  "id": "MF13_0488",
+  "speaker_en": "Sho",
+  "en": ""
+ },
+ {
+  "id": "MF13_04E6",
+  "speaker_en": "Shinichi",
+  "en": ""
+ },
+ {
+  "id": "MF13_056B",
+  "speaker_en": "Sho",
+  "en": ""
+ },
+ {
+  "id": "MF13_05B7",
+  "speaker_en": "Shinichi",
+  "en": ""
+ },
+ {
+  "id": "MF13_0605",
+  "speaker_en": "Sho",
+  "en": ""
+ },
+ {
+  "id": "MF13_0629",
+  "speaker_en": "Sho",
+  "en": ""
+ },
+ {
+  "id": "MF13_064D",
+  "speaker_en": "Shinichi",
+  "en": ""
+ },
+ {
+  "id": "MF13_0671",
+  "speaker_en": "Sho",
+  "en": ""
+ },
+ {
+  "id": "MF13_069B",
+  "speaker_en": "Shinichi",
+  "en": ""
+ },
+ {
+  "id": "MF13_0702",
+  "speaker_en": "Sho",
+  "en": ""
+ },
+ {
+  "id": "MF13_0740",
+  "speaker_en": "Shinichi",
+  "en": ""
+ },
+ {
+  "id": "MF13_07A9",
+  "speaker_en": "Sho",
+  "en": ""
+ },
+ {
+  "id": "MF13_0402",
+  "speaker_en": "Shinichi",
+  "en": ""
+ },
+ {
+  "id": "MF13_06D3",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "en": ""
+ },
+ {
+  "id": "MF13_0788",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "en": ""
+ },
+ {
+  "id": "MF14_0010",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "en": ""
+ },
+ {
+  "id": "MF14_0032",
+  "speaker_en": "Ryoma",
+  "en": ""
+ },
+ {
+  "id": "MF14_0078",
+  "speaker_en": "Dr. Saotome",
+  "en": ""
+ },
+ {
+  "id": "MF14_0136",
+  "speaker_en": "Benkei",
+  "en": ""
+ },
+ {
+  "id": "MF14_0172",
+  "speaker_en": "Dr. Saotome",
+  "en": ""
+ },
+ {
+  "id": "MF14_0206",
+  "speaker_en": "Ryoma",
+  "en": ""
+ },
+ {
+  "id": "MF14_026C",
+  "speaker_en": "Musashi",
+  "en": ""
+ },
+ {
+  "id": "MF14_02B0",
+  "speaker_en": "Hayato",
+  "en": ""
+ },
+ {
+  "id": "MF14_0308",
+  "speaker_en": "Musashi",
+  "en": ""
+ },
+ {
+  "id": "MF14_033C",
+  "speaker_jp": "$n",
+  "speaker_en": "$n (player)",
+  "en": "",
+  "gender_variant": "male player"
+ },
+ {
+  "id": "MF14_0360",
+  "speaker_jp": "$n",
+  "speaker_en": "$n (player)",
+  "en": "",
+  "gender_variant": "female player"
+ },
+ {
+  "id": "MF14_0384",
+  "speaker_en": "Gai",
+  "en": ""
+ },
+ {
+  "id": "MF14_03B8",
+  "speaker_en": "Researcher",
+  "en": ""
+ },
+ {
+  "id": "MF14_0442",
+  "speaker_en": "Go",
+  "en": ""
+ },
+ {
+  "id": "MF14_046C",
+  "speaker_en": "Insect Army",
+  "en": ""
+ },
+ {
+  "id": "MF14_04E6",
+  "speaker_en": "Go",
+  "en": ""
+ },
+ {
+  "id": "MF14_050E",
+  "speaker_en": "Sho",
+  "en": ""
+ },
+ {
+  "id": "MF14_054C",
+  "speaker_en": "Insect Army",
+  "en": ""
+ },
+ {
+  "id": "MF14_05B0",
+  "speaker_en": "Akane",
+  "en": ""
+ },
+ {
+  "id": "MF14_05EC",
+  "speaker_en": "Dr. Saotome",
+  "en": ""
+ },
+ {
+  "id": "MF14_0646",
+  "speaker_en": "Tsubaki",
+  "en": ""
+ },
+ {
+  "id": "MF14_0676",
+  "speaker_en": "Dr. Saotome",
+  "en": ""
+ },
+ {
+  "id": "MF14_06E4",
+  "speaker_en": "Kaede",
+  "en": ""
+ },
+ {
+  "id": "MF14_0704",
+  "speaker_en": "Tatsuhito",
+  "en": ""
+ },
+ {
+  "id": "MF14_0780",
+  "speaker_en": "Michiru",
+  "en": ""
+ },
+ {
+  "id": "MF14_07E0",
+  "speaker_en": "Insect Army",
+  "en": ""
+ },
+ {
+  "id": "MF14_0854",
+  "speaker_en": "Insect Army",
+  "en": ""
+ },
+ {
+  "id": "MF14_08AE",
+  "speaker_en": "Go",
+  "en": ""
+ },
+ {
+  "id": "MF14_08E8",
+  "speaker_en": "Ryoma",
+  "en": ""
+ }
+]

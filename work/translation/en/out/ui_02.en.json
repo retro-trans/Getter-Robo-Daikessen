@@ -1,0 +1,752 @@
+[
+ {
+  "id": "exe_800161C6",
+  "en": "Shin Getter Dragon",
+  "note": ""
+ },
+ {
+  "id": "exe_80016200",
+  "en": "Black Getter",
+  "note": ""
+ },
+ {
+  "id": "exe_8001623A",
+  "en": "Getter Rekka",
+  "note": ""
+ },
+ {
+  "id": "exe_80016274",
+  "en": "Getter Shiten",
+  "note": ""
+ },
+ {
+  "id": "exe_800162AE",
+  "en": "Getter Kongo",
+  "note": ""
+ },
+ {
+  "id": "exe_800162E8",
+  "en": "Rekka-Gou",
+  "note": ""
+ },
+ {
+  "id": "exe_80016322",
+  "en": "Shiten-Gou",
+  "note": ""
+ },
+ {
+  "id": "exe_8001635C",
+  "en": "Kongo-Gou",
+  "note": ""
+ },
+ {
+  "id": "exe_80016396",
+  "en": "BT-23",
+  "note": ""
+ },
+ {
+  "id": "exe_800163D0",
+  "en": "Lady Command",
+  "note": ""
+ },
+ {
+  "id": "exe_8001640A",
+  "en": "Kujira 2005D1",
+  "note": ""
+ },
+ {
+  "id": "exe_80016444",
+  "en": "Getter Emperor",
+  "note": ""
+ },
+ {
+  "id": "exe_8001647E",
+  "en": "Stilva",
+  "note": ""
+ },
+ {
+  "id": "exe_800164B8",
+  "en": "Stilva",
+  "note": ""
+ },
+ {
+  "id": "exe_800164F2",
+  "en": "Volga 80000",
+  "note": ""
+ },
+ {
+  "id": "exe_8001652C",
+  "en": "Robo Stone",
+  "note": ""
+ },
+ {
+  "id": "exe_80016566",
+  "en": "Kingdom 007",
+  "note": ""
+ },
+ {
+  "id": "exe_800165A0",
+  "en": "Gustaf",
+  "note": ""
+ },
+ {
+  "id": "exe_800165DA",
+  "en": "Texas Mack",
+  "note": ""
+ },
+ {
+  "id": "exe_80016614",
+  "en": "Battleship Texas",
+  "note": ""
+ },
+ {
+  "id": "exe_8001664E",
+  "en": "Bazu",
+  "note": ""
+ },
+ {
+  "id": "exe_80016688",
+  "en": "Baru",
+  "note": ""
+ },
+ {
+  "id": "exe_800166C2",
+  "en": "Giro",
+  "note": ""
+ },
+ {
+  "id": "exe_800166FC",
+  "en": "Jiga",
+  "note": ""
+ },
+ {
+  "id": "exe_80016736",
+  "en": "Mogrow",
+  "note": ""
+ },
+ {
+  "id": "exe_80016770",
+  "en": "Gigi",
+  "note": ""
+ },
+ {
+  "id": "exe_800167AA",
+  "en": "Uru",
+  "note": ""
+ },
+ {
+  "id": "exe_800167E4",
+  "en": "Mecha Typhoon",
+  "note": ""
+ },
+ {
+  "id": "exe_8001681E",
+  "en": "Moba",
+  "note": ""
+ },
+ {
+  "id": "exe_80016858",
+  "en": "Pikudoron",
+  "note": ""
+ },
+ {
+  "id": "exe_80016892",
+  "en": "Gera",
+  "note": ""
+ },
+ {
+  "id": "exe_800168CC",
+  "en": "Dinosaur Ship",
+  "note": ""
+ },
+ {
+  "id": "exe_80016906",
+  "en": "MP Getter-1",
+  "note": ""
+ },
+ {
+  "id": "exe_80016940",
+  "en": "MP Getter-2",
+  "note": ""
+ },
+ {
+  "id": "exe_8001697A",
+  "en": "MP Getter-3",
+  "note": ""
+ },
+ {
+  "id": "exe_800169B4",
+  "en": "Mecha Hangetsuki",
+  "note": ""
+ },
+ {
+  "id": "exe_800169EE",
+  "en": "Mecha Ikkakuki",
+  "note": ""
+ },
+ {
+  "id": "exe_80016A28",
+  "en": "Mecha Kaiouki",
+  "note": ""
+ },
+ {
+  "id": "exe_80016A62",
+  "en": "Mecha Santoki",
+  "note": ""
+ },
+ {
+  "id": "exe_80016A9C",
+  "en": "Kyoraiki",
+  "note": ""
+ },
+ {
+  "id": "exe_80016AD6",
+  "en": "Mecha Kotoki",
+  "note": ""
+ },
+ {
+  "id": "exe_80016B10",
+  "en": "Mecha Gohonki",
+  "note": ""
+ },
+ {
+  "id": "exe_80016B4A",
+  "en": "Mecha Ipponki",
+  "note": ""
+ },
+ {
+  "id": "exe_80016B84",
+  "en": "Uzahra",
+  "note": ""
+ },
+ {
+  "id": "exe_80016BBE",
+  "en": "Mecha Tekkoki",
+  "note": ""
+ },
+ {
+  "id": "exe_80016BF8",
+  "en": "Maouki",
+  "note": ""
+ },
+ {
+  "id": "exe_80016C32",
+  "en": "Kyojuki",
+  "note": ""
+ },
+ {
+  "id": "exe_80016C6C",
+  "en": "Bean",
+  "note": ""
+ },
+ {
+  "id": "exe_80016CA6",
+  "en": "Worm",
+  "note": ""
+ },
+ {
+  "id": "exe_80016CE0",
+  "en": "Jakotsu",
+  "note": ""
+ },
+ {
+  "id": "exe_80016D1A",
+  "en": "Crab",
+  "note": ""
+ },
+ {
+  "id": "exe_80016D8E",
+  "en": "Bein RX1",
+  "note": ""
+ },
+ {
+  "id": "exe_80016DC8",
+  "en": "Garman B25",
+  "note": ""
+ },
+ {
+  "id": "exe_80016E3C",
+  "en": "Garon Z54",
+  "note": ""
+ },
+ {
+  "id": "exe_80016E76",
+  "en": "Remodeled Uzahra",
+  "note": ""
+ },
+ {
+  "id": "exe_80016EB0",
+  "en": "Dragon Turtle",
+  "note": ""
+ },
+ {
+  "id": "exe_80016EEA",
+  "en": "Deviler Mu",
+  "note": ""
+ },
+ {
+  "id": "exe_80016F24",
+  "en": "Vega Zone",
+  "note": ""
+ },
+ {
+  "id": "exe_80016F5E",
+  "en": "Getter Reactor",
+  "note": ""
+ },
+ {
+  "id": "exe_80016F98",
+  "en": "Mecha Cicada",
+  "note": ""
+ },
+ {
+  "id": "exe_80016FD2",
+  "en": "Mecha Ant",
+  "note": ""
+ },
+ {
+  "id": "exe_8001700C",
+  "en": "Mecha Antlion",
+  "note": ""
+ },
+ {
+  "id": "exe_80017046",
+  "en": "Mecha Bee",
+  "note": ""
+ },
+ {
+  "id": "exe_80017080",
+  "en": "Mecha Stag",
+  "note": ""
+ },
+ {
+  "id": "exe_800170BA",
+  "en": "Hogram D7",
+  "note": ""
+ },
+ {
+  "id": "exe_800170F4",
+  "en": "Chrono Worm",
+  "note": ""
+ },
+ {
+  "id": "exe_80017168",
+  "en": "Battleship Dai",
+  "note": ""
+ },
+ {
+  "id": "exe_800171A2",
+  "en": "God Turtle",
+  "note": ""
+ },
+ {
+  "id": "exe_80017216",
+  "en": "Missile Battery",
+  "note": ""
+ },
+ {
+  "id": "exe_80017250",
+  "en": "Getter Emperor",
+  "note": ""
+ },
+ {
+  "id": "exe_8001728A",
+  "en": "Shin Getter-1",
+  "note": ""
+ },
+ {
+  "id": "exe_800172C4",
+  "en": "Battleship Texas",
+  "note": ""
+ },
+ {
+  "id": "exe_800172FE",
+  "en": "Dragon Turtle",
+  "note": ""
+ },
+ {
+  "id": "exe_80017338",
+  "en": "Vega Zone",
+  "note": ""
+ },
+ {
+  "id": "exe_80017372",
+  "en": "Chrono Worm",
+  "note": ""
+ },
+ {
+  "id": "exe_800173AC",
+  "en": "Dinosaur Ship",
+  "note": ""
+ },
+ {
+  "id": "exe_800173E6",
+  "en": "Nuclear Plant",
+  "note": ""
+ },
+ {
+  "id": "exe_80017420",
+  "en": "MP Eagle-Gou",
+  "note": ""
+ },
+ {
+  "id": "exe_8001745A",
+  "en": "MP Jaguar-Gou",
+  "note": ""
+ },
+ {
+  "id": "exe_80017494",
+  "en": "MP Bear-Gou",
+  "note": ""
+ },
+ {
+  "id": "exe_800174F5",
+  "en": "AL ",
+  "note": ""
+ },
+ {
+  "id": "exe_80017503",
+  "en": "AL",
+  "note": ""
+ },
+ {
+  "id": "exe_80017511",
+  "en": "AL ",
+  "note": ""
+ },
+ {
+  "id": "exe_80017526",
+  "en": " LS",
+  "note": ""
+ },
+ {
+  "id": "exe_8001752D",
+  "en": "ALS",
+  "note": ""
+ },
+ {
+  "id": "exe_80017534",
+  "en": " LS",
+  "note": ""
+ },
+ {
+  "id": "exe_8001753B",
+  "en": "ALS",
+  "note": ""
+ },
+ {
+  "id": "exe_80017542",
+  "en": " LS",
+  "note": ""
+ },
+ {
+  "id": "exe_80017549",
+  "en": "ALS",
+  "note": ""
+ },
+ {
+  "id": "exe_80017584",
+  "en": "Unit Name",
+  "note": ""
+ },
+ {
+  "id": "exe_80017590",
+  "en": "Pilot Name",
+  "note": ""
+ },
+ {
+  "id": "exe_800175A0",
+  "en": "By Level",
+  "note": ""
+ },
+ {
+  "id": "exe_800175AC",
+  "en": "Units Aboard",
+  "note": "editorial: tousai = Board/aboard (unified UI term), not \"Loaded\""
+ },
+ {
+  "id": "exe_800175BC",
+  "en": "Settings",
+  "note": ""
+ },
+ {
+  "id": "exe_80017800",
+  "en": "Move Charge",
+  "note": ""
+ },
+ {
+  "id": "exe_8001781C",
+  "en": "EN Regen",
+  "note": ""
+ },
+ {
+  "id": "exe_8001783C",
+  "en": "HP Regen",
+  "note": ""
+ },
+ {
+  "id": "exe_80017858",
+  "en": "Critical",
+  "note": ""
+ },
+ {
+  "id": "exe_800178DC",
+  "en": "Move Assist",
+  "note": ""
+ },
+ {
+  "id": "exe_80017914",
+  "en": "2x Move",
+  "note": ""
+ },
+ {
+  "id": "exe_80017D20",
+  "en": "Mission: Wipe out the enemy.\\nNote: From underground...",
+  "note": ""
+ },
+ {
+  "id": "exe_80017D44",
+  "en": "Mission: Wipe out the enemy.\\nNote: It might be best to fight at sea...",
+  "note": ""
+ },
+ {
+  "id": "exe_80017D74",
+  "en": "Mission: Wipe out the enemy.\\nNote: Make full use of the battlefield!",
+  "note": ""
+ },
+ {
+  "id": "exe_80017D9C",
+  "en": "Mission: Destroy the Chrono Worm.\\nNote: Charge ahead!",
+  "note": ""
+ },
+ {
+  "id": "exe_80017DCC",
+  "en": "Mission: Defeat the enemy!\\nNote: Don't let your guard down!",
+  "note": ""
+ },
+ {
+  "id": "exe_80017DF0",
+  "en": "Mission: Destroy Vega Zone.\\nNote: It'll be tough if the Kujira goes down.",
+  "note": ""
+ },
+ {
+  "id": "exe_80017E24",
+  "en": "Mission: Destroy the Dragon Turtle.\\nNote: Don't let it reach Alaska Base at the\\n        bottom of the map!",
+  "note": "editorial: \"Alaska Base\" without article, as in the story script"
+ },
+ {
+  "id": "exe_80017E70",
+  "en": "Mission: Wipe out the enemy.\\nNote: Save your energy for later!",
+  "note": ""
+ },
+ {
+  "id": "exe_80017EA8",
+  "en": "Mission: Escort the Volga.\\nNote: Protect the Volga for a set number of\\n        turns!",
+  "note": ""
+ },
+ {
+  "id": "exe_80017EE0",
+  "en": "Mission: Investigate the area.\\nNote: Head for the town!",
+  "note": "proof: full stop as in the other Mission lines"
+ },
+ {
+  "id": "exe_80017F04",
+  "en": "Mission: Wipe out the enemy.\\nNote: Go all out!",
+  "note": ""
+ },
+ {
+  "id": "exe_80017F2C",
+  "en": "Mission: Destroy Garon.\\nNote: Its target is Sho.",
+  "note": ""
+ },
+ {
+  "id": "exe_80017F5C",
+  "en": "Mission: Wipe out the enemy.\\nNote: Remember the enemy's traits!",
+  "note": ""
+ },
+ {
+  "id": "exe_80017F88",
+  "en": "Mission: Destroy Uzahra.\\nNote: Go around it, or straight ahead...",
+  "note": ""
+ },
+ {
+  "id": "exe_80017FC0",
+  "en": "Mission: Destroy the germ missile battery.\\nNote: The missile battery is easier to handle if\\n        you take it out later.",
+  "note": ""
+ },
+ {
+  "id": "exe_80018014",
+  "en": "Mission: Destroy the Getter Reactors.\\nNote: Destroy the 3 Getter Reactors around the\\n        beam satellite!",
+  "note": ""
+ },
+ {
+  "id": "exe_8001806C",
+  "en": "Mission: Wipe out the enemy.\\nNote: Keep your eyes on the Texas!",
+  "note": ""
+ },
+ {
+  "id": "exe_800180A0",
+  "en": "Mission: Wipe out the enemy.\\nNote: Make good use of Getter Robo Go!",
+  "note": ""
+ },
+ {
+  "id": "exe_800180D4",
+  "en": "Mission: Destroy Maouki.\\nNote: Maouki is a tough foe, but it must have a\\n        weakness.",
+  "note": ""
+ },
+ {
+  "id": "exe_80018114",
+  "en": "Mission: Wipe out the enemy.\\nNote: Getter-3 is the one for underwater combat!",
+  "note": ""
+ },
+ {
+  "id": "exe_80018144",
+  "en": "Mission: Destroy Gera.\\nNote: Gera doesn't move, but stay on your guard!",
+  "note": ""
+ },
+ {
+  "id": "exe_80018180",
+  "en": "Mission: Destroy the Mass-Production Getter-1.\\nNote: Make good use of Getter Robo G!",
+  "note": "editorial: Mass-Production capitalised (REVIEW.md)"
+ },
+ {
+  "id": "exe_800181C4",
+  "en": "Mission: Wipe out the enemy.\\nNote: Save energy with Getter-2!",
+  "note": ""
+ },
+ {
+  "id": "exe_800181FC",
+  "en": "Mission: Persuade Hayato.\\nNote: Go to Hayato's school!",
+  "note": ""
+ },
+ {
+  "id": "exe_80018228",
+  "en": "Eyes! Ears! Nooose!",
+  "note": ""
+ },
+ {
+  "id": "exe_80018240",
+  "en": "Mission: Wipe out the enemy.\\nNote: Enemies are hard to see in the forest. Don't\\n        lose sight of them!",
+  "note": ""
+ },
+ {
+  "id": "exe_80018278",
+  "en": "Mission: Wipe out the enemy.\\nNote: Make good use of the sea!",
+  "note": ""
+ },
+ {
+  "id": "exe_800182A0",
+  "en": "Mission: Destroy the Chrono Worm.\\nNote: Gimbug is your only target!",
+  "note": ""
+ },
+ {
+  "id": "exe_800182DC",
+  "en": "Mission: Destroy Hogram D7.\\nNote: Hogram D7 is a tough foe. Stay on your\\n        guard!",
+  "note": ""
+ },
+ {
+  "id": "exe_80018320",
+  "en": "Mission: Ram the Texas into the Dragon Turtle!\\nNote: Each time the Texas is attacked, its\\n        movement drops by 1 square.",
+  "note": ""
+ },
+ {
+  "id": "exe_8001838C",
+  "en": "Mission: Destroy Remodeled Uzahra.\\nNote: Underwater, the Gravity Cut Beam...",
+  "note": "editorial: weapon name as in exe_80014E28 / data_names (\"Gravity Cut Beam\")"
+ },
+ {
+  "id": "exe_800183CC",
+  "en": "Mission: Destroy Mecha Typhoon.\\nNote: Watch out for tornadoes...?",
+  "note": ""
+ },
+ {
+  "id": "exe_80018400",
+  "en": "Mission: Destroy Garon.\\nNote: Don't hesitate, Sho!",
+  "note": ""
+ },
+ {
+  "id": "exe_80018430",
+  "en": "Mission: Wipe out the enemy.\\nNote: Watch out for the Metal Beasts!",
+  "note": ""
+ },
+ {
+  "id": "exe_80018464",
+  "en": "Mission: Destroy Uzahra.\\nNote: Go around it... or straight ahead...",
+  "note": ""
+ },
+ {
+  "id": "exe_800184A0",
+  "en": "Mission: Wipe out the enemy.\\nNote: Use the terrain well and plan your strategy!",
+  "note": ""
+ },
+ {
+  "id": "exe_800184D8",
+  "en": "Mission: Wipe out the enemy.\\nNote: Getter Robo Go is a little different from the\\n        other Getters.",
+  "note": ""
+ },
+ {
+  "id": "exe_8001851C",
+  "en": "Mission: Destroy the Dinosaur Ship.\\nNote: Carve a way out with Getter Zan!",
+  "note": ""
+ },
+ {
+  "id": "exe_80018550",
+  "en": "Mission: Destroy Gera.\\nNote: Get inside Gera's body with Getter Robo!",
+  "note": ""
+ },
+ {
+  "id": "exe_80018590",
+  "en": "Mission: Destroy the Mass-Production Getter-1.\\nNote: Make good use of Getter Robo G!",
+  "note": "editorial: Mass-Production capitalised (REVIEW.md)"
+ },
+ {
+  "id": "exe_800185D0",
+  "en": "Mission: Wipe out the enemy.\\nNote: Master the Getters!",
+  "note": ""
+ },
+ {
+  "id": "exe_80018600",
+  "en": "Defeat: Getter Emperor destroyed.",
+  "note": ""
+ },
+ {
+  "id": "exe_80018624",
+  "en": "Defeat: The Texas is destroyed.\\n          Dragon Turtle reaches Alaska Base.",
+  "note": ""
+ },
+ {
+  "id": "exe_80018664",
+  "en": "Defeat: The Volga is destroyed.",
+  "note": ""
+ },
+ {
+  "id": "exe_8001867C",
+  "en": "Defeat: All allied units destroyed.\\n          Missile not destroyed within the turn limit.",
+  "note": ""
+ },
+ {
+  "id": "exe_800186B8",
+  "en": "Defeat: The Texas is destroyed.",
+  "note": ""
+ },
+ {
+  "id": "exe_800186D0",
+  "en": "Defeat: All allied units destroyed.\\n          Nuclear plant destroyed.",
+  "note": ""
+ },
+ {
+  "id": "exe_80018704",
+  "en": "Defeat: All allied units destroyed.",
+  "note": ""
+ },
+ {
+  "id": "exe_80018D58",
+  "en": "$m00d%2Ryoma%0$s13: Damn! I let my guard down! Looks like there's someone out here with a bit of backbone!",
+  "note": ""
+ },
+ {
+  "id": "exe_80018DA8",
+  "en": "$f63f%2Hayato%0$s13: I-I got out... hee hee hee. Ph-phew, I'm saved...",
+  "note": ""
+ }
+]

@@ -1,0 +1,21 @@
+{
+  "version": "0.1.6",
+  "native_asset_and_voice_checks_passed": 23,
+  "native_guard_rechecks": [
+    "ANNO02",
+    "ANNO03",
+    "ANNO04",
+    "ANNO21"
+  ],
+  "disabled_voices_passed": true,
+  "final_tagline_captured_at_seconds": 29.046666666666667,
+  "native_cleanup_passed": true,
+  "subsequent_game_frames": 30,
+  "subtitle_cues_checked": 168,
+  "original_xa_archive_identical": true,
+  "all_music_sequences_identical": true,
+  "str_streams_verified": 18,
+  "real_console_tested": false,
+  "human_listening_review_complete": false,
+  "sha256": "c860d4af0647a371affaba26eec84054c40f59842bea9ad28e4833285d068693"
+}

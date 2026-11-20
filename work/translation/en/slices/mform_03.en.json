@@ -1,0 +1,408 @@
+[
+ {
+  "id": "MF06_0BEB",
+  "speaker_en": "Hayato",
+  "en": ""
+ },
+ {
+  "id": "MF06_0CC7",
+  "speaker_en": "Dr. Tachibana",
+  "en": ""
+ },
+ {
+  "id": "MF06A_0014",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "en": ""
+ },
+ {
+  "id": "MF06A_0038",
+  "speaker_jp": "$n",
+  "speaker_en": "$n (player)",
+  "en": "",
+  "gender_variant": "male player"
+ },
+ {
+  "id": "MF06A_00BA",
+  "speaker_jp": "$n",
+  "speaker_en": "$n (player)",
+  "en": "",
+  "gender_variant": "female player"
+ },
+ {
+  "id": "MF06A_013E",
+  "speaker_en": "Go",
+  "en": ""
+ },
+ {
+  "id": "MF06A_0166",
+  "speaker_en": "Sho",
+  "en": ""
+ },
+ {
+  "id": "MF06A_0194",
+  "speaker_en": "Dr. Tachibana",
+  "en": ""
+ },
+ {
+  "id": "MF06A_021D",
+  "speaker_en": "Emperor Burai",
+  "en": ""
+ },
+ {
+  "id": "MF06A_0277",
+  "speaker_en": "Sho",
+  "en": ""
+ },
+ {
+  "id": "MF06A_02C1",
+  "speaker_en": "Emperor Burai",
+  "en": ""
+ },
+ {
+  "id": "MF06A_0371",
+  "speaker_en": "Akane",
+  "en": ""
+ },
+ {
+  "id": "MF06A_03A5",
+  "speaker_en": "Emperor Burai",
+  "en": ""
+ },
+ {
+  "id": "MF06A_04D3",
+  "speaker_en": "Kaede",
+  "en": ""
+ },
+ {
+  "id": "MF06A_04F9",
+  "speaker_en": "Tsubaki",
+  "en": ""
+ },
+ {
+  "id": "MF06A_0529",
+  "speaker_en": "Emperor Burai",
+  "en": ""
+ },
+ {
+  "id": "MF06A_0587",
+  "speaker_en": "Go",
+  "en": ""
+ },
+ {
+  "id": "MF06A_05AF",
+  "speaker_en": "Gai",
+  "en": ""
+ },
+ {
+  "id": "MF06A_05D3",
+  "speaker_en": "Dr. Tachibana",
+  "en": ""
+ },
+ {
+  "id": "MF06A_066B",
+  "speaker_jp": "$n",
+  "speaker_en": "$n (player)",
+  "en": "",
+  "gender_variant": "male player"
+ },
+ {
+  "id": "MF06A_06B5",
+  "speaker_jp": "$n",
+  "speaker_en": "$n (player)",
+  "en": "",
+  "gender_variant": "female player"
+ },
+ {
+  "id": "MF06A_06FF",
+  "speaker_en": "Dr. Tachibana",
+  "en": ""
+ },
+ {
+  "id": "MF06A_0759",
+  "speaker_en": "Dr. Tachibana",
+  "en": ""
+ },
+ {
+  "id": "MF06A_007E",
+  "speaker_jp": "$n",
+  "speaker_en": "$n (player)",
+  "en": "",
+  "gender_variant": "male player"
+ },
+ {
+  "id": "MF06A_0100",
+  "speaker_jp": "$n",
+  "speaker_en": "$n (player)",
+  "en": "",
+  "gender_variant": "female player"
+ },
+ {
+  "id": "MF06A_01B6",
+  "speaker_en": "Dr. Tachibana",
+  "en": ""
+ },
+ {
+  "id": "MF06A_0301",
+  "speaker_en": "Emperor Burai",
+  "en": ""
+ },
+ {
+  "id": "MF06A_0799",
+  "speaker_en": "Dr. Tachibana",
+  "en": ""
+ },
+ {
+  "id": "MF06A_082B",
+  "speaker_en": "Dr. Tachibana",
+  "en": ""
+ },
+ {
+  "id": "MF06B_0014",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "en": ""
+ },
+ {
+  "id": "MF06B_0038",
+  "speaker_jp": "$n",
+  "speaker_en": "$n (player)",
+  "en": "",
+  "gender_variant": "male player"
+ },
+ {
+  "id": "MF06B_00AA",
+  "speaker_jp": "$n",
+  "speaker_en": "$n (player)",
+  "en": "",
+  "gender_variant": "female player"
+ },
+ {
+  "id": "MF06B_0126",
+  "speaker_en": "Benkei",
+  "en": ""
+ },
+ {
+  "id": "MF06B_0150",
+  "speaker_en": "Michiru",
+  "en": ""
+ },
+ {
+  "id": "MF06B_0184",
+  "speaker_en": "Dr. Saotome",
+  "en": ""
+ },
+ {
+  "id": "MF06B_0203",
+  "speaker_en": "Emperor Burai",
+  "en": ""
+ },
+ {
+  "id": "MF06B_0255",
+  "speaker_en": "Musashi",
+  "en": ""
+ },
+ {
+  "id": "MF06B_02A7",
+  "speaker_en": "Emperor Burai",
+  "en": ""
+ },
+ {
+  "id": "MF06B_0357",
+  "speaker_en": "Tsubaki",
+  "en": ""
+ },
+ {
+  "id": "MF06B_038B",
+  "speaker_en": "Emperor Burai",
+  "en": ""
+ },
+ {
+  "id": "MF06B_04C7",
+  "speaker_en": "Kaede",
+  "en": ""
+ },
+ {
+  "id": "MF06B_04F1",
+  "speaker_en": "Tsubaki",
+  "en": ""
+ },
+ {
+  "id": "MF06B_0525",
+  "speaker_en": "Emperor Burai",
+  "en": ""
+ },
+ {
+  "id": "MF06B_058B",
+  "speaker_en": "Ryoma",
+  "en": ""
+ },
+ {
+  "id": "MF06B_05C5",
+  "speaker_en": "Hayato",
+  "en": ""
+ },
+ {
+  "id": "MF06B_05EF",
+  "speaker_en": "Dr. Saotome",
+  "en": ""
+ },
+ {
+  "id": "MF06B_0693",
+  "speaker_jp": "$n",
+  "speaker_en": "$n (player)",
+  "en": "",
+  "gender_variant": "male player"
+ },
+ {
+  "id": "MF06B_06DD",
+  "speaker_jp": "$n",
+  "speaker_en": "$n (player)",
+  "en": "",
+  "gender_variant": "female player"
+ },
+ {
+  "id": "MF06B_0727",
+  "speaker_en": "Musashi",
+  "en": ""
+ },
+ {
+  "id": "MF06B_074F",
+  "speaker_en": "Dr. Saotome",
+  "en": ""
+ },
+ {
+  "id": "MF06B_07AD",
+  "speaker_en": "Dr. Saotome",
+  "en": ""
+ },
+ {
+  "id": "MF06B_0076",
+  "speaker_jp": "$n",
+  "speaker_en": "$n (player)",
+  "en": "",
+  "gender_variant": "male player"
+ },
+ {
+  "id": "MF06B_00EE",
+  "speaker_jp": "$n",
+  "speaker_en": "$n (player)",
+  "en": "",
+  "gender_variant": "female player"
+ },
+ {
+  "id": "MF06B_02E7",
+  "speaker_en": "Emperor Burai",
+  "en": ""
+ },
+ {
+  "id": "MF06B_081F",
+  "speaker_en": "Dr. Saotome",
+  "en": ""
+ },
+ {
+  "id": "MF06B_0899",
+  "speaker_en": "Dr. Saotome",
+  "en": ""
+ },
+ {
+  "id": "MF07A_0014",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "en": ""
+ },
+ {
+  "id": "MF07A_0038",
+  "speaker_en": "Gai",
+  "en": ""
+ },
+ {
+  "id": "MF07A_0072",
+  "speaker_en": "Go",
+  "en": ""
+ },
+ {
+  "id": "MF07A_00B4",
+  "speaker_en": "Emperor Burai",
+  "en": ""
+ },
+ {
+  "id": "MF07A_0146",
+  "speaker_en": "Sho",
+  "en": ""
+ },
+ {
+  "id": "MF07A_016E",
+  "speaker_en": "Emperor Burai",
+  "en": ""
+ },
+ {
+  "id": "MF07A_023E",
+  "speaker_jp": "$n",
+  "speaker_en": "$n (player)",
+  "en": "",
+  "gender_variant": "male player"
+ },
+ {
+  "id": "MF07A_0296",
+  "speaker_jp": "$n",
+  "speaker_en": "$n (player)",
+  "en": "",
+  "gender_variant": "female player"
+ },
+ {
+  "id": "MF07A_02F4",
+  "speaker_en": "Emperor Burai",
+  "en": ""
+ },
+ {
+  "id": "MF07A_0364",
+  "speaker_en": "Ipponki",
+  "en": ""
+ },
+ {
+  "id": "MF07A_0386",
+  "speaker_en": "Researcher",
+  "en": ""
+ },
+ {
+  "id": "MF07A_0406",
+  "speaker_en": "Dr. Tachibana",
+  "en": ""
+ },
+ {
+  "id": "MF07A_044E",
+  "speaker_en": "Akane",
+  "en": ""
+ },
+ {
+  "id": "MF07A_0488",
+  "speaker_en": "Kaede",
+  "en": ""
+ },
+ {
+  "id": "MF07A_04AC",
+  "speaker_en": "Tsubaki",
+  "en": ""
+ },
+ {
+  "id": "MF07A_04F0",
+  "speaker_en": "Gai",
+  "en": ""
+ },
+ {
+  "id": "MF07A_052E",
+  "speaker_en": "Go",
+  "en": ""
+ },
+ {
+  "id": "MF07A_058C",
+  "speaker_en": "Dr. Tachibana",
+  "en": ""
+ },
+ {
+  "id": "MF07A_0616",
+  "speaker_en": "Sho",
+  "en": ""
+ }
+]

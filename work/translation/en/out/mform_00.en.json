@@ -1,0 +1,334 @@
+[
+ {
+  "id": "MF01_0038",
+  "en": "This here's MAP 01!",
+  "note": "Debug/placeholder narration line (Ryoma-style slang); translated literally."
+ },
+ {
+  "id": "MF01_0081",
+  "en": "Welcome to the Saotome Institute. $s80$s13%3Ryoma Nagare%0."
+ },
+ {
+  "id": "MF01_00CC",
+  "en": "Old man! $s80$s13Dragging me off to a place like this out of nowhere! $s80$s13$s80$s13What the hell do you want with me?!"
+ },
+ {
+  "id": "MF01_0138",
+  "en": "Questions can wait. $s80$s13$s80$s13For now, you're going to climb into this."
+ },
+ {
+  "id": "MF01_0196",
+  "en": "Wh-$s80$s13what the hell is this?! $s80$s13G...$s80$s13Giant ro-$s80$s13$s20robot?!",
+  "note": "Editorial: stutter lower-cased after the hyphen (as in MF01_0E9D)."
+ },
+ {
+  "id": "MF01_0202",
+  "en": "In that school building over there is a pilot candidate, $s80$s13$s13%3\"Hayato Jin\"%0.$/$s80$s13$s13Some time ago, fed up with the academy's corruption, he formed an opposition group. $s80$s13$s13He went to war with the academy head-on.$/$s13Normally, movements like that end up crushed by the academy, $s80$s13$s13but the IQ 300 genius \"Hayato Jin\"... $s80$s13$s13he was different.$/$s13Through swift action, solidarity, $s80$s13$s13and above all Hayato Jin's intellect, he brought the academy to its knees.$/$s13Ever since, that academy has been known as \"Hayato's school.\""
+ },
+ {
+  "id": "MF01_03E3",
+  "en": "$s80$s13$s05Heh, $s80$s13$s13sounds like quite the big shot. So I just gotta talk him into it?"
+ },
+ {
+  "id": "MF01_044D",
+  "en": "That's right."
+ },
+ {
+  "id": "MF01_0471",
+  "en": "And $s80$s13this is what you'll use to persuade him?",
+  "note": "'this' = the Getter machine Saotome just showed Ryoma (referent inferred from the previous rows)."
+ },
+ {
+  "id": "MF01_04B3",
+  "en": "$s80$s13It worked that way with Ryoma too. $s80$s13$s13Showing him the real thing beats talking any day!",
+  "note": "Male-player version (portrait $f61), rough register. Answers Michiru. Honorific -san dropped throughout ('Ryoma')."
+ },
+ {
+  "id": "MF01_0525",
+  "en": "Look at Ryoma's case. $s80$s13With someone who seems difficult, $s80$s13showing the real thing works faster than words, doesn't it?",
+  "note": "Female-player version (portrait $f62), polite register."
+ },
+ {
+  "id": "MF01_05A7",
+  "en": "$s80$s13$s05Heh, $s80$s13$s13can't argue with that."
+ },
+ {
+  "id": "MF01_05E9",
+  "en": "So this is the place, $s80$s13$s13this \"Hayato's school.\""
+ },
+ {
+  "id": "MF01_062F",
+  "en": "$s80$s13$s05Who's there?!"
+ },
+ {
+  "id": "MF01_065B",
+  "en": "Go get Hayato for me."
+ },
+ {
+  "id": "MF01_0687",
+  "en": "Hayato won't see the likes of you!"
+ },
+ {
+  "id": "MF01_06BD",
+  "en": "$s30Heh heh heh..."
+ },
+ {
+  "id": "MF01_06E5",
+  "en": "H-$s80$s13Hayato!"
+ },
+ {
+  "id": "MF01_0715",
+  "en": "$s20Stir up trouble in my school, $s80$s13$s20and you won't get off lightly."
+ },
+ {
+  "id": "MF01_0767",
+  "en": "No wonder old man Saotome picked you. You've got a good look in those eyes.",
+  "note": "Addressed to Hayato (inferred: Ryuji's next line objects to how he is talking to Hayato); Japanese has no explicit 'you'."
+ },
+ {
+  "id": "MF01_07BB",
+  "en": "$s05You bastard! $s80$s13$s05How dare you talk to Hayato like that!"
+ },
+ {
+  "id": "MF01_07FF",
+  "en": "A certain man asked me to come pick you up. $s80$s13So how about you come along quietly, $s80$s13Mr. Hayato?"
+ },
+ {
+  "id": "MF01_0881",
+  "en": "$s30..."
+ },
+ {
+  "id": "MF01_08A7",
+  "en": "You can't keep playing revolution with these guys forever. $s80$s13There's a battlefield out there that suits you a lot better."
+ },
+ {
+  "id": "MF01_0921",
+  "en": "$s05What?!"
+ },
+ {
+  "id": "MF01_0947",
+  "en": "$s05Ryoma! $s80$s13An enemy's headed your way right now!",
+  "note": "Male-player version."
+ },
+ {
+  "id": "MF01_0993",
+  "en": "$s05Ryoma! $s80$s13An unidentified enemy $s80$s13is heading for the academy right now!",
+  "note": "Female-player version, polite report register. Word order inverted so the pause falls where the Japanese has it. Editorial: inverted word order straightened; pause moved to the subject/verb break."
+ },
+ {
+  "id": "MF01_09F5",
+  "en": "$s05Yeah! $s80$s13I can see it!"
+ },
+ {
+  "id": "MF01_0A2D",
+  "en": "I've launched $s80$s13the Jaguar-Gou from here! $s80$s13Get Hayato aboard it!"
+ },
+ {
+  "id": "MF01_0AC5",
+  "en": "$s80$s13I was only half-convinced till now, $s80$s13$s80$s13but looks like what old man Saotome's been saying is true!"
+ },
+ {
+  "id": "MF01_0B97",
+  "en": "Wh-whoa...! $s80$s13$s30That thing is..."
+ },
+ {
+  "id": "MF01_0BD3",
+  "en": "$s05That's right! $s80$s13$s05The enemy."
+ },
+ {
+  "id": "MF01_0C09",
+  "en": "$s80$s13$s05Damn! $s80$s13$s05There's more than one?! $s80$s13$s05I can't keep up like this!"
+ },
+ {
+  "id": "MF01_0C7F",
+  "en": "$s05Let me off this thing!"
+ },
+ {
+  "id": "MF01_0CAB",
+  "en": "$s05In any case, $s80$s13that's the only way to survive!$/$m21dCombine%0!",
+  "note": "The source has a closing %0 with no opening colour code after $m21d; kept as is, closing after 'Combine'. Editorial: 'Either way... the only way' repetition removed. Proofreading (returned accuracy check): 'our only hope of surviving' softened the source's flat statement (there is no other way to survive) into a desperate hope; restored 'the only way to survive' and kept the repetition out with 'In any case' for dono michi."
+ },
+ {
+  "id": "MF01_0D08",
+  "en": "$s05Waaaaah--"
+ },
+ {
+  "id": "MF01_0D30",
+  "en": "$s05What the?! $s80$s13$s13What was that?!"
+ },
+ {
+  "id": "MF01_0D6C",
+  "en": "$s80$s13$s30Hi-$s80$s13hi-hi-hi..."
+ },
+ {
+  "id": "MF01_0DA4",
+  "en": "A beam weapon?!",
+  "note": "Male-player version (identical text in both variants)."
+ },
+ {
+  "id": "MF01_0DCA",
+  "en": "A beam weapon?!",
+  "note": "Female-player version (identical text in both variants)."
+ },
+ {
+  "id": "MF01_0DF0",
+  "en": "One of their buddies?! $s80$s13$s13Or is it someone else...",
+  "note": "'those guys' = the enemies already being fought; the beam came from an unknown third party. Trails off as in the source. Editorial: 'Are they with those guys' had two unclear plurals; reworded so the unknown shooter is clearly set against the known enemy."
+ },
+ {
+  "id": "MF01_0E36",
+  "en": "$s80$s13Even I can't say.$/$m21d$s05For now, focus on the enemy in front of you!"
+ },
+ {
+  "id": "MF01_0E9D",
+  "en": "$s05Wh-whoa... $s80$s13$s80$s13Wh-$s80$s13what ARE these things?!"
+ },
+ {
+  "id": "MF01_0EF3",
+  "en": "That's right. $s80$s13To defeat these fiends, $s80$s13the enemies of mankind, $s80$s13we need you!"
+ },
+ {
+  "id": "MF01_0F5B",
+  "en": "$s80$s13...$s80$s13Hmph, $s80$s13even if I say no, $s80$s13you'll just drag me along anyway, right?"
+ },
+ {
+  "id": "MF01_101D",
+  "en": "$s05Really?!",
+  "note": "Male-player version (portrait $f61) of the reaction to Hayato agreeing."
+ },
+ {
+  "id": "MF01_1043",
+  "en": "$s05All right!"
+ },
+ {
+  "id": "MF01_1069",
+  "en": "That's more like it! $s80$s13$s80$s13I'm counting on you from here on out! $s80$s13Hayato! $s80$s13And $s80$s13$s00%2$n%0$s13 too!"
+ },
+ {
+  "id": "MF01_0A89",
+  "en": "I'm heading your way myself in the Bear-Gou!"
+ },
+ {
+  "id": "MF01_0B47",
+  "en": "$s20I get it. $s80$s13Without that, we wouldn't stand a chance!"
+ },
+ {
+  "id": "MF01_10EF",
+  "en": "$s05Line up all three Get Machines! $s80$s13That should add %2\"Combine\"%0 to your commands!$/But be careful. $s80$s13You can't combine after you've already taken an action! $s80$s13If that happens, $s80$s13wait until the next turn!"
+ },
+ {
+  "id": "MF01_0FC3",
+  "en": "$s20Fine, $s80$s13$s20I've made up my mind... $s80$s13$s20I'll ride it, then."
+ },
+ {
+  "id": "MF01_11D7",
+  "en": "This is Hayato's school. $s80$s13Hurry up and go persuade Hayato!"
+ },
+ {
+  "id": "MF01_1227",
+  "en": "$s05You blockhead! $s80$s13Why aren't you combining?! $s80$s13$s05No matter how many you take down with the Get Machines, you'll never handle this many enemies. $s80$s13Combine, now!"
+ },
+ {
+  "id": "MF01_12CB",
+  "en": "That's Getter-1!$/It's well balanced in both attack and defense. $s80$s13It's the most dependable machine we have. $s80$s13It can use the powerful %2\"Getter Beam\"%0 weapon!"
+ },
+ {
+  "id": "MF01_136F",
+  "en": "That's Getter-2!$/It uses little energy, so it lets you %2\"fight while conserving Getter Energy\"%0. $s80$s13It also moves well on the ground!"
+ },
+ {
+  "id": "MF01_1409",
+  "en": "That's Getter-3!$/$s20It may not look like much... but $s80$s13%2its underwater attack and mobility are very high!%0 $s80$s13Used right, it'll be a formidable asset!"
+ },
+ {
+  "id": "MF01_14B0",
+  "en": "Sorry to keep you waiting, $s80$s13Ryoma.$/What about Hayato?! $s80$s13Did you get him into the Jaguar-Gou?"
+ },
+ {
+  "id": "MF01_1516",
+  "en": "Been waiting for you, Doc! $s80$s13Took some doing, but I got him in. $s80$s13It's flying on autopilot right now."
+ },
+ {
+  "id": "MF01_1586",
+  "en": "$s05Let me out of here! $s80$s13$s05Why do I have to do this?!"
+ },
+ {
+  "id": "MF01_15EE",
+  "en": "$s05Shut up! $s80$s13You and me both got marked by that demon Saotome! $s80$s13$s05Call it fate and brace yourself!"
+ },
+ {
+  "id": "MF02_0018",
+  "en": "This here's MAP 02!",
+  "note": "Debug/placeholder narration line."
+ },
+ {
+  "id": "MF02_0053",
+  "en": "Allow me to introduce $s80$s13a man who volunteered of his own accord, $s80$s13our third pilot, $s80$s13$s80$s13%3Musashi Tomoe%0!",
+  "note": "Editorial: clumsy apposition ('introduce him. He volunteered..., our third pilot') rebuilt into one sentence."
+ },
+ {
+  "id": "MF02_00D4",
+  "en": "Trained in Hokkaido $s80$s13on Daisetsuzan, $s80$s13Toyo High School $s80$s13Judo Club $s80$s13captain $s80$s13$s80$s13Musashi Tomoe, that's me!"
+ },
+ {
+  "id": "MF02_01D3",
+  "en": "Whoa, whoa... $s80$s13Is this guy gonna be okay...?"
+ },
+ {
+  "id": "MF02_020D",
+  "en": "Imagine anyone actually wanting to fight those things. Takes all kinds."
+ },
+ {
+  "id": "MF02_0259",
+  "en": "Now, now, $s80$s13isn't it enough that he's willing to pilot?",
+  "note": "Male-player version ($f61); this one is polite in the source too."
+ },
+ {
+  "id": "MF02_02AB",
+  "en": "Now, now, $s80$s13we're short on people, $s80$s13and this is an emergency...",
+  "note": "Female-player version ($f62)."
+ },
+ {
+  "id": "MF02_030B",
+  "en": "Father, $s80$s13what on earth were those enemies?"
+ },
+ {
+  "id": "MF02_0355",
+  "en": "I can't say. $s80$s13Judging by the shape of the creatures that came out of the wreckage, there's no doubt they're some evolved form of %3reptile%0, but..."
+ },
+ {
+  "id": "MF02_03D5",
+  "en": "$s80$s13Reptiles?"
+ },
+ {
+  "id": "MF02_03FF",
+  "en": "$s05We've got a reading near Mt. Asama's crater! $s80$s13$s05Probably the same as last time..."
+ },
+ {
+  "id": "MF02_0457",
+  "en": "$s05It's them!"
+ },
+ {
+  "id": "MF02_047D",
+  "en": "$s80$s13Heh! $s80$s13I don't get the complicated stuff, but I can tell you this much!$/$f00g$s05Those guys are the enemies of us humans! $s80$s13$s05We're launching!",
+  "note": "Accuracy: 'Those bastards' -> 'Those guys' (yatsura is not an insult)."
+ },
+ {
+  "id": "MF02_0510",
+  "en": "$s05What did you say?!",
+  "note": "Reaction to Gore's self-introduction, which is not in this script (probably a voiced/cutscene line elsewhere)."
+ },
+ {
+  "id": "MF02_053A",
+  "en": "$s05The Underground Demon King?!"
+ },
+ {
+  "id": "MF02_0564",
+  "en": "$s05%3Gore%0, you say?!"
+ },
+ {
+  "id": "MF02_0594",
+  "en": "$s05Rule the surface again, you say?!",
+  "note": "Male-player version ($f61; female counterpart MF02_05C4 is in mform_01). Object 'the surface' inferred: Gore's later lines say his race ruled the surface before humans."
+ }
+]

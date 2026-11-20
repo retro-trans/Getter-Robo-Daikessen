@@ -1,0 +1,340 @@
+[
+ {
+  "id": "MF02_05C4",
+  "en": "$s05What do you mean, rule the surface again?!",
+  "note": "Female variant of MF02_0594. The declaration being echoed (Gore saying his people will rule again) is not in the text rows; the object of 'rule' is left unstated as in the source. Accuracy: object 'the surface' restored to match the male variant MF02_0594; settled by Gore's MF02_07CC in the same scene (chijou ni kunrin)."
+ },
+ {
+  "id": "MF02_05F8",
+  "en": "What in blazes does that mean?!",
+  "note": "Editorial: question mark added (it is a question)."
+ },
+ {
+  "id": "MF02_0626",
+  "en": "We Reptilians $s80$s13were born before mankind! $s80$s13We are the original inhabitants of this Earth!",
+  "note": "Hachuu jinrui (reptile-people) is not in the glossary; rendered 'Reptilians'. Gore speaks of his own race; source uses the third-person race name, turned into 'We Reptilians' for natural speech. Editorial: 'the native life of this Earth' was stiff; 'original inhabitants' for senjuu seibutsu."
+ },
+ {
+  "id": "MF02_085A",
+  "en": "Quit spouting that self-serving crap! $s80$s13$s80$s13$f00dCrawl back underground and stay there!"
+ },
+ {
+  "id": "MF02_08C3",
+  "en": "$s80$s13Hmph! $s80$s13I'll show you monkeys the difference in power, $s80$s13$s80$s13$s05no, $s80$s13$s80$s13how far beneath us you are $s80$s13as living beings!",
+  "note": "'saru-domo' = 'you monkeys', kept consistent with MF02_096F. Editorial: 'teach you monkeys the gap in power' was unidiomatic."
+ },
+ {
+  "id": "MF02_096F",
+  "en": "$s80$s13To think you monkeys, $s80$s13$s80$s13no, $s80$s13you humans had such power!"
+ },
+ {
+  "id": "MF02_015B",
+  "en": "Now that I've joined the Getter Team, $s80$s13you've got nothing to worry about! $s80$s13$s80$s13Sit back and relax, you're in good hands!",
+  "note": "Idiom 'feel as if aboard a big ship' rendered as 'you're in good hands'."
+ },
+ {
+  "id": "MF02_0A93",
+  "en": "$s05Hm? $s80$s13I don't see the Bear-Gou anywhere..."
+ },
+ {
+  "id": "MF02_0AD9",
+  "en": "That bastard Musashi! $s80$s13After all that big talk, $s80$s13$s05did he chicken out and run off?!"
+ },
+ {
+  "id": "MF02_0B49",
+  "en": "The enemy's not gonna wait for us! $s80$s13Let's fight this ourselves!"
+ },
+ {
+  "id": "MF02_0B93",
+  "en": "The enemy won't wait for us! $s80$s13Let's fight on our own!",
+  "note": "Female variant: softer, polite register (-mashou)."
+ },
+ {
+  "id": "MF02_0688",
+  "en": "That's right! $s80$s13$s80$s13Back then, $s80$s13a massive bombardment of Getter Rays from space $s80$s13$s80$s13wiped out most of our kind, $s80$s13$s80$s13and we survivors fled underground!"
+ },
+ {
+  "id": "MF02_0746",
+  "en": "But $s80$s13$s80$s13at the same time, there was life that bathed in those Getter Rays $s80$s13$s80$s13and evolved! $s80$s13That life was mankind!"
+ },
+ {
+  "id": "MF02_07CC",
+  "en": "If not for that, $s80$s13$s80$s13the ones ruling the surface today $s80$s13$s80$s13would not be you, $s80$s13but us!"
+ },
+ {
+  "id": "MF02_09E1",
+  "en": "$s80$s13Fearsome, these humans! $s80$s13$s80$s13Fearsome, this Getter Robo!"
+ },
+ {
+  "id": "MF02_0A3D",
+  "en": "$s80$s13I'll let you have the victory today! $s80$s13But you haven't seen the last of me!",
+  "note": "'Oboete ore' (classic villain retreat line) rendered as 'you haven't seen the last of me'."
+ },
+ {
+  "id": "MF02_0BE3",
+  "en": "S-$s80$s13sorry to keep you waiting, $s80$s13everybody!"
+ },
+ {
+  "id": "MF02_0C25",
+  "en": "$s05Musashi!",
+  "note": "-san honorific dropped."
+ },
+ {
+  "id": "MF02_0C4B",
+  "en": "$s05Musashi!",
+  "note": "-san honorific dropped; identical to the male variant as in the source."
+ },
+ {
+  "id": "MF02_0C71",
+  "en": "$s05You bastard, $s80$s13$s05where the hell were you at a time like this?!",
+  "note": "Editorial: question mark added."
+ },
+ {
+  "id": "MF02_0CBD",
+  "en": "Now, now, $s80$s13the star always makes a late entrance-- $s80$s13$s80$s13whoa, whoa!",
+  "note": "'tto tto' read as Musashi losing his balance at the controls (Hayato's next lines criticise his piloting). Editorial: comma changed to a dash so the stumble reads as an interruption."
+ },
+ {
+  "id": "MF02_0D1F",
+  "en": "$s05All right, $s80$s13$s05I'm gonna send those guys flying!"
+ },
+ {
+  "id": "MF02_0D6B",
+  "en": "You'll never beat them flying like that. $s80$s13$s05$m01gGo back to the Institute and let the Doctor take over the controls!",
+  "note": "Assumes Dr. Saotome piloted the third machine before Musashi joined (MF01); 'hakase' = Dr. Saotome."
+ },
+ {
+  "id": "MF02_0DD6",
+  "en": "$s05No way! $s80$s13I'm not turning back after coming this far! $s80$s13I'll pull this off with my muscle and guts!"
+ },
+ {
+  "id": "MF03_0028",
+  "en": "This here's MAP 03!",
+  "note": "Debug/placeholder map label, translated literally."
+ },
+ {
+  "id": "MF03_0C7F",
+  "en": "%2The Getter Team made their way to the South America Base to take delivery of Getter Dragon and the Mass-Production Getters.",
+  "note": "Only %2 in the source (no %0), kept as is. 'Nanbei kichi' not in glossary: 'South America Base' (patterned on 'Alaska Base'). Ryouhangata = 'mass-production' (not in glossary). Editorial: capitalised to match the glossary unit name Mass-Production Getter Robo."
+ },
+ {
+  "id": "MF03_004A",
+  "en": "$s80$s13Is that the new Getter?!"
+ },
+ {
+  "id": "MF03_0082",
+  "en": "That it is. $s80$s13Our new pilot, $s80$s13young %3Benkei Kuruma%0, is at the controls.",
+  "note": "Full name order given-name-first per glossary; 'kun' rendered as 'young'."
+ },
+ {
+  "id": "MF03_00E5",
+  "en": "Come to think of it, I heard you're building other Getter Robos as well?",
+  "note": "Subject 'you' (Saotome's side) restored; polite register toward the Doctor."
+ },
+ {
+  "id": "MF03_013B",
+  "en": "Once the current Getter Robo was complete, we launched several combat Getter Robo projects, each taking a different direction.",
+  "note": "Passive in source ('were begun'); 'we' restored since the next row says he worked with Dr. Tachibana."
+ },
+ {
+  "id": "MF03_01B1",
+  "en": "There's a whole bunch of Getter Robos?!"
+ },
+ {
+  "id": "MF03_01ED",
+  "en": "Together with a fellow Getter Ray researcher, $s80$s13%3Dr. Tachibana%0.$/And among the fruits of that work are the machines now in operational testing: %1Getter Robo G%0 and the %1Mass-Production Getter Robo%0.",
+  "note": "First sentence is a fragment continuing his previous row (projects begun in cooperation with Dr. Tachibana); kept as a fragment. 'Mass-Production Getter Robo' not in glossary."
+ },
+ {
+  "id": "MF03_029B",
+  "en": "Dr. Tachibana? $s80$s13There are other Getter Ray researchers besides you, Dr. Saotome?",
+  "note": "No gender_variant tag in the slice, but portrait code $f61 in mform.json marks this as the male variant (029B male / 02EB female). Verb restored ('There are') though the male source stops before it."
+ },
+ {
+  "id": "MF03_02EB",
+  "en": "Dr. Tachibana? $s80$s13Are there other Getter Ray researchers besides you, Dr. Saotome?",
+  "note": "Female variant (portrait $f62), full polite question."
+ },
+ {
+  "id": "MF03_0347",
+  "en": "Mm. $s80$s13At present, only three people in the world, myself included, have managed to make a Getter Reactor practical. But one of them has gone missing.$/Confound it... $s80$s13where in the world are they, and what are they up to...",
+  "note": "Getter roshin = 'Getter Reactor' per glossary. The missing third researcher is unidentified here, so gender-neutral 'they' (per BASE_RULES); 'yatsu-me' rendered as 'Confound it'."
+ },
+ {
+  "id": "MF03_03F9",
+  "en": "$s05What?!"
+ },
+ {
+  "id": "MF03_041F",
+  "en": "$s05The Getters! $s80$s13The Mass-Production Getter Robos are--!",
+  "note": "Cut-off alarm line; verb deliberately left unfinished as in the source. Editorial: glossary/project term: Mass-Production Getter Robos."
+ },
+ {
+  "id": "MF03_0469",
+  "en": "$s05What's wrong?! $s80$s13$s05What's happening?! $s80$s13$s05All Get Machines! Respond!",
+  "note": "Editorial: questions punctuated as questions; contraction for spoken urgency."
+ },
+ {
+  "id": "MF03_04DB",
+  "en": "$s05Dr. Saotome! $s80$s13$s05Can you hear me?! $s80$s13$s05Dr. Saotome!"
+ },
+ {
+  "id": "MF03_0539",
+  "en": "Ah, $s80$s13Benkei! $s80$s13What in blazes is going on over there?"
+ },
+ {
+  "id": "MF03_0591",
+  "en": "The mass-production Eagle-Gou, $s80$s13Jaguar-Gou, $s80$s13and Bear-Gou on standby... $s80$s13the trainee pilots jumped in, $s80$s13and every last one of 'em took off!"
+ },
+ {
+  "id": "MF03_066B",
+  "en": "$s05What's going on?!"
+ },
+ {
+  "id": "MF03_069D",
+  "en": "Having a spot of trouble, are we? $s80$s13My dear Getter Team!",
+  "note": "'shokun' rendered 'my dear Getter Team' (avoids 'gentlemen', Michiru is present). Speaker is Neon, unnamed until the next rows."
+ },
+ {
+  "id": "MF03_06E7",
+  "en": "$s05You! $s80$s13$s05Who the hell are you?!"
+ },
+ {
+  "id": "MF03_071F",
+  "en": "My name is %3Neon%0. $s80$s13On the orders of Lord Gore...",
+  "note": "Sentence is cut across rows: no closing quote in the source; its continuation is MF03_076D ('...have come to destroy you'). English cut at the matching point."
+ },
+ {
+  "id": "MF03_078C",
+  "en": "You're with Gore?"
+ },
+ {
+  "id": "MF03_07B6",
+  "en": "Did you not notice?! $s80$s13$s80$s13We took the liberty of swapping our comrades $s80$s13for your human pilots!"
+ },
+ {
+  "id": "MF03_08BD",
+  "en": "$s05When did you pull that off?!"
+ },
+ {
+  "id": "MF03_08E7",
+  "en": "I'll be taking your trump card with me!"
+ },
+ {
+  "id": "MF03_0921",
+  "en": "$s05You bastard, $s80$s13$s05get back here!"
+ },
+ {
+  "id": "MF03_095D",
+  "en": "We've worked out where the Get Machines are headed! $s80$s13Judging by their course, $s80$s13it's the nearby major city.",
+  "note": "Followed (MF03_09C9) by the researcher's self-correction to the nuclear plant; 'it's' restored."
+ },
+ {
+  "id": "MF03_0A09",
+  "en": "$s05What did you say?! $s80$s13This is bad!"
+ },
+ {
+  "id": "MF03_0AA5",
+  "en": "But we're up against Getter Robos! $s80$s13Even if they're only mass-production models...",
+  "note": "Trailing off as in the source. Editorial: 'the enemy is Getter Robo' read stiffly and clashed with the plural 'they're' that follows."
+ },
+ {
+  "id": "MF03_0AFF",
+  "en": "Don't worry! $s80$s13$s80$s13Getter Robo or not, $s80$s13a Getter with lizards in it $s80$s13is no match for us!"
+ },
+ {
+  "id": "MF03_0629",
+  "en": "Come to think of it, $s80$s13everybody was acting kinda weird!",
+  "note": "Benkei about the trainee pilots who launched (they were the swapped-in reptilians)."
+ },
+ {
+  "id": "MF03_076D",
+  "en": "...have come to destroy you all!",
+  "note": "Speakerless continuation of Neon's MF03_071F ('On the orders of Lord Gore... [I] have come to destroy you'); starts lower-case to continue that sentence. If the game shows it as a separate page/line, a capitalised 'I have come to destroy you all!' may read better: flag for review. Editorial: shown as a new message: starts with '...' per the project decision."
+ },
+ {
+  "id": "MF03_0840",
+  "en": "With intelligence this paltry, $s80$s13you call yourselves the lords of creation? $s80$s13$s80$s13Laughable!",
+  "note": "No closing quote; continues in MF03_089A. Editorial: comma after the fronted phrase for readability."
+ },
+ {
+  "id": "MF03_089A",
+  "en": "Laughable! $s80$s13$s05Utterly laughable!",
+  "note": "Speakerless continuation of Neon's MF03_0840."
+ },
+ {
+  "id": "MF03_09C9",
+  "en": "$s05No, wait... $s80$s13$s05it's the nuclear power plant!"
+ },
+ {
+  "id": "MF03_0A43",
+  "en": "Scramble the Getter Robo! $s80$s13$s80$s13We mustn't let them get there!"
+ },
+ {
+  "id": "MF03_0B8D",
+  "en": "$s05Let's go!"
+ },
+ {
+  "id": "MF03_0BB3",
+  "en": "Now then, $s80$s13playtime is over! $s80$s13Time for me to destroy that nuclear power plant!$/Farewell, $s80$s13my dear Getter Team!",
+  "note": "'shokun' rendered as in MF03_069D."
+ },
+ {
+  "id": "MF04_0A79",
+  "en": "%2A mysterious Mechasaurus suddenly appeared in the city.$/Receiving word of it, the Getter Team rushed to the scene.",
+  "note": "Only %2 in the source (no %0), kept as is."
+ },
+ {
+  "id": "MF04_0028",
+  "en": "This here's MAP 04!",
+  "note": "Debug/placeholder map label, translated literally."
+ },
+ {
+  "id": "MF04_005B",
+  "en": "$s30Ha ha ha! $s80$s13$s80$s13$s80$s13$s20Humans! $s80$s13$s20Are you helpless before this %1Gera%0?!",
+  "note": "The source text ends with a stray closing quote and a space left by the extractor; dropped, since the English must not carry quote marks."
+ },
+ {
+  "id": "MF04_00DE",
+  "en": "$s05What the heck is going on?!",
+  "note": "Male variant (portrait $m61), no gender_variant tag in the slice."
+ },
+ {
+  "id": "MF04_0112",
+  "en": "$s05What on earth is happening?!",
+  "note": "Female variant (portrait $m62), no gender_variant tag in the slice."
+ },
+ {
+  "id": "MF04_0144",
+  "en": "Our attacks aren't working?! $s80$s13$s05Doctor!"
+ },
+ {
+  "id": "MF04_0186",
+  "en": "Well?! How does it look?!",
+  "note": "'Dou da!?' aimed at the Researcher, who answers with the damage report; 'readings' added to make the question to the lab staff clear. Accuracy: removed added 'readings' (dou da = 'well? how is it?'); still aimed at the Researcher, who answers next."
+ },
+ {
+  "id": "MF04_01AC",
+  "en": "We can't confirm any damage!$/$f25bWorse, it appears to be converting our attacks, both physical and thermal, into energy and growing!"
+ },
+ {
+  "id": "MF04_0243",
+  "en": "$s05Growing, you say?!"
+ },
+ {
+  "id": "MF04_026F",
+  "en": "At regular intervals it uses its stored heat to trigger cell division and grow even bigger.$/$f25bAt this rate, by our calculations it will cover the entire city within 24 hours!"
+ },
+ {
+  "id": "MF04_030B",
+  "en": "$s05What did you say?!"
+ },
+ {
+  "id": "MF04_0335",
+  "en": "$s05That can't be...!"
+ },
+ {
+  "id": "MF04_035F",
+  "en": "At regular intervals$s30...$s80$s13!$/$f21b$s05That's it! $s80$s13Its energy capacity is proportional to its volume, and it increases that capacity by growing.$/But if we feed it more energy than its growth can keep up with, it will destroy itself!"
+ }
+]

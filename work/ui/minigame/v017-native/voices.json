@@ -1,0 +1,382 @@
+{
+  "voices": [
+    {
+      "voice": 139,
+      "lines": [
+        {
+          "text": "Stay calm.",
+          "x": 230,
+          "y": 350,
+          "flags": "0x10000004"
+        }
+      ]
+    },
+    {
+      "voice": 448,
+      "lines": [
+        {
+          "text": "Quit dawdling!",
+          "x": 221,
+          "y": 350,
+          "flags": "0x10000004"
+        }
+      ]
+    },
+    {
+      "voice": 557,
+      "lines": [
+        {
+          "text": "Don't give up! Come try again.",
+          "x": 179,
+          "y": 350,
+          "flags": "0x10000004"
+        }
+      ]
+    },
+    {
+      "voice": 654,
+      "lines": [
+        {
+          "text": "First, let me explain the screen.",
+          "x": 173,
+          "y": 350,
+          "flags": "0x10000004"
+        }
+      ]
+    },
+    {
+      "voice": 774,
+      "lines": [
+        {
+          "text": "All right! The combination worked!",
+          "x": 169,
+          "y": 350,
+          "flags": "0x10000004"
+        }
+      ]
+    },
+    {
+      "voice": 849,
+      "lines": [
+        {
+          "text": "We're out of time! Hurry up and combine!",
+          "x": 152,
+          "y": 350,
+          "flags": "0x10000004"
+        }
+      ]
+    },
+    {
+      "voice": 964,
+      "lines": [
+        {
+          "text": "Ah... That's disappointing.",
+          "x": 189,
+          "y": 350,
+          "flags": "0x10000004"
+        }
+      ]
+    },
+    {
+      "voice": 984,
+      "lines": [
+        {
+          "text": "You've completed all the drills. Congratulations!",
+          "x": 132,
+          "y": 350,
+          "flags": "0x10000004"
+        }
+      ]
+    },
+    {
+      "voice": 996,
+      "lines": [
+        {
+          "text": "You did it!",
+          "x": 229,
+          "y": 350,
+          "flags": "0x10000004"
+        }
+      ]
+    },
+    {
+      "voice": 1020,
+      "lines": [
+        {
+          "text": "I won't say another word.",
+          "x": 189,
+          "y": 350,
+          "flags": "0x10000004"
+        }
+      ]
+    },
+    {
+      "voice": 1021,
+      "lines": [
+        {
+          "text": "Let's start by moving closer to Unit 2.",
+          "x": 156,
+          "y": 350,
+          "flags": "0x10000004"
+        }
+      ]
+    },
+    {
+      "voice": 1133,
+      "lines": [
+        {
+          "text": "Crosswinds make it hard to get the timing right.",
+          "x": 132,
+          "y": 350,
+          "flags": "0x10000004"
+        }
+      ]
+    },
+    {
+      "voice": 1151,
+      "lines": [
+        {
+          "text": "You're no Getter pilot yet!",
+          "x": 187,
+          "y": 350,
+          "flags": "0x10000004"
+        }
+      ]
+    },
+    {
+      "voice": 1154,
+      "lines": [
+        {
+          "text": "This is the radar.",
+          "x": 210,
+          "y": 350,
+          "flags": "0x10000004"
+        }
+      ]
+    },
+    {
+      "voice": 1166,
+      "lines": [
+        {
+          "text": "Don't get carried away just because",
+          "x": 163,
+          "y": 350,
+          "flags": "0x10000004"
+        },
+        {
+          "text": "you've combined once or twice.",
+          "x": 177,
+          "y": 376,
+          "flags": "0x10000004"
+        }
+      ]
+    },
+    {
+      "voice": 1177,
+      "lines": [
+        {
+          "text": "It's hard to see ahead at night, but don't worry.",
+          "x": 130,
+          "y": 350,
+          "flags": "0x10000004"
+        }
+      ]
+    },
+    {
+      "voice": 1184,
+      "lines": [
+        {
+          "text": "Watch out for the storm winds!",
+          "x": 176,
+          "y": 350,
+          "flags": "0x10000004"
+        }
+      ]
+    },
+    {
+      "voice": 1190,
+      "lines": [
+        {
+          "text": "Make the combination succeed,",
+          "x": 178,
+          "y": 350,
+          "flags": "0x10000004"
+        },
+        {
+          "text": "no matter how bad the weather!",
+          "x": 174,
+          "y": 376,
+          "flags": "0x10000004"
+        }
+      ]
+    },
+    {
+      "voice": 1191,
+      "lines": [
+        {
+          "text": "What's this? Running away?",
+          "x": 185,
+          "y": 350,
+          "flags": "0x10000004"
+        }
+      ]
+    },
+    {
+      "voice": 1228,
+      "lines": [
+        {
+          "text": "That last training session was child's play.",
+          "x": 145,
+          "y": 350,
+          "flags": "0x10000004"
+        }
+      ]
+    },
+    {
+      "voice": 1259,
+      "lines": [
+        {
+          "text": "First, let's learn how to combine",
+          "x": 173,
+          "y": 350,
+          "flags": "0x10000004"
+        },
+        {
+          "text": "and get the timing right.",
+          "x": 193,
+          "y": 376,
+          "flags": "0x10000004"
+        }
+      ]
+    },
+    {
+      "voice": 1260,
+      "lines": [
+        {
+          "text": "When the mark in the center lights",
+          "x": 167,
+          "y": 350,
+          "flags": "0x10000004"
+        },
+        {
+          "text": "up, that is your cue to combine.",
+          "x": 174,
+          "y": 376,
+          "flags": "0x10000004"
+        }
+      ]
+    },
+    {
+      "voice": 1276,
+      "lines": [
+        {
+          "text": "This is your final drill.",
+          "x": 198,
+          "y": 350,
+          "flags": "0x10000004"
+        }
+      ]
+    },
+    {
+      "voice": 1278,
+      "lines": [
+        {
+          "text": "All right, let's begin the drill!",
+          "x": 181,
+          "y": 350,
+          "flags": "0x10000004"
+        }
+      ]
+    },
+    {
+      "voice": 1316,
+      "lines": [
+        {
+          "text": "This shows the status of the Get Machines.",
+          "x": 143,
+          "y": 350,
+          "flags": "0x10000004"
+        }
+      ]
+    },
+    {
+      "voice": 1322,
+      "lines": [
+        {
+          "text": "Your machine has transformed.",
+          "x": 176,
+          "y": 350,
+          "flags": "0x10000004"
+        }
+      ]
+    },
+    {
+      "voice": 1323,
+      "lines": [
+        {
+          "text": "Use the D-pad to steer your machine.",
+          "x": 160,
+          "y": 350,
+          "flags": "0x10000004"
+        }
+      ]
+    },
+    {
+      "voice": 1324,
+      "lines": [
+        {
+          "text": "Welcome.",
+          "x": 234,
+          "y": 350,
+          "flags": "0x10000004"
+        }
+      ]
+    },
+    {
+      "voice": 1326,
+      "lines": [
+        {
+          "text": "That covers the screen.",
+          "x": 193,
+          "y": 350,
+          "flags": "0x10000004"
+        }
+      ]
+    },
+    {
+      "voice": 1341,
+      "lines": [
+        {
+          "text": "That worked!",
+          "x": 222,
+          "y": 350,
+          "flags": "0x10000004"
+        }
+      ]
+    },
+    {
+      "voice": 1345,
+      "lines": [
+        {
+          "text": "This is the time limit.",
+          "x": 201,
+          "y": 350,
+          "flags": "0x10000004"
+        }
+      ]
+    },
+    {
+      "voice": 1357,
+      "lines": [
+        {
+          "text": "It's easy to read.",
+          "x": 210,
+          "y": 350,
+          "flags": "0x10000004"
+        }
+      ]
+    }
+  ],
+  "unknown_voice_skipped": true,
+  "disabled_voices_skipped": true
+}

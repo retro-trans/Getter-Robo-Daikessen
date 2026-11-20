@@ -1,0 +1,982 @@
+[
+ {
+  "id": "HT_0108",
+  "en": "Flamethrower!",
+  "note": ""
+ },
+ {
+  "id": "HT_0114",
+  "en": "Horn Missile!",
+  "note": ""
+ },
+ {
+  "id": "HT_0124",
+  "en": "Thunderbolt!",
+  "note": ""
+ },
+ {
+  "id": "HT_012C",
+  "en": "Parts Attack!",
+  "note": ""
+ },
+ {
+  "id": "HT_0140",
+  "en": "Mount Punch!",
+  "note": ""
+ },
+ {
+  "id": "HT_0154",
+  "en": "Uzahra Eye Beam, fire!",
+  "note": ""
+ },
+ {
+  "id": "HT_0170",
+  "en": "Uzahra Head Beam, fire!",
+  "note": ""
+ },
+ {
+  "id": "HT_018C",
+  "en": "Gravity Cut Beam, fire!",
+  "note": ""
+ },
+ {
+  "id": "HT_01A4",
+  "en": "Getter Tomahawk!",
+  "note": ""
+ },
+ {
+  "id": "HT_01BC",
+  "en": "Vacuum Tornado Slash!",
+  "note": ""
+ },
+ {
+  "id": "HT_01CC",
+  "en": "Tornado Charge!",
+  "note": ""
+ },
+ {
+  "id": "HT_01D8",
+  "en": "Tornado Throw!",
+  "note": ""
+ },
+ {
+  "id": "HT_01E4",
+  "en": "Electric Shock, fire!",
+  "note": ""
+ },
+ {
+  "id": "HT_01F0",
+  "en": "Tentacles!",
+  "note": ""
+ },
+ {
+  "id": "HT_020C",
+  "en": "Magma Tentacle!",
+  "note": ""
+ },
+ {
+  "id": "HT_021C",
+  "en": "Magma Cannon, fire!",
+  "note": ""
+ },
+ {
+  "id": "HT_022C",
+  "en": "Metal Beast Production!",
+  "note": ""
+ },
+ {
+  "id": "HT_0244",
+  "en": "Spawn!",
+  "note": ""
+ },
+ {
+  "id": "HT_0258",
+  "en": "Cosmic Light!",
+  "note": ""
+ },
+ {
+  "id": "HT_0264",
+  "en": "Ryuji",
+  "note": ""
+ },
+ {
+  "id": "HT_026C",
+  "en": "Ugh!",
+  "note": ""
+ },
+ {
+  "id": "HT_0278",
+  "en": "Aaagh!!",
+  "note": ""
+ },
+ {
+  "id": "HT_0288",
+  "en": "Waaaaargh!!",
+  "note": ""
+ },
+ {
+  "id": "HT_0298",
+  "en": "...O-our youuuth!!",
+  "note": "editorial: \"ga aa\" is a drawn-out wail, not a cut-off; '--' reads as an interruption"
+ },
+ {
+  "id": "HT_02B4",
+  "en": "Raaah!",
+  "note": ""
+ },
+ {
+  "id": "HT_02C4",
+  "en": "Hyaaah!!",
+  "note": ""
+ },
+ {
+  "id": "HT_0350",
+  "en": "Gore",
+  "note": ""
+ },
+ {
+  "id": "HT_0358",
+  "en": "Ugh...",
+  "note": ""
+ },
+ {
+  "id": "HT_0360",
+  "en": "Gwah!",
+  "note": ""
+ },
+ {
+  "id": "HT_036C",
+  "en": "Graaah!! I lost!!",
+  "note": ""
+ },
+ {
+  "id": "HT_0384",
+  "en": "Take thiiis!",
+  "note": ""
+ },
+ {
+  "id": "HT_039C",
+  "en": "Raaah! Diiie!!",
+  "note": ""
+ },
+ {
+  "id": "HT_03B4",
+  "en": "Filthy monkeys!!",
+  "note": ""
+ },
+ {
+  "id": "HT_041C",
+  "en": "Cyborg Gore",
+  "note": ""
+ },
+ {
+  "id": "HT_0428",
+  "en": "Ugh...",
+  "note": ""
+ },
+ {
+  "id": "HT_0430",
+  "en": "Gwah!",
+  "note": ""
+ },
+ {
+  "id": "HT_043C",
+  "en": "Aieeeee!!",
+  "note": ""
+ },
+ {
+  "id": "HT_0450",
+  "en": "Take thiiis!",
+  "note": ""
+ },
+ {
+  "id": "HT_0468",
+  "en": "Raaah! Diiie!!",
+  "note": ""
+ },
+ {
+  "id": "HT_0480",
+  "en": "Filthy apes!!",
+  "note": ""
+ },
+ {
+  "id": "HT_04E8",
+  "en": "Neon",
+  "note": ""
+ },
+ {
+  "id": "HT_04F0",
+  "en": "Gahh...",
+  "note": ""
+ },
+ {
+  "id": "HT_04FC",
+  "en": "Gwoooh!",
+  "note": ""
+ },
+ {
+  "id": "HT_0508",
+  "en": "Gwaaaaah!",
+  "note": ""
+ },
+ {
+  "id": "HT_0518",
+  "en": "...Th-this wasn't supposed to happen... Lord Gooore!",
+  "note": ""
+ },
+ {
+  "id": "HT_0540",
+  "en": "Hyaaah!",
+  "note": ""
+ },
+ {
+  "id": "HT_054C",
+  "en": "Die!",
+  "note": ""
+ },
+ {
+  "id": "HT_0554",
+  "en": "This is our power!!",
+  "note": ""
+ },
+ {
+  "id": "HT_05DC",
+  "en": "Gii!",
+  "note": ""
+ },
+ {
+  "id": "HT_05E4",
+  "en": "Gigii!",
+  "note": ""
+ },
+ {
+  "id": "HT_05F0",
+  "en": "Gugyaaaah!",
+  "note": ""
+ },
+ {
+  "id": "HT_0604",
+  "en": "Giiii!",
+  "note": ""
+ },
+ {
+  "id": "HT_0610",
+  "en": "Gugiiii!",
+  "note": ""
+ },
+ {
+  "id": "HT_0674",
+  "en": "Gii!",
+  "note": ""
+ },
+ {
+  "id": "HT_067C",
+  "en": "Gigii!",
+  "note": ""
+ },
+ {
+  "id": "HT_0688",
+  "en": "Gugyaaaah!",
+  "note": ""
+ },
+ {
+  "id": "HT_069C",
+  "en": "Giiii!",
+  "note": ""
+ },
+ {
+  "id": "HT_06A8",
+  "en": "Gugiiii!",
+  "note": ""
+ },
+ {
+  "id": "HT_0700",
+  "en": "Jiga",
+  "note": ""
+ },
+ {
+  "id": "HT_0708",
+  "en": "Gii!",
+  "note": ""
+ },
+ {
+  "id": "HT_0710",
+  "en": "Gigii!",
+  "note": ""
+ },
+ {
+  "id": "HT_071C",
+  "en": "Gugyaaaah!",
+  "note": ""
+ },
+ {
+  "id": "HT_0730",
+  "en": "Giiii!",
+  "note": ""
+ },
+ {
+  "id": "HT_073C",
+  "en": "Gugiiii!",
+  "note": ""
+ },
+ {
+  "id": "HT_0794",
+  "en": "Bazu",
+  "note": ""
+ },
+ {
+  "id": "HT_079C",
+  "en": "Gii!",
+  "note": ""
+ },
+ {
+  "id": "HT_07A4",
+  "en": "Gigii!",
+  "note": ""
+ },
+ {
+  "id": "HT_07B0",
+  "en": "Gugyaaaah!",
+  "note": ""
+ },
+ {
+  "id": "HT_07C4",
+  "en": "Giiii!",
+  "note": ""
+ },
+ {
+  "id": "HT_07D0",
+  "en": "Gugiiii!",
+  "note": ""
+ },
+ {
+  "id": "HT_0828",
+  "en": "Ryuji",
+  "note": ""
+ },
+ {
+  "id": "HT_0830",
+  "en": "Ugh!",
+  "note": ""
+ },
+ {
+  "id": "HT_083C",
+  "en": "Aaagh!!",
+  "note": ""
+ },
+ {
+  "id": "HT_084C",
+  "en": "Waaaaargh!!",
+  "note": ""
+ },
+ {
+  "id": "HT_085C",
+  "en": "...O-our youuuth!!",
+  "note": "editorial: duplicate of HT_0298, kept identical"
+ },
+ {
+  "id": "HT_0878",
+  "en": "Raaah!",
+  "note": ""
+ },
+ {
+  "id": "HT_0888",
+  "en": "Hyaaah!!",
+  "note": ""
+ },
+ {
+  "id": "HT_0914",
+  "en": "Ipponki",
+  "note": ""
+ },
+ {
+  "id": "HT_091C",
+  "en": "Ngh!",
+  "note": ""
+ },
+ {
+  "id": "HT_0924",
+  "en": "Gyaaah!",
+  "note": ""
+ },
+ {
+  "id": "HT_0934",
+  "en": "Hng!",
+  "note": ""
+ },
+ {
+  "id": "HT_097C",
+  "en": "Gohonki",
+  "note": ""
+ },
+ {
+  "id": "HT_0984",
+  "en": "Ngh!",
+  "note": ""
+ },
+ {
+  "id": "HT_098C",
+  "en": "Gyaaah!",
+  "note": ""
+ },
+ {
+  "id": "HT_099C",
+  "en": "Hng!",
+  "note": ""
+ },
+ {
+  "id": "HT_09E4",
+  "en": "Jyuboki",
+  "note": ""
+ },
+ {
+  "id": "HT_09EC",
+  "en": "Ngh!",
+  "note": ""
+ },
+ {
+  "id": "HT_09F4",
+  "en": "Gyaaah!",
+  "note": ""
+ },
+ {
+  "id": "HT_0A04",
+  "en": "Hng!",
+  "note": ""
+ },
+ {
+  "id": "HT_0A58",
+  "en": "Ngh!",
+  "note": ""
+ },
+ {
+  "id": "HT_0A60",
+  "en": "Gyaaah!",
+  "note": ""
+ },
+ {
+  "id": "HT_0A70",
+  "en": "Hng!",
+  "note": ""
+ },
+ {
+  "id": "HT_0AC4",
+  "en": "Ngh!",
+  "note": ""
+ },
+ {
+  "id": "HT_0ACC",
+  "en": "Gyaaah!",
+  "note": ""
+ },
+ {
+  "id": "HT_0ADC",
+  "en": "Hng!",
+  "note": ""
+ },
+ {
+  "id": "HT_0B24",
+  "en": "General Bat",
+  "note": ""
+ },
+ {
+  "id": "HT_0B30",
+  "en": "Kuh...",
+  "note": ""
+ },
+ {
+  "id": "HT_0B3C",
+  "en": "Gwaah!",
+  "note": ""
+ },
+ {
+  "id": "HT_0B48",
+  "en": "Ughaaaagh!",
+  "note": ""
+ },
+ {
+  "id": "HT_0B5C",
+  "en": "Hmmmph!",
+  "note": ""
+ },
+ {
+  "id": "HT_0B68",
+  "en": "Take this! Hmph!",
+  "note": ""
+ },
+ {
+  "id": "HT_0B7C",
+  "en": "Do you think you can beat me?",
+  "note": ""
+ },
+ {
+  "id": "HT_0B94",
+  "en": "You'd do well not to underestimate the Dinosaur Empire.",
+  "note": ""
+ },
+ {
+  "id": "HT_0C1C",
+  "en": "Cyborg Bat",
+  "note": ""
+ },
+ {
+  "id": "HT_0C2C",
+  "en": "Kuh...",
+  "note": ""
+ },
+ {
+  "id": "HT_0C38",
+  "en": "Gwaah!",
+  "note": ""
+ },
+ {
+  "id": "HT_0C44",
+  "en": "Ughaaaagh!",
+  "note": ""
+ },
+ {
+  "id": "HT_0C58",
+  "en": "Hmmmph!",
+  "note": ""
+ },
+ {
+  "id": "HT_0C64",
+  "en": "Take this! Hmph!",
+  "note": ""
+ },
+ {
+  "id": "HT_0C78",
+  "en": "Do you think you can beat me?",
+  "note": ""
+ },
+ {
+  "id": "HT_0CFC",
+  "en": "Burai",
+  "note": ""
+ },
+ {
+  "id": "HT_0D04",
+  "en": "Oogh...",
+  "note": ""
+ },
+ {
+  "id": "HT_0D10",
+  "en": "Gwuh...",
+  "note": ""
+ },
+ {
+  "id": "HT_0D2C",
+  "en": "...How can this be? T-to lose to scum like this...",
+  "note": ""
+ },
+ {
+  "id": "HT_0D60",
+  "en": "Diiie!",
+  "note": ""
+ },
+ {
+  "id": "HT_0D6C",
+  "en": "I will destroy everything!",
+  "note": ""
+ },
+ {
+  "id": "HT_0D84",
+  "en": "I'll cast every last one of you down into Hell!",
+  "note": ""
+ },
+ {
+  "id": "HT_0DAC",
+  "en": "The might of the Hyakki Empire! Learn it the hard way!",
+  "note": ""
+ },
+ {
+  "id": "HT_0E48",
+  "en": "Cyborg Burai",
+  "note": ""
+ },
+ {
+  "id": "HT_0E54",
+  "en": "Oogh...",
+  "note": ""
+ },
+ {
+  "id": "HT_0E60",
+  "en": "Gwuh...",
+  "note": ""
+ },
+ {
+  "id": "HT_0E7C",
+  "en": "...How can this be? T-to lose to scum like this...",
+  "note": ""
+ },
+ {
+  "id": "HT_0EB0",
+  "en": "Diiie!",
+  "note": ""
+ },
+ {
+  "id": "HT_0EBC",
+  "en": "I will destroy everything!",
+  "note": ""
+ },
+ {
+  "id": "HT_0ED4",
+  "en": "I'll cast every last one of you down into Hell!",
+  "note": ""
+ },
+ {
+  "id": "HT_0F70",
+  "en": "Baron Rasetsu",
+  "note": ""
+ },
+ {
+  "id": "HT_0F7C",
+  "en": "Ngh...",
+  "note": ""
+ },
+ {
+  "id": "HT_0F84",
+  "en": "Grr!",
+  "note": ""
+ },
+ {
+  "id": "HT_0F9C",
+  "en": "Hnnngh!",
+  "note": ""
+ },
+ {
+  "id": "HT_0FA8",
+  "en": "Raaagh!",
+  "note": ""
+ },
+ {
+  "id": "HT_0FB8",
+  "en": "For those who stand in our way, there is only death!",
+  "note": ""
+ },
+ {
+  "id": "HT_1034",
+  "en": "Shinichi",
+  "note": ""
+ },
+ {
+  "id": "HT_103C",
+  "en": "Ngh!",
+  "note": ""
+ },
+ {
+  "id": "HT_1044",
+  "en": "Gyaaah!",
+  "note": ""
+ },
+ {
+  "id": "HT_1054",
+  "en": "Hnn!",
+  "note": ""
+ },
+ {
+  "id": "HT_109C",
+  "en": "Lando",
+  "note": ""
+ },
+ {
+  "id": "HT_10A8",
+  "en": "Damn...",
+  "note": ""
+ },
+ {
+  "id": "HT_10B0",
+  "en": "Hah... hah... ugh...",
+  "note": ""
+ },
+ {
+  "id": "HT_10C0",
+  "en": "D-don't you mock me!!",
+  "note": ""
+ },
+ {
+  "id": "HT_10D8",
+  "en": "Hnnngh!",
+  "note": ""
+ },
+ {
+  "id": "HT_10E4",
+  "en": "Die!",
+  "note": ""
+ },
+ {
+  "id": "HT_10F0",
+  "en": "You worthless insects!",
+  "note": ""
+ },
+ {
+  "id": "HT_110C",
+  "en": "Fuhahaha! So you dare to defy me?!",
+  "note": ""
+ },
+ {
+  "id": "HT_119C",
+  "en": "Hellreza",
+  "note": ""
+ },
+ {
+  "id": "HT_11A8",
+  "en": "Ngh!",
+  "note": ""
+ },
+ {
+  "id": "HT_11B0",
+  "en": "Gyaaah!",
+  "note": ""
+ },
+ {
+  "id": "HT_11C0",
+  "en": "Hnn!",
+  "note": ""
+ },
+ {
+  "id": "HT_1214",
+  "en": "Ngh!",
+  "note": ""
+ },
+ {
+  "id": "HT_121C",
+  "en": "Gyaaah!",
+  "note": ""
+ },
+ {
+  "id": "HT_122C",
+  "en": "Hnn!",
+  "note": ""
+ },
+ {
+  "id": "HT_1280",
+  "en": "Waaah!",
+  "note": ""
+ },
+ {
+  "id": "HT_128C",
+  "en": "Gyaaah!",
+  "note": ""
+ },
+ {
+  "id": "HT_129C",
+  "en": "Hyaaah!",
+  "note": ""
+ },
+ {
+  "id": "HT_12E8",
+  "en": "Gimbug",
+  "note": ""
+ },
+ {
+  "id": "HT_12F4",
+  "en": "Gii!",
+  "note": ""
+ },
+ {
+  "id": "HT_12FC",
+  "en": "Gugyah!",
+  "note": "accuracy: \"gugya\" - keep the 'gu', as the other Gugya- grunts do"
+ },
+ {
+  "id": "HT_1308",
+  "en": "Gigyaaaaah!",
+  "note": ""
+ },
+ {
+  "id": "HT_131C",
+  "en": "Gwahaha!",
+  "note": ""
+ },
+ {
+  "id": "HT_132C",
+  "en": "Guhaaaagh!",
+  "note": ""
+ },
+ {
+  "id": "HT_1340",
+  "en": "So this is all the immature primates can do?!",
+  "note": ""
+ },
+ {
+  "id": "HT_1368",
+  "en": "The galaxy is ours!",
+  "note": ""
+ },
+ {
+  "id": "HT_1380",
+  "en": "I will erase the past of all humanity!",
+  "note": ""
+ },
+ {
+  "id": "HT_13A8",
+  "en": "Vanish, you abominations!",
+  "note": ""
+ },
+ {
+  "id": "HT_1450",
+  "en": "Gii!",
+  "note": ""
+ },
+ {
+  "id": "HT_1458",
+  "en": "Gigii!",
+  "note": ""
+ },
+ {
+  "id": "HT_1464",
+  "en": "Gugyaaaah!",
+  "note": "proof: same grunt as the earlier rows of this Japanese spelled the same way (Gugyaaaah!)"
+ },
+ {
+  "id": "HT_1478",
+  "en": "Giiii!",
+  "note": ""
+ },
+ {
+  "id": "HT_1484",
+  "en": "Gugiiii!",
+  "note": "proof: same grunt as the earlier rows of this Japanese spelled the same way (Gugiiii!)"
+ },
+ {
+  "id": "HT_14E0",
+  "en": "Gii!",
+  "note": ""
+ },
+ {
+  "id": "HT_14E8",
+  "en": "Gigii!",
+  "note": ""
+ },
+ {
+  "id": "HT_14F4",
+  "en": "Gugyaaaah!",
+  "note": "proof: same grunt as the earlier rows of this Japanese spelled the same way (Gugyaaaah!)"
+ },
+ {
+  "id": "HT_1508",
+  "en": "Giiii!",
+  "note": ""
+ },
+ {
+  "id": "HT_1514",
+  "en": "Gugiiii!",
+  "note": "proof: same grunt as the earlier rows of this Japanese spelled the same way (Gugiiii!)"
+ },
+ {
+  "id": "HT_156C",
+  "en": "Antlion",
+  "note": ""
+ },
+ {
+  "id": "HT_1574",
+  "en": "Gii!",
+  "note": ""
+ },
+ {
+  "id": "HT_157C",
+  "en": "Gigii!",
+  "note": ""
+ },
+ {
+  "id": "HT_1588",
+  "en": "Gugyaaaah!",
+  "note": "proof: same grunt as the earlier rows of this Japanese spelled the same way (Gugyaaaah!)"
+ },
+ {
+  "id": "HT_159C",
+  "en": "Giiii!",
+  "note": ""
+ },
+ {
+  "id": "HT_15A8",
+  "en": "Gugiiii!",
+  "note": "proof: same grunt as the earlier rows of this Japanese spelled the same way (Gugiiii!)"
+ },
+ {
+  "id": "HT_1604",
+  "en": "Gii!",
+  "note": ""
+ },
+ {
+  "id": "HT_160C",
+  "en": "Gigii!",
+  "note": ""
+ },
+ {
+  "id": "HT_1618",
+  "en": "Gugyaaaah!",
+  "note": "proof: same grunt as the earlier rows of this Japanese spelled the same way (Gugyaaaah!)"
+ },
+ {
+  "id": "HT_162C",
+  "en": "Giiii!",
+  "note": ""
+ },
+ {
+  "id": "HT_1638",
+  "en": "Gugiiii!",
+  "note": "proof: same grunt as the earlier rows of this Japanese spelled the same way (Gugiiii!)"
+ },
+ {
+  "id": "HT_1690",
+  "en": "Stag",
+  "note": ""
+ },
+ {
+  "id": "HT_169C",
+  "en": "Gii!",
+  "note": ""
+ },
+ {
+  "id": "HT_16A4",
+  "en": "Gigii!",
+  "note": ""
+ },
+ {
+  "id": "HT_16B0",
+  "en": "Gugyaaaah!",
+  "note": "proof: same grunt as the earlier rows of this Japanese spelled the same way (Gugyaaaah!)"
+ },
+ {
+  "id": "HT_16C4",
+  "en": "Giiii!",
+  "note": ""
+ },
+ {
+  "id": "HT_16D0",
+  "en": "Gugiiii!",
+  "note": "proof: same grunt as the earlier rows of this Japanese spelled the same way (Gugiiii!)"
+ },
+ {
+  "id": "HT_1728",
+  "en": "Hogram D7",
+  "note": ""
+ },
+ {
+  "id": "HT_1738",
+  "en": "Gii!",
+  "note": ""
+ },
+ {
+  "id": "HT_1740",
+  "en": "Gigii!",
+  "note": ""
+ },
+ {
+  "id": "HT_174C",
+  "en": "Gugyaaaah!",
+  "note": "proof: same grunt as the earlier rows of this Japanese spelled the same way (Gugyaaaah!)"
+ },
+ {
+  "id": "HT_1760",
+  "en": "Giiii!",
+  "note": ""
+ },
+ {
+  "id": "HT_176C",
+  "en": "Gugiiii!",
+  "note": "proof: same grunt as the earlier rows of this Japanese spelled the same way (Gugiiii!)"
+ }
+]

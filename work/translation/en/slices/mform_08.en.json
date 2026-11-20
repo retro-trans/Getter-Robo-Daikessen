@@ -1,0 +1,413 @@
+[
+ {
+  "id": "MF14_0936",
+  "speaker_en": "Insect Army",
+  "en": ""
+ },
+ {
+  "id": "MF14_0402",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "en": ""
+ },
+ {
+  "id": "MF14_0696",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "en": ""
+ },
+ {
+  "id": "MF14_0978",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "en": ""
+ },
+ {
+  "id": "MF14_09CE",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "en": ""
+ },
+ {
+  "id": "MF15_0030",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "en": ""
+ },
+ {
+  "id": "MF15_0052",
+  "speaker_en": "Shatner",
+  "en": ""
+ },
+ {
+  "id": "MF15_0090",
+  "speaker_en": "Ryoma",
+  "en": ""
+ },
+ {
+  "id": "MF15_0143",
+  "speaker_jp": "$n",
+  "speaker_en": "$n (player)",
+  "en": "",
+  "gender_variant": "male player"
+ },
+ {
+  "id": "MF15_0189",
+  "speaker_jp": "$n",
+  "speaker_en": "$n (player)",
+  "en": "",
+  "gender_variant": "female player"
+ },
+ {
+  "id": "MF15_01CF",
+  "speaker_en": "Dr. Saotome",
+  "en": ""
+ },
+ {
+  "id": "MF15_029B",
+  "speaker_en": "Shatner",
+  "en": ""
+ },
+ {
+  "id": "MF15_02E5",
+  "speaker_en": "Michiru",
+  "en": ""
+ },
+ {
+  "id": "MF15_030B",
+  "speaker_en": "Dr. Saotome",
+  "en": ""
+ },
+ {
+  "id": "MF15_038E",
+  "speaker_en": "Hayato",
+  "en": ""
+ },
+ {
+  "id": "MF15_03BC",
+  "speaker_en": "Furuta",
+  "en": ""
+ },
+ {
+  "id": "MF15_040A",
+  "speaker_en": "Cyborg Bat",
+  "en": ""
+ },
+ {
+  "id": "MF15_047E",
+  "speaker_en": "Benkei",
+  "en": ""
+ },
+ {
+  "id": "MF15_04D0",
+  "speaker_en": "Go",
+  "en": ""
+ },
+ {
+  "id": "MF15_0516",
+  "speaker_en": "Shatner",
+  "en": ""
+ },
+ {
+  "id": "MF15_0574",
+  "speaker_en": "Cyborg Bat",
+  "en": ""
+ },
+ {
+  "id": "MF15_05FC",
+  "speaker_en": "Dr. Saotome",
+  "en": ""
+ },
+ {
+  "id": "MF15_06AA",
+  "speaker_en": "Cyborg Bat",
+  "en": ""
+ },
+ {
+  "id": "MF15_0219",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "en": ""
+ },
+ {
+  "id": "MF15_0A0D",
+  "speaker_en": "Cyborg Bat",
+  "en": ""
+ },
+ {
+  "id": "MF15_0841",
+  "speaker_en": "Dr. Saotome",
+  "en": ""
+ },
+ {
+  "id": "MF15_08A1",
+  "speaker_jp": "$n",
+  "speaker_en": "$n (player)",
+  "en": "",
+  "gender_variant": "male player"
+ },
+ {
+  "id": "MF15_08E7",
+  "speaker_jp": "$n",
+  "speaker_en": "$n (player)",
+  "en": "",
+  "gender_variant": "female player"
+ },
+ {
+  "id": "MF15_092D",
+  "speaker_en": "Dr. Saotome",
+  "en": ""
+ },
+ {
+  "id": "MF15_0991",
+  "speaker_en": "Dr. Saotome",
+  "en": ""
+ },
+ {
+  "id": "MF16_0020",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "en": ""
+ },
+ {
+  "id": "MF16_0042",
+  "speaker_en": "Cyborg Gore",
+  "en": ""
+ },
+ {
+  "id": "MF16_0126",
+  "speaker_en": "Russian Commander",
+  "en": ""
+ },
+ {
+  "id": "MF16_01BE",
+  "speaker_en": "Russian Soldier A",
+  "en": ""
+ },
+ {
+  "id": "MF16_023C",
+  "speaker_en": "Russian Commander",
+  "en": ""
+ },
+ {
+  "id": "MF16_0274",
+  "speaker_en": "Russian Soldier B",
+  "en": ""
+ },
+ {
+  "id": "MF16_02D2",
+  "speaker_en": "Russian Commander",
+  "en": ""
+ },
+ {
+  "id": "MF16_0304",
+  "speaker_en": "Russian Soldier A",
+  "en": ""
+ },
+ {
+  "id": "MF16_0332",
+  "speaker_en": "Russian Soldier A",
+  "en": ""
+ },
+ {
+  "id": "MF16_037F",
+  "speaker_en": "Russian Commander",
+  "en": ""
+ },
+ {
+  "id": "MF16_03D9",
+  "speaker_en": "Russian Soldier B",
+  "en": ""
+ },
+ {
+  "id": "MF16_04C5",
+  "speaker_en": "Russian Commander",
+  "en": ""
+ },
+ {
+  "id": "MF16_0543",
+  "speaker_en": "Russian Soldier B",
+  "en": ""
+ },
+ {
+  "id": "MF16_056D",
+  "speaker_en": "Russian Soldier A",
+  "en": ""
+ },
+ {
+  "id": "MF16_05C5",
+  "speaker_en": "Russian Soldier B",
+  "en": ""
+ },
+ {
+  "id": "MF16_0611",
+  "speaker_en": "Russian Soldier A",
+  "en": ""
+ },
+ {
+  "id": "MF16_0657",
+  "speaker_en": "Russian Soldier B",
+  "en": ""
+ },
+ {
+  "id": "MF16_06A1",
+  "speaker_en": "Russian Commander",
+  "en": ""
+ },
+ {
+  "id": "MF16_06F7",
+  "speaker_en": "Russian Soldier B",
+  "en": ""
+ },
+ {
+  "id": "MF16_0781",
+  "speaker_en": "Linda",
+  "en": ""
+ },
+ {
+  "id": "MF16_07C5",
+  "speaker_en": "Bob",
+  "en": ""
+ },
+ {
+  "id": "MF16_07FD",
+  "speaker_en": "Sam",
+  "en": ""
+ },
+ {
+  "id": "MF16_084F",
+  "speaker_en": "Ryoma",
+  "en": ""
+ },
+ {
+  "id": "MF16_089B",
+  "speaker_en": "Russian Commander",
+  "en": ""
+ },
+ {
+  "id": "MF16_09CF",
+  "speaker_en": "Hayato",
+  "en": ""
+ },
+ {
+  "id": "MF16_0A1E",
+  "speaker_en": "Russian Soldier B",
+  "en": ""
+ },
+ {
+  "id": "MF16_0A7A",
+  "speaker_en": "Cyborg Gore",
+  "en": ""
+ },
+ {
+  "id": "MF16_0B38",
+  "speaker_en": "Russian Commander",
+  "en": ""
+ },
+ {
+  "id": "MF16_0C12",
+  "speaker_en": "Cyborg Gore",
+  "en": ""
+ },
+ {
+  "id": "MF16_0D3C",
+  "speaker_en": "Sho",
+  "en": ""
+ },
+ {
+  "id": "MF16_0D60",
+  "speaker_jp": "$n",
+  "speaker_en": "$n (player)",
+  "en": "",
+  "gender_variant": "male player"
+ },
+ {
+  "id": "MF16_0D8C",
+  "speaker_jp": "$n",
+  "speaker_en": "$n (player)",
+  "en": "",
+  "gender_variant": "female player"
+ },
+ {
+  "id": "MF16_0DBC",
+  "speaker_en": "Gai",
+  "en": ""
+ },
+ {
+  "id": "MF16_0E32",
+  "speaker_en": "Go",
+  "en": ""
+ },
+ {
+  "id": "MF16_0E8A",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "en": ""
+ },
+ {
+  "id": "MF16_00C4",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "en": ""
+ },
+ {
+  "id": "MF16_043D",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "en": ""
+ },
+ {
+  "id": "MF16_08F3",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "en": ""
+ },
+ {
+  "id": "MF16_0963",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "en": ""
+ },
+ {
+  "id": "MF16_0ED3",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "note": "shown after a centred banner line; translate only this part",
+  "en": ""
+ },
+ {
+  "id": "MF16_0BB0",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "en": ""
+ },
+ {
+  "id": "MF16_0C78",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "en": ""
+ },
+ {
+  "id": "MF17_0014",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "en": ""
+ },
+ {
+  "id": "MF17_0036",
+  "speaker_en": "Linda",
+  "en": ""
+ },
+ {
+  "id": "MF17_00AA",
+  "speaker_en": "Michiru",
+  "en": ""
+ },
+ {
+  "id": "MF17_0136",
+  "speaker_jp": "$n",
+  "speaker_en": "$n (player)",
+  "en": "",
+  "gender_variant": "male player"
+ }
+]

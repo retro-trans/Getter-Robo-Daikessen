@@ -1,0 +1,349 @@
+[
+ {
+  "id": "MF14_0936",
+  "en": "$s30Until humanity...$s80$s13$s30is wiped out...",
+  "note": "Runs on into MF14_0978 and MF14_09CE (same speech, split in the script)."
+ },
+ {
+  "id": "MF14_0402",
+  "en": "These are...$s80$s13$s80$s13$s05i-$s80$s13$s05insects?!",
+  "note": "Continuation of the Researcher's line MF14_03B8 (objects falling from space around the Institute)."
+ },
+ {
+  "id": "MF14_0696",
+  "en": "For the Institute's defense,$s80$s13we developed a single Getter Robo.",
+  "note": "Continuation of Dr. Saotome's '.........' (MF14_0676). Subject 'we' (the Institute) restored; Tatsuhito then explains it is a rush job from spare parts."
+ },
+ {
+  "id": "MF14_0978",
+  "en": "Gaga...$s80$s13$s80$s13$s80$s13$s30the battle$s80$s13$s80$s13$s30goes on...",
+  "note": "Insect Army continuation. 'Gaga' / 'Gi... gi...' kept as the creature's static/chitter noises."
+ },
+ {
+  "id": "MF14_09CE",
+  "en": "We shall destroy...$s80$s13$s30gi$s80$s13$s30gi...$s80$s13$s80$s13$s80$s13$s30humanity!",
+  "note": "Word order moved so the object lands on the final beat (JP: humanity... gi gi... destroy!)."
+ },
+ {
+  "id": "MF15_0030",
+  "en": "This here's MAP 15!",
+  "note": "Debug/placeholder map label."
+ },
+ {
+  "id": "MF15_0052",
+  "en": "The city...$s80$s13$s05my city...!"
+ },
+ {
+  "id": "MF15_0090",
+  "en": "$s20This is...$s80$s13$s80$s13$s20It's like the whole city$s80$s13was sliced open by a giant knife...$s80$s13$s80$s13$s80$s13$s05$m00gDr. Saotome,$s80$s13what the hell is this?!"
+ },
+ {
+  "id": "MF15_0143",
+  "en": "The reports say$s80$s13it was caused by a giant tornado...",
+  "note": "Not tagged as a gender variant in the slice, but it pairs with MF15_0189 and uses portrait $m61 (male), so written as the male version."
+ },
+ {
+  "id": "MF15_0189",
+  "en": "According to the reports,$s80$s13it seems to be the work of a giant tornado.",
+  "note": "Female-player version (portrait $m62), slightly more polite as in the JP."
+ },
+ {
+  "id": "MF15_01CF",
+  "en": "...True, this is$s80$s13far from normal for a tornado.",
+  "note": "Continues in MF15_0219."
+ },
+ {
+  "id": "MF15_029B",
+  "en": "$s80$s13There's no way this is just some tornado!"
+ },
+ {
+  "id": "MF15_02E5",
+  "en": "Father..."
+ },
+ {
+  "id": "MF15_030B",
+  "en": "...Quite right.$s80$s13Sitting here like this, the damage will only spread.$/$f21aHayato!$s80$s13I want you to investigate the site!",
+  "note": "Answers Michiru's urging 'Father...'."
+ },
+ {
+  "id": "MF15_038E",
+  "en": "Understood, Doctor."
+ },
+ {
+  "id": "MF15_03BC",
+  "en": "Be careful!$s80$s13We're detecting tornadoes forming all around you!",
+  "note": "Furuta's gender is unknown; no pronoun needed."
+ },
+ {
+  "id": "MF15_040A",
+  "en": "$s20How delightful$s80$s13$s20to meet you once again!$s80$s13$s20Getter Team, one and all!",
+  "note": "Mock-polite JP (o-me ni kakarete saiwai). 'Shokun' rendered 'one and all' to avoid a gendered 'gentlemen'."
+ },
+ {
+  "id": "MF15_047E",
+  "en": "You!$s80$s13$s05The Dinosaur Empire's$s80$s13$s05General Bat!"
+ },
+ {
+  "id": "MF15_04D0",
+  "en": "$s05You bastard,$s80$s13$s05you came back from the dead?!"
+ },
+ {
+  "id": "MF15_0516",
+  "en": "Look what you did to the city!$s80$s13$s80$s13$s05I'm gonna kill you!"
+ },
+ {
+  "id": "MF15_0574",
+  "en": "With Lord Lando's creation,$s80$s13this Metal Beast,$s80$s13$s80$s13I shall smash Getter Robo to dust!",
+  "note": "'Randou-sama' -> 'Lord Lando'."
+ },
+ {
+  "id": "MF15_05FC",
+  "en": "$s05$n,$s80$s13$s05I've found the Metal Beast's weakness!$/$s13The tornado's spin seems to vary slightly in strength! Wait for the moment the spin weakens, then attack its center!"
+ },
+ {
+  "id": "MF15_06AA",
+  "en": "$s80$s13Wh-$s80$s13$s20what...$s80$s13$s80$s13$s20Beaten not once, but twice!$s80$s13$s80$s13$s80$s13$s20...Curse you!$s80$s13$s20Curse you, Getter Robo!",
+  "note": "'Beaten' added as the verb of 'ichido narazu mo nido made mo' (defeated before in the original series, now again)."
+ },
+ {
+  "id": "MF15_0219",
+  "en": "With the whole world's climate in upheaval,$s80$s13$s20it's no wonder such a thing could happen...$s80$s13$s80$s13but still...",
+  "note": "Continuation of Dr. Saotome's MF15_01CF."
+ },
+ {
+  "id": "MF15_0A0D",
+  "en": "Shockwave!",
+  "note": "Attack shout."
+ },
+ {
+  "id": "MF15_0841",
+  "en": "$s05$s80$s13$s05...! It's no good.$s80$s13$s05Our attacks aren't working on him!",
+  "note": "'Yatsu' taken as Cyborg Bat in his Metal Beast (known male); 'it' would also work if it means the machine. Same choice in MF15_092D / MF15_0991."
+ },
+ {
+  "id": "MF15_08A1",
+  "en": "$s05Tch...$s80$s13$s05What are we supposed to do?!",
+  "note": "Subject 'we' (the team) restored; JP has none."
+ },
+ {
+  "id": "MF15_08E7",
+  "en": "$s05No!$s80$s13$s05What do we do?!",
+  "note": "Subject 'we' (the team) restored; JP has none."
+ },
+ {
+  "id": "MF15_092D",
+  "en": "$s05I'll find his weakness somehow.$s80$s13$s05Until then, hold out against his attacks."
+ },
+ {
+  "id": "MF15_0991",
+  "en": "$s80$s13$s05Nothing works on him the way he is now!$s80$s13$s05Wait for the moment his spin weakens, then attack."
+ },
+ {
+  "id": "MF16_0020",
+  "en": "This here's MAP 16!",
+  "note": "Debug/placeholder map label."
+ },
+ {
+  "id": "MF16_0042",
+  "en": "$s20Cease this futile resistance and hand over the nukes...$s80$s13$s80$s13$s20Though I suppose$s80$s13$s20you apes won't listen!",
+  "note": "Continues in MF16_00C4. 'Kaku' = the base's nuclear weapons (later 'nuclear missiles')."
+ },
+ {
+  "id": "MF16_0126",
+  "en": "Never!$s80$s13$s80$s13We must never let them have the nukes!!$s80$s13$s80$s13Whatever it takes,$s80$s13we hold this place to the last!!"
+ },
+ {
+  "id": "MF16_01BE",
+  "en": "$s05But, Commander!$s80$s13...We have almost no forces left...$/$s05It's only a matter of time before the enemy breaks through!",
+  "note": "JP writes shirei with the typo kanji (order) for (commander); read as 'Commander'."
+ },
+ {
+  "id": "MF16_023C",
+  "en": "$s80$s13$s05...Damn it!"
+ },
+ {
+  "id": "MF16_0274",
+  "en": "Base defense systems,$s80$s13about to exceed their limit!$s80$s13$s05Commander!"
+ },
+ {
+  "id": "MF16_02D2",
+  "en": "$s05...We use the Volga.",
+  "note": "Verb restored for 'Boruga da' (his decision; the soldiers gasp next)."
+ },
+ {
+  "id": "MF16_0304",
+  "en": "$s80$s13$s05!"
+ },
+ {
+  "id": "MF16_0332",
+  "en": "$s05! $f29b$s00%2Russian Soldier B%0$s13: $s05!",
+  "note": "Row holds two speakers: Soldier A's '!' then an embedded tag for Soldier B. Tag written in the build's English form (%2Name%0$s13: ). The JP had a line break before the second tag that the slice removed and I may not add; the build may need to break the line before $f29b."
+ },
+ {
+  "id": "MF16_037F",
+  "en": "Begin launch preparations$s80$s13for the Volga's Super Weapon Mode!",
+  "note": "'Cho Weapon Mode' -> 'Super Weapon Mode', matching the glossary's 'Super Weapon Cannon'."
+ },
+ {
+  "id": "MF16_03D9",
+  "en": "That's dangerous!$s80$s13The Volga has only just entered its second activation test phase!",
+  "note": "Continues in MF16_043D."
+ },
+ {
+  "id": "MF16_04C5",
+  "en": "$s05Then what would you have us do?!$s80$s13$s80$s13$s80$s13If we just hand them the nukes, it's the same thing, isn't it?!"
+ },
+ {
+  "id": "MF16_0543",
+  "en": "$s05!..."
+ },
+ {
+  "id": "MF16_056D",
+  "en": "$s05Super Weapon Mode transformation power...$s80$s13$s05normal!",
+  "note": "'Kahen' (variable) read as the Volga's transformation into a cannon (Sam: 'it's turning into a cannon'); same for 'kahen count' in MF16_06A1."
+ },
+ {
+  "id": "MF16_05C5",
+  "en": "$s05Auto-balancer system also normal!"
+ },
+ {
+  "id": "MF16_0611",
+  "en": "$s05No anomalies detected in the output control program!"
+ },
+ {
+  "id": "MF16_0657",
+  "en": "$s05Energy$s80$s13$s05more than sufficient!"
+ },
+ {
+  "id": "MF16_06A1",
+  "en": "$s80$s13$s05...Good!$s80$s13$s05Begin the transformation countdown!"
+ },
+ {
+  "id": "MF16_06F7",
+  "en": "$s05Roger...$s80$s13$s05Countdown start.$s80$s1360...$s80$s1359...$s80$s1358...$s80$s1357..."
+ },
+ {
+  "id": "MF16_0781",
+  "en": "$s05Wh-$s80$s13$s05what?$s80$s13What is that?"
+ },
+ {
+  "id": "MF16_07C5",
+  "en": "$s80$s13$s05...A giant robot?!"
+ },
+ {
+  "id": "MF16_07FD",
+  "en": "$s80$s13No, wait...$s80$s13$s05It's turning into a cannon!!"
+ },
+ {
+  "id": "MF16_084F",
+  "en": "$s20Damn, those Russian bastards$s80$s13built one hell of a thing!",
+  "note": "Rough admiration, not hostility."
+ },
+ {
+  "id": "MF16_089B",
+  "en": "The Allied Forces!$s80$s13There's no time,$s80$s13lend us a hand!",
+  "note": "'Rengougun' -> 'Allied Forces' (not in the glossary). Continues in MF16_08F3 and MF16_0963."
+ },
+ {
+  "id": "MF16_09CF",
+  "en": "Roger that!$s80$s13$s80$s13$m01gSuper Robots, launch!"
+ },
+ {
+  "id": "MF16_0A1E",
+  "en": "Volga!$s80$s13Super Weapon Cannon firing preparations$s80$s13complete!!"
+ },
+ {
+  "id": "MF16_0A7A",
+  "en": "What is$s80$s13that cannon?!$s80$s13$s80$s13$s80$s13You still mean to resist!$s80$s13Impudent humans!$s80$s13$s80$s13As if a thing like that$s80$s13could ever defeat me!"
+ },
+ {
+  "id": "MF16_0B38",
+  "en": "You held them off well!$s80$s13Men and women of the Allied Forces!$s80$s13$s80$s13We will not let your efforts go to waste!",
+  "note": "'Rengougun no shokun' -> 'Men and women of the Allied Forces' (team includes female pilots). Continues in MF16_0BB0."
+ },
+ {
+  "id": "MF16_0C12",
+  "en": "$s05!...What?!$s80$s13$s80$s13$s80$s13$s05...Wh-$s80$s13what... happened to me?!",
+  "note": "Continues in MF16_0C78."
+ },
+ {
+  "id": "MF16_0D3C",
+  "en": "$s05Ngh...!"
+ },
+ {
+  "id": "MF16_0D60",
+  "en": "...It's more powerful than I imagined!",
+  "note": "Male-player version (portrait $m61), pairs with MF16_0D8C; not tagged in the slice."
+ },
+ {
+  "id": "MF16_0D8C",
+  "en": "...What$s80$s13incredible power!",
+  "note": "Female-player version (portrait $m62)."
+ },
+ {
+  "id": "MF16_0DBC",
+  "en": "$s05Ugh...$s80$s13It's so bright I can't see a thing...$s80$s13$s05What happened to the enemy?!$s80$s13$s05What about Gore?!"
+ },
+ {
+  "id": "MF16_0E32",
+  "en": "The enemy?...$s80$s13There's nothing like that,$s80$s13not anywhere anymore..."
+ },
+ {
+  "id": "MF16_0E8A",
+  "en": "%2        - Russia -",
+  "note": "Location caption. The JP centred it with a leading line break and spaces; the line break was removed from the slice, so the build may need to re-centre it."
+ },
+ {
+  "id": "MF16_00C4",
+  "en": "No matter!$s80$s13$s20Resist!$s80$s13$s20Resist all you like!$s80$s13And learn just how powerless you are!",
+  "note": "Continuation of Cyborg Gore's MF16_0042."
+ },
+ {
+  "id": "MF16_043D",
+  "en": "On top of that,$s80$s13using the Super Weapon Mode when it hasn't even been tested...!$s80$s13$s80$s13If it fails,$s80$s13we'll go up along with the nuclear missiles...",
+  "note": "Continuation of Soldier B's MF16_03D9. JP trails off after 'along with the nuclear missiles'; 'we'll go up' restored as the implied outcome, ending still trails."
+ },
+ {
+  "id": "MF16_08F3",
+  "en": "...$s80$s13The enemy is after the nukes!$s80$s13$s80$s13Our ultimate weapon, the Volga,$s80$s13has just begun its countdown!",
+  "note": "Continuation of the Russian Commander's MF16_089B."
+ },
+ {
+  "id": "MF16_0963",
+  "en": "I need you$s80$s13to hold off the enemy advance$s80$s13until the Volga's Super Weapon Mode activates!",
+  "note": "Continuation of the Russian Commander's MF16_089B/08F3."
+ },
+ {
+  "id": "MF16_0ED3",
+  "en": "$/The Getter Team failed to protect the ultimate weapon Volga, and the nuclear missiles fell into Lando's hands!$/There is no doubt they will be launched at the entire world...",
+  "note": "Text after the 'Mission Failed' banner."
+ },
+ {
+  "id": "MF16_0BB0",
+  "en": "Take this,$s80$s13you monster!$s80$s13$s80$s13Volga!$s80$s13Super Weapon Cannon,$s80$s13fire!",
+  "note": "Continuation of the Russian Commander's MF16_0B38."
+ },
+ {
+  "id": "MF16_0C78",
+  "en": "...I see...$s80$s13$s30I was...$s80$s13$s30being controlled by him...$s80$s13$s30At last...$s80$s13$s30I am... free...$s80$s13$s80$s13$s80$s13$s30I thank you...$s80$s13$s80$s13$s30Getter Team...",
+  "note": "Cyborg Gore's continuation. 'Yatsu' inferred to be Professor Lando (who rebuilt the cyborgs; Cyborg Bat calls him 'Lord Lando' in MF15), hence 'him'."
+ },
+ {
+  "id": "MF17_0014",
+  "en": "This here's MAP 17!",
+  "note": "Debug/placeholder map label."
+ },
+ {
+  "id": "MF17_0036",
+  "en": "How awful!...$s30...What$s80$s13$s05happened here?!$/...The city,$s80$s13the city is underwater!"
+ },
+ {
+  "id": "MF17_00AA",
+  "en": "According to Father's report, this isn't the only city that's gone under.$s80$s13Cities all over the world have apparently been hit by huge tsunamis."
+ },
+ {
+  "id": "MF17_0136",
+  "en": "So the sea level is rising sharply all over the globe...",
+  "note": "Male-player version (portrait $m61), pairs with MF17_0176 in the next slice; not tagged in the slice."
+ }
+]

@@ -1,0 +1,21 @@
+{
+  "version": "0.1.5",
+  "subtitle_background": "transparent",
+  "outline_pixels": 1,
+  "subtitle_cues": 212,
+  "cue_wording_unchanged": true,
+  "cue_bounds_checked": 212,
+  "movie_streams_verified": 18,
+  "independently_decoded_frames": 17309,
+  "sector_checksum_samples": 90,
+  "native_emulator_check": {
+    "movie": "C04",
+    "muted": true,
+    "capture": "C04_native_fb240.png",
+    "result": "Original image visible behind outlined subtitle; no backing bar",
+    "test_process_closed": true
+  },
+  "disc_sha256": "0f972a2de9a5bb12f703327b6d9165bee9299e65d618e7e59c0537af778db608",
+  "previous_0_1_4_archive_roundtrip_verified": true,
+  "old_image_cleanup_pending": "Old 0.1.4 BIN/CUE retained while an external process holds the image open. No user emulator was stopped."
+}

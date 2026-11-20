@@ -1,0 +1,336 @@
+[
+ {
+  "id": "MF10_027A",
+  "en": "$s05That's a pointless worry, $s13Hayato.$/As long as we don't use it the wrong way, we're fine. $s80$s13Think about it simply: when it comes to power, the more the better.",
+  "note": "Answers Hayato's worry (previous slice) that Shin Getter is too powerful; 'it' = Shin Getter."
+ },
+ {
+  "id": "MF10_0316",
+  "en": "$s30... $s80$s13$s05I suppose so."
+ },
+ {
+  "id": "MF10_034A",
+  "en": "$s05It took out that satellite in one hit!",
+  "note": "Subject restored: Shin Getter Robo (destroyed the beam satellite in MF09)."
+ },
+ {
+  "id": "MF10_0382",
+  "en": "With that thing, the Oni and the bugs will be easy-peasy!",
+  "note": "Oni = the Hyakki Empire, bugs = the Insect Army. The drawn-out ~ rendered with playful wording instead of a tilde. Editorial: 'demons' -> 'Oni' (project decision for the Hyakki Empire's oni); 'easy-peasy' kept for Kaede's drawn-out playful tone."
+ },
+ {
+  "id": "MF10_03B8",
+  "en": "...Let's hope so."
+ },
+ {
+  "id": "MF10_03F2",
+  "en": "$s05Schwartz!",
+  "note": "Gai rebuking Schwartz's sour remark; the rebuke itself is implied by the next row."
+ },
+ {
+  "id": "MF10_041A",
+  "en": "The Insect Army is a seed you Japanese sowed! $s80$s13It's your duty to reap it yourselves!"
+ },
+ {
+  "id": "MF10_048A",
+  "en": "But that was...",
+  "note": "Trailing fragment kept; Schwartz completes her thought (the Hyakki Empire did it)."
+ },
+ {
+  "id": "MF10_04B4",
+  "en": "You're going to say it was the Hyakki Empire, right?!$/But listen, $s80$s13it was your job to protect the Institute. You were right there, and you still couldn't protect it. So it comes to the same thing!",
+  "note": "Referent inferred: the institute is most likely the Tachibana Institute (attacked by the Hyakki Empire in MF06; the Getter Reactor blast is rumoured to have spawned the insects, MF08). Kept as 'the institute' without naming it. Accuracy: restored the duty in mamoru-beki omaera ('you, who should have protected it'), which 'right there to protect' left vague. Editorial: 'You want to say' -> natural 'You're going to say'; run-on split; 'Institute' capitalised (project rule); 'That makes it the same thing' -> 'So it comes to the same thing' (onaji koto da)."
+ },
+ {
+  "id": "MF10_054E",
+  "en": "..."
+ },
+ {
+  "id": "MF10_0570",
+  "en": "All super robot pilots from every nation, report to the briefing room immediately! $s80$s13I repeat..."
+ },
+ {
+  "id": "MF10_05F4",
+  "en": "Yesterday, $s80$s13one of our recon planes discovered $s80$s13$s80$s13this Hyakki Empire forward base."
+ },
+ {
+  "id": "MF10_065A",
+  "en": "What?! What is this?!"
+ },
+ {
+  "id": "MF10_0686",
+  "en": "The forest all around it $s80$s13has withered away completely...!"
+ },
+ {
+  "id": "MF10_06CC",
+  "en": "Not just the forest. $s80$s13$s80$s13Every plant, $s80$s13$s80$s13animal $s80$s13$s80$s13and insect has been wiped out."
+ },
+ {
+  "id": "MF10_0780",
+  "en": "What in the world $s80$s13is going on here?"
+ },
+ {
+  "id": "MF10_07C6",
+  "en": "Most likely, $s80$s13$s80$s13it's a Hyakki Empire $s80$s13bioweapon factory."
+ },
+ {
+  "id": "MF10_0820",
+  "en": "$s05Bioweapons?!"
+ },
+ {
+  "id": "MF10_0850",
+  "en": "Damn them... $s80$s13$s05making something like this...!"
+ },
+ {
+  "id": "MF10_0890",
+  "en": "The bigger problem $s80$s13$s80$s13is what they've installed around the base: $s80$s13$s80$s13$s80$s13these $s80$s13things that look like holes."
+ },
+ {
+  "id": "MF10_0914",
+  "en": "What are these...? $s80$s13$s80$s13$s05Missile silos?!"
+ },
+ {
+  "id": "MF10_0966",
+  "en": "Most likely, these are $s80$s13$s80$s13long-range ballistic missile $s80$s13launch facilities."
+ },
+ {
+  "id": "MF10_0A18",
+  "en": "Brother, $s80$s13with the Texas backing us up, $s80$s13we $s80$s13can sortie too!",
+  "note": "Mary to Jack. 'we' = Mary and Jack (Texas Mack)."
+ },
+ {
+  "id": "MF10_0A7A",
+  "en": "Sorry, but $s80$s13with us around, $s80$s13the rest of you won't $s80$s13get a turn at all-desu!",
+  "note": "Jack's boast; mi-tachi ('Me' plural) rendered 'us' = Jack and Mary. Kept the -desu verbal tic."
+ },
+ {
+  "id": "MF10_0ADC",
+  "en": "$s80$s13$s05Hm? $s80$s13So the humans have sniffed us out!$/But it seems they noticed a little too late!$/Very soon, Kyoraiki loaded with germ bombs will be launched at nations all over the world! $s80$s13Let them watch, helpless!$/I leave the rest to you, %3Jyuboki!%0",
+  "note": "KYORAIKI (Japanese kyo-rai-ki, 'giant thunder oni') is not in the glossary: guessed Hepburn reading; it is the Hyakki missile unit. Number unclear (one or several); written without an article so it works either way. 'Let them watch, helpless' = yubi wo kuwaete miteiru ga ii, addressed rhetorically to the absent humans."
+ },
+ {
+  "id": "MF10_0BD8",
+  "en": "$s05Yes, sir! $s80$s13Leave it to me, Emperor Burai!"
+ },
+ {
+  "id": "MF10_0C22",
+  "en": "$s05Not yet! $s80$s13$s05There's still time! $s80$s13$s05All units! Destroy the missiles before they launch!"
+ },
+ {
+  "id": "MF10_0750",
+  "en": "...Truly a land of death..."
+ },
+ {
+  "id": "MF10_09C8",
+  "en": "Our objective this time $s80$s13$s80$s13is to destroy this facility."
+ },
+ {
+  "id": "MF10_0D72",
+  "en": "      - Preparing Missile Launch -",
+  "note": "Event banner; leading spaces kept as in the source. Centering may need adjusting in the build."
+ },
+ {
+  "id": "MF10_0D55",
+  "en": "      - Missile Battery Destroyed -",
+  "note": "Event banner read as 'battery destroyed' (shown when one is destroyed), like the other banners on this map (Mission Complete / Enemy Reinforcements / Mission Failed). Could also be an objective 'Destroy the Missile Batteries'."
+ },
+ {
+  "id": "MF10_0DA6",
+  "en": "Pardon me, but $s80$s13it's about time I launched those missiles!$/$s05Go! $s80$s13$s05Kyoraiki! $s80$s13Wipe out the foolish humans. $s80$s13$s05Fuhahaha...!",
+  "note": "Kyoraiki: guessed reading, see MF10_0ADC."
+ },
+ {
+  "id": "MF11_0018",
+  "en": "This here's MAP 11!",
+  "note": "Debug/placeholder map label."
+ },
+ {
+  "id": "MF11_0063",
+  "en": "$s80$s13$s20Hahahaha... $s80$s13$s80$s13$s20At last! $s80$s13At last it is complete!! $s80$s13$s80$s13$s20The ultimate, final weapon, mightier than Getter Robo!"
+ },
+ {
+  "id": "MF11_0219",
+  "en": "$s05Yes, sir!"
+ },
+ {
+  "id": "MF11_023F",
+  "en": "Countless high-energy readings in the sky above the Texas! $s80$s13At the center, $s80$s13a powerful electromagnetic wave seems to be forming!"
+ },
+ {
+  "id": "MF11_02C3",
+  "en": "$s05What did you say?!"
+ },
+ {
+  "id": "MF11_032D",
+  "en": "Hyakki Beasts sighted!$/$f23b$s05Th-$s80$s13$s05there's a huge number of them!",
+  "note": "Editorial: 'appearing' -> 'sighted' (natural report style for shutsugen); still subjectless report."
+ },
+ {
+  "id": "MF11_037E",
+  "en": "$s05Looks like they're finally getting serious!"
+ },
+ {
+  "id": "MF11_03C2",
+  "en": "$s05Looks like this'll be an all-out war..."
+ },
+ {
+  "id": "MF11_03F6",
+  "en": "$s05You've got some guts, $s80$s13$s05Hyakki Empire!",
+  "note": "Editorial: the vocative joined with a comma; 'You've got some guts! Hyakki Empire!' read as two disconnected shouts."
+ },
+ {
+  "id": "MF11_0442",
+  "en": "Wh-$s80$s13what the?! What is that thing?!"
+ },
+ {
+  "id": "MF11_0478",
+  "en": "Wh-$s80$s13what?! What is that?!"
+ },
+ {
+  "id": "MF11_04AC",
+  "en": "Look at the size of that thing!"
+ },
+ {
+  "id": "MF11_04DC",
+  "en": "$s20Fuhahahahaha...! $s80$s13$s20My dear Getter Team! $s80$s13$s20Are you astonished by the size of this %1Uzahra%0?",
+  "note": "Opens Burai's speech that continues in the speakerless rows MF11_0566, 05D2, 0668, 06AE (same portrait). 'My dear' renders the mock-formal shokun."
+ },
+ {
+  "id": "MF11_06BC",
+  "en": "$s80$s13...$s80$s13ji$s80$s13ra$s80$s13... come $s80$s13in! $s80$s13...Kujira, come in!",
+  "note": "Garbled radio call. Kujira = the large transport plane (named in MF05 by Hayato), kept as a proper name so the broken syllables ji/ra still match. Editorial: garbled syllables ji/ra left joined (reads '...jira...', echoing 'Kujira'); spaces added so 'come in' does not run together."
+ },
+ {
+  "id": "MF11_072C",
+  "en": "$s80$s13$s05...D-$s80$s13$s05Doctor!"
+ },
+ {
+  "id": "MF11_0768",
+  "en": "$s80$s13$s05...D-$s80$s13$s05Doctor!",
+  "note": "Same text as the male version in Japanese; same English."
+ },
+ {
+  "id": "MF11_07A4",
+  "en": "$s80$s13$s05$n! $s80$s13$s05So you're alive! $s80$s13Is everyone safe?"
+ },
+ {
+  "id": "MF11_0804",
+  "en": "$s05Doctor! $s80$s13$s05What in the world...! $s80$s13$s05What just happened?!"
+ },
+ {
+  "id": "MF11_010B",
+  "en": "$s80$s13Humans! $s80$s13$s80$s13$s20You shall learn the hard way $s80$s13$s20just how mighty our science is!",
+  "note": "Clause order swapped for English; codes stay at the clause boundary."
+ },
+ {
+  "id": "MF11_0191",
+  "en": "$s20Assemble every Hyakki Beast! $s80$s13$s80$s13$s20We, the Hyakki Empire, $s80$s13$s20challenge humanity to the final battle!!"
+ },
+ {
+  "id": "MF11_02EB",
+  "en": "All super robots, $s80$s13emergency launch!"
+ },
+ {
+  "id": "MF11_0566",
+  "en": "No wonder. $s80$s13$s80$s13$s20It was built with science and technology you could never hope to reach!",
+  "note": "Speakerless: continuation of Emperor Burai's MF11_04DC (his portrait $f46)."
+ },
+ {
+  "id": "MF11_05D2",
+  "en": "This Uzahra is not merely big! $s80$s13$s80$s13$s20It has power and mobility far beyond Getter Robo's, $s80$s13$s80$s13$s20making it the mightiest weapon of all!",
+  "note": "Continuation of Burai's speech."
+ },
+ {
+  "id": "MF11_0668",
+  "en": "Now then... $s80$s13$s80$s13$s20how kind of you to come all this way to greet me, but...",
+  "note": "Continuation of Burai's speech; sarcastic politeness. Cut-off line, finished by the next row."
+ },
+ {
+  "id": "MF11_06AE",
+  "en": "Die!",
+  "note": "End of Burai's speech."
+ },
+ {
+  "id": "MF11_0862",
+  "en": "You've put up quite a fight, $s80$s13my dear Getter Team.$/...But $s80$s13I think it's time we ended this.$/$s05$f46dAll Hyakki Beasts! $s80$s13Annihilate the Getter Team with all your might!"
+ },
+ {
+  "id": "MF11_0937",
+  "en": "...! $s80$s13The Hyakki Beasts that were standing still all this time...!$/$m07dEveryone! Be careful. $s80$s13The enemy's all-out attack is coming!",
+  "note": "Source has 'seishi' (restrain) for 'seishi' (stand still), read as stationary. First sentence is a deliberate fragment (they start moving)."
+ },
+ {
+  "id": "MF12_0014",
+  "en": "This here's MAP 12!",
+  "note": "Debug/placeholder map label."
+ },
+ {
+  "id": "MF12_006F",
+  "en": "$s05Doctor! $s80$s13$s80$s13What in the world...! $s80$s13$s80$s13What just happened?!",
+  "note": "Same line as MF11_0804 with different pauses; same English."
+ },
+ {
+  "id": "MF12_00D5",
+  "en": "...In all of human history... $s80$s13$s80$s13this may be the worst catastrophe yet...",
+  "note": "Saotome's explanation continues in the speakerless rows MF12_0123 onward (next slice)."
+ },
+ {
+  "id": "MF12_0387",
+  "en": "$s80$s13$s05Captain! $s80$s13$s05A transmission is cutting in on the Texas!"
+ },
+ {
+  "id": "MF12_03F1",
+  "en": "$s05What?! $s80$s13$s05Put it through to me."
+ },
+ {
+  "id": "MF12_0435",
+  "en": "$s05What?! $s80$s13$s05Captain! $s80$s13$s05Something has the Texas surrounded-desu!"
+ },
+ {
+  "id": "MF12_04A3",
+  "en": "$s05What?!"
+ },
+ {
+  "id": "MF12_04C7",
+  "en": "$s05Oh! $s80$s13$s05Brother! $s80$s13$s05Are those... Mechasaurs?! Or Hyakki Beasts?!",
+  "note": "Plural chosen: the Texas is surrounded, so several units."
+ },
+ {
+  "id": "MF12_0537",
+  "en": "No way...! $s80$s13$s05The Dinosaur Empire and the Hyakki Empire were supposed to be gone..."
+ },
+ {
+  "id": "MF12_0591",
+  "en": "$s05Hey! Captain! $s80$s13$s05What the hell is going on?!"
+ },
+ {
+  "id": "MF12_05DD",
+  "en": "$s05Is something attacking us?!"
+ },
+ {
+  "id": "MF12_0611",
+  "en": "$s80$s13$s05! $s80$s13$s05...Could this be %3Lando%0's...?!"
+ },
+ {
+  "id": "MF12_0669",
+  "en": "Did I surprise you, $s80$s13soldiers of the Allied Forces?",
+  "note": "Rengo-gun rendered 'Allied Forces'. Speaker is Rasetsu, still unnamed (????). Editorial: vocative joined to the question ('Did I surprise you? Soldiers of the Allied Forces!' left the address dangling)."
+ },
+ {
+  "id": "MF12_06A7",
+  "en": "Who are you?!"
+ },
+ {
+  "id": "MF12_06C7",
+  "en": "My name is %3Rasetsu%0. $s80$s13$s80$s13$s80$s13By order of Lord Lando, I shall destroy the Texas!",
+  "note": "Lando-sama rendered 'Lord Lando' (glossary only has Professor Lando / Lando)."
+ },
+ {
+  "id": "MF12_0741",
+  "en": "$s05Lando?!"
+ },
+ {
+  "id": "MF12_0769",
+  "en": "$s05Did you say Lando?!"
+ }
+]

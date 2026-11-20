@@ -1,0 +1,752 @@
+[
+ {
+  "id": "exe_80018DE8",
+  "en": "$m01b%2Hayato%0$s13: ...I got left behind again.",
+  "note": ""
+ },
+ {
+  "id": "exe_80018E18",
+  "en": "$m02b%2Musashi%0$s13: Good ol' Musashi's built tough and built to last, so I'm still alive and kickin', see?! Wahahaha...",
+  "note": ""
+ },
+ {
+  "id": "exe_80018E74",
+  "en": "$m03a%2Benkei%0$s13: Man, I'm real sorry. Everybody, you'll have to fight hard enough to cover for me too...",
+  "note": ""
+ },
+ {
+  "id": "exe_80018EC0",
+  "en": "$m04d%2Go%0$s13: Gaaah! Getting taken out in a place like this?! You've gotta be kidding me!",
+  "note": ""
+ },
+ {
+  "id": "exe_80018F14",
+  "en": "$m05b%2Sho%0$s13: I've been hit. It's galling, but I'm returning to base.",
+  "note": ""
+ },
+ {
+  "id": "exe_80018F4C",
+  "en": "$m06a%2Gai%0$s13: Daaamn! Just you wait! I'll be back on the front line in no time!",
+  "note": ""
+ },
+ {
+  "id": "exe_80018F90",
+  "en": "$m07a%2Michiru%0$s13: I made it out safely. ...I'm sorry. I'm leaving the rest to you!",
+  "note": ""
+ },
+ {
+  "id": "exe_80018FDC",
+  "en": "$m08a%2Lambert%0$s13: Hmm... It seems I'm just an old has-been after all... Returning to base.",
+  "note": ""
+ },
+ {
+  "id": "exe_80019034",
+  "en": "$m09d%2Schwartz%0$s13: Raaaaagh! You'll pay for this! It'll take more than this to beat America!",
+  "note": ""
+ },
+ {
+  "id": "exe_80019090",
+  "en": "$m10b%2Bob%0$s13: Tch! They got me.",
+  "note": ""
+ },
+ {
+  "id": "exe_800190BC",
+  "en": "$m11b%2Sam%0$s13: Damn it. I'm hit!",
+  "note": ""
+ },
+ {
+  "id": "exe_800190EC",
+  "en": "$m12b%2Linda%0$s13: How could this happen?! For me, of all people, to be shot down...",
+  "note": ""
+ },
+ {
+  "id": "exe_80019134",
+  "en": "$m13d%2Shatner%0$s13: Ugh! I almost had that one won... Returning to base now.",
+  "note": ""
+ },
+ {
+  "id": "exe_80019184",
+  "en": "$f14f%2Jack%0$s13: Oh! No! Sometimes these things happen-desu!",
+  "note": ""
+ },
+ {
+  "id": "exe_800191CC",
+  "en": "$f15f%2Mary%0$s13: Oh! My God! Real combat sure is tough, isn't it, Brother!",
+  "note": ""
+ },
+ {
+  "id": "exe_80019218",
+  "en": "$m16d%2Akane%0$s13: Sorry! I got hit. Daaamn it!!",
+  "note": ""
+ },
+ {
+  "id": "exe_80019250",
+  "en": "$m17d%2Tsubaki%0$s13: Ngh... Next time, you won't get off so easy!",
+  "note": ""
+ },
+ {
+  "id": "exe_80019288",
+  "en": "$m18a%2Kaede%0$s13: Uuuh... I'm so hungryyy...",
+  "note": ""
+ },
+ {
+  "id": "exe_800192B4",
+  "en": "$m61b%2$n%0$s13: Damn, they got me! I'm counting on you guys for the rest!",
+  "note": ""
+ },
+ {
+  "id": "exe_800192F0",
+  "en": "$m62a%2$n%0$s13: I did all I could! I'm leaving the rest to you. Returning to base.",
+  "note": ""
+ },
+ {
+  "id": "exe_80019334",
+  "en": "$m21a%2Dr. Saotome%0$s13: Wh-what a disaster! To think this Getter could be beaten! It seems the enemy was stronger than I thought...",
+  "note": "accuracy: nanto iu koto da is dismay, not confusion (\"what is this?!\")"
+ },
+ {
+  "id": "exe_800193A8",
+  "en": "$f23a%2Furuta%0$s13: I've been hit... I'm sorry!",
+  "note": ""
+ },
+ {
+  "id": "exe_800193DC",
+  "en": "$f19d%2Captain Texas%0$s13: ......Wh-why am I still alive?",
+  "note": ""
+ },
+ {
+  "id": "exe_8001941C",
+  "en": "$f25a%2Researcher%0$s13: I made it out safely, but... I'm sorry! I've gone and wrecked the precious Getter Robo G...",
+  "note": ""
+ },
+ {
+  "id": "exe_8001948C",
+  "en": "$f26a%2Researcher%0$s13: I thought I could handle it... Piloting a Getter really is hard, after all...",
+  "note": ""
+ },
+ {
+  "id": "exe_800194E8",
+  "en": "$m00b%2Ryoma%0$s13: Damn it! The Getter won't listen to me!",
+  "note": ""
+ },
+ {
+  "id": "exe_80019524",
+  "en": "$f63b%2Hayato%0$s13: S-something's wrong...?! I-is it broken?! Waaaaaah!",
+  "note": "proof: interrobang ?! (REVIEW.md)"
+ },
+ {
+  "id": "exe_80019574",
+  "en": "$m01b%2Hayato%0$s13: Ngh! The Getter Ray level is over the safe limit!",
+  "note": ""
+ },
+ {
+  "id": "exe_800195B4",
+  "en": "$m02b%2Musashi%0$s13: Waaaah! Wh-what's goin' on?!",
+  "note": ""
+ },
+ {
+  "id": "exe_800195F0",
+  "en": "$m03b%2Benkei%0$s13: Th-the Getter's--! H-help meee!",
+  "note": ""
+ },
+ {
+  "id": "exe_80019628",
+  "en": "$m04b%2Go%0$s13: Damn you! Move like you're supposed to!",
+  "note": ""
+ },
+ {
+  "id": "exe_8001965C",
+  "en": "$m05b%2Sho%0$s13: It's no use! The Getter won't respond to the controls!",
+  "note": ""
+ },
+ {
+  "id": "exe_800196A0",
+  "en": "$m06b%2Gai%0$s13: Th-the robot's Getter Ray level won't stabilize!",
+  "note": ""
+ },
+ {
+  "id": "exe_800196D8",
+  "en": "$m07b%2Michiru%0$s13: Wh-what's happening?!",
+  "note": ""
+ },
+ {
+  "id": "exe_80019708",
+  "en": "$m08b%2Lambert%0$s13: Blast it! The Getter won't obey me!",
+  "note": ""
+ },
+ {
+  "id": "exe_80019748",
+  "en": "$m09b%2Schwartz%0$s13: Damn it! This is why you can't trust anything made in Japan!",
+  "note": ""
+ },
+ {
+  "id": "exe_8001978C",
+  "en": "$m10b%2Bob%0$s13: Wh-what the--! This thing's moving on its own!",
+  "note": ""
+ },
+ {
+  "id": "exe_800197C8",
+  "en": "$m11b%2Sam%0$s13: Come on! Move the way I tell you, damn it!",
+  "note": ""
+ },
+ {
+  "id": "exe_80019804",
+  "en": "$m12b%2Linda%0$s13: What?! You won't do as I say?!",
+  "note": ""
+ },
+ {
+  "id": "exe_80019840",
+  "en": "$m13d%2Shatner%0$s13: Wh-what?! Something's wrong with this Getter!",
+  "note": ""
+ },
+ {
+  "id": "exe_80019888",
+  "en": "$f14f%2Jack%0$s13: WHAT?! The Getter is moving all by itself-desu!",
+  "note": "proof: interrobang ?! (REVIEW.md)"
+ },
+ {
+  "id": "exe_800198CC",
+  "en": "$f15f%2Mary%0$s13: Oh! H-help me, pleeease!",
+  "note": ""
+ },
+ {
+  "id": "exe_80019904",
+  "en": "$m16b%2Akane%0$s13: What's going on?! The Getter's moving on its own?!",
+  "note": ""
+ },
+ {
+  "id": "exe_80019948",
+  "en": "$m17b%2Tsubaki%0$s13: The Getter's gone berserk?! What does this mean?!",
+  "note": ""
+ },
+ {
+  "id": "exe_8001997C",
+  "en": "$m18b%2Kaede%0$s13: Jeez... I'm so hungryyy...",
+  "note": ""
+ },
+ {
+  "id": "exe_800199A8",
+  "en": "$m61b%2$n%0$s13: Th-the Getter... is it going berserk?!",
+  "note": ""
+ },
+ {
+  "id": "exe_800199E0",
+  "en": "$m62b%2$n%0$s13: Th-the Getter's going berserk?!",
+  "note": ""
+ },
+ {
+  "id": "exe_80019A14",
+  "en": "$m21d%2Dr. Saotome%0$s13: This is bad! The Getter Rays are running wild! I can't control the Getter!",
+  "note": ""
+ },
+ {
+  "id": "exe_80019A68",
+  "en": "$f23a%2Furuta%0$s13: ?!",
+  "note": "proof: interrobang ?! (REVIEW.md)"
+ },
+ {
+  "id": "exe_80019A84",
+  "en": "$f19d%2Captain Texas%0$s13: ?!",
+  "note": "proof: interrobang ?! (REVIEW.md)"
+ },
+ {
+  "id": "exe_80019AA8",
+  "en": "$f25b%2Researcher%0$s13: Th-this is bad! It's gone berserk!",
+  "note": ""
+ },
+ {
+  "id": "exe_80019AE0",
+  "en": "$f26b%2Researcher%0$s13: What the...! It's running wild!",
+  "note": ""
+ },
+ {
+  "id": "exe_80082210",
+  "en": "Defeat: All allied units destroyed.\n          Getter Robo or a Get Machine destroyed.",
+  "note": ""
+ },
+ {
+  "id": "exe_80082D4C",
+  "en": "Nobody",
+  "note": ""
+ },
+ {
+  "id": "exe_80082E90",
+  "en": "Fine",
+  "note": ""
+ },
+ {
+  "id": "exe_80082E98",
+  "en": "Def",
+  "note": ""
+ },
+ {
+  "id": "exe_80082EA0",
+  "en": "Eva",
+  "note": ""
+ },
+ {
+  "id": "exe_80082EA8",
+  "en": "Cntr",
+  "note": ""
+ },
+ {
+  "id": "exe_80082EB0",
+  "en": "Pick",
+  "note": ""
+ },
+ {
+  "id": "exe_80082EBC",
+  "en": "Pt.1",
+  "note": ""
+ },
+ {
+  "id": "exe_80082EC4",
+  "en": "Pt.2",
+  "note": ""
+ },
+ {
+  "id": "exe_80082ECC",
+  "en": "Into Space",
+  "note": "editorial: episode 20 title as on the title card / briefing"
+ },
+ {
+  "id": "exe_80082ED4",
+  "en": "Siblings",
+  "note": ""
+ },
+ {
+  "id": "exe_80082EF0",
+  "en": "Abrd",
+  "note": ""
+ },
+ {
+  "id": "exe_80082EF8",
+  "en": "Brsk",
+  "note": ""
+ },
+ {
+  "id": "exe_80082F10",
+  "en": "Wpn",
+  "note": ""
+ },
+ {
+  "id": "exe_80082F18",
+  "en": "Atk",
+  "note": ""
+ },
+ {
+  "id": "exe_80082F2C",
+  "en": "Stat",
+  "note": ""
+ },
+ {
+  "id": "exe_80082F34",
+  "en": "By HP",
+  "note": ""
+ },
+ {
+  "id": "exe_80082F7C",
+  "en": "Swap",
+  "note": ""
+ },
+ {
+  "id": "exe_80082F84",
+  "en": "Ray+",
+  "note": ""
+ },
+ {
+  "id": "exe_80082F8C",
+  "en": "Lure",
+  "note": ""
+ },
+ {
+  "id": "exe_80082F94",
+  "en": "Fury",
+  "note": ""
+ },
+ {
+  "id": "exe_80082F9C",
+  "en": "Scan",
+  "note": ""
+ },
+ {
+  "id": "exe_80082FA4",
+  "en": "Grit",
+  "note": ""
+ },
+ {
+  "id": "exe_80082FAC",
+  "en": "Mend",
+  "note": ""
+ },
+ {
+  "id": "exe_80082FB4",
+  "en": "Rise",
+  "note": ""
+ },
+ {
+  "id": "exe_80082FBC",
+  "en": "Boom",
+  "note": ""
+ },
+ {
+  "id": "exe_80082FC4",
+  "en": "Cntr",
+  "note": ""
+ },
+ {
+  "id": "exe_80082FCC",
+  "en": "None",
+  "note": ""
+ },
+ {
+  "id": "exe_80082FD4",
+  "en": "Nobody",
+  "note": ""
+ },
+ {
+  "id": "game_8008B7F0",
+  "en": "Flat",
+  "note": ""
+ },
+ {
+  "id": "game_8008B804",
+  "en": "Ice",
+  "note": ""
+ },
+ {
+  "id": "game_8008B809",
+  "en": "City",
+  "note": ""
+ },
+ {
+  "id": "game_8008B80E",
+  "en": "Road",
+  "note": ""
+ },
+ {
+  "id": "game_8008B813",
+  "en": "Spc",
+  "note": ""
+ },
+ {
+  "id": "game_8008B818",
+  "en": "Bog",
+  "note": ""
+ },
+ {
+  "id": "game_8008BA8C",
+  "en": "Controls",
+  "note": ""
+ },
+ {
+  "id": "game_8008BA98",
+  "en": "Square: ON",
+  "note": ""
+ },
+ {
+  "id": "game_8008BAA8",
+  "en": "Square: OFF",
+  "note": ""
+ },
+ {
+  "id": "game_8008BABC",
+  "en": "Vibration: ON",
+  "note": ""
+ },
+ {
+  "id": "game_8008BAD4",
+  "en": "Vibration: OFF",
+  "note": ""
+ },
+ {
+  "id": "game_8008BAF0",
+  "en": "Sound: Stereo",
+  "note": ""
+ },
+ {
+  "id": "game_8008BB04",
+  "en": "Sound: Mono",
+  "note": ""
+ },
+ {
+  "id": "game_8008BB58",
+  "en": "Roster",
+  "note": ""
+ },
+ {
+  "id": "game_8008BB60",
+  "en": "Full Map",
+  "note": ""
+ },
+ {
+  "id": "game_8008BB6C",
+  "en": "Cancel",
+  "note": ""
+ },
+ {
+  "id": "game_8008BB78",
+  "en": "OK",
+  "note": ""
+ },
+ {
+  "id": "game_8008BB80",
+  "en": "Defaults",
+  "note": ""
+ },
+ {
+  "id": "game_8008BB8C",
+  "en": "Back",
+  "note": ""
+ },
+ {
+  "id": "game_8008BBFE",
+  "en": "SFStatus",
+  "note": ""
+ },
+ {
+  "id": "game_8008BC08",
+  "en": "Wait",
+  "note": ""
+ },
+ {
+  "id": "game_8008BC10",
+  "en": "Lnch",
+  "note": ""
+ },
+ {
+  "id": "game_8008BC18",
+  "en": "Board",
+  "note": ""
+ },
+ {
+  "id": "game_8008BC20",
+  "en": "Scan",
+  "note": ""
+ },
+ {
+  "id": "game_8008BC28",
+  "en": "Swap",
+  "note": ""
+ },
+ {
+  "id": "game_8008BC30",
+  "en": "Mend",
+  "note": ""
+ },
+ {
+  "id": "game_8008BC38",
+  "en": "Fix",
+  "note": ""
+ },
+ {
+  "id": "game_8008BC40",
+  "en": "Refill",
+  "note": ""
+ },
+ {
+  "id": "game_8008BC48",
+  "en": "Dig",
+  "note": ""
+ },
+ {
+  "id": "game_8008BC50",
+  "en": "Up",
+  "note": ""
+ },
+ {
+  "id": "game_8008BC58",
+  "en": "Split",
+  "note": ""
+ },
+ {
+  "id": "game_8008BC60",
+  "en": "Form",
+  "note": ""
+ },
+ {
+  "id": "game_8008BC68",
+  "en": "Join",
+  "note": ""
+ },
+ {
+  "id": "game_8008BC70",
+  "en": "Atk",
+  "note": ""
+ },
+ {
+  "id": "game_8008BC78",
+  "en": "Move",
+  "note": ""
+ },
+ {
+  "id": "game_8008BC80",
+  "en": "Debug",
+  "note": ""
+ },
+ {
+  "id": "game_8008BC8C",
+  "en": "End Turn",
+  "note": ""
+ },
+ {
+  "id": "game_8008BC98",
+  "en": "Settings",
+  "note": ""
+ },
+ {
+  "id": "game_8008BCA4",
+  "en": "Load",
+  "note": ""
+ },
+ {
+  "id": "game_8008BCAC",
+  "en": "Save",
+  "note": ""
+ },
+ {
+  "id": "game_8008BCB4",
+  "en": "Objectives",
+  "note": ""
+ },
+ {
+  "id": "game_8008BCC0",
+  "en": "Full Map",
+  "note": ""
+ },
+ {
+  "id": "game_8008BCCC",
+  "en": "Roster",
+  "note": ""
+ },
+ {
+  "id": "game_8008BCD4",
+  "en": "Battle: OFF",
+  "note": ""
+ },
+ {
+  "id": "game_8008BCE4",
+  "en": "Battle: ON",
+  "note": ""
+ },
+ {
+  "id": "game_8008BCF0",
+  "en": "AI: OFF",
+  "note": ""
+ },
+ {
+  "id": "game_8008BD00",
+  "en": "AI: ON",
+  "note": ""
+ },
+ {
+  "id": "game_8008BD54",
+  "en": "Model Preview",
+  "note": ""
+ },
+ {
+  "id": "game_8008BD68",
+  "en": "Reload Params",
+  "note": ""
+ },
+ {
+  "id": "game_8008BD7C",
+  "en": "U-Turn",
+  "note": ""
+ },
+ {
+  "id": "game_8008BD88",
+  "en": "Stage Clear",
+  "note": ""
+ },
+ {
+  "id": "game_8008BE20",
+  "en": "Victory",
+  "note": ""
+ },
+ {
+  "id": "game_8008BE2C",
+  "en": "Defeat",
+  "note": ""
+ },
+ {
+  "id": "game_8008BFF8",
+  "en": "Player Turn",
+  "note": ""
+ },
+ {
+  "id": "game_8008C00C",
+  "en": "Enemy Turn",
+  "note": ""
+ },
+ {
+  "id": "game_8008C018",
+  "en": "Berserk Turn",
+  "note": ""
+ },
+ {
+  "id": "game_8008C130",
+  "en": "Move where?",
+  "note": ""
+ },
+ {
+  "id": "game_8008C144",
+  "en": "Repair which unit?",
+  "note": ""
+ },
+ {
+  "id": "game_8008C158",
+  "en": "Mend which unit?",
+  "note": ""
+ },
+ {
+  "id": "game_8008C16C",
+  "en": "Swap with which unit?",
+  "note": ""
+ },
+ {
+  "id": "game_8008C184",
+  "en": "Refill which unit?",
+  "note": ""
+ },
+ {
+  "id": "game_8008C198",
+  "en": "Board which unit?",
+  "note": ""
+ },
+ {
+  "id": "game_8008C1AC",
+  "en": "Scan which enemy?",
+  "note": ""
+ },
+ {
+  "id": "game_8008C1C0",
+  "en": "Where to aim?",
+  "note": ""
+ },
+ {
+  "id": "game_8008C2B0",
+  "en": " Terr.:",
+  "note": ""
+ },
+ {
+  "id": "game_8008C2B8",
+  "en": "Sea Mod:",
+  "note": ""
+ },
+ {
+  "id": "game_8008C2C8",
+  "en": "Cost",
+  "note": ""
+ },
+ {
+  "id": "game_8008C2D8",
+  "en": "Eva",
+  "note": ""
+ },
+ {
+  "id": "game_8008C2E0",
+  "en": "Def",
+  "note": ""
+ }
+]

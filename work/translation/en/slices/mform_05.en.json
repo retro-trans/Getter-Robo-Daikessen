@@ -1,0 +1,415 @@
+[
+ {
+  "id": "MF08_1375",
+  "speaker_en": "Jack",
+  "en": ""
+ },
+ {
+  "id": "MF08_13B7",
+  "speaker_en": "Schwartz",
+  "en": ""
+ },
+ {
+  "id": "MF08_019A",
+  "speaker_en": "Captain",
+  "en": ""
+ },
+ {
+  "id": "MF08_02AE",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "en": ""
+ },
+ {
+  "id": "MF08_02CC",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "en": ""
+ },
+ {
+  "id": "MF08_03D2",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "en": ""
+ },
+ {
+  "id": "MF08_0C02",
+  "speaker_en": "Captain",
+  "en": ""
+ },
+ {
+  "id": "MF08_12F0",
+  "speaker_en": "Hayato",
+  "en": ""
+ },
+ {
+  "id": "MF08_1585",
+  "speaker_en": "Texas Crew",
+  "en": ""
+ },
+ {
+  "id": "MF08_15CB",
+  "speaker_en": "Captain",
+  "en": ""
+ },
+ {
+  "id": "MF08_145D",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "note": "shown after a centred banner line; translate only this part",
+  "en": ""
+ },
+ {
+  "id": "MF09_001C",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "en": ""
+ },
+ {
+  "id": "MF09_005B",
+  "speaker_en": "Hayato",
+  "en": ""
+ },
+ {
+  "id": "MF09_0161",
+  "speaker_en": "Schwartz",
+  "en": ""
+ },
+ {
+  "id": "MF09_01BD",
+  "speaker_en": "Lambert",
+  "en": ""
+ },
+ {
+  "id": "MF09_0247",
+  "speaker_en": "Schwartz",
+  "en": ""
+ },
+ {
+  "id": "MF09_027B",
+  "speaker_en": "Hayato",
+  "en": ""
+ },
+ {
+  "id": "MF09_031D",
+  "speaker_en": "Kaede",
+  "en": ""
+ },
+ {
+  "id": "MF09_0341",
+  "speaker_en": "Akane",
+  "en": ""
+ },
+ {
+  "id": "MF09_0377",
+  "speaker_jp": "$n",
+  "speaker_en": "$n (player)",
+  "en": "",
+  "gender_variant": "male player"
+ },
+ {
+  "id": "MF09_0415",
+  "speaker_jp": "$n",
+  "speaker_en": "$n (player)",
+  "en": "",
+  "gender_variant": "female player"
+ },
+ {
+  "id": "MF09_04A9",
+  "speaker_en": "Tsubaki",
+  "en": ""
+ },
+ {
+  "id": "MF09_04D3",
+  "speaker_en": "Hayato",
+  "en": ""
+ },
+ {
+  "id": "MF09_052F",
+  "speaker_en": "Michiru",
+  "en": ""
+ },
+ {
+  "id": "MF09_058F",
+  "speaker_en": "Gai",
+  "en": ""
+ },
+ {
+  "id": "MF09_05D9",
+  "speaker_en": "Ryoma",
+  "en": ""
+ },
+ {
+  "id": "MF09_0641",
+  "speaker_en": "Hayato",
+  "en": ""
+ },
+ {
+  "id": "MF09_069D",
+  "speaker_en": "Michiru",
+  "en": ""
+ },
+ {
+  "id": "MF09_06CD",
+  "speaker_en": "Go",
+  "en": ""
+ },
+ {
+  "id": "MF09_06F7",
+  "speaker_en": "Michiru",
+  "en": ""
+ },
+ {
+  "id": "MF09_076F",
+  "speaker_en": "Gai",
+  "en": ""
+ },
+ {
+  "id": "MF09_07AD",
+  "speaker_en": "Hayato",
+  "en": ""
+ },
+ {
+  "id": "MF09_0831",
+  "speaker_en": "Michiru",
+  "en": ""
+ },
+ {
+  "id": "MF09_0897",
+  "speaker_en": "Benkei",
+  "en": ""
+ },
+ {
+  "id": "MF09_08E7",
+  "speaker_jp": "$n",
+  "speaker_en": "$n (player)",
+  "en": "",
+  "gender_variant": "male player"
+ },
+ {
+  "id": "MF09_0935",
+  "speaker_jp": "$n",
+  "speaker_en": "$n (player)",
+  "en": "",
+  "gender_variant": "female player"
+ },
+ {
+  "id": "MF09_0987",
+  "speaker_en": "Hayato",
+  "en": ""
+ },
+ {
+  "id": "MF09_0A8F",
+  "speaker_en": "Musashi",
+  "en": ""
+ },
+ {
+  "id": "MF09_0AEB",
+  "speaker_en": "Ryoma",
+  "en": ""
+ },
+ {
+  "id": "MF09_0B7D",
+  "speaker_en": "Benkei",
+  "en": ""
+ },
+ {
+  "id": "MF09_0BBF",
+  "speaker_en": "Musashi",
+  "en": ""
+ },
+ {
+  "id": "MF09_0C05",
+  "speaker_en": "Michiru",
+  "en": ""
+ },
+ {
+  "id": "MF09_0C43",
+  "speaker_en": "Gai",
+  "en": ""
+ },
+ {
+  "id": "MF09_0C8F",
+  "speaker_en": "Sho",
+  "en": ""
+ },
+ {
+  "id": "MF09_0CD5",
+  "speaker_en": "Akane",
+  "en": ""
+ },
+ {
+  "id": "MF09_0D05",
+  "speaker_en": "Michiru",
+  "en": ""
+ },
+ {
+  "id": "MF09_0D7F",
+  "speaker_en": "Tsubaki",
+  "en": ""
+ },
+ {
+  "id": "MF09_0DAB",
+  "speaker_en": "Kaede",
+  "en": ""
+ },
+ {
+  "id": "MF09_0DCF",
+  "speaker_en": "Hayato",
+  "en": ""
+ },
+ {
+  "id": "MF09_0DFF",
+  "speaker_jp": "$n",
+  "speaker_en": "$n (player)",
+  "en": "",
+  "gender_variant": "male player"
+ },
+ {
+  "id": "MF09_0E29",
+  "speaker_jp": "$n",
+  "speaker_en": "$n (player)",
+  "en": "",
+  "gender_variant": "female player"
+ },
+ {
+  "id": "MF09_0E53",
+  "speaker_en": "Ryoma",
+  "en": ""
+ },
+ {
+  "id": "MF09_0E8D",
+  "speaker_en": "Go",
+  "en": ""
+ },
+ {
+  "id": "MF09_0ECB",
+  "speaker_en": "Dr. Saotome",
+  "en": ""
+ },
+ {
+  "id": "MF09_0FE7",
+  "speaker_en": "Lambert",
+  "en": ""
+ },
+ {
+  "id": "MF09_1013",
+  "speaker_en": "Schwartz",
+  "en": ""
+ },
+ {
+  "id": "MF09_1051",
+  "speaker_en": "Hayato",
+  "en": ""
+ },
+ {
+  "id": "MF09_1135",
+  "speaker_en": "Dr. Saotome",
+  "en": ""
+ },
+ {
+  "id": "MF09_118D",
+  "speaker_en": "Sho",
+  "en": ""
+ },
+ {
+  "id": "MF09_00DD",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "en": ""
+ },
+ {
+  "id": "MF09_02BB",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "en": ""
+ },
+ {
+  "id": "MF09_09ED",
+  "speaker_en": "Hayato",
+  "en": ""
+ },
+ {
+  "id": "MF09_0B57",
+  "speaker_en": "Ryoma",
+  "en": ""
+ },
+ {
+  "id": "MF09_1232",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "en": ""
+ },
+ {
+  "id": "MF09_1249",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "en": ""
+ },
+ {
+  "id": "MF09_1260",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "en": ""
+ },
+ {
+  "id": "MF09_0F41",
+  "speaker_en": "Dr. Saotome",
+  "en": ""
+ },
+ {
+  "id": "MF09_10C5",
+  "speaker_en": "Hayato",
+  "en": ""
+ },
+ {
+  "id": "MF10_0028",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "en": ""
+ },
+ {
+  "id": "MF10_004A",
+  "speaker_en": "Go",
+  "en": ""
+ },
+ {
+  "id": "MF10_0074",
+  "speaker_en": "Sho",
+  "en": ""
+ },
+ {
+  "id": "MF10_00B6",
+  "speaker_en": "Musashi",
+  "en": ""
+ },
+ {
+  "id": "MF10_0116",
+  "speaker_en": "Hayato",
+  "en": ""
+ },
+ {
+  "id": "MF10_0154",
+  "speaker_jp": "$n",
+  "speaker_en": "$n (player)",
+  "en": "",
+  "gender_variant": "male player"
+ },
+ {
+  "id": "MF10_0178",
+  "speaker_jp": "$n",
+  "speaker_en": "$n (player)",
+  "en": "",
+  "gender_variant": "female player"
+ },
+ {
+  "id": "MF10_019C",
+  "speaker_en": "Benkei",
+  "en": ""
+ },
+ {
+  "id": "MF10_01E2",
+  "speaker_en": "Hayato",
+  "en": ""
+ }
+]

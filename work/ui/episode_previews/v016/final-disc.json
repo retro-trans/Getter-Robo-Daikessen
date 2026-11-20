@@ -1,0 +1,123 @@
+{
+  "GRXAP.XAP": {
+    "identical": true,
+    "sha256": "e5445ddd659fd6bc3b9bc36ee66b6f27e4464d08c27210e6f056e871437d5a6f",
+    "lba": 30029,
+    "size": 187809792
+  },
+  "ANNO02": {
+    "subtitle_bytes": 365,
+    "original_music_sequence_unchanged": true,
+    "cue_count": 7
+  },
+  "ANNO03": {
+    "subtitle_bytes": 369,
+    "original_music_sequence_unchanged": true,
+    "cue_count": 7
+  },
+  "ANNO04": {
+    "subtitle_bytes": 376,
+    "original_music_sequence_unchanged": true,
+    "cue_count": 7
+  },
+  "ANNO05": {
+    "subtitle_bytes": 351,
+    "original_music_sequence_unchanged": true,
+    "cue_count": 7
+  },
+  "ANNO06": {
+    "subtitle_bytes": 350,
+    "original_music_sequence_unchanged": true,
+    "cue_count": 6
+  },
+  "ANNO08": {
+    "subtitle_bytes": 509,
+    "original_music_sequence_unchanged": true,
+    "cue_count": 8
+  },
+  "ANNO09": {
+    "subtitle_bytes": 466,
+    "original_music_sequence_unchanged": true,
+    "cue_count": 8
+  },
+  "ANNO10": {
+    "subtitle_bytes": 402,
+    "original_music_sequence_unchanged": true,
+    "cue_count": 7
+  },
+  "ANNO11": {
+    "subtitle_bytes": 399,
+    "original_music_sequence_unchanged": true,
+    "cue_count": 7
+  },
+  "ANNO12": {
+    "subtitle_bytes": 366,
+    "original_music_sequence_unchanged": true,
+    "cue_count": 7
+  },
+  "ANNO13": {
+    "subtitle_bytes": 300,
+    "original_music_sequence_unchanged": true,
+    "cue_count": 6
+  },
+  "ANNO14": {
+    "subtitle_bytes": 380,
+    "original_music_sequence_unchanged": true,
+    "cue_count": 7
+  },
+  "ANNO15": {
+    "subtitle_bytes": 439,
+    "original_music_sequence_unchanged": true,
+    "cue_count": 8
+  },
+  "ANNO16": {
+    "subtitle_bytes": 433,
+    "original_music_sequence_unchanged": true,
+    "cue_count": 8
+  },
+  "ANNO17": {
+    "subtitle_bytes": 343,
+    "original_music_sequence_unchanged": true,
+    "cue_count": 6
+  },
+  "ANNO18": {
+    "subtitle_bytes": 371,
+    "original_music_sequence_unchanged": true,
+    "cue_count": 7
+  },
+  "ANNO19": {
+    "subtitle_bytes": 534,
+    "original_music_sequence_unchanged": true,
+    "cue_count": 10
+  },
+  "ANNO20": {
+    "subtitle_bytes": 489,
+    "original_music_sequence_unchanged": true,
+    "cue_count": 10
+  },
+  "ANNO21": {
+    "subtitle_bytes": 545,
+    "original_music_sequence_unchanged": true,
+    "cue_count": 11
+  },
+  "ANNO06A": {
+    "subtitle_bytes": 346,
+    "original_music_sequence_unchanged": true,
+    "cue_count": 6
+  },
+  "ANNO06B": {
+    "subtitle_bytes": 344,
+    "original_music_sequence_unchanged": true,
+    "cue_count": 6
+  },
+  "ANNO07A": {
+    "subtitle_bytes": 309,
+    "original_music_sequence_unchanged": true,
+    "cue_count": 6
+  },
+  "ANNO07B": {
+    "subtitle_bytes": 309,
+    "original_music_sequence_unchanged": true,
+    "cue_count": 6
+  }
+}

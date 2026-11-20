@@ -1,0 +1,61 @@
+{
+  "version": "0.1.4",
+  "subtitle": {
+    "rect": [
+      0,
+      202,
+      320,
+      38
+    ],
+    "font": "Arial Bold",
+    "font_pixels": 12,
+    "max_text_width": 282,
+    "max_lines": 2
+  },
+  "C05_labels": [
+    {
+      "id": "C05_LABEL_KAEDE",
+      "start_frame": 242,
+      "end_frame": 314,
+      "en": "Kaede",
+      "rect": [
+        228,
+        162,
+        64,
+        53
+      ]
+    },
+    {
+      "id": "C05_LABEL_TSUBAKI",
+      "start_frame": 336,
+      "end_frame": 355,
+      "en": "Tsubaki",
+      "rect": [
+        14,
+        91,
+        77,
+        54
+      ]
+    },
+    {
+      "id": "C05_LABEL_AKANE",
+      "start_frame": 365,
+      "end_frame": 391,
+      "en": "Akane",
+      "rect": [
+        32,
+        121,
+        75,
+        63
+      ]
+    }
+  ],
+  "credits": {
+    "start_seconds": 33.1,
+    "end_seconds": 279.0,
+    "end_card_start_seconds": 282.1,
+    "line_height": 16,
+    "name_font_pixels": 10,
+    "heading_font_pixels": 11
+  }
+}

@@ -1,0 +1,752 @@
+[
+ {
+  "id": "exe_80011E20",
+  "en": "Good heavens... The world is finished.",
+  "note": ""
+ },
+ {
+  "id": "exe_80011EF0",
+  "en": "Battle Start",
+  "note": ""
+ },
+ {
+  "id": "exe_80011F30",
+  "en": "First Contact",
+  "note": ""
+ },
+ {
+  "id": "exe_80011F48",
+  "en": "Save the Institutes! (Part 2)",
+  "note": "editorial: episode title as on the title card / briefing"
+ },
+ {
+  "id": "exe_80011F60",
+  "en": "The Great Battle!",
+  "note": "editorial: final episode title as on the title card (mt21)"
+ },
+ {
+  "id": "exe_80011F6C",
+  "en": "Final Battle at Vega Zone",
+  "note": ""
+ },
+ {
+  "id": "exe_80011F80",
+  "en": "Texas vs. Dragon Turtle",
+  "note": ""
+ },
+ {
+  "id": "exe_80011F9C",
+  "en": "The Revived Emperor",
+  "note": "editorial: episode title as on the title card / briefing"
+ },
+ {
+  "id": "exe_80011FA8",
+  "en": "Super Weapon Volga",
+  "note": "editorial: episode title as on the title card / briefing"
+ },
+ {
+  "id": "exe_80011FB8",
+  "en": "The Terrifying Giant Tornado",
+  "note": "editorial: episode title as on the title card / briefing"
+ },
+ {
+  "id": "exe_80011FC8",
+  "en": "The Black Getter",
+  "note": ""
+ },
+ {
+  "id": "exe_80011FD8",
+  "en": "Enter Professor Lando!",
+  "note": ""
+ },
+ {
+  "id": "exe_80011FF8",
+  "en": "The Last Day of the Hyakki Empire",
+  "note": "editorial: episode title as on the title card"
+ },
+ {
+  "id": "exe_8001200C",
+  "en": "The Terrifying Germ Missiles",
+  "note": "editorial: episode title as on the title card / briefing"
+ },
+ {
+  "id": "exe_80012020",
+  "en": "Shin Getter Robo",
+  "note": ""
+ },
+ {
+  "id": "exe_80012030",
+  "en": "Texas, the Large Mobile Battleship",
+  "note": "editorial: episode title as on the title card / briefing"
+ },
+ {
+  "id": "exe_80012044",
+  "en": "Save the Institutes! (Part 1)",
+  "note": "editorial: episode title as on the title card / briefing"
+ },
+ {
+  "id": "exe_8001205C",
+  "en": "New Power, New Enemy",
+  "note": ""
+ },
+ {
+  "id": "exe_80012070",
+  "en": "Operation: Destroy Getter Robo",
+  "note": ""
+ },
+ {
+  "id": "exe_80012088",
+  "en": "Getter vs. Getter",
+  "note": ""
+ },
+ {
+  "id": "exe_8001209C",
+  "en": "The Time Has Come! We Are the Dinosaur Empire",
+  "note": "accuracy: restored \"the time has come\" / \"we\" dropped by the old wording; matches the title card and briefing"
+ },
+ {
+  "id": "exe_800120B8",
+  "en": "Launch! Getter Robo",
+  "note": "editorial: episode title as on the title card"
+ },
+ {
+  "id": "exe_800126F4",
+  "en": "Small Missile",
+  "note": ""
+ },
+ {
+  "id": "exe_80012728",
+  "en": "Small Jaguar Missile",
+  "note": ""
+ },
+ {
+  "id": "exe_8001275C",
+  "en": "Large Missile",
+  "note": ""
+ },
+ {
+  "id": "exe_80012790",
+  "en": "Getter Cutter",
+  "note": ""
+ },
+ {
+  "id": "exe_800127C4",
+  "en": "Getter Tomahawk",
+  "note": ""
+ },
+ {
+  "id": "exe_800127F8",
+  "en": "Tomahawk Boomerang",
+  "note": ""
+ },
+ {
+  "id": "exe_8001282C",
+  "en": "Getter Machine Gun",
+  "note": ""
+ },
+ {
+  "id": "exe_80012860",
+  "en": "Getter Beam",
+  "note": ""
+ },
+ {
+  "id": "exe_80012894",
+  "en": "Drill Arm",
+  "note": ""
+ },
+ {
+  "id": "exe_800128C8",
+  "en": "Getter Arm",
+  "note": ""
+ },
+ {
+  "id": "exe_800128FC",
+  "en": "Jet Drill",
+  "note": ""
+ },
+ {
+  "id": "exe_80012930",
+  "en": "Drill Storm",
+  "note": ""
+ },
+ {
+  "id": "exe_80012964",
+  "en": "Getter Vision",
+  "note": ""
+ },
+ {
+  "id": "exe_80012998",
+  "en": "Getter Smash",
+  "note": ""
+ },
+ {
+  "id": "exe_800129CC",
+  "en": "Getter Crush",
+  "note": ""
+ },
+ {
+  "id": "exe_80012A00",
+  "en": "Getter Missile",
+  "note": ""
+ },
+ {
+  "id": "exe_80012A34",
+  "en": "Daisetsuzan Oroshi",
+  "note": ""
+ },
+ {
+  "id": "exe_80012A68",
+  "en": "Getter Tomahawk",
+  "note": ""
+ },
+ {
+  "id": "exe_80012A9C",
+  "en": "Tomahawk Boomerang",
+  "note": ""
+ },
+ {
+  "id": "exe_80012AD0",
+  "en": "Drill Arm",
+  "note": ""
+ },
+ {
+  "id": "exe_80012B04",
+  "en": "Jet Drill",
+  "note": ""
+ },
+ {
+  "id": "exe_80012B38",
+  "en": "Getter Spin Knuckle",
+  "note": ""
+ },
+ {
+  "id": "exe_80012B6C",
+  "en": "Getter Jumping Press",
+  "note": ""
+ },
+ {
+  "id": "exe_80012BA0",
+  "en": "Vulcan",
+  "note": ""
+ },
+ {
+  "id": "exe_80012BD4",
+  "en": "Laser",
+  "note": ""
+ },
+ {
+  "id": "exe_80012C08",
+  "en": "Large Missile",
+  "note": ""
+ },
+ {
+  "id": "exe_80012C3C",
+  "en": "Double Tomahawk",
+  "note": ""
+ },
+ {
+  "id": "exe_80012C70",
+  "en": "Spin Cutter",
+  "note": ""
+ },
+ {
+  "id": "exe_80012CA4",
+  "en": "Double Tomahawk Boomerang",
+  "note": ""
+ },
+ {
+  "id": "exe_80012CD8",
+  "en": "Getter Beam Launcher",
+  "note": ""
+ },
+ {
+  "id": "exe_80012D0C",
+  "en": "Getter Beam",
+  "note": ""
+ },
+ {
+  "id": "exe_80012D40",
+  "en": "Shine Spark",
+  "note": ""
+ },
+ {
+  "id": "exe_80012D74",
+  "en": "Drill Arm",
+  "note": ""
+ },
+ {
+  "id": "exe_80012DA8",
+  "en": "Chain Attack",
+  "note": ""
+ },
+ {
+  "id": "exe_80012DDC",
+  "en": "Liger Missile",
+  "note": ""
+ },
+ {
+  "id": "exe_80012E10",
+  "en": "Mach Special",
+  "note": ""
+ },
+ {
+  "id": "exe_80012E44",
+  "en": "Burst Attack",
+  "note": ""
+ },
+ {
+  "id": "exe_80012E78",
+  "en": "Strong Missile",
+  "note": ""
+ },
+ {
+  "id": "exe_80012EAC",
+  "en": "Finger Net",
+  "note": ""
+ },
+ {
+  "id": "exe_80012EE0",
+  "en": "Getter Cyclone",
+  "note": ""
+ },
+ {
+  "id": "exe_80012F14",
+  "en": "Vulcan",
+  "note": ""
+ },
+ {
+  "id": "exe_80012F48",
+  "en": "Vulcan",
+  "note": ""
+ },
+ {
+  "id": "exe_80012F7C",
+  "en": "Missile",
+  "note": ""
+ },
+ {
+  "id": "exe_80012FB0",
+  "en": "Knuckle Bomber",
+  "note": ""
+ },
+ {
+  "id": "exe_80012FE4",
+  "en": "Leg Blade",
+  "note": ""
+ },
+ {
+  "id": "exe_80013018",
+  "en": "Handy Missile Cannon",
+  "note": ""
+ },
+ {
+  "id": "exe_8001304C",
+  "en": "Mag Force Thunder",
+  "note": ""
+ },
+ {
+  "id": "exe_80013080",
+  "en": "Knuckle Bomber",
+  "note": ""
+ },
+ {
+  "id": "exe_800130B4",
+  "en": "Leg Blade",
+  "note": ""
+ },
+ {
+  "id": "exe_800130E8",
+  "en": "Handy Missile Cannon",
+  "note": ""
+ },
+ {
+  "id": "exe_8001311C",
+  "en": "Mag Force Thunder",
+  "note": ""
+ },
+ {
+  "id": "exe_80013150",
+  "en": "Sword Tomahawk",
+  "note": ""
+ },
+ {
+  "id": "exe_80013184",
+  "en": "String Attack",
+  "note": ""
+ },
+ {
+  "id": "exe_800131B8",
+  "en": "Breast Bomber",
+  "note": ""
+ },
+ {
+  "id": "exe_800131EC",
+  "en": "Tornado Attack",
+  "note": ""
+ },
+ {
+  "id": "exe_80013220",
+  "en": "Harpoon Cannon",
+  "note": ""
+ },
+ {
+  "id": "exe_80013254",
+  "en": "Impact Cannon",
+  "note": ""
+ },
+ {
+  "id": "exe_80013288",
+  "en": "Breast Beam",
+  "note": ""
+ },
+ {
+  "id": "exe_800132BC",
+  "en": "Spin Tornado Attack",
+  "note": ""
+ },
+ {
+  "id": "exe_800132F0",
+  "en": "Straight Beam",
+  "note": ""
+ },
+ {
+  "id": "exe_80013324",
+  "en": "Spread Beam",
+  "note": ""
+ },
+ {
+  "id": "exe_80013358",
+  "en": "Guided Missile",
+  "note": ""
+ },
+ {
+  "id": "exe_8001338C",
+  "en": "Shin Getter Tomahawk",
+  "note": ""
+ },
+ {
+  "id": "exe_800133C0",
+  "en": "Split Beam",
+  "note": ""
+ },
+ {
+  "id": "exe_800133F4",
+  "en": "Shin Getter Beam",
+  "note": ""
+ },
+ {
+  "id": "exe_80013428",
+  "en": "Stoner Sunshine",
+  "note": ""
+ },
+ {
+  "id": "exe_8001345C",
+  "en": "Shin Getter Tomahawk",
+  "note": ""
+ },
+ {
+  "id": "exe_80013490",
+  "en": "Split Beam",
+  "note": ""
+ },
+ {
+  "id": "exe_800134C4",
+  "en": "Shin Getter Beam",
+  "note": ""
+ },
+ {
+  "id": "exe_800134F8",
+  "en": "Stoner Sunshine",
+  "note": ""
+ },
+ {
+  "id": "exe_8001352C",
+  "en": "Shin Getter Drill",
+  "note": ""
+ },
+ {
+  "id": "exe_80013560",
+  "en": "Shin Scissor Arm",
+  "note": ""
+ },
+ {
+  "id": "exe_80013594",
+  "en": "Shin Drill Shaker",
+  "note": ""
+ },
+ {
+  "id": "exe_800135C8",
+  "en": "Drill Hurricane",
+  "note": ""
+ },
+ {
+  "id": "exe_800135FC",
+  "en": "Shin Getter Vision",
+  "note": ""
+ },
+ {
+  "id": "exe_80013630",
+  "en": "Shin Getter Blow",
+  "note": ""
+ },
+ {
+  "id": "exe_80013664",
+  "en": "Shin Getter Crush",
+  "note": ""
+ },
+ {
+  "id": "exe_80013698",
+  "en": "Missile Storm",
+  "note": ""
+ },
+ {
+  "id": "exe_800136CC",
+  "en": "Shin Daisetsuzan Oroshi",
+  "note": ""
+ },
+ {
+  "id": "exe_80013700",
+  "en": "Small Vulcan",
+  "note": ""
+ },
+ {
+  "id": "exe_80013734",
+  "en": "Small Vulcan",
+  "note": ""
+ },
+ {
+  "id": "exe_80013768",
+  "en": "Small Missile",
+  "note": ""
+ },
+ {
+  "id": "exe_8001379C",
+  "en": "Hizanto",
+  "note": ""
+ },
+ {
+  "id": "exe_800137D0",
+  "en": "Flower Frenzy",
+  "note": ""
+ },
+ {
+  "id": "exe_80013804",
+  "en": "Twin Flower Frenzy",
+  "note": ""
+ },
+ {
+  "id": "exe_80013838",
+  "en": "Combined Windmill",
+  "note": ""
+ },
+ {
+  "id": "exe_8001386C",
+  "en": "Demonslayer Ray",
+  "note": ""
+ },
+ {
+  "id": "exe_800138A0",
+  "en": "Myriad Needles",
+  "note": ""
+ },
+ {
+  "id": "exe_800138D4",
+  "en": "Gale Needles",
+  "note": ""
+ },
+ {
+  "id": "exe_80013908",
+  "en": "Serpent Spiral Ray",
+  "note": ""
+ },
+ {
+  "id": "exe_8001393C",
+  "en": "Getter Shadow Clone",
+  "note": ""
+ },
+ {
+  "id": "exe_80013970",
+  "en": "Rush",
+  "note": ""
+ },
+ {
+  "id": "exe_800139A4",
+  "en": "Rockbreaker Palm",
+  "note": ""
+ },
+ {
+  "id": "exe_800139D8",
+  "en": "Great Blade Shuriken",
+  "note": ""
+ },
+ {
+  "id": "exe_80013A0C",
+  "en": "Shura Depth Charge",
+  "note": ""
+ },
+ {
+  "id": "exe_80013A40",
+  "en": "Getter Tomahawk",
+  "note": ""
+ },
+ {
+  "id": "exe_80013A74",
+  "en": "Drill Rock Buster",
+  "note": ""
+ },
+ {
+  "id": "exe_80013AA8",
+  "en": "Arm Gun",
+  "note": ""
+ },
+ {
+  "id": "exe_80013ADC",
+  "en": "Dark Frenzy",
+  "note": ""
+ },
+ {
+  "id": "exe_80013B10",
+  "en": "Getter Beam",
+  "note": ""
+ },
+ {
+  "id": "exe_80013B44",
+  "en": "Shin Drill Arm",
+  "note": ""
+ },
+ {
+  "id": "exe_80013B78",
+  "en": "Shin Tomahawk Boomerang",
+  "note": ""
+ },
+ {
+  "id": "exe_80013BAC",
+  "en": "Shin Strong Missile",
+  "note": ""
+ },
+ {
+  "id": "exe_80013BE0",
+  "en": "Shin Getter Beam Launcher",
+  "note": ""
+ },
+ {
+  "id": "exe_80013C14",
+  "en": "Shin Shine Spark",
+  "note": ""
+ },
+ {
+  "id": "exe_80013C48",
+  "en": "Silent Vulcan",
+  "note": ""
+ },
+ {
+  "id": "exe_80013C7C",
+  "en": "Drill Attack",
+  "note": ""
+ },
+ {
+  "id": "exe_80013CB0",
+  "en": "Vulcan",
+  "note": ""
+ },
+ {
+  "id": "exe_80013CE4",
+  "en": "Hand Cutter",
+  "note": ""
+ },
+ {
+  "id": "exe_80013D18",
+  "en": "Boomerang Wing",
+  "note": ""
+ },
+ {
+  "id": "exe_80013D4C",
+  "en": "ST Blaster",
+  "note": ""
+ },
+ {
+  "id": "exe_80013D80",
+  "en": "Blast Succession",
+  "note": ""
+ },
+ {
+  "id": "exe_80013DB4",
+  "en": "Strike Armed",
+  "note": ""
+ },
+ {
+  "id": "exe_80013DE8",
+  "en": "Spread Missile",
+  "note": ""
+ },
+ {
+  "id": "exe_80013E1C",
+  "en": "Super Weapon Cannon",
+  "note": ""
+ },
+ {
+  "id": "exe_80013E50",
+  "en": "Heavy Press",
+  "note": ""
+ },
+ {
+  "id": "exe_80013E84",
+  "en": "Triple Missile",
+  "note": ""
+ },
+ {
+  "id": "exe_80013EB8",
+  "en": "Double Cannon",
+  "note": ""
+ },
+ {
+  "id": "exe_80013EEC",
+  "en": "Super Heavy Press",
+  "note": ""
+ },
+ {
+  "id": "exe_80013F20",
+  "en": "Stun Saber (Land)",
+  "note": ""
+ },
+ {
+  "id": "exe_80013F54",
+  "en": "Stun Saber (Air)",
+  "note": ""
+ },
+ {
+  "id": "exe_80013F88",
+  "en": "Homing Torpedo",
+  "note": ""
+ },
+ {
+  "id": "exe_80013FBC",
+  "en": "Submarine Support",
+  "note": ""
+ },
+ {
+  "id": "exe_80013FF0",
+  "en": "Heat Rod",
+  "note": ""
+ },
+ {
+  "id": "exe_80014024",
+  "en": "Spread Mines",
+  "note": ""
+ },
+ {
+  "id": "exe_80014058",
+  "en": "Large Rapid-Fire Gun",
+  "note": ""
+ },
+ {
+  "id": "exe_8001408C",
+  "en": "Remote Combination",
+  "note": ""
+ },
+ {
+  "id": "exe_800140C0",
+  "en": "Texas Blade",
+  "note": ""
+ }
+]

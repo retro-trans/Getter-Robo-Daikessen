@@ -1,0 +1,39 @@
+# Japanese source text and extracted game data (never commit, see AGENTS.md)
+work/source/
+work/build/
+work/translation/**/*.json
+!work/translation/**/*.en.json
+
+# builds, emulator, captures
+work/output/
+work/emulator/
+work/ui/shots/
+*.bin
+*.cue
+*.sav
+*.iso
+*.xdelta
+
+# python
+__pycache__/
+*.pyc
+
+# Downloaded local tools and optional speech-recognition packages
+tools/vendor/
+work/local_packages/
+debug*.log
+index.log
+
+# outside files (box art, references) and release staging
+incoming/
+work/release/
+
+# review reports quote Japanese script lines; edited game graphics are game data
+work/translation/en/review/
+work/translation/en/gfx/
+# screenshots / captures of the game and debug logs (font previews are ours)
+work/ui/**/*.png
+!work/ui/font/*.png
+work/ui/smoke*/
+work/ui/cmp/
+save.log

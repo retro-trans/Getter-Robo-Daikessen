@@ -1,0 +1,337 @@
+[
+ {
+  "id": "MF19_0109",
+  "en": "Carbon dioxide levels are rising abnormally.$/Nitrogen, 52%. $s80$s13Oxygen, 8%. $s80$s13Argon, 1.4%. $s80$s13And... $s80$s13$s05$f20b!!"
+ },
+ {
+  "id": "MF19_01A8",
+  "en": "$s80$s13What is it?"
+ },
+ {
+  "id": "MF19_01D6",
+  "en": "$s05...G-$s80$s13Getter Ray reading... $s80$s13$s80$s13$s05M-$s80$s13minus $s80$s13516?!"
+ },
+ {
+  "id": "MF19_024E",
+  "en": "$s80$s13$s05Wh-$s80$s13$s05what did you say?!... $s80$s13$s80$s13Th-$s80$s13$s05this is...?! $s80$s13$s80$s13$s20Lando... $s80$s13$s80$s13N-$s80$s13no, surely not?! Has he used that technology?!",
+  "note": "The verb after 'ano gijutsu wo' is omitted; 'has he used' is inferred (Saotome realises Lando applied a known technology)."
+ },
+ {
+  "id": "MF19_0310",
+  "en": "Doctor, $s80$s13th-$s80$s13this is...?!"
+ },
+ {
+  "id": "MF19_034E",
+  "en": "Negative Getter Rays... $s80$s13$s80$s13$s30%3Anti-Getter Rays%0... $s80$s13$s20Promoting evolution... $s80$s13$s20Returning to the primitive... $s80$s13$s80$s13$s80$s13$s05$f21bI-$s80$s13$s20I see! $s80$s13So Lando means to...!",
+  "note": "Kept the trail-off; 'means to' added so the cut-off clause has a verb. 'Anti-Getter Rays' coined from the glossary's 'Getter Rays' (term not in glossary)."
+ },
+ {
+  "id": "MF19_048F",
+  "en": "$s80$s13Hey, $s80$s13we're supposed to be in the Arctic Circle, right?"
+ },
+ {
+  "id": "MF19_04DF",
+  "en": "We ought to be looking out at a vast world of ice, but..."
+ },
+ {
+  "id": "MF19_052B",
+  "en": "It's like we're right on the equator... $s80$s13Sure, the Earth's axis shifted, but atmospheric anomalies like this aren't normal..."
+ },
+ {
+  "id": "MF19_0593",
+  "en": "Is this more of Lando's...?!",
+  "note": "Male variant; the Japanese is cut off after 'Lando's', kept as a fragment. Accuracy: moved 'too' before the cut ('also') so the line trails off at the same point as the source. Editorial: 'also Lando's...' was stiff; 'more of Lando's...' keeps the 'too' and still breaks off right after 'Lando's'."
+ },
+ {
+  "id": "MF19_05C1",
+  "en": "Is this Lando's doing too...?!",
+  "note": "Female variant."
+ },
+ {
+  "id": "MF19_05F7",
+  "en": "That's right. $s80$s13This heat was born of the Getter Rays' tremendous energy!"
+ },
+ {
+  "id": "MF19_065D",
+  "en": "Those huge tsunamis all over the world were most likely caused by ice melting in the sudden temperature rise here in the Arctic Circle..."
+ },
+ {
+  "id": "MF19_06CB",
+  "en": "...Lando! $s80$s13What the hell are you thinking?!",
+  "note": "Lando is not on screen yet; read as an angry apostrophe to him."
+ },
+ {
+  "id": "MF19_0711",
+  "en": "$s05Look at that!"
+ },
+ {
+  "id": "MF19_073B",
+  "en": "$s80$s13$s05Huh?! $s80$s13$s05What's that giant shadow?!"
+ },
+ {
+  "id": "MF19_0787",
+  "en": "$s05...That... $s80$s13that is the Anti-Getter Ray Amplifying Emitter that Lando has built!",
+  "note": "'hanGetter-sen zoufuku housha souchi' rendered 'Anti-Getter Ray Amplifying Emitter' (not in glossary)."
+ },
+ {
+  "id": "MF19_07EB",
+  "en": "Anti-$s80$s13Getter Rays?! $s80$s13$s05Amplifying Emitter?!"
+ },
+ {
+  "id": "MF19_0837",
+  "en": "What on earth is it?! $s80$s13That device?!",
+  "note": "'sore' = the device Saotome just named."
+ },
+ {
+  "id": "MF19_0871",
+  "en": "$s05Explanations later! $s80$s13$s05Be careful! We're up against Lando. $s80$s13$s05There's no telling what traps he's laid!"
+ },
+ {
+  "id": "MF19_08F5",
+  "en": "$s30...! $s80$s13$s05Look out! Everyone, get clear!"
+ },
+ {
+  "id": "MF19_093B",
+  "en": "$s05What?!"
+ },
+ {
+  "id": "MF19_095D",
+  "en": "You did well to dodge a blast from my Magma Cannon... $s80$s13I commend you...",
+  "note": "'maguma-hou' = 'Magma Cannon' (not in glossary); 'my' inferred, as Lando claims the shot. Editorial: ellipsis moved before the pause so the pause-spacing rule does not leave a stray space before '...'."
+ },
+ {
+  "id": "MF19_09AD",
+  "en": "$s05So you finally showed up! $s80$s13$s05You bastard!"
+ },
+ {
+  "id": "MF19_09E9",
+  "en": "It is an honor to meet you... $s80$s13valiant warriors..."
+ },
+ {
+  "id": "MF19_0A31",
+  "en": "$s05Professor Lando!!"
+ },
+ {
+  "id": "MF19_0A69",
+  "en": "$s80$s13That voice... $s80$s13Dr. Tachibana...$/It has been a long time... So you are still alive..."
+ },
+ {
+  "id": "MF19_0ACD",
+  "en": "$s05What are you plotting?! $s80$s13$s05What do you intend to do with Anti-Getter Rays?!"
+ },
+ {
+  "id": "MF19_0B23",
+  "en": "Oh?... $s80$s13So you had noticed the Anti-Getter Rays...$/Think on it... $s80$s13Think what mankind has done since it grew needlessly clever!",
+  "note": "Accuracy: 'kizuite ita' = had noticed / caught on (Tachibana worked it out), not merely 'knew of'."
+ },
+ {
+  "id": "MF19_0BB5",
+  "en": "So it's true... You bastard! $s80$s13$s05You mean to use the Anti-Getter Rays to make humanity...",
+  "note": "Cut off as in the source; the next lines show the aim is to devolve humanity."
+ },
+ {
+  "id": "MF19_0BFF",
+  "en": "The Getter Rays made mankind evolve needlessly... $s80$s13Then surely you understand... $s80$s13what it means to return humanity to the primitive!"
+ },
+ {
+  "id": "MF19_0C93",
+  "en": "$s05What?! $s80$s13$s05Then these Anti-Getter Rays...!"
+ },
+ {
+  "id": "MF19_0CE3",
+  "en": "$s05That's right! $s80$s13$s05Where Getter Rays speed up evolution, Anti-Getter Rays drive devolution!"
+ },
+ {
+  "id": "MF19_0D51",
+  "en": "Man shall return once more to the primitive... $s80$s13$s05$f50dThis is the one and only path humanity must take!"
+ },
+ {
+  "id": "MF19_0DBE",
+  "en": "The one path $s80$s13humanity must take...?!"
+ },
+ {
+  "id": "MF19_0DFA",
+  "en": "Hey, you! $s80$s13You think you're God or something?!"
+ },
+ {
+  "id": "MF19_0E3E",
+  "en": "$s20With the power of this Vega Zone, $s80$s13$s80$s13$s20the Earth shall return to the primitive...",
+  "note": "Lando's base 'Jagajou' is not in the glossary; read as 'Vega Zone' (kanji: snake + fang + castle). Speech continues in MF19_0E96."
+ },
+ {
+  "id": "MF19_0F27",
+  "en": "...How could you do such a thing! $s80$s13$s05I'll never forgive you!"
+ },
+ {
+  "id": "MF19_0F67",
+  "en": "$s20I do not ask you to understand... $s80$s13$s80$s13$s80$s13Burai! $s80$s13$s20Your final task! $s80$s13$s80$s13Go!"
+ },
+ {
+  "id": "MF19_0FF1",
+  "en": "...Yes, $s80$s13Lord $s80$s13Lando...",
+  "note": "Katakana 'hai' / 'sama' suggest a mechanical voice; kept simple."
+ },
+ {
+  "id": "MF19_1037",
+  "en": "...Ngh! $s80$s13$s80$s13$s20So you refuse devolution to the very end... $s80$s13$s80$s13$s20Very well, then!"
+ },
+ {
+  "id": "MF19_10AB",
+  "en": "$s30...This cannot be! $s80$s13$s20I refuse to believe it! $s80$s13I refuse!... $s80$s13$s80$s13Th-$s80$s13$s20there is no way that I, the savior of this world... $s80$s13$s80$s13c-$s80$s13could ever lose!"
+ },
+ {
+  "id": "MF19_116B",
+  "en": "$s80$s13$s05D-$s80$s13damn you... $s80$s13$s20Getter! $s80$s13$s20Ngh... $s80$s13$s20The next world was... $s80$s13$s80$s13so close! $s80$s13It was right there before me! $s80$s13$s80$s13$s80$s13$s20Just a little more! $s80$s13Just a little moooore!"
+ },
+ {
+  "id": "MF19_0429",
+  "en": "Send an emergency message to the whole world! $s80$s13$s80$s13Have every super robot $s80$s13assemble in the Arctic Circle!",
+  "note": "No speaker tag, but the raw line carries Saotome's portrait ($f21g) and closing quote: Saotome's order."
+ },
+ {
+  "id": "MF19_128F",
+  "en": "%2        - Arctic Circle -",
+  "note": "Location banner; leading spaces kept for centring."
+ },
+ {
+  "id": "MF19_0E96",
+  "en": "A planet of life, filled with vast amounts of Anti-Getter Rays... $s80$s13$s80$s13$s20Mother Earth! $s80$s13$s80$s13$s20$f50cMagnificent, $s80$s13utterly magnificent!",
+  "note": "Untagged, but the raw line has Lando's portrait and closes his speech from MF19_0E3E. Editorial: 'vast amounts of' (vast rays was unclear); 'simply too magnificent' -> 'utterly magnificent' (same rapture, natural English)."
+ },
+ {
+  "id": "MF20_0020",
+  "en": "This here's MAP 20!",
+  "note": "Debug/placeholder map title line. Editorial: uniform debug placeholder form."
+ },
+ {
+  "id": "MF20_0094",
+  "en": "Doctor, $s80$s13what on earth is this ship?!"
+ },
+ {
+  "id": "MF20_00CC",
+  "en": "This ship is $s80$s13$s20the final craft of the Getter Project. $s80$s13$s20A spaceship powered by a Getter Reactor: $s80$s13the %1Getter Emperor%0!",
+  "note": "The Japanese corner brackets around the name dropped; colour code marks it."
+ },
+ {
+  "id": "MF20_0162",
+  "en": "Getter $s80$s13Emperor?!"
+ },
+ {
+  "id": "MF20_019A",
+  "en": "But $s80$s13why on earth would you build $s80$s13a spaceship...?!"
+ },
+ {
+  "id": "MF20_01E6",
+  "en": "$s20Getter Robo was $s80$s13$s20originally built for space development."
+ },
+ {
+  "id": "MF20_02E6",
+  "en": "$s20So it took that mysterious black sphere... $s80$s13$s80$s13$s20and the Insect Army popping out of a spatial distortion onto the Moon... $s80$s13$s20for Getter to finally make it into space, huh.",
+  "note": "Subject of 'finally go into space' restored as Getter (built for space, per the previous line); Michiru answers 'How ironic'. Editorial: smoother clause order for Hayato's aside; comma before the pause replaced by a trail-off."
+ },
+ {
+  "id": "MF20_037A",
+  "en": "How ironic..."
+ },
+ {
+  "id": "MF20_03A6",
+  "en": "This time, $s80$s13we must fight on our own. $s80$s13$s80$s13Against an unknown enemy... $s80$s13$s80$s13Brace yourselves."
+ },
+ {
+  "id": "MF20_042A",
+  "en": "Yeah, I know... $s80$s13Heh."
+ },
+ {
+  "id": "MF20_045E",
+  "en": "Leave it to us.",
+  "note": "'makasetoke' has no stated object; 'us' chosen as Ryoma answers Saotome's address to the whole team ('me' would also fit)."
+ },
+ {
+  "id": "MF20_0484",
+  "en": "More importantly, Doctor! $s80$s13$s80$s13The thing in the hangar, $s80$s13that cocoon-like object... what is it?",
+  "note": "Male variant (identical Japanese to the female one)."
+ },
+ {
+  "id": "MF20_04EA",
+  "en": "More importantly, Doctor! $s80$s13$s80$s13The thing in the hangar, $s80$s13that cocoon-like object... what is it?",
+  "note": "Female variant (identical Japanese to the male one)."
+ },
+ {
+  "id": "MF20_0550",
+  "en": "Ah, that... $s80$s13$s80$s13That is $s80$s13Getter Robo G..."
+ },
+ {
+  "id": "MF20_05A6",
+  "en": "$s05That's $s80$s13Getter Robo G?!"
+ },
+ {
+  "id": "MF20_05E2",
+  "en": "No way, that's crazy!"
+ },
+ {
+  "id": "MF20_0606",
+  "en": "$s20For an experiment with a new high-output Getter Reactor, $s80$s13$s80$s13$s20we used Getter G as an amplifier, $s80$s13$s20but it went out of control in an accident we still can't explain.",
+  "note": "'Getter G' kept as the source's short form of Getter Robo G."
+ },
+ {
+  "id": "MF20_06B2",
+  "en": "And what's that got to do with the cocoon...?"
+ },
+ {
+  "id": "MF20_06EC",
+  "en": "Multiple contacts ahead! $s80$s13Putting them on screen!"
+ },
+ {
+  "id": "MF20_072E",
+  "en": "$s05Buuugs!"
+ },
+ {
+  "id": "MF20_0750",
+  "en": "Were they lying in wait for us?"
+ },
+ {
+  "id": "MF20_077A",
+  "en": "How nice of them to come to us. $s80$s13That saves us the trouble of hunting them down!"
+ },
+ {
+  "id": "MF20_07CC",
+  "en": "$s05Good! $s80$s13$s80$s13$s20All Getter Robos, launch! $s80$s13Wipe out the Insect Army!"
+ },
+ {
+  "id": "MF20_083A",
+  "en": "$s80$s13$s05Lunar surface! $s80$s13$s05New enemies emerging from a subspace distortion!"
+ },
+ {
+  "id": "MF20_088C",
+  "en": "$s05More of the Insect Army, eh!"
+ },
+ {
+  "id": "MF20_08BE",
+  "en": "$s20At last, we've managed to stabilize the spatial distortion! $s80$s13$s80$s13$s20Now we can interfere with this dimension as we please!",
+  "note": "'kuukan wo antei' = stabilize the space; 'distortion' follows Furuta's previous line. 'we' = Gimbug's side (no pronoun in the source; Gimbug's gender is unknown)."
+ },
+ {
+  "id": "MF20_093E",
+  "en": "So this guy's the ringleader?!"
+ },
+ {
+  "id": "MF20_096A",
+  "en": "You bastards, $s80$s13just what the hell are you?!"
+ },
+ {
+  "id": "MF20_09A4",
+  "en": "$s20To wipe out humanity, $s80$s13we have crossed time, $s80$s13$s20crossed space, and come all the way here!"
+ },
+ {
+  "id": "MF20_0A86",
+  "en": "What's that supposed to mean?! $s80$s13$s80$s13What are you getting at?!"
+ },
+ {
+  "id": "MF20_0AD0",
+  "en": "Go! $s80$s13$s20Hogram D7! $s80$s13$s80$s13Wipe out the Getters!"
+ },
+ {
+  "id": "MF20_0B36",
+  "en": "$s80$s13$s05Doctor! $s80$s13$s05The Getter Ray concentration inside the Getter Emperor is dropping fast!"
+ }
+]

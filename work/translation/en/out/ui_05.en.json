@@ -1,0 +1,752 @@
+[
+ {
+  "id": "briefing_800A9B24",
+  "en": "Not enough free blocks.",
+  "note": ""
+ },
+ {
+  "id": "briefing_800A9B40",
+  "en": "Saving requires 1 block.",
+  "note": ""
+ },
+ {
+  "id": "briefing_800A9B60",
+  "en": "Load failed.",
+  "note": ""
+ },
+ {
+  "id": "briefing_800A9B78",
+  "en": "The data is corrupted.",
+  "note": ""
+ },
+ {
+  "id": "briefing_800A9BB8",
+  "en": "No",
+  "note": ""
+ },
+ {
+  "id": "briefing_800A9BC0",
+  "en": "Yes",
+  "note": ""
+ },
+ {
+  "id": "briefing_800A9EAC",
+  "en": "Next Map",
+  "note": ""
+ },
+ {
+  "id": "briefing_800A9EB8",
+  "en": "Settings",
+  "note": ""
+ },
+ {
+  "id": "briefing_800A9EC4",
+  "en": "Assign",
+  "note": ""
+ },
+ {
+  "id": "briefing_800A9ED0",
+  "en": "Combo Test",
+  "note": ""
+ },
+ {
+  "id": "briefing_800A9EDC",
+  "en": "Practice",
+  "note": ""
+ },
+ {
+  "id": "briefing_800A9EE8",
+  "en": "Load",
+  "note": ""
+ },
+ {
+  "id": "briefing_800A9EF0",
+  "en": "Save",
+  "note": ""
+ },
+ {
+  "id": "briefing_800A9EF8",
+  "en": "Level S (--:--)",
+  "note": "proof: space before ( as in the other ranks"
+ },
+ {
+  "id": "briefing_800A9F08",
+  "en": "Level A (--:--)",
+  "note": ""
+ },
+ {
+  "id": "briefing_800A9F18",
+  "en": "Level B (--:--)",
+  "note": ""
+ },
+ {
+  "id": "briefing_800A9F28",
+  "en": "Level C (--:--)",
+  "note": ""
+ },
+ {
+  "id": "briefing_800A9F38",
+  "en": "Level D (--:--)",
+  "note": ""
+ },
+ {
+  "id": "briefing_800A9FF8",
+  "en": "Which map will you practice?",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AA014",
+  "en": "Proceed to the next map?",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AA038",
+  "en": "Yes",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AA040",
+  "en": "No",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AA0F8",
+  "en": "Exit",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AA22E",
+  "en": "A newly added pilot.",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AA24F",
+  "en": "$f21a%2Dr. Saotome%0: New equipment has arrived from Dr. Tachibana. It's the G-Arm Riser, built specially for %1\"Getter Robo Go\"%0.$/With this, %1\"Getter Robo Go\"%0 will be able to combine into %1\"Super Getter Robo Go\"%0!$/But it burns through a lot of energy, so you'll need to be careful.",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AA34B",
+  "en": "$f21a%2Dr. Saotome%0: The new equipment for Getter-1 and Getter Dragon is finished!$/For Getter-1, its very own weapon: the %1\"Getter Machine Gun\"%0.$/And for Getter Dragon, its very own weapon: the %1\"Getter Beam Launcher\"%0!$/With these, the fighting should get a little easier.",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AA42D",
+  "en": "$f99a%3Lambert%0, %3Schwartz%0, %3Linda%0, %3Bob%0, %3Sam%0 and %3Shatner%0 have left the team.$/%1Getter Robo G%0 is currently unavailable.",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AA4C7",
+  "en": "There are no units that can sortie.$/Use \"Assign\" to put pilots in the machines.",
+  "note": "accuracy: the quoted menu item is briefing_800A9EC4 \"Assign\", not \"Transfer\""
+ },
+ {
+  "id": "briefing_800AA51C",
+  "en": "$f99a%1Eagle-Gou%0 has been added.$/%1Jaguar-Gou%0 has been added.$/%1BT-23%0 has been added.$/%1Lady Command%0 has been added.",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AA5AC",
+  "en": "$f99a%1Bear-Gou%0 has been added.",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AA5D0",
+  "en": "$f99a%1Getter Robo G%0 has been added.",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AA5FA",
+  "en": "$f99a%1Getter Robo Zan%0 has been added.",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AA624",
+  "en": "$f99a%1Getter Robo Go%0 has been added.",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AA64E",
+  "en": "$f99a%1Stilva%0 has been added.$/%1Texas Mack%0 has been added.$/%1Robo Stone%0, %1Kingdom 007%0 and %1Gustaf%0 can't sortie on the next map.",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AA6EB",
+  "en": "$f99a%1Shin Getter Robo%0 has been added.$/%1Robo Stone%0, %1Kingdom 007%0 and %1Gustaf%0 are now available.",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AA758",
+  "en": "$f99a%1Black Getter Robo%0 has been added.",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AA788",
+  "en": "$f99a%1Shin Getter Dragon%0 has been added.",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AA7B6",
+  "en": "$f21a%2Dr. Saotome%0: There's no telling what might happen, or when. Save often, so you'll have nothing to regret!",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AA816",
+  "en": "$f63a%2Hayato%0$p01: Guess it can't be helped. I'll lend you a hand.",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AA842",
+  "en": "$f02a%2Musashi%0$p02: With the great Musashi on board, it's like having a hundred men!",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AA876",
+  "en": "$f03a%2Benkei%0$p03: I'm Benkei. It's an honor to fight alongside Musashi.",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AA8B4",
+  "en": "$f04a%2Go%0$p04: The name's Go! I'm counting on you guys!",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AA8DE",
+  "en": "$f05a%2Sho%0$p05: I'm Sho Tachibana. Nice to meet you.",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AA906",
+  "en": "$f06a%2Gai%0$p06: Leave the robot repairs to me.",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AA934",
+  "en": "$f08a%2Lambert%0$p08: I may be an old fossil, but I'll prove I can still be of use.",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AA972",
+  "en": "$f09a%2Schwartz%0$p09: Very well, I suppose I'll lend you my strength.",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AA9AE",
+  "en": "$f10a%2Bob%0$p0a: I'll fight with everything I've got. I'm counting on you.",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AA9E0",
+  "en": "$f11a%2Sam%0$p0b: Defense is my strong suit. Leave it to me.",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AAA18",
+  "en": "$f12a%2Linda%0$p0c: Hello, everyone. I look forward to working with you.",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AAA4A",
+  "en": "$f13a%2Shatner%0$p0d: I'm Heim Shatner. Just call me Shatner.",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AAA92",
+  "en": "$f14a%2Jack%0$p0e: Hey, everybodyyy! Let's have a fun time, OK-desu!",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AAACE",
+  "en": "$f15a%2Mary%0$p0f: Hiii! My brother and I are joining you! Nice to meet you!",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AAB1A",
+  "en": "$f16a%2Akane%0$p10: Let's join forces and give it our all!",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AAB48",
+  "en": "$f17a%2Tsubaki%0$p11: I'm Tsubaki... I'll be counting on you.",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AAB72",
+  "en": "$f18a%2Kaede%0$p12: Ummm... uh... I'll do my beeest.",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AB044",
+  "en": "Gustaf",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AB050",
+  "en": "Kingdom 007",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AB064",
+  "en": "Robo Stone",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AB074",
+  "en": "Stilva",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AB080",
+  "en": "Lady Command",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AB090",
+  "en": "BT-23",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AB09C",
+  "en": "Getter Robo Zan %1Female  Req. Rank: B",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AB0C4",
+  "en": "Black Getter          %1Req. Rank: A",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AB0EC",
+  "en": "Shin Getter Dragon  %1Req. Rank: S",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AB114",
+  "en": "Shin Getter Robo     %1Req. Rank: A",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AB138",
+  "en": "Getter Robo Go       %1Req. Rank: B",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AB15C",
+  "en": "Getter Robo G        %1Req. Rank: C",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AB180",
+  "en": "Getter Robo           %1Req. Rank: D",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AB1A4",
+  "en": "Rank: S",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AB1B0",
+  "en": "Rank: A",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AB1BC",
+  "en": "Rank: B",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AB1C8",
+  "en": "Rank: C",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AB1D4",
+  "en": "Rank: D",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AB1E0",
+  "en": "Rank: -",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AB1EC",
+  "en": "GE",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AB1F4",
+  "en": "Eva",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AB1FC",
+  "en": "Hit",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AB204",
+  "en": "Mov",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AB20C",
+  "en": "Def",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AB214",
+  "en": "EN",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AB21C",
+  "en": "HP",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AB224",
+  "en": "Ctrl",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AB22C",
+  "en": "Reac",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AB234",
+  "en": "Shot",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AB23C",
+  "en": "Mel",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AB4E8",
+  "en": "None",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AB5B4",
+  "en": "a pilot to the",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AB5C4",
+  "en": "Black Getter.",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AB5D8",
+  "en": "For Getter units,",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AB5F0",
+  "en": "put 3 pilots",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AB604",
+  "en": "Exit",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AB60C",
+  "en": "Cont.",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AB614",
+  "en": "Undo edits",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AB62C",
+  "en": "Sortie",
+  "note": ""
+ },
+ {
+  "id": "briefing_800AB640",
+  "en": "Bench",
+  "note": ""
+ },
+ {
+  "id": "briefing_800ABC0C",
+  "en": "Moon",
+  "note": ""
+ },
+ {
+  "id": "briefing_800ABC24",
+  "en": "Arctic",
+  "note": ""
+ },
+ {
+  "id": "briefing_800ABC2C",
+  "en": "Alaska Base",
+  "note": ""
+ },
+ {
+  "id": "briefing_800ABC3C",
+  "en": "Texas",
+  "note": ""
+ },
+ {
+  "id": "briefing_800ABC48",
+  "en": "Japan",
+  "note": ""
+ },
+ {
+  "id": "briefing_800ABC64",
+  "en": "Tachibana Area",
+  "note": ""
+ },
+ {
+  "id": "briefing_800ABC74",
+  "en": "Pacific",
+  "note": ""
+ },
+ {
+  "id": "briefing_800ABC80",
+  "en": "City",
+  "note": ""
+ },
+ {
+  "id": "briefing_800ABC88",
+  "en": "Russia",
+  "note": ""
+ },
+ {
+  "id": "briefing_800ABC90",
+  "en": "Germany",
+  "note": ""
+ },
+ {
+  "id": "briefing_800ABC98",
+  "en": "Britain",
+  "note": ""
+ },
+ {
+  "id": "briefing_800ABCA4",
+  "en": "Hayato's School",
+  "note": ""
+ },
+ {
+  "id": "briefing_800ABCB0",
+  "en": "Tachibana Inst.",
+  "note": ""
+ },
+ {
+  "id": "briefing_800ABCBC",
+  "en": "Factory",
+  "note": ""
+ },
+ {
+  "id": "briefing_800ABCC8",
+  "en": "Asama Crater",
+  "note": ""
+ },
+ {
+  "id": "briefing_800ABCD4",
+  "en": "Saotome Inst.",
+  "note": ""
+ },
+ {
+  "id": "flight_800E8782",
+  "en": "Press the button",
+  "note": ""
+ },
+ {
+  "id": "flight_800E8799",
+  "en": "Button: quit",
+  "note": ""
+ },
+ {
+  "id": "flight_800E87AA",
+  "en": "Level",
+  "note": ""
+ },
+ {
+  "id": "flight_800E87C0",
+  "en": "Training",
+  "note": ""
+ },
+ {
+  "id": "flight_800E87CC",
+  "en": "Sunset Sea",
+  "note": ""
+ },
+ {
+  "id": "flight_800E87D7",
+  "en": "Night City",
+  "note": ""
+ },
+ {
+  "id": "flight_800E87DE",
+  "en": "Storm",
+  "note": ""
+ },
+ {
+  "id": "flight_800E87E5",
+  "en": "Stratosphere",
+  "note": ""
+ },
+ {
+  "id": "flight_800E87EC",
+  "en": "Info",
+  "note": ""
+ },
+ {
+  "id": "flight_800E87F1",
+  "en": "None",
+  "note": ""
+ },
+ {
+  "id": "flight_800E87FA",
+  "en": "Learn the %1timing to combine here!",
+  "note": ""
+ },
+ {
+  "id": "flight_800E8820",
+  "en": "Blinding glare!",
+  "note": ""
+ },
+ {
+  "id": "flight_800E8831",
+  "en": "%1Watch out for gusts!",
+  "note": ""
+ },
+ {
+  "id": "flight_800E884D",
+  "en": "Urban canyon",
+  "note": ""
+ },
+ {
+  "id": "flight_800E885A",
+  "en": "%1Beware oncoming towers and gusts!",
+  "note": ""
+ },
+ {
+  "id": "flight_800E887E",
+  "en": "%1Storm winds rage",
+  "note": ""
+ },
+ {
+  "id": "flight_800E8893",
+  "en": "Lost your team? %1Use the radar!",
+  "note": ""
+ },
+ {
+  "id": "flight_800E88B7",
+  "en": "Gauges broken, %1radar's hard to read",
+  "note": ""
+ },
+ {
+  "id": "flight_800E88DE",
+  "en": "Hit %1big rocks%0 and you'll go flying!",
+  "note": ""
+ },
+ {
+  "id": "flight_800E8906",
+  "en": "Spd",
+  "note": ""
+ },
+ {
+  "id": "flight_800E890B",
+  "en": "Slow",
+  "note": ""
+ },
+ {
+  "id": "flight_800E8910",
+  "en": "Med",
+  "note": ""
+ },
+ {
+  "id": "flight_800E8915",
+  "en": "Fast",
+  "note": ""
+ },
+ {
+  "id": "flight_800E891A",
+  "en": "Turbo",
+  "note": ""
+ },
+ {
+  "id": "flight_800E8921",
+  "en": "@02 Button",
+  "note": ""
+ },
+ {
+  "id": "flight_800E892B",
+  "en": "@01 Button",
+  "note": ""
+ },
+ {
+  "id": "flight_800E8935",
+  "en": "D-Pad",
+  "note": ""
+ },
+ {
+  "id": "flight_800E893E",
+  "en": "Fly",
+  "note": ""
+ },
+ {
+  "id": "flight_800E8943",
+  "en": "Accel",
+  "note": ""
+ },
+ {
+  "id": "flight_800E8948",
+  "en": "Slow",
+  "note": ""
+ },
+ {
+  "id": "flight_800E894D",
+  "en": "Normal",
+  "note": ""
+ },
+ {
+  "id": "flight_800E8956",
+  "en": "Inverted",
+  "note": ""
+ },
+ {
+  "id": "flight_800E896B",
+  "en": "%1Ascend%0",
+  "note": ""
+ },
+ {
+  "id": "flight_800E897A",
+  "en": "%2Descend%0",
+  "note": ""
+ },
+ {
+  "id": "flight_800E8989",
+  "en": "No new Getter Robo yet, so",
+  "note": ""
+ },
+ {
+  "id": "flight_800E89A6",
+  "en": "you can't take a test.",
+  "note": ""
+ },
+ {
+  "id": "flight_800E89BB",
+  "en": "Hone your combining in practice for now!",
+  "note": ""
+ },
+ {
+  "id": "flight_800E89E2",
+  "en": "Quit?",
+  "note": ""
+ },
+ {
+  "id": "flight_800E89EF",
+  "en": ": Quit",
+  "note": ""
+ }
+]

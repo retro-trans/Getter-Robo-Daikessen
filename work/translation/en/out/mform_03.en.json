@@ -1,0 +1,324 @@
+[
+ {
+  "id": "MF06_0BEB",
+  "en": "$s20That was never supposed to be what we were after... $s80$s13Ryuji...!",
+  "note": "Hayato answering Ryuji's speech about wanting power and joining the Hyakki Empire (MF06_099F/09E7): 'that' = power only to destroy (cf. MF06_0B81)."
+ },
+ {
+  "id": "MF06_0CC7",
+  "en": "Getter Robo Go is %2a Getter Robo that runs on ordinary energy%0.$/$s80$s13That means its energy won't recover, $s80$s13but %2it uses far less energy than the other robots%0!$/Use that to your advantage!",
+  "note": "Gameplay tip. Colour span kept around the matching phrases."
+ },
+ {
+  "id": "MF06A_0014",
+  "en": "This here's MAP 06A!",
+  "note": "Developer placeholder line (rough 'kotsuaa ... daze' voice); kept as a placeholder. Editorial: uniform debug placeholder (upper case)."
+ },
+ {
+  "id": "MF06A_0038",
+  "en": "The Saotome Institute should have some basic defenses at least!",
+  "note": "Branch 06A: the player chooses to stay and defend the Tachibana Institute."
+ },
+ {
+  "id": "MF06A_00BA",
+  "en": "The Saotome Institute ought to have at least basic defenses!"
+ },
+ {
+  "id": "MF06A_013E",
+  "en": "Looks like that's most of them."
+ },
+ {
+  "id": "MF06A_0166",
+  "en": "Father, $s80$s13are you okay?",
+  "note": "Editorial: project decision: Sho calls Dr. Tachibana 'Father'."
+ },
+ {
+  "id": "MF06A_0194",
+  "en": "Just about, yes."
+ },
+ {
+  "id": "MF06A_021D",
+  "en": "$s30Ha ha ha...! $s80$s13$s20You look well! $s80$s13$s20All of you!"
+ },
+ {
+  "id": "MF06A_0277",
+  "en": "You bastard! $s80$s13$s05Burai! $s80$s13$s05Emperor Burai!",
+  "note": "Kisama rendered at full hostility."
+ },
+ {
+  "id": "MF06A_02C1",
+  "en": "$s20I'm honored that you remember me."
+ },
+ {
+  "id": "MF06A_0371",
+  "en": "Tampered?! $s80$s13$s05You don't mean--!",
+  "note": "Answers Burai's MF06A_0301 (he tampered with the institute)."
+ },
+ {
+  "id": "MF06A_03A5",
+  "en": "Don't you think it an intriguing experiment?! $s80$s13What becomes of humanity under massive doses of Getter Rays!$/Just as Getter Rays made apes evolve into humans! What will humans evolve into this time?!$/Well, $s80$s13most humans will probably die, of course. $s80$s13A trifling sacrifice in the face of evolution!"
+ },
+ {
+  "id": "MF06A_04D3",
+  "en": "$s05Nooo way...!"
+ },
+ {
+  "id": "MF06A_04F9",
+  "en": "$s80$s13$s05...I'll never forgive you!"
+ },
+ {
+  "id": "MF06A_0529",
+  "en": "$s05I don't need your forgiveness! $s80$s13We won't be meeting again, after all!"
+ },
+ {
+  "id": "MF06A_0587",
+  "en": "$s05What do we do?!"
+ },
+ {
+  "id": "MF06A_05AF",
+  "en": "$s05Dr. Tachibana!"
+ },
+ {
+  "id": "MF06A_05D3",
+  "en": "$s05We can't stop the Getter Rays pouring out, but if we can channel them and fire them off into space... $s80$s13$s05we just might pull through!",
+  "note": "shikousei wo motase = give it directionality; rendered 'channel them'."
+ },
+ {
+  "id": "MF06A_066B",
+  "en": "So there was a way to do that... $s80$s13$s05You're awesome, Doc!",
+  "note": "Addressed to Dr. Tachibana in branch 06A."
+ },
+ {
+  "id": "MF06A_06B5",
+  "en": "I can't believe that's even possible... $s80$s13$s05You're amazing, Doctor!"
+ },
+ {
+  "id": "MF06A_06FF",
+  "en": "$s05The reactor's about to hit its limit! $s80$s13$s05Everyone, get away from here at once!",
+  "note": "rokushin (bare) = the institute's reactor core; 'reactor' used rather than the unit term Getter Reactor. Editorial: 'get clear of here' was awkward."
+ },
+ {
+  "id": "MF06A_0759",
+  "en": "It was a rushed fix, but it looks like we managed to deal with it..."
+ },
+ {
+  "id": "MF06A_007E",
+  "en": "We'll mop up here fast, then go help them!",
+  "note": "'Them' = the Saotome Institute, which sent the distress call (MF06_0D97)."
+ },
+ {
+  "id": "MF06A_0100",
+  "en": "Let's finish up here and then go help them!"
+ },
+ {
+  "id": "MF06A_01B6",
+  "en": "Hm? $s80$s13$s80$s13$f22bWh-$s80$s13what on earth?! $s80$s13Look at these Getter Ray levels!"
+ },
+ {
+  "id": "MF06A_0301",
+  "en": "$s20While you were all working so hard, $s80$s13$s20I took the liberty of tampering with the Institute a little.",
+  "note": "Institute = the Tachibana Institute in branch 06A (MF07A_03DA). Editorial: capitalised when it names one (Tachibana Institute in 06A)."
+ },
+ {
+  "id": "MF06A_0799",
+  "en": "$s20If Getter Rays this dense had spread across the world, $s80$s13$s80$s13$s20I can't even imagine what would have become of it..."
+ },
+ {
+  "id": "MF06A_082B",
+  "en": "The Hyakki Empire... $s80$s13$s80$s13$s20What a terrifying bunch, to dream up something like this..."
+ },
+ {
+  "id": "MF06B_0014",
+  "en": "This here's MAP 06B!",
+  "note": "Developer placeholder line. Editorial: uniform debug placeholder (upper case)."
+ },
+ {
+  "id": "MF06B_0038",
+  "en": "The backup forces will handle the rest of them!",
+  "note": "Branch 06B: the player leaves the Tachibana Institute to the follow-up forces and goes to the Saotome Institute."
+ },
+ {
+  "id": "MF06B_00AA",
+  "en": "The backup forces should take care of the rest!"
+ },
+ {
+  "id": "MF06B_0126",
+  "en": "Guess that's most of 'em."
+ },
+ {
+  "id": "MF06B_0150",
+  "en": "Father, $s80$s13are you all right?"
+ },
+ {
+  "id": "MF06B_0184",
+  "en": "Nothing to worry about. $s80$s13Hm?$/$f21b$s05Wh-$s80$s13$s05what on earth?! $s80$s13$s05Look at these Getter Ray levels!"
+ },
+ {
+  "id": "MF06B_0203",
+  "en": "$s30Ha ha ha...! $s80$s13You look well! $s80$s13All of you!"
+ },
+ {
+  "id": "MF06B_0255",
+  "en": "Why, you...! $s80$s13$s05Burai! $s80$s13$s05Emperor Burai!"
+ },
+ {
+  "id": "MF06B_02A7",
+  "en": "$s20I'm honored that you remember me."
+ },
+ {
+  "id": "MF06B_0357",
+  "en": "Tampered?! $s80$s13$s05You don't mean--!"
+ },
+ {
+  "id": "MF06B_038B",
+  "en": "Wouldn't you call it an intriguing experiment?! $s80$s13What becomes of humanity under massive doses of Getter Rays!$/Just as Getter Rays made apes evolve into humans! What will humans evolve into this time?!$/Well, $s80$s13most humans will probably die, of course. $s80$s13Bah, $s80$s13a trifling sacrifice in the face of evolution!"
+ },
+ {
+  "id": "MF06B_04C7",
+  "en": "$s05How could you do something so awful..."
+ },
+ {
+  "id": "MF06B_04F1",
+  "en": "$s05What do you take human beings for?!"
+ },
+ {
+  "id": "MF06B_0525",
+  "en": "We shall enjoy the show from a safe distance. $s80$s13Not that we'll ever meet again!"
+ },
+ {
+  "id": "MF06B_058B",
+  "en": "$s05Isn't there anything we can do?!"
+ },
+ {
+  "id": "MF06B_05C5",
+  "en": "$s05Dr. Saotome!"
+ },
+ {
+  "id": "MF06B_05EF",
+  "en": "$s80$s13$s05There's a way!$/$s05We can't stop the Getter Rays pouring out, but if we can channel them and fire them off into space, we'll keep the damage to a minimum!"
+ },
+ {
+  "id": "MF06B_0693",
+  "en": "So there was a way to do that... $s80$s13$s05You're awesome, Doc!",
+  "note": "Addressed to Dr. Saotome in branch 06B."
+ },
+ {
+  "id": "MF06B_06DD",
+  "en": "I can't believe that's even possible... $s80$s13$s05You're amazing, Doctor!"
+ },
+ {
+  "id": "MF06B_0727",
+  "en": "Thaaat's our Doc!"
+ },
+ {
+  "id": "MF06B_074F",
+  "en": "$s05The reactor's about to hit its limit! $s80$s13$s05Everyone, get away from here at once!",
+  "note": "Editorial: 'get clear of here' was awkward (same as MF06A_06FF)."
+ },
+ {
+  "id": "MF06B_07AD",
+  "en": "Humans $s80$s13always do this... $s80$s13$s20push whatever they don't need somewhere out of sight...",
+  "note": "Closing monologue; continues in MF06B_081F and MF06B_0899 (consecutive offsets)."
+ },
+ {
+  "id": "MF06B_0076",
+  "en": "We're going to help the Saotome Institute!"
+ },
+ {
+  "id": "MF06B_00EE",
+  "en": "Let's go help the Saotome Institute!"
+ },
+ {
+  "id": "MF06B_02E7",
+  "en": "$s20While you were all working so hard, $s80$s13$s20I took the liberty of tampering with the Institute a little.",
+  "note": "Institute = the Saotome Institute in branch 06B (MF07B_0378). Editorial: capitalised when it names one (Saotome Institute in 06B)."
+ },
+ {
+  "id": "MF06B_081F",
+  "en": "But $s80$s13just because it's out of sight, $s80$s13$s80$s13that doesn't mean it's gone for good..."
+ },
+ {
+  "id": "MF06B_0899",
+  "en": "$s20All I can do is pray that torrent of Getter Rays $s80$s13$s20won't become a calamity for mankind, $s80$s13$s80$s13$s20for the Earth..."
+ },
+ {
+  "id": "MF07A_0014",
+  "en": "This here's MAP 07A!",
+  "note": "Developer placeholder line."
+ },
+ {
+  "id": "MF07A_0038",
+  "en": "$s05Hey, $s80$s13what the heck is that?!"
+ },
+ {
+  "id": "MF07A_0072",
+  "en": "Those bastards, $s80$s13what the hell are they doing at the Institute?!",
+  "note": "yatsura + -yagaru (contempt) rendered as 'those bastards ... the hell'. Editorial: capitalised when it names one (Tachibana Institute)."
+ },
+ {
+  "id": "MF07A_00B4",
+  "en": "I told you, $s80$s13it's an intriguing experiment!$/The astonishing energy that drives evolution... $s80$s13It's a precious sample of Getter Rays, after all!"
+ },
+ {
+  "id": "MF07A_0146",
+  "en": "$s05Emperor Burai!"
+ },
+ {
+  "id": "MF07A_016E",
+  "en": "I never imagined you'd avert it with a trick like that! $s80$s13I'll give credit where it's due and say it plainly: 'Splendid!'$/But Getter Rays of such extreme concentration! Do you really think nothing will come of it?"
+ },
+ {
+  "id": "MF07A_023E",
+  "en": "$s05What's that supposed to mean?! $s80$s13Because of that... $s80$s13something's going to happen?!"
+ },
+ {
+  "id": "MF07A_0296",
+  "en": "$s05What are you getting at?! $s80$s13Something... $s80$s13are you saying something's going to happen?!"
+ },
+ {
+  "id": "MF07A_02F4",
+  "en": "Oh, $s80$s13I merely pointed out a possibility! $s80$s13Ipponki! $s80$s13Take them on!"
+ },
+ {
+  "id": "MF07A_0364",
+  "en": "Yes, my lord!"
+ },
+ {
+  "id": "MF07A_0386",
+  "en": "Multiple objects incoming from the sky! $s80$s13Projected impact point is$s30...",
+  "note": "Deliberately cut off; the next line (MF07A_03DA, next slice) completes it: 'Here! The Tachibana Institute!'"
+ },
+ {
+  "id": "MF07A_0406",
+  "en": "$s05What?! $s80$s13What on earth just came down?!"
+ },
+ {
+  "id": "MF07A_044E",
+  "en": "$s05Wh...what?! $s80$s13What are these things?!"
+ },
+ {
+  "id": "MF07A_0488",
+  "en": "$s05Buuugs!"
+ },
+ {
+  "id": "MF07A_04AC",
+  "en": "$s80$s13$s30...Are they... $s80$s13searching for something?"
+ },
+ {
+  "id": "MF07A_04F0",
+  "en": "$s05What the?! $s80$s13$s05What are these bugs?!"
+ },
+ {
+  "id": "MF07A_052E",
+  "en": "$s05Don't tell me...?! $s80$s13Did the Getter Rays from back then $s80$s13make insects evolve...?!",
+  "note": "'Back then' = the Getter Ray release in MF06A."
+ },
+ {
+  "id": "MF07A_058C",
+  "en": "$s05No! $s80$s13$s80$s13Even with Getter Rays, $s80$s13a change that sudden is impossible! $s80$s13$s80$s13And yet..."
+ },
+ {
+  "id": "MF07A_0616",
+  "en": "$s05Then $s80$s13what are those things supposed to be?!"
+ }
+]

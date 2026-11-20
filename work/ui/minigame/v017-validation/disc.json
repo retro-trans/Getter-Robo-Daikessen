@@ -1,0 +1,8 @@
+{
+  "version": "0.1.7",
+  "flight_overlay_matches_current_source": true,
+  "overlay_end": "0x800e9c60",
+  "original_xa_archive_identical": true,
+  "xa_lba": 30029,
+  "xa_sha256": "e5445ddd659fd6bc3b9bc36ee66b6f27e4464d08c27210e6f056e871437d5a6f"
+}

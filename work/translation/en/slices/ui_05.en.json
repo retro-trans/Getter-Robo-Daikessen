@@ -1,0 +1,1052 @@
+[
+ {
+  "id": "briefing_800A9B24",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 144,
+  "en": ""
+ },
+ {
+  "id": "briefing_800A9B40",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 168,
+  "en": ""
+ },
+ {
+  "id": "briefing_800A9B60",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 120,
+  "en": ""
+ },
+ {
+  "id": "briefing_800A9B78",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 120,
+  "en": ""
+ },
+ {
+  "id": "briefing_800A9BB8",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 36,
+  "en": ""
+ },
+ {
+  "id": "briefing_800A9BC0",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 24,
+  "en": ""
+ },
+ {
+  "id": "briefing_800A9EAC",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 60,
+  "en": ""
+ },
+ {
+  "id": "briefing_800A9EB8",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 60,
+  "en": ""
+ },
+ {
+  "id": "briefing_800A9EC4",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 48,
+  "en": ""
+ },
+ {
+  "id": "briefing_800A9ED0",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 60,
+  "en": ""
+ },
+ {
+  "id": "briefing_800A9EDC",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 48,
+  "en": ""
+ },
+ {
+  "id": "briefing_800A9EE8",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 36,
+  "en": ""
+ },
+ {
+  "id": "briefing_800A9EF0",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 36,
+  "en": ""
+ },
+ {
+  "id": "briefing_800A9EF8",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 79,
+  "en": ""
+ },
+ {
+  "id": "briefing_800A9F08",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 79,
+  "en": ""
+ },
+ {
+  "id": "briefing_800A9F18",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 79,
+  "en": ""
+ },
+ {
+  "id": "briefing_800A9F28",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 79,
+  "en": ""
+ },
+ {
+  "id": "briefing_800A9F38",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 79,
+  "en": ""
+ },
+ {
+  "id": "briefing_800A9FF8",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 156,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AA014",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 204,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AA038",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 24,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AA040",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 36,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AA0F8",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 24,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AA22E",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 192,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AA24F",
+  "kind": "dialogue",
+  "max_bytes": null,
+  "max_px": null,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AA34B",
+  "kind": "dialogue",
+  "max_bytes": null,
+  "max_px": null,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AA42D",
+  "kind": "dialogue",
+  "max_bytes": null,
+  "max_px": null,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AA4C7",
+  "kind": "dialogue",
+  "max_bytes": null,
+  "max_px": null,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AA51C",
+  "kind": "dialogue",
+  "max_bytes": null,
+  "max_px": null,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AA5AC",
+  "kind": "dialogue",
+  "max_bytes": null,
+  "max_px": null,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AA5D0",
+  "kind": "dialogue",
+  "max_bytes": null,
+  "max_px": null,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AA5FA",
+  "kind": "dialogue",
+  "max_bytes": null,
+  "max_px": null,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AA624",
+  "kind": "dialogue",
+  "max_bytes": null,
+  "max_px": null,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AA64E",
+  "kind": "dialogue",
+  "max_bytes": null,
+  "max_px": null,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AA6EB",
+  "kind": "dialogue",
+  "max_bytes": null,
+  "max_px": null,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AA758",
+  "kind": "dialogue",
+  "max_bytes": null,
+  "max_px": null,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AA788",
+  "kind": "dialogue",
+  "max_bytes": null,
+  "max_px": null,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AA7B6",
+  "kind": "dialogue",
+  "max_bytes": null,
+  "max_px": null,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AA816",
+  "kind": "dialogue",
+  "max_bytes": null,
+  "max_px": null,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AA842",
+  "kind": "dialogue",
+  "max_bytes": null,
+  "max_px": null,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AA876",
+  "kind": "dialogue",
+  "max_bytes": null,
+  "max_px": null,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AA8B4",
+  "kind": "dialogue",
+  "max_bytes": null,
+  "max_px": null,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AA8DE",
+  "kind": "dialogue",
+  "max_bytes": null,
+  "max_px": null,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AA906",
+  "kind": "dialogue",
+  "max_bytes": null,
+  "max_px": null,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AA934",
+  "kind": "dialogue",
+  "max_bytes": null,
+  "max_px": null,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AA972",
+  "kind": "dialogue",
+  "max_bytes": null,
+  "max_px": null,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AA9AE",
+  "kind": "dialogue",
+  "max_bytes": null,
+  "max_px": null,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AA9E0",
+  "kind": "dialogue",
+  "max_bytes": null,
+  "max_px": null,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AAA18",
+  "kind": "dialogue",
+  "max_bytes": null,
+  "max_px": null,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AAA4A",
+  "kind": "dialogue",
+  "max_bytes": null,
+  "max_px": null,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AAA92",
+  "kind": "dialogue",
+  "max_bytes": null,
+  "max_px": null,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AAACE",
+  "kind": "dialogue",
+  "max_bytes": null,
+  "max_px": null,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AAB1A",
+  "kind": "dialogue",
+  "max_bytes": null,
+  "max_px": null,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AAB48",
+  "kind": "dialogue",
+  "max_bytes": null,
+  "max_px": null,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AAB72",
+  "kind": "dialogue",
+  "max_bytes": null,
+  "max_px": null,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AB044",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 48,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AB050",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 96,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AB064",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 72,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AB074",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 60,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AB080",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 84,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AB090",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 60,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AB09C",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 212,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AB0C4",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 196,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AB0EC",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 204,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AB114",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 188,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AB138",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 188,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AB15C",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 188,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AB180",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 180,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AB1A4",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 60,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AB1B0",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 60,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AB1BC",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 60,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AB1C8",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 60,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AB1D4",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 60,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AB1E0",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 60,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AB1EC",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 24,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AB1F4",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 24,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AB1FC",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 24,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AB204",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 24,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AB20C",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 24,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AB214",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 24,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AB21C",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 24,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AB224",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 24,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AB22C",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 24,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AB234",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 24,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AB23C",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 24,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AB4E8",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 24,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AB5B4",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 72,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AB5C4",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 96,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AB5D8",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 120,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AB5F0",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 108,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AB604",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 24,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AB60C",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 36,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AB614",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 72,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AB62C",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 36,
+  "en": ""
+ },
+ {
+  "id": "briefing_800AB640",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 36,
+  "en": ""
+ },
+ {
+  "id": "briefing_800ABC0C",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 36,
+  "en": ""
+ },
+ {
+  "id": "briefing_800ABC24",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 36,
+  "en": ""
+ },
+ {
+  "id": "briefing_800ABC2C",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 72,
+  "en": ""
+ },
+ {
+  "id": "briefing_800ABC3C",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 48,
+  "en": ""
+ },
+ {
+  "id": "briefing_800ABC48",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 24,
+  "en": ""
+ },
+ {
+  "id": "briefing_800ABC64",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 72,
+  "en": ""
+ },
+ {
+  "id": "briefing_800ABC74",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 48,
+  "en": ""
+ },
+ {
+  "id": "briefing_800ABC80",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 36,
+  "en": ""
+ },
+ {
+  "id": "briefing_800ABC88",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 36,
+  "en": ""
+ },
+ {
+  "id": "briefing_800ABC90",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 36,
+  "en": ""
+ },
+ {
+  "id": "briefing_800ABC98",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 48,
+  "en": ""
+ },
+ {
+  "id": "briefing_800ABCA4",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 60,
+  "en": ""
+ },
+ {
+  "id": "briefing_800ABCB0",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 48,
+  "en": ""
+ },
+ {
+  "id": "briefing_800ABCBC",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 48,
+  "en": ""
+ },
+ {
+  "id": "briefing_800ABCC8",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 60,
+  "en": ""
+ },
+ {
+  "id": "briefing_800ABCD4",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 72,
+  "en": ""
+ },
+ {
+  "id": "flight_800E8782",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 132,
+  "en": ""
+ },
+ {
+  "id": "flight_800E8799",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 96,
+  "en": ""
+ },
+ {
+  "id": "flight_800E87AA",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 36,
+  "en": ""
+ },
+ {
+  "id": "flight_800E87C0",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 48,
+  "en": ""
+ },
+ {
+  "id": "flight_800E87CC",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 60,
+  "en": ""
+ },
+ {
+  "id": "flight_800E87D7",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 36,
+  "en": ""
+ },
+ {
+  "id": "flight_800E87DE",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 36,
+  "en": ""
+ },
+ {
+  "id": "flight_800E87E5",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 36,
+  "en": ""
+ },
+ {
+  "id": "flight_800E87EC",
+  "kind": "ui",
+  "max_bytes": 4,
+  "max_px": 24,
+  "en": ""
+ },
+ {
+  "id": "flight_800E87F1",
+  "kind": "ui",
+  "max_bytes": 8,
+  "max_px": 48,
+  "en": ""
+ },
+ {
+  "id": "flight_800E87FA",
+  "kind": "ui",
+  "max_bytes": 37,
+  "max_px": 207,
+  "en": ""
+ },
+ {
+  "id": "flight_800E8820",
+  "kind": "ui",
+  "max_bytes": 16,
+  "max_px": 96,
+  "en": ""
+ },
+ {
+  "id": "flight_800E8831",
+  "kind": "ui",
+  "max_bytes": 27,
+  "max_px": 147,
+  "en": ""
+ },
+ {
+  "id": "flight_800E884D",
+  "kind": "ui",
+  "max_bytes": 12,
+  "max_px": 72,
+  "en": ""
+ },
+ {
+  "id": "flight_800E885A",
+  "kind": "ui",
+  "max_bytes": 35,
+  "max_px": 195,
+  "en": ""
+ },
+ {
+  "id": "flight_800E887E",
+  "kind": "ui",
+  "max_bytes": 20,
+  "max_px": 108,
+  "en": ""
+ },
+ {
+  "id": "flight_800E8893",
+  "kind": "ui",
+  "max_bytes": 35,
+  "max_px": 195,
+  "en": ""
+ },
+ {
+  "id": "flight_800E88B7",
+  "kind": "ui",
+  "max_bytes": 38,
+  "max_px": 216,
+  "en": ""
+ },
+ {
+  "id": "flight_800E88DE",
+  "kind": "ui",
+  "max_bytes": 39,
+  "max_px": 207,
+  "en": ""
+ },
+ {
+  "id": "flight_800E8906",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 24,
+  "en": ""
+ },
+ {
+  "id": "flight_800E890B",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 24,
+  "en": ""
+ },
+ {
+  "id": "flight_800E8910",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 24,
+  "en": ""
+ },
+ {
+  "id": "flight_800E8915",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 24,
+  "en": ""
+ },
+ {
+  "id": "flight_800E891A",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 36,
+  "en": ""
+ },
+ {
+  "id": "flight_800E8921",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 55,
+  "en": ""
+ },
+ {
+  "id": "flight_800E892B",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 55,
+  "en": ""
+ },
+ {
+  "id": "flight_800E8935",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 48,
+  "en": ""
+ },
+ {
+  "id": "flight_800E893E",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 24,
+  "en": ""
+ },
+ {
+  "id": "flight_800E8943",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 24,
+  "en": ""
+ },
+ {
+  "id": "flight_800E8948",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 24,
+  "en": ""
+ },
+ {
+  "id": "flight_800E894D",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 48,
+  "en": ""
+ },
+ {
+  "id": "flight_800E8956",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 72,
+  "en": ""
+ },
+ {
+  "id": "flight_800E896B",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 60,
+  "en": ""
+ },
+ {
+  "id": "flight_800E897A",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 60,
+  "en": ""
+ },
+ {
+  "id": "flight_800E8989",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 168,
+  "en": ""
+ },
+ {
+  "id": "flight_800E89A6",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 120,
+  "en": ""
+ },
+ {
+  "id": "flight_800E89BB",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 228,
+  "en": ""
+ },
+ {
+  "id": "flight_800E89E2",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 72,
+  "en": ""
+ },
+ {
+  "id": "flight_800E89EF",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 48,
+  "en": ""
+ }
+]

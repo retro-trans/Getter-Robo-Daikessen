@@ -1,0 +1,408 @@
+[
+ {
+  "id": "MF07A_0658",
+  "speaker_en": "Emperor Burai",
+  "en": ""
+ },
+ {
+  "id": "MF07A_0796",
+  "speaker_en": "Dr. Tachibana",
+  "en": ""
+ },
+ {
+  "id": "MF07A_03DA",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "en": ""
+ },
+ {
+  "id": "MF07A_06C4",
+  "speaker_en": "Emperor Burai",
+  "en": ""
+ },
+ {
+  "id": "MF07B_0014",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "en": ""
+ },
+ {
+  "id": "MF07B_0038",
+  "speaker_en": "Benkei",
+  "en": ""
+ },
+ {
+  "id": "MF07B_006A",
+  "speaker_en": "Ryoma",
+  "en": ""
+ },
+ {
+  "id": "MF07B_00AC",
+  "speaker_en": "Emperor Burai",
+  "en": ""
+ },
+ {
+  "id": "MF07B_013E",
+  "speaker_en": "Hayato",
+  "en": ""
+ },
+ {
+  "id": "MF07B_0168",
+  "speaker_en": "Emperor Burai",
+  "en": ""
+ },
+ {
+  "id": "MF07B_0238",
+  "speaker_jp": "$n",
+  "speaker_en": "$n (player)",
+  "en": "",
+  "gender_variant": "male player"
+ },
+ {
+  "id": "MF07B_0264",
+  "speaker_jp": "$n",
+  "speaker_en": "$n (player)",
+  "en": "",
+  "gender_variant": "female player"
+ },
+ {
+  "id": "MF07B_0292",
+  "speaker_en": "Emperor Burai",
+  "en": ""
+ },
+ {
+  "id": "MF07B_0302",
+  "speaker_en": "Ipponki",
+  "en": ""
+ },
+ {
+  "id": "MF07B_0324",
+  "speaker_en": "Researcher",
+  "en": ""
+ },
+ {
+  "id": "MF07B_03A8",
+  "speaker_en": "Dr. Saotome",
+  "en": ""
+ },
+ {
+  "id": "MF07B_03F8",
+  "speaker_en": "Akane",
+  "en": ""
+ },
+ {
+  "id": "MF07B_0432",
+  "speaker_en": "Kaede",
+  "en": ""
+ },
+ {
+  "id": "MF07B_0456",
+  "speaker_en": "Tsubaki",
+  "en": ""
+ },
+ {
+  "id": "MF07B_049A",
+  "speaker_en": "Musashi",
+  "en": ""
+ },
+ {
+  "id": "MF07B_051C",
+  "speaker_en": "Ryoma",
+  "en": ""
+ },
+ {
+  "id": "MF07B_057C",
+  "speaker_en": "Dr. Saotome",
+  "en": ""
+ },
+ {
+  "id": "MF07B_0606",
+  "speaker_en": "Michiru",
+  "en": ""
+ },
+ {
+  "id": "MF07B_064E",
+  "speaker_en": "Emperor Burai",
+  "en": ""
+ },
+ {
+  "id": "MF07B_0790",
+  "speaker_en": "Dr. Saotome",
+  "en": ""
+ },
+ {
+  "id": "MF07B_0378",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "en": ""
+ },
+ {
+  "id": "MF07B_06BA",
+  "speaker_en": "Emperor Burai",
+  "en": ""
+ },
+ {
+  "id": "MF08_0028",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "en": ""
+ },
+ {
+  "id": "MF08_004A",
+  "speaker_en": "Captain",
+  "en": ""
+ },
+ {
+  "id": "MF08_00B8",
+  "speaker_en": "Sho",
+  "en": ""
+ },
+ {
+  "id": "MF08_00F0",
+  "speaker_en": "Captain",
+  "en": ""
+ },
+ {
+  "id": "MF08_01F2",
+  "speaker_en": "Go",
+  "en": ""
+ },
+ {
+  "id": "MF08_023C",
+  "speaker_en": "Captain",
+  "en": ""
+ },
+ {
+  "id": "MF08_02EA",
+  "speaker_en": "Mary",
+  "en": ""
+ },
+ {
+  "id": "MF08_0384",
+  "speaker_en": "Jack",
+  "en": ""
+ },
+ {
+  "id": "MF08_0440",
+  "speaker_en": "Musashi",
+  "en": ""
+ },
+ {
+  "id": "MF08_04CC",
+  "speaker_en": "Captain",
+  "en": ""
+ },
+ {
+  "id": "MF08_0586",
+  "speaker_en": "Hayato",
+  "en": ""
+ },
+ {
+  "id": "MF08_05CA",
+  "speaker_en": "Captain",
+  "en": ""
+ },
+ {
+  "id": "MF08_05EC",
+  "speaker_en": "Hayato",
+  "en": ""
+ },
+ {
+  "id": "MF08_0692",
+  "speaker_en": "Gai",
+  "en": ""
+ },
+ {
+  "id": "MF08_06F8",
+  "speaker_en": "Captain",
+  "en": ""
+ },
+ {
+  "id": "MF08_076A",
+  "speaker_en": "Benkei",
+  "en": ""
+ },
+ {
+  "id": "MF08_07A6",
+  "speaker_en": "Captain",
+  "en": ""
+ },
+ {
+  "id": "MF08_0816",
+  "speaker_en": "Akane",
+  "en": ""
+ },
+ {
+  "id": "MF08_0846",
+  "speaker_en": "Kaede",
+  "en": ""
+ },
+ {
+  "id": "MF08_0880",
+  "speaker_en": "Captain",
+  "en": ""
+ },
+ {
+  "id": "MF08_08F2",
+  "speaker_en": "Tsubaki",
+  "en": ""
+ },
+ {
+  "id": "MF08_0976",
+  "speaker_en": "Captain",
+  "en": ""
+ },
+ {
+  "id": "MF08_0A48",
+  "speaker_en": "Jack",
+  "en": ""
+ },
+ {
+  "id": "MF08_0ABA",
+  "speaker_en": "Mary",
+  "en": ""
+ },
+ {
+  "id": "MF08_0AEC",
+  "speaker_en": "Jack",
+  "en": ""
+ },
+ {
+  "id": "MF08_0B5C",
+  "speaker_en": "Texas Crew",
+  "en": ""
+ },
+ {
+  "id": "MF08_0BCE",
+  "speaker_en": "Captain",
+  "en": ""
+ },
+ {
+  "id": "MF08_0C44",
+  "speaker_en": "Gohonki",
+  "en": ""
+ },
+ {
+  "id": "MF08_0CC6",
+  "speaker_en": "Shatner",
+  "en": ""
+ },
+ {
+  "id": "MF08_0D16",
+  "speaker_en": "Bob",
+  "en": ""
+ },
+ {
+  "id": "MF08_0D4C",
+  "speaker_en": "Sam",
+  "en": ""
+ },
+ {
+  "id": "MF08_0D6E",
+  "speaker_en": "Linda",
+  "en": ""
+ },
+ {
+  "id": "MF08_0DBA",
+  "speaker_en": "Shatner",
+  "en": ""
+ },
+ {
+  "id": "MF08_0E00",
+  "speaker_en": "Schwartz",
+  "en": ""
+ },
+ {
+  "id": "MF08_0E60",
+  "speaker_en": "Lambert",
+  "en": ""
+ },
+ {
+  "id": "MF08_0ED2",
+  "speaker_en": "Schwartz",
+  "en": ""
+ },
+ {
+  "id": "MF08_0F56",
+  "speaker_jp": "$n",
+  "speaker_en": "$n (player)",
+  "en": "",
+  "gender_variant": "male player"
+ },
+ {
+  "id": "MF08_0F98",
+  "speaker_jp": "$n",
+  "speaker_en": "$n (player)",
+  "en": "",
+  "gender_variant": "female player"
+ },
+ {
+  "id": "MF08_0FDA",
+  "speaker_en": "Hayato",
+  "en": ""
+ },
+ {
+  "id": "MF08_1018",
+  "speaker_jp": "$n",
+  "speaker_en": "$n (player)",
+  "en": "",
+  "gender_variant": "male player"
+ },
+ {
+  "id": "MF08_1044",
+  "speaker_jp": "$n",
+  "speaker_en": "$n (player)",
+  "en": "",
+  "gender_variant": "female player"
+ },
+ {
+  "id": "MF08_1070",
+  "speaker_en": "Go",
+  "en": ""
+ },
+ {
+  "id": "MF08_10CE",
+  "speaker_en": "Gohonki",
+  "en": ""
+ },
+ {
+  "id": "MF08_1112",
+  "speaker_en": "Go",
+  "en": ""
+ },
+ {
+  "id": "MF08_1174",
+  "speaker_en": "Gai",
+  "en": ""
+ },
+ {
+  "id": "MF08_11A0",
+  "speaker_en": "Sho",
+  "en": ""
+ },
+ {
+  "id": "MF08_11E8",
+  "speaker_en": "Akane",
+  "en": ""
+ },
+ {
+  "id": "MF08_122B",
+  "speaker_en": "Tsubaki",
+  "en": ""
+ },
+ {
+  "id": "MF08_1251",
+  "speaker_en": "Kaede",
+  "en": ""
+ },
+ {
+  "id": "MF08_127B",
+  "speaker_en": "Hayato",
+  "en": ""
+ },
+ {
+  "id": "MF08_133B",
+  "speaker_en": "Mary",
+  "en": ""
+ }
+]

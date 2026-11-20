@@ -1,0 +1,43 @@
+{
+  "native_voice_order": [
+    654,
+    1345,
+    1316,
+    1154,
+    1357,
+    1326,
+    1323
+  ],
+  "captures": [
+    {
+      "name": "time_limit",
+      "seconds": 0.02,
+      "lines": [
+        "This is the time limit."
+      ]
+    },
+    {
+      "name": "radar",
+      "seconds": 2.66,
+      "lines": [
+        "The center dot is you. The other dot",
+        "is the machine you'll combine with."
+      ]
+    },
+    {
+      "name": "square",
+      "seconds": 4.733333333333333,
+      "lines": [
+        "Press Square to speed up."
+      ]
+    },
+    {
+      "name": "cross",
+      "seconds": 7.08,
+      "lines": [
+        "Press X to slow down."
+      ]
+    }
+  ],
+  "controller_input": "Start only"
+}

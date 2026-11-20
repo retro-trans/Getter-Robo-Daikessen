@@ -1,0 +1,92 @@
+[
+ {
+  "id": "flight_800E89F8",
+  "en": ": Back",
+  "note": ""
+ },
+ {
+  "id": "flight_800E87B1",
+  "en": "D",
+  "note": ""
+ },
+ {
+  "id": "flight_800E87B4",
+  "en": "C",
+  "note": ""
+ },
+ {
+  "id": "flight_800E87B7",
+  "en": "B",
+  "note": ""
+ },
+ {
+  "id": "flight_800E87BA",
+  "en": "A",
+  "note": ""
+ },
+ {
+  "id": "flight_800E87BD",
+  "en": "S",
+  "note": ""
+ },
+ {
+  "id": "flight_800E87C9",
+  "en": "Forest",
+  "note": ""
+ },
+ {
+  "id": "map04_800F87EC",
+  "en": "Gera heals!",
+  "note": ""
+ },
+ {
+  "id": "map04_800F87F8",
+  "en": "Gera damaged!\nTurns until destroyed: %d\nThis is the last turn!",
+  "note": ""
+ },
+ {
+  "id": "map04_800F8838",
+  "en": "Gera damaged.\nDestroyed in %d turns.",
+  "note": ""
+ },
+ {
+  "id": "map10_800F8834",
+  "en": "Turns until missile launch: %d\nThis is your last turn to stop the launch!",
+  "note": ""
+ },
+ {
+  "id": "map10_800F8880",
+  "en": "Turns until missile launch: %d",
+  "note": ""
+ },
+ {
+  "id": "map16_800F87F0",
+  "en": "Turns to Super Weapon Cannon: %d\nThis is the last turn!",
+  "note": ""
+ },
+ {
+  "id": "map16_800F882C",
+  "en": "Turns to Super Weapon Cannon: %d",
+  "note": ""
+ },
+ {
+  "id": "map18_800F8814",
+  "en": "$f27b%%2Texas Crew%%0$s13: Th-the Dragon Turtle... has reached Alaska Base...",
+  "note": ""
+ },
+ {
+  "id": "map18_800F8860",
+  "en": "$f27a%%2Texas Crew%%0$s13: The Dragon Turtle is advancing! %d more to Alaska Base!$/$f27bI-is this the end...?!",
+  "note": "editorial: same countdown wording as map18_800F88CC"
+ },
+ {
+  "id": "map18_800F88CC",
+  "en": "$f27a%%2Texas Crew%%0$s13: The Dragon Turtle is advancing! %d more to Alaska Base!$/$f27bIt's almost there. Hurry!",
+  "note": ""
+ },
+ {
+  "id": "map18_800F8944",
+  "en": "$f27a%%2Texas Crew%%0$s13: The Dragon Turtle is advancing! %d more to Alaska Base!",
+  "note": "editorial: same countdown wording as map18_800F88CC"
+ }
+]

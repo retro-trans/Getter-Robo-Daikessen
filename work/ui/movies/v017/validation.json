@@ -1,0 +1,614 @@
+{
+  "version": "0.1.7",
+  "disc": "E:\\Projects\\Getter Robo Daikessen\\work\\output\\GetterRoboDaikessen_EN_v0.1.7.bin",
+  "movies": [
+    {
+      "movie": "C01",
+      "lba": 174600,
+      "iso_size": 28149760,
+      "raw_sectors": 13745,
+      "frames": 1373,
+      "edited": true,
+      "audio_sectors": 1712,
+      "content_verified": true,
+      "checksum_samples": 5,
+      "sectors": 13745,
+      "changed_video_sectors": 9252,
+      "unchanged_audio_sectors": 1712,
+      "source_sha256": "3daed488a03b096bdb9105c5d5ffcf796504afa3affd97198451905aa385d612",
+      "patched_sha256": "0cbc4b1e83787d909262756a3e8d6e5925ae198f4e791646acb795340579f1ec",
+      "max_rle_bytes": 52228,
+      "rle_buffer_bytes": 163840,
+      "max_bitstream_bytes": 18144,
+      "ring_buffer_bytes": 65536,
+      "render_style": {
+        "revision": 2,
+        "subtitle_background": "transparent",
+        "text_rgb": [
+          240,
+          240,
+          240
+        ],
+        "outline_rgb": [
+          0,
+          0,
+          0
+        ],
+        "outline_pixels": 1,
+        "lyric_credit_viewport_height": 202
+      },
+      "translation_sha256": "a33ec41e9c8d30a020a1d51dfd756068cc59bc95341a182aff74432f6f77a6ab",
+      "independently_decoded_frames": 1373
+    },
+    {
+      "movie": "C02",
+      "lba": 127061,
+      "iso_size": 47052800,
+      "raw_sectors": 22975,
+      "frames": 2295,
+      "edited": true,
+      "audio_sectors": 2869,
+      "content_verified": true,
+      "checksum_samples": 5,
+      "sectors": 22975,
+      "changed_video_sectors": 10389,
+      "unchanged_audio_sectors": 2869,
+      "source_sha256": "a3ebca80766a68fbf2983c1af0f51e60dd04ecb10bc13312b52710260275aa50",
+      "patched_sha256": "9ec9825926b0dc27009993374e76c2a2379ac9da95daca41252a271edec065f6",
+      "max_rle_bytes": 54020,
+      "rle_buffer_bytes": 163840,
+      "max_bitstream_bytes": 18292,
+      "ring_buffer_bytes": 65536,
+      "render_style": {
+        "revision": 2,
+        "subtitle_background": "transparent",
+        "text_rgb": [
+          240,
+          240,
+          240
+        ],
+        "outline_rgb": [
+          0,
+          0,
+          0
+        ],
+        "outline_pixels": 1,
+        "lyric_credit_viewport_height": 202
+      },
+      "translation_sha256": "5b429f7615141324a07c9c71f8b6fa92439ee0c4623a6d42828793c8c0d2c3fe",
+      "independently_decoded_frames": 2295
+    },
+    {
+      "movie": "C03",
+      "lba": 150036,
+      "iso_size": 7890944,
+      "raw_sectors": 3853,
+      "frames": 385,
+      "edited": false,
+      "audio_sectors": 476,
+      "content_verified": true,
+      "checksum_samples": 5,
+      "byte_identical_to_original": true
+    },
+    {
+      "movie": "C04",
+      "lba": 153889,
+      "iso_size": 5369856,
+      "raw_sectors": 2622,
+      "frames": 262,
+      "edited": true,
+      "audio_sectors": 327,
+      "content_verified": true,
+      "checksum_samples": 5,
+      "sectors": 2622,
+      "changed_video_sectors": 1762,
+      "unchanged_audio_sectors": 327,
+      "source_sha256": "3b3639f07ebc232ab6a2e69e09685f59a074014a75bd9b7f8d4c03d46c02bf82",
+      "patched_sha256": "85506affdd8471d57cf05a8210c1dc410a9d867168f8ceaf53c5d8f93a53765f",
+      "max_rle_bytes": 47492,
+      "rle_buffer_bytes": 163840,
+      "max_bitstream_bytes": 16544,
+      "ring_buffer_bytes": 65536,
+      "render_style": {
+        "revision": 2,
+        "subtitle_background": "transparent",
+        "text_rgb": [
+          240,
+          240,
+          240
+        ],
+        "outline_rgb": [
+          0,
+          0,
+          0
+        ],
+        "outline_pixels": 1,
+        "lyric_credit_viewport_height": 202
+      },
+      "translation_sha256": "0e389c6dd71d5c24262952384bf3774c4fe63f2a7391d4a9fbf2d1b9c49db791",
+      "independently_decoded_frames": 262
+    },
+    {
+      "movie": "C05",
+      "lba": 156511,
+      "iso_size": 9328640,
+      "raw_sectors": 4555,
+      "frames": 455,
+      "edited": true,
+      "audio_sectors": 564,
+      "content_verified": true,
+      "checksum_samples": 5,
+      "sectors": 4555,
+      "changed_video_sectors": 2883,
+      "unchanged_audio_sectors": 564,
+      "source_sha256": "6593b1938389642063735c36f16a524906c59254d3f2e435d96963768074e99f",
+      "patched_sha256": "77efa0a67a75e3174aaa05b22758166dd51767e100352ce6a7beb24d209e50af",
+      "max_rle_bytes": 45572,
+      "rle_buffer_bytes": 163840,
+      "max_bitstream_bytes": 16704,
+      "ring_buffer_bytes": 65536,
+      "render_style": {
+        "revision": 2,
+        "subtitle_background": "transparent",
+        "text_rgb": [
+          240,
+          240,
+          240
+        ],
+        "outline_rgb": [
+          0,
+          0,
+          0
+        ],
+        "outline_pixels": 1,
+        "lyric_credit_viewport_height": 202
+      },
+      "translation_sha256": "c59e0a42cd2f83a7b4792a06ba12f1d0f19ae9750c047d97602c906c0d1ea158",
+      "independently_decoded_frames": 455
+    },
+    {
+      "movie": "C06",
+      "lba": 161066,
+      "iso_size": 27717632,
+      "raw_sectors": 13534,
+      "frames": 1352,
+      "edited": true,
+      "audio_sectors": 1691,
+      "content_verified": true,
+      "checksum_samples": 5,
+      "sectors": 13534,
+      "changed_video_sectors": 9332,
+      "unchanged_audio_sectors": 1691,
+      "source_sha256": "7f5130ea06744c8b7f24a9296e8576063dff7e1179bc761495251943a59731bd",
+      "patched_sha256": "10c36b74c44ea083600a504e1a678ce5460c7af4648dfd68b3e83e2427185307",
+      "max_rle_bytes": 49796,
+      "rle_buffer_bytes": 163840,
+      "max_bitstream_bytes": 18120,
+      "ring_buffer_bytes": 65536,
+      "render_style": {
+        "revision": 2,
+        "subtitle_background": "transparent",
+        "text_rgb": [
+          240,
+          240,
+          240
+        ],
+        "outline_rgb": [
+          0,
+          0,
+          0
+        ],
+        "outline_pixels": 1,
+        "lyric_credit_viewport_height": 202
+      },
+      "translation_sha256": "32b01355652fcc72bf23b2d588f18dabcb6efd8d9744fb10129700f10334d1dd",
+      "independently_decoded_frames": 1352
+    },
+    {
+      "movie": "C07",
+      "lba": 121733,
+      "iso_size": 10911744,
+      "raw_sectors": 5328,
+      "frames": 525,
+      "edited": true,
+      "audio_sectors": 666,
+      "content_verified": true,
+      "checksum_samples": 5,
+      "sectors": 5328,
+      "changed_video_sectors": 1543,
+      "unchanged_audio_sectors": 666,
+      "source_sha256": "4a1798d6899e41d1bdf1d75dc6f845e40be787b338e8758e082ce37f5bb7acd6",
+      "patched_sha256": "e9572c055a600a61ff50f12d3d55489e7148f4326433c22c487fa92dd3e738b0",
+      "max_rle_bytes": 44676,
+      "rle_buffer_bytes": 163840,
+      "max_bitstream_bytes": 16112,
+      "ring_buffer_bytes": 65536,
+      "render_style": {
+        "revision": 2,
+        "subtitle_background": "transparent",
+        "text_rgb": [
+          240,
+          240,
+          240
+        ],
+        "outline_rgb": [
+          0,
+          0,
+          0
+        ],
+        "outline_pixels": 1,
+        "lyric_credit_viewport_height": 202
+      },
+      "translation_sha256": "b42425838cae4d700511642234c0f56587339de4bbcb2071648ce1a86459c7f7",
+      "independently_decoded_frames": 525
+    },
+    {
+      "movie": "C08",
+      "lba": 188345,
+      "iso_size": 11603968,
+      "raw_sectors": 5666,
+      "frames": 566,
+      "edited": true,
+      "audio_sectors": 691,
+      "content_verified": true,
+      "checksum_samples": 5,
+      "sectors": 5666,
+      "changed_video_sectors": 2156,
+      "unchanged_audio_sectors": 691,
+      "source_sha256": "583a38920353b6e2f8019d9f58679b90c29e58324d1cec4e312d9a29ef2c0b8d",
+      "patched_sha256": "4b4e5133527a84e8c62aa52d32a50f14c83128dc490bfd5c5b22a81e9f729e44",
+      "max_rle_bytes": 45956,
+      "rle_buffer_bytes": 163840,
+      "max_bitstream_bytes": 16376,
+      "ring_buffer_bytes": 65536,
+      "render_style": {
+        "revision": 2,
+        "subtitle_background": "transparent",
+        "text_rgb": [
+          240,
+          240,
+          240
+        ],
+        "outline_rgb": [
+          0,
+          0,
+          0
+        ],
+        "outline_pixels": 1,
+        "lyric_credit_viewport_height": 202
+      },
+      "translation_sha256": "534bfa4d45e7d18a6b9e7b92eb6567f13225e6e4a90ca5f6368260b4b952cd45",
+      "independently_decoded_frames": 566
+    },
+    {
+      "movie": "C09",
+      "lba": 194011,
+      "iso_size": 29052928,
+      "raw_sectors": 14186,
+      "frames": 1417,
+      "edited": true,
+      "audio_sectors": 1773,
+      "content_verified": true,
+      "checksum_samples": 5,
+      "sectors": 14186,
+      "changed_video_sectors": 10513,
+      "unchanged_audio_sectors": 1773,
+      "source_sha256": "0aa19c3ba93d7787ba92d59f2ca3e56076f3cba5af9f4e5409dd09f56a6b7924",
+      "patched_sha256": "0ee9648ab5077c75d2bca783b41b0d58a34ea692ba38c7ea7a91e91b49463fc1",
+      "max_rle_bytes": 49028,
+      "rle_buffer_bytes": 163840,
+      "max_bitstream_bytes": 18100,
+      "ring_buffer_bytes": 65536,
+      "render_style": {
+        "revision": 2,
+        "subtitle_background": "transparent",
+        "text_rgb": [
+          240,
+          240,
+          240
+        ],
+        "outline_rgb": [
+          0,
+          0,
+          0
+        ],
+        "outline_pixels": 1,
+        "lyric_credit_viewport_height": 202
+      },
+      "translation_sha256": "f3201d1d3cbfa2578cf1b3550ffb19be8a86e03edb7cec6acb58cdf06b970acb",
+      "independently_decoded_frames": 1417
+    },
+    {
+      "movie": "C10",
+      "lba": 208197,
+      "iso_size": 11767808,
+      "raw_sectors": 5746,
+      "frames": 574,
+      "edited": true,
+      "audio_sectors": 718,
+      "content_verified": true,
+      "checksum_samples": 5,
+      "sectors": 5746,
+      "changed_video_sectors": 4336,
+      "unchanged_audio_sectors": 718,
+      "source_sha256": "867b5b3c189e44c55d4460abee062f985d0fe4e53af84313c93c0fe11fe0cd1a",
+      "patched_sha256": "edfe2807d5aa201133552777d8b35cc02d43363c361ade5900ea1d8e336ffd58",
+      "max_rle_bytes": 47748,
+      "rle_buffer_bytes": 163840,
+      "max_bitstream_bytes": 17868,
+      "ring_buffer_bytes": 65536,
+      "render_style": {
+        "revision": 2,
+        "subtitle_background": "transparent",
+        "text_rgb": [
+          240,
+          240,
+          240
+        ],
+        "outline_rgb": [
+          0,
+          0,
+          0
+        ],
+        "outline_pixels": 1,
+        "lyric_credit_viewport_height": 202
+      },
+      "translation_sha256": "c75324884988eeb83ef7a8d71b564db5fcb4f0dcce1db93a2bd2c7af7c2425f6",
+      "independently_decoded_frames": 574
+    },
+    {
+      "movie": "C11",
+      "lba": 213943,
+      "iso_size": 13756416,
+      "raw_sectors": 6717,
+      "frames": 671,
+      "edited": true,
+      "audio_sectors": 835,
+      "content_verified": true,
+      "checksum_samples": 5,
+      "sectors": 6717,
+      "changed_video_sectors": 3401,
+      "unchanged_audio_sectors": 835,
+      "source_sha256": "82a807934b0c35a148d791224c5c2c204adcafe50eb1707dd2ddd0a724f11ccb",
+      "patched_sha256": "48c3f2853cacece4e942ccb11292fe40ca12676d607db96d12ca205d22ae12f6",
+      "max_rle_bytes": 46980,
+      "rle_buffer_bytes": 163840,
+      "max_bitstream_bytes": 16112,
+      "ring_buffer_bytes": 65536,
+      "render_style": {
+        "revision": 2,
+        "subtitle_background": "transparent",
+        "text_rgb": [
+          240,
+          240,
+          240
+        ],
+        "outline_rgb": [
+          0,
+          0,
+          0
+        ],
+        "outline_pixels": 1,
+        "lyric_credit_viewport_height": 202
+      },
+      "translation_sha256": "6b7d17f3946632fe276cee7db249cc5a49df4a8bc8f48e6d12ee5a668b59bd7c",
+      "independently_decoded_frames": 671
+    },
+    {
+      "movie": "C12",
+      "lba": 220660,
+      "iso_size": 12627968,
+      "raw_sectors": 6166,
+      "frames": 616,
+      "edited": true,
+      "audio_sectors": 761,
+      "content_verified": true,
+      "checksum_samples": 5,
+      "sectors": 6166,
+      "changed_video_sectors": 604,
+      "unchanged_audio_sectors": 761,
+      "source_sha256": "92faa4189afe5bfa47597a6a8191e49171a00e93be2efe6ecaecd1a8557d8cd7",
+      "patched_sha256": "e9d77fa8b4137efbd6553375bd0c0b0eac64ccdb130f2cf98ed7e1bfd185d898",
+      "max_rle_bytes": 45316,
+      "rle_buffer_bytes": 163840,
+      "max_bitstream_bytes": 15924,
+      "ring_buffer_bytes": 65536,
+      "render_style": {
+        "revision": 2,
+        "subtitle_background": "transparent",
+        "text_rgb": [
+          240,
+          240,
+          240
+        ],
+        "outline_rgb": [
+          0,
+          0,
+          0
+        ],
+        "outline_pixels": 1,
+        "lyric_credit_viewport_height": 202
+      },
+      "translation_sha256": "5510734e41fdfb85699dbb008b0aceeca78f52bfc639fabcd9c26fcf8fa3f36b",
+      "independently_decoded_frames": 616
+    },
+    {
+      "movie": "C13",
+      "lba": 226826,
+      "iso_size": 3667968,
+      "raw_sectors": 1791,
+      "frames": 179,
+      "edited": false,
+      "audio_sectors": 218,
+      "content_verified": true,
+      "checksum_samples": 5,
+      "byte_identical_to_original": true
+    },
+    {
+      "movie": "C14",
+      "lba": 228617,
+      "iso_size": 10065920,
+      "raw_sectors": 4915,
+      "frames": 491,
+      "edited": true,
+      "audio_sectors": 607,
+      "content_verified": true,
+      "checksum_samples": 5,
+      "sectors": 4915,
+      "changed_video_sectors": 561,
+      "unchanged_audio_sectors": 607,
+      "source_sha256": "378434fda72ede02ff72acd66892f9475d0d9564820e9b72267030c52c1e0362",
+      "patched_sha256": "99c95d81ec9e1e0fc7e2534691faf462fb1f9d81f3eec7b86420b496a0530af7",
+      "max_rle_bytes": 45444,
+      "rle_buffer_bytes": 163840,
+      "max_bitstream_bytes": 14832,
+      "ring_buffer_bytes": 65536,
+      "render_style": {
+        "revision": 2,
+        "subtitle_background": "transparent",
+        "text_rgb": [
+          240,
+          240,
+          240
+        ],
+        "outline_rgb": [
+          0,
+          0,
+          0
+        ],
+        "outline_pixels": 1,
+        "lyric_credit_viewport_height": 202
+      },
+      "translation_sha256": "24316669e8ae6a6aac0c72609215d3bd5b6c10aff59bd8fbc11fa25198bc3545",
+      "independently_decoded_frames": 491
+    },
+    {
+      "movie": "C15",
+      "lba": 233532,
+      "iso_size": 9531392,
+      "raw_sectors": 4654,
+      "frames": 465,
+      "edited": true,
+      "audio_sectors": 577,
+      "content_verified": true,
+      "checksum_samples": 5,
+      "sectors": 4654,
+      "changed_video_sectors": 2794,
+      "unchanged_audio_sectors": 577,
+      "source_sha256": "4e6857bf80d83b2a8b2eff5051c993e9ee12cb55459bb8325416e5ddbb625ce5",
+      "patched_sha256": "4859ba47b45aea0b8184e59fbc4a1358b9873745bf5d27ff46c70c3bbe943979",
+      "max_rle_bytes": 46980,
+      "rle_buffer_bytes": 163840,
+      "max_bitstream_bytes": 15736,
+      "ring_buffer_bytes": 65536,
+      "render_style": {
+        "revision": 2,
+        "subtitle_background": "transparent",
+        "text_rgb": [
+          240,
+          240,
+          240
+        ],
+        "outline_rgb": [
+          0,
+          0,
+          0
+        ],
+        "outline_pixels": 1,
+        "lyric_credit_viewport_height": 202
+      },
+      "translation_sha256": "830029ee7fbe3387188f46f70dedb3fdf3d0ed4cdd135b2f9ec6b8e5314df53b",
+      "independently_decoded_frames": 465
+    },
+    {
+      "movie": "C16",
+      "lba": 238186,
+      "iso_size": 89290752,
+      "raw_sectors": 43599,
+      "frames": 4355,
+      "edited": true,
+      "audio_sectors": 5429,
+      "content_verified": true,
+      "checksum_samples": 5,
+      "sectors": 43599,
+      "changed_video_sectors": 35777,
+      "unchanged_audio_sectors": 5429,
+      "source_sha256": "d9f7fac9c67c3473a532a7d699b4942a54225eb54c78496ff88e16e169ade10c",
+      "patched_sha256": "8241f5aee2a3d942732670211d75ca9dfffc3e18be01ef4b636bc3d187539f2b",
+      "max_rle_bytes": 52228,
+      "rle_buffer_bytes": 163840,
+      "max_bitstream_bytes": 20144,
+      "ring_buffer_bytes": 65536,
+      "render_style": {
+        "revision": 2,
+        "subtitle_background": "transparent",
+        "text_rgb": [
+          240,
+          240,
+          240
+        ],
+        "outline_rgb": [
+          0,
+          0,
+          0
+        ],
+        "outline_pixels": 1,
+        "lyric_credit_viewport_height": 202
+      },
+      "translation_sha256": "624695fdf2ebe3cc1e12634147ded034b0f02a684479be4e8ed9a1077b006be7",
+      "independently_decoded_frames": 4355
+    },
+    {
+      "movie": "CG1",
+      "lba": 18887,
+      "iso_size": 22818816,
+      "raw_sectors": 11142,
+      "frames": 1113,
+      "edited": false,
+      "audio_sectors": 1392,
+      "content_verified": true,
+      "checksum_samples": 5,
+      "byte_identical_to_original": true
+    },
+    {
+      "movie": "CG2",
+      "lba": 9415,
+      "iso_size": 19398656,
+      "raw_sectors": 9472,
+      "frames": 1892,
+      "edited": true,
+      "audio_sectors": 592,
+      "content_verified": true,
+      "checksum_samples": 5,
+      "sectors": 9472,
+      "changed_video_sectors": 525,
+      "unchanged_audio_sectors": 592,
+      "source_sha256": "724ac8ee449fbe46fbc28c591800ebac226ca1e45cba23807c6891a2f70d0798",
+      "patched_sha256": "a8b2338fa67be45fe3335c3792923b955a1441f8f3ff589dd1871b525024dcf9",
+      "max_rle_bytes": 33284,
+      "rle_buffer_bytes": 163840,
+      "max_bitstream_bytes": 11812,
+      "ring_buffer_bytes": 65536,
+      "render_style": {
+        "revision": 2,
+        "subtitle_background": "transparent",
+        "text_rgb": [
+          240,
+          240,
+          240
+        ],
+        "outline_rgb": [
+          0,
+          0,
+          0
+        ],
+        "outline_pixels": 1,
+        "lyric_credit_viewport_height": 202
+      },
+      "translation_sha256": "2e11d6d3337fb20e167ca376d0214cb419d8c54ae0523b67e66f7a4827b54719",
+      "independently_decoded_frames": 1892
+    }
+  ],
+  "human_listening_review_complete": false,
+  "real_console_tested": false
+}

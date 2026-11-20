@@ -1,0 +1,401 @@
+[
+ {
+  "id": "BT_240",
+  "en": "...!!",
+  "note": "Speaker inferred: Tsubaki. 1-kanji name string for Tsubaki (filtered by the extractor) at 0x2704 in BGR.BIN right before this line. Light hit."
+ },
+ {
+  "id": "BT_241",
+  "en": "Ngh...!!",
+  "note": "Tsubaki (inferred); hit."
+ },
+ {
+  "id": "BT_242",
+  "en": "Gahh!!",
+  "note": "Tsubaki (inferred); heavy hit."
+ },
+ {
+  "id": "BT_243",
+  "en": "This can't be... N-not me, of all people!"
+ },
+ {
+  "id": "BT_244",
+  "en": "I'll cut you to ribbons!",
+  "note": "Tsubaki (inferred); zutazuta ni shite ageru."
+ },
+ {
+  "id": "BT_245",
+  "en": "Kieeeeh!",
+  "note": "Speaker inferred: Tsubaki (Zan team; unlabelled female block BT_235-241 follows Mary's block, order assumed Akane/Tsubaki/Kaede = Rekka/Shiten/Kongo). Attack kiai. [proof] ids in this note use an older numbering: Tsubaki's block is BT_239-246."
+ },
+ {
+  "id": "BT_246",
+  "en": "You think that's enough to take me on?",
+  "note": "Speaker inferred: Tsubaki (see BT_240). Taunt: 'with only that much, you mean to compete with me?'"
+ },
+ {
+  "id": "BT_247",
+  "en": "Kaede",
+  "note": ""
+ },
+ {
+  "id": "BT_248",
+  "en": "Wah!!",
+  "note": "Speaker inferred: Kaede (block BT_242-248; childish stretched-vowel voice matches her story lines: 'Nooo way', 'Buuugs'). [proof] ids in this note use an older numbering: Kaede's block is BT_247-254."
+ },
+ {
+  "id": "BT_249",
+  "en": "Owww, that huuurts!",
+  "note": "Kaede (inferred). Hit reaction; subject/verb restored ('it hurts')."
+ },
+ {
+  "id": "BT_250",
+  "en": "Hey, what was that for?!",
+  "note": "Kaede (inferred). Hit reaction: 'what do you think you're doing?!'"
+ },
+ {
+  "id": "BT_251",
+  "en": "Mommyyy!",
+  "note": "Kaede (inferred). Death line: calls for her mother (okaachan)."
+ },
+ {
+  "id": "BT_252",
+  "en": "This button does thaaat, and this one does...",
+  "note": "Kaede (inferred). Attack line: fumbling with the controls; trails off as in the Japanese."
+ },
+ {
+  "id": "BT_253",
+  "en": "Hmmm, what should I dooo...",
+  "note": "Kaede (inferred). Attack line."
+ },
+ {
+  "id": "BT_254",
+  "en": "Don't come over heeere!",
+  "note": "Kaede (inferred). Attack line."
+ },
+ {
+  "id": "BT_255",
+  "en": "Captain",
+  "note": "Speaker label; speakers.json."
+ },
+ {
+  "id": "BT_256",
+  "en": "Ngh!",
+  "note": "Captain."
+ },
+ {
+  "id": "BT_257",
+  "en": "Ugh!!",
+  "note": "Captain."
+ },
+ {
+  "id": "BT_258",
+  "en": "Forgive me... but I'll be going down with my ship...",
+  "note": "Captain (elderly washi voice); 'I will share the ship's fate'."
+ },
+ {
+  "id": "BT_259",
+  "en": "Dr. Saotome",
+  "note": "Speaker label; speakers.json / pilot list use 'Dr. Saotome' (other battle labels such as Gore are literal, but this one has a fixed tag)."
+ },
+ {
+  "id": "BT_260",
+  "en": "Nngh...",
+  "note": "Dr. Saotome."
+ },
+ {
+  "id": "BT_261",
+  "en": "Gwoh!!",
+  "note": "Dr. Saotome."
+ },
+ {
+  "id": "BT_262",
+  "en": "Urgh!!",
+  "note": "Dr. Saotome."
+ },
+ {
+  "id": "BT_263",
+  "en": "...N-not yet... I can't die just yet!",
+  "note": "Dr. Saotome; heavy damage / defiance."
+ },
+ {
+  "id": "BT_264",
+  "en": "...As long as there's a sliver of hope, never give up the fight... Th-the world is in your hands...",
+  "note": "Dr. Saotome death line, addressed to the pilots. LONG (99 chars): may not fit the battle window."
+ },
+ {
+  "id": "BT_265",
+  "en": "Furuta",
+  "note": "Speaker label; speakers.json / pilot list."
+ },
+ {
+  "id": "BT_266",
+  "en": "Wah!",
+  "note": "Furuta."
+ },
+ {
+  "id": "BT_267",
+  "en": "Uwah!!",
+  "note": "Furuta."
+ },
+ {
+  "id": "BT_268",
+  "en": "Guhaah!",
+  "note": "Furuta."
+ },
+ {
+  "id": "BT_269",
+  "en": "Fire!",
+  "note": "Furuta (ship operator) giving the order to fire."
+ },
+ {
+  "id": "BT_270",
+  "en": "Researcher A",
+  "note": "Speaker label; pilot list."
+ },
+ {
+  "id": "BT_271",
+  "en": "Guhaah!!",
+  "note": "Researchers A/B (also Furuta-style generic)."
+ },
+ {
+  "id": "BT_272",
+  "en": "Researcher B",
+  "note": "Speaker label; pilot list."
+ },
+ {
+  "id": "BT_273",
+  "en": "Russian Commander",
+  "note": "Speaker label; speakers.json / pilot list."
+ },
+ {
+  "id": "BT_274",
+  "en": "Damn!",
+  "note": "Russian Commander."
+ },
+ {
+  "id": "BT_275",
+  "en": "Nngh!!",
+  "note": "Russian Commander."
+ },
+ {
+  "id": "BT_276",
+  "en": "So this was a reckless battle after all...",
+  "note": "Russian Commander death line (yahari = as feared)."
+ },
+ {
+  "id": "BT_277",
+  "en": "Damn it!!",
+  "note": "Speaker inferred: male player (Akira); block BT_271-277 mirrors the female block BT_278-284. [proof] ids in this note use an older numbering: BT_277-283 mirror BT_284-290."
+ },
+ {
+  "id": "BT_278",
+  "en": "Waaaaah!",
+  "note": "Akira (male player, inferred)."
+ },
+ {
+  "id": "BT_279",
+  "en": "Guess I'm still nowhere near as good as the veterans...",
+  "note": "Akira (inferred) death line. senpai-tachi = the senior/veteran pilots (Getter Team); rendered 'the veterans'."
+ },
+ {
+  "id": "BT_280",
+  "en": "Ooraaah!",
+  "note": "Akira (inferred). Attack cry."
+ },
+ {
+  "id": "BT_281",
+  "en": "There you are!",
+  "note": "Akira (inferred)."
+ },
+ {
+  "id": "BT_282",
+  "en": "So what?!",
+  "note": "Akira (inferred). Shrugging off the enemy ('what about it?!')."
+ },
+ {
+  "id": "BT_283",
+  "en": "The fun's just getting started!",
+  "note": "Akira (inferred)."
+ },
+ {
+  "id": "BT_284",
+  "en": "Geez!!",
+  "note": "Speaker inferred: female player (Kei); mirrors BT_271-277."
+ },
+ {
+  "id": "BT_285",
+  "en": "Kyaaah!",
+  "note": "Kei (female player, inferred)."
+ },
+ {
+  "id": "BT_286",
+  "en": "Guess I'm still not strong enough...",
+  "note": "Kei (inferred) death line."
+ },
+ {
+  "id": "BT_287",
+  "en": "Hyah!",
+  "note": "Kei (inferred)."
+ },
+ {
+  "id": "BT_288",
+  "en": "There you are!",
+  "note": "Kei (inferred); same as Akira's BT_275. [proof] older numbering: Akira's line is BT_281."
+ },
+ {
+  "id": "BT_289",
+  "en": "Hmph, this is nothing!",
+  "note": "Kei (inferred)."
+ },
+ {
+  "id": "BT_290",
+  "en": "The fun's just getting started!",
+  "note": "Kei (inferred); same as Akira's BT_277. [proof] older numbering: Akira's line is BT_283."
+ },
+ {
+  "id": "BT_291",
+  "en": "Flamethrower!",
+  "note": ""
+ },
+ {
+  "id": "BT_292",
+  "en": "Horn Missile!",
+  "note": ""
+ },
+ {
+  "id": "BT_293",
+  "en": "Thunderbolt!",
+  "note": ""
+ },
+ {
+  "id": "BT_294",
+  "en": "Parts Attack!",
+  "note": ""
+ },
+ {
+  "id": "BT_295",
+  "en": "Mount Punch!",
+  "note": ""
+ },
+ {
+  "id": "BT_296",
+  "en": "Uzahra Eye Beam, fire!",
+  "note": ""
+ },
+ {
+  "id": "BT_297",
+  "en": "Uzahra Head Beam, fire!",
+  "note": ""
+ },
+ {
+  "id": "BT_298",
+  "en": "Gravity Cut Beam, fire!",
+  "note": ""
+ },
+ {
+  "id": "BT_299",
+  "en": "Uzahra Eye Beam!",
+  "note": "Weapon name from MCN_2640 (Uzahra Eye Beam)."
+ },
+ {
+  "id": "BT_300",
+  "en": "Vacuum Tornado Slash!",
+  "note": ""
+ },
+ {
+  "id": "BT_301",
+  "en": "Tornado Charge!",
+  "note": ""
+ },
+ {
+  "id": "BT_302",
+  "en": "Tornado Throw!",
+  "note": ""
+ },
+ {
+  "id": "BT_303",
+  "en": "Electric Shock, fire!",
+  "note": ""
+ },
+ {
+  "id": "BT_304",
+  "en": "Tentacles!",
+  "note": ""
+ },
+ {
+  "id": "BT_305",
+  "en": "Magma Tentacle!",
+  "note": ""
+ },
+ {
+  "id": "BT_306",
+  "en": "Magma Cannon, fire!",
+  "note": ""
+ },
+ {
+  "id": "BT_307",
+  "en": "Metal Beast Production!",
+  "note": ""
+ },
+ {
+  "id": "BT_308",
+  "en": "Spawn!",
+  "note": ""
+ },
+ {
+  "id": "BT_309",
+  "en": "Cosmic Light!",
+  "note": ""
+ },
+ {
+  "id": "BT_310",
+  "en": "Ryuji",
+  "note": ""
+ },
+ {
+  "id": "BT_311",
+  "en": "Ugh!",
+  "note": ""
+ },
+ {
+  "id": "BT_312",
+  "en": "Aaagh!!",
+  "note": ""
+ },
+ {
+  "id": "BT_313",
+  "en": "Waaaaargh!!",
+  "note": ""
+ },
+ {
+  "id": "BT_314",
+  "en": "...O-our youuuth!!",
+  "note": ""
+ },
+ {
+  "id": "BT_315",
+  "en": "Raaah!",
+  "note": ""
+ },
+ {
+  "id": "BT_316",
+  "en": "Hyaaah!!",
+  "note": ""
+ },
+ {
+  "id": "BT_317",
+  "en": "Gore",
+  "note": ""
+ },
+ {
+  "id": "BT_318",
+  "en": "Ugh...",
+  "note": ""
+ },
+ {
+  "id": "BT_319",
+  "en": "Gwah!",
+  "note": ""
+ }
+]

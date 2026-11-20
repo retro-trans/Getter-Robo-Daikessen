@@ -1,0 +1,2141 @@
+[
+ {
+  "id": "MCN_0010",
+  "en": "Small Missile",
+  "note": ""
+ },
+ {
+  "id": "MCN_0044",
+  "en": "Small Jaguar Missile",
+  "note": ""
+ },
+ {
+  "id": "MCN_0078",
+  "en": "Large Missile",
+  "note": ""
+ },
+ {
+  "id": "MCN_00AC",
+  "en": "Getter Tomahawk",
+  "note": ""
+ },
+ {
+  "id": "MCN_00E0",
+  "en": "Getter Cutter",
+  "note": ""
+ },
+ {
+  "id": "MCN_0114",
+  "en": "Tomahawk Boomerang",
+  "note": ""
+ },
+ {
+  "id": "MCN_0148",
+  "en": "Getter Machine Gun",
+  "note": ""
+ },
+ {
+  "id": "MCN_017C",
+  "en": "Getter Beam",
+  "note": ""
+ },
+ {
+  "id": "MCN_01B0",
+  "en": "Drill Arm",
+  "note": ""
+ },
+ {
+  "id": "MCN_01E4",
+  "en": "Getter Arm",
+  "note": ""
+ },
+ {
+  "id": "MCN_0218",
+  "en": "Jet Drill",
+  "note": ""
+ },
+ {
+  "id": "MCN_024C",
+  "en": "Drill Storm",
+  "note": ""
+ },
+ {
+  "id": "MCN_0280",
+  "en": "Getter Vision",
+  "note": ""
+ },
+ {
+  "id": "MCN_02B4",
+  "en": "Getter Smash",
+  "note": ""
+ },
+ {
+  "id": "MCN_02E8",
+  "en": "Getter Crush",
+  "note": ""
+ },
+ {
+  "id": "MCN_031C",
+  "en": "Getter Missile",
+  "note": ""
+ },
+ {
+  "id": "MCN_0350",
+  "en": "Daisetsuzan Oroshi",
+  "note": ""
+ },
+ {
+  "id": "MCN_0384",
+  "en": "Getter Tomahawk",
+  "note": ""
+ },
+ {
+  "id": "MCN_03B8",
+  "en": "Tomahawk Boomerang",
+  "note": ""
+ },
+ {
+  "id": "MCN_03EC",
+  "en": "Drill Arm",
+  "note": ""
+ },
+ {
+  "id": "MCN_0420",
+  "en": "Jet Drill",
+  "note": ""
+ },
+ {
+  "id": "MCN_0454",
+  "en": "Getter Spin Knuckle",
+  "note": ""
+ },
+ {
+  "id": "MCN_0488",
+  "en": "Getter Jumping Press",
+  "note": ""
+ },
+ {
+  "id": "MCN_04BC",
+  "en": "Vulcan",
+  "note": ""
+ },
+ {
+  "id": "MCN_04F0",
+  "en": "Laser",
+  "note": ""
+ },
+ {
+  "id": "MCN_0524",
+  "en": "Large Missile",
+  "note": ""
+ },
+ {
+  "id": "MCN_0558",
+  "en": "Double Tomahawk",
+  "note": ""
+ },
+ {
+  "id": "MCN_058C",
+  "en": "Spin Cutter",
+  "note": ""
+ },
+ {
+  "id": "MCN_05C0",
+  "en": "Double Tomahawk Boomerang",
+  "note": ""
+ },
+ {
+  "id": "MCN_05F4",
+  "en": "Getter Beam",
+  "note": ""
+ },
+ {
+  "id": "MCN_0628",
+  "en": "Getter Beam Launcher",
+  "note": ""
+ },
+ {
+  "id": "MCN_065C",
+  "en": "Shine Spark",
+  "note": ""
+ },
+ {
+  "id": "MCN_0690",
+  "en": "Drill Arm",
+  "note": ""
+ },
+ {
+  "id": "MCN_06C4",
+  "en": "Chain Attack",
+  "note": ""
+ },
+ {
+  "id": "MCN_06F8",
+  "en": "Liger Missile",
+  "note": ""
+ },
+ {
+  "id": "MCN_072C",
+  "en": "Mach Special",
+  "note": ""
+ },
+ {
+  "id": "MCN_0760",
+  "en": "Burst Attack",
+  "note": ""
+ },
+ {
+  "id": "MCN_0794",
+  "en": "Strong Missile",
+  "note": ""
+ },
+ {
+  "id": "MCN_07C8",
+  "en": "Finger Net",
+  "note": ""
+ },
+ {
+  "id": "MCN_07FC",
+  "en": "Getter Cyclone",
+  "note": ""
+ },
+ {
+  "id": "MCN_0830",
+  "en": "Vulcan",
+  "note": ""
+ },
+ {
+  "id": "MCN_0864",
+  "en": "Vulcan",
+  "note": ""
+ },
+ {
+  "id": "MCN_0898",
+  "en": "Missile",
+  "note": ""
+ },
+ {
+  "id": "MCN_08CC",
+  "en": "Knuckle Bomber",
+  "note": ""
+ },
+ {
+  "id": "MCN_0900",
+  "en": "Leg Blade",
+  "note": ""
+ },
+ {
+  "id": "MCN_0934",
+  "en": "Handy Missile Cannon",
+  "note": ""
+ },
+ {
+  "id": "MCN_0968",
+  "en": "Mag Force Thunder",
+  "note": ""
+ },
+ {
+  "id": "MCN_099C",
+  "en": "Knuckle Bomber",
+  "note": ""
+ },
+ {
+  "id": "MCN_09D0",
+  "en": "Leg Blade",
+  "note": ""
+ },
+ {
+  "id": "MCN_0A04",
+  "en": "Handy Missile Cannon",
+  "note": ""
+ },
+ {
+  "id": "MCN_0A38",
+  "en": "Mag Force Thunder",
+  "note": ""
+ },
+ {
+  "id": "MCN_0A6C",
+  "en": "Sword Tomahawk",
+  "note": ""
+ },
+ {
+  "id": "MCN_0AA0",
+  "en": "Breast Bomber",
+  "note": ""
+ },
+ {
+  "id": "MCN_0AD4",
+  "en": "String Attack",
+  "note": ""
+ },
+ {
+  "id": "MCN_0B08",
+  "en": "Tornado Attack",
+  "note": ""
+ },
+ {
+  "id": "MCN_0B3C",
+  "en": "Harpoon Cannon",
+  "note": ""
+ },
+ {
+  "id": "MCN_0B70",
+  "en": "Impact Cannon",
+  "note": ""
+ },
+ {
+  "id": "MCN_0BA4",
+  "en": "Breast Beam",
+  "note": ""
+ },
+ {
+  "id": "MCN_0BD8",
+  "en": "Spin Tornado Attack",
+  "note": ""
+ },
+ {
+  "id": "MCN_0C0C",
+  "en": "Straight Beam",
+  "note": ""
+ },
+ {
+  "id": "MCN_0C40",
+  "en": "Spread Beam",
+  "note": ""
+ },
+ {
+  "id": "MCN_0C74",
+  "en": "Guided Missile",
+  "note": ""
+ },
+ {
+  "id": "MCN_0CA8",
+  "en": "Shin Getter Tomahawk",
+  "note": ""
+ },
+ {
+  "id": "MCN_0CDC",
+  "en": "Split Beam",
+  "note": ""
+ },
+ {
+  "id": "MCN_0D10",
+  "en": "Shin Getter Beam",
+  "note": ""
+ },
+ {
+  "id": "MCN_0D44",
+  "en": "Stoner Sunshine",
+  "note": ""
+ },
+ {
+  "id": "MCN_0D78",
+  "en": "Shin Getter Tomahawk",
+  "note": ""
+ },
+ {
+  "id": "MCN_0DAC",
+  "en": "Split Beam",
+  "note": ""
+ },
+ {
+  "id": "MCN_0DE0",
+  "en": "Shin Getter Beam",
+  "note": ""
+ },
+ {
+  "id": "MCN_0E14",
+  "en": "Stoner Sunshine",
+  "note": ""
+ },
+ {
+  "id": "MCN_0E48",
+  "en": "Shin Getter Drill",
+  "note": ""
+ },
+ {
+  "id": "MCN_0E7C",
+  "en": "Shin Scissor Arm",
+  "note": ""
+ },
+ {
+  "id": "MCN_0EB0",
+  "en": "Shin Drill Hurricane",
+  "note": ""
+ },
+ {
+  "id": "MCN_0EE4",
+  "en": "Shin Drill Shaker",
+  "note": ""
+ },
+ {
+  "id": "MCN_0F18",
+  "en": "Shin Getter Vision",
+  "note": ""
+ },
+ {
+  "id": "MCN_0F4C",
+  "en": "Shin Getter Blow",
+  "note": ""
+ },
+ {
+  "id": "MCN_0F80",
+  "en": "Shin Getter Crush",
+  "note": ""
+ },
+ {
+  "id": "MCN_0FB4",
+  "en": "Missile Storm",
+  "note": ""
+ },
+ {
+  "id": "MCN_0FE8",
+  "en": "Shin Daisetsuzan Oroshi",
+  "note": ""
+ },
+ {
+  "id": "MCN_101C",
+  "en": "Small Vulcan",
+  "note": ""
+ },
+ {
+  "id": "MCN_1050",
+  "en": "Small Vulcan",
+  "note": ""
+ },
+ {
+  "id": "MCN_1084",
+  "en": "Small Missile",
+  "note": ""
+ },
+ {
+  "id": "MCN_10B8",
+  "en": "Hizanto",
+  "note": ""
+ },
+ {
+  "id": "MCN_10EC",
+  "en": "Flower Frenzy",
+  "note": ""
+ },
+ {
+  "id": "MCN_1120",
+  "en": "Twin Flower Frenzy",
+  "note": ""
+ },
+ {
+  "id": "MCN_1154",
+  "en": "Combined Windmill",
+  "note": ""
+ },
+ {
+  "id": "MCN_1188",
+  "en": "Demonslayer Ray",
+  "note": ""
+ },
+ {
+  "id": "MCN_11BC",
+  "en": "Gale Needles",
+  "note": ""
+ },
+ {
+  "id": "MCN_11F0",
+  "en": "Myriad Needles",
+  "note": ""
+ },
+ {
+  "id": "MCN_1224",
+  "en": "Serpent Spiral Ray",
+  "note": ""
+ },
+ {
+  "id": "MCN_1258",
+  "en": "Getter Shadow Clone",
+  "note": ""
+ },
+ {
+  "id": "MCN_128C",
+  "en": "Rush",
+  "note": ""
+ },
+ {
+  "id": "MCN_12C0",
+  "en": "Rockbreaker Palm",
+  "note": ""
+ },
+ {
+  "id": "MCN_12F4",
+  "en": "Great Blade Shuriken",
+  "note": ""
+ },
+ {
+  "id": "MCN_1328",
+  "en": "Shura Depth Charge",
+  "note": ""
+ },
+ {
+  "id": "MCN_135C",
+  "en": "Getter Tomahawk",
+  "note": ""
+ },
+ {
+  "id": "MCN_1390",
+  "en": "Drill Rock Buster",
+  "note": ""
+ },
+ {
+  "id": "MCN_13C4",
+  "en": "Arm Gun",
+  "note": ""
+ },
+ {
+  "id": "MCN_13F8",
+  "en": "Dark Frenzy",
+  "note": ""
+ },
+ {
+  "id": "MCN_142C",
+  "en": "Getter Beam",
+  "note": ""
+ },
+ {
+  "id": "MCN_1460",
+  "en": "Shin Tomahawk Boomerang",
+  "note": ""
+ },
+ {
+  "id": "MCN_1494",
+  "en": "Shin Drill Arm",
+  "note": ""
+ },
+ {
+  "id": "MCN_14C8",
+  "en": "Shin Strong Missile",
+  "note": ""
+ },
+ {
+  "id": "MCN_14FC",
+  "en": "Shin Getter Beam Launcher",
+  "note": ""
+ },
+ {
+  "id": "MCN_1530",
+  "en": "Shin Shine Spark",
+  "note": ""
+ },
+ {
+  "id": "MCN_1564",
+  "en": "Silent Vulcan",
+  "note": ""
+ },
+ {
+  "id": "MCN_1598",
+  "en": "Drill Attack",
+  "note": ""
+ },
+ {
+  "id": "MCN_15CC",
+  "en": "Vulcan",
+  "note": ""
+ },
+ {
+  "id": "MCN_1600",
+  "en": "Hand Cutter",
+  "note": ""
+ },
+ {
+  "id": "MCN_1634",
+  "en": "Boomerang Wing",
+  "note": ""
+ },
+ {
+  "id": "MCN_1668",
+  "en": "ST Blaster",
+  "note": ""
+ },
+ {
+  "id": "MCN_169C",
+  "en": "Blast Succession",
+  "note": ""
+ },
+ {
+  "id": "MCN_16D0",
+  "en": "Strike Armed",
+  "note": ""
+ },
+ {
+  "id": "MCN_1704",
+  "en": "Spread Missile",
+  "note": ""
+ },
+ {
+  "id": "MCN_1738",
+  "en": "Super Weapon Cannon",
+  "note": ""
+ },
+ {
+  "id": "MCN_176C",
+  "en": "Heavy Press",
+  "note": ""
+ },
+ {
+  "id": "MCN_17A0",
+  "en": "Double Cannon",
+  "note": ""
+ },
+ {
+  "id": "MCN_17D4",
+  "en": "Triple Missile",
+  "note": ""
+ },
+ {
+  "id": "MCN_1808",
+  "en": "Super Heavy Press",
+  "note": ""
+ },
+ {
+  "id": "MCN_183C",
+  "en": "Stun Saber",
+  "note": ""
+ },
+ {
+  "id": "MCN_1870",
+  "en": "Homing Torpedo",
+  "note": ""
+ },
+ {
+  "id": "MCN_18A4",
+  "en": "Submarine Support",
+  "note": ""
+ },
+ {
+  "id": "MCN_18D8",
+  "en": "Large Rapid-Fire Gun",
+  "note": ""
+ },
+ {
+  "id": "MCN_190C",
+  "en": "Spread Mines",
+  "note": ""
+ },
+ {
+  "id": "MCN_1940",
+  "en": "Heat Rod",
+  "note": ""
+ },
+ {
+  "id": "MCN_1974",
+  "en": "Remote Combination",
+  "note": ""
+ },
+ {
+  "id": "MCN_19A8",
+  "en": "Texas Magnum 444",
+  "note": ""
+ },
+ {
+  "id": "MCN_19DC",
+  "en": "Texas Rifle",
+  "note": ""
+ },
+ {
+  "id": "MCN_1A10",
+  "en": "Texas Blade",
+  "note": ""
+ },
+ {
+  "id": "MCN_1A44",
+  "en": "Over Boost",
+  "note": ""
+ },
+ {
+  "id": "MCN_1A78",
+  "en": "Ground Laser",
+  "note": ""
+ },
+ {
+  "id": "MCN_1AAC",
+  "en": "Dover Cannon",
+  "note": ""
+ },
+ {
+  "id": "MCN_1AE0",
+  "en": "Emperor Beam",
+  "note": ""
+ },
+ {
+  "id": "MCN_1B14",
+  "en": "Buzzsaw Boomerang",
+  "note": ""
+ },
+ {
+  "id": "MCN_1B48",
+  "en": "Dorsal Cutter",
+  "note": ""
+ },
+ {
+  "id": "MCN_1B7C",
+  "en": "Horn Charge",
+  "note": ""
+ },
+ {
+  "id": "MCN_1BB0",
+  "en": "Horn Boomerang",
+  "note": ""
+ },
+ {
+  "id": "MCN_1BE4",
+  "en": "Pounce",
+  "note": ""
+ },
+ {
+  "id": "MCN_1C18",
+  "en": "Arrow Missile",
+  "note": ""
+ },
+ {
+  "id": "MCN_1C4C",
+  "en": "Vacuum Tornado Throw",
+  "note": ""
+ },
+ {
+  "id": "MCN_1C80",
+  "en": "Clinging Drill",
+  "note": ""
+ },
+ {
+  "id": "MCN_1CB4",
+  "en": "Tunnel Torpedo Charge"
+ },
+ {
+  "id": "MCN_1CE8",
+  "en": "Bite",
+  "note": ""
+ },
+ {
+  "id": "MCN_1D1C",
+  "en": "Launch Bat Men",
+  "note": ""
+ },
+ {
+  "id": "MCN_1D50",
+  "en": "Missile",
+  "note": ""
+ },
+ {
+  "id": "MCN_1D84",
+  "en": "Scratch Climb",
+  "note": ""
+ },
+ {
+  "id": "MCN_1DB8",
+  "en": "Binding Foot",
+  "note": ""
+ },
+ {
+  "id": "MCN_1DEC",
+  "en": "Large Guided Missile"
+ },
+ {
+  "id": "MCN_1E20",
+  "en": "Howl",
+  "note": ""
+ },
+ {
+  "id": "MCN_1E54",
+  "en": "Tornado Charge",
+  "note": ""
+ },
+ {
+  "id": "MCN_1E88",
+  "en": "Tornado Vacuum Slash",
+  "note": ""
+ },
+ {
+  "id": "MCN_1EBC",
+  "en": "Tornado Throw",
+  "note": ""
+ },
+ {
+  "id": "MCN_1EF0",
+  "en": "Thunder Roar",
+  "note": ""
+ },
+ {
+  "id": "MCN_1F24",
+  "en": "Horn Scoop Stab",
+  "note": ""
+ },
+ {
+  "id": "MCN_1F58",
+  "en": "Cobra Venom",
+  "note": ""
+ },
+ {
+  "id": "MCN_1F8C",
+  "en": "Spread Melt Shock",
+  "note": ""
+ },
+ {
+  "id": "MCN_1FC0",
+  "en": "Plasma Shield",
+  "note": ""
+ },
+ {
+  "id": "MCN_1FF4",
+  "en": "Horiz. Claw Chop",
+  "note": ""
+ },
+ {
+  "id": "MCN_2028",
+  "en": "Neck Thrust",
+  "note": ""
+ },
+ {
+  "id": "MCN_205C",
+  "en": "Electric Shock",
+  "note": ""
+ },
+ {
+  "id": "MCN_2090",
+  "en": "Launch Escorts",
+  "note": ""
+ },
+ {
+  "id": "MCN_20C4",
+  "en": "Hurricane",
+  "note": ""
+ },
+ {
+  "id": "MCN_20F8",
+  "en": "Getter Tomahawk",
+  "note": ""
+ },
+ {
+  "id": "MCN_212C",
+  "en": "Getter Cutter",
+  "note": ""
+ },
+ {
+  "id": "MCN_2160",
+  "en": "Drill Arm",
+  "note": ""
+ },
+ {
+  "id": "MCN_2194",
+  "en": "Jet Drill",
+  "note": ""
+ },
+ {
+  "id": "MCN_21C8",
+  "en": "Getter Smash",
+  "note": ""
+ },
+ {
+  "id": "MCN_21FC",
+  "en": "Getter Missile",
+  "note": ""
+ },
+ {
+  "id": "MCN_2230",
+  "en": "None",
+  "note": ""
+ },
+ {
+  "id": "MCN_2264",
+  "en": "Wing Cutter",
+  "note": ""
+ },
+ {
+  "id": "MCN_2298",
+  "en": "Air Cutter",
+  "note": ""
+ },
+ {
+  "id": "MCN_22CC",
+  "en": "Tail Slam",
+  "note": ""
+ },
+ {
+  "id": "MCN_2300",
+  "en": "Shell Shot",
+  "note": ""
+ },
+ {
+  "id": "MCN_2334",
+  "en": "Tentacle Press",
+  "note": ""
+ },
+ {
+  "id": "MCN_2368",
+  "en": "Leap",
+  "note": ""
+ },
+ {
+  "id": "MCN_239C",
+  "en": "Air Torpedo",
+  "note": ""
+ },
+ {
+  "id": "MCN_23D0",
+  "en": "Telekinesis",
+  "note": ""
+ },
+ {
+  "id": "MCN_2404",
+  "en": "Sickle Cutter 1",
+  "note": ""
+ },
+ {
+  "id": "MCN_2438",
+  "en": "Sickle Cutter 2",
+  "note": ""
+ },
+ {
+  "id": "MCN_246C",
+  "en": "Disc Cutter Slash",
+  "note": ""
+ },
+ {
+  "id": "MCN_24A0",
+  "en": "Homing Disc Cutter",
+  "note": ""
+ },
+ {
+  "id": "MCN_24D4",
+  "en": "Large Missile",
+  "note": ""
+ },
+ {
+  "id": "MCN_2508",
+  "en": "Belt Saber",
+  "note": ""
+ },
+ {
+  "id": "MCN_2570",
+  "en": "Jyubo Sword",
+  "note": ""
+ },
+ {
+  "id": "MCN_25A4",
+  "en": "Uzahra Head Beam",
+  "note": ""
+ },
+ {
+  "id": "MCN_25D8",
+  "en": "Uzahra Bite",
+  "note": ""
+ },
+ {
+  "id": "MCN_260C",
+  "en": "Gravity Cut Beam",
+  "note": ""
+ },
+ {
+  "id": "MCN_2640",
+  "en": "Uzahra Eye Beam",
+  "note": ""
+ },
+ {
+  "id": "MCN_2674",
+  "en": "Iron Club Smash"
+ },
+ {
+  "id": "MCN_26DC",
+  "en": "Missile Launcher",
+  "note": ""
+ },
+ {
+  "id": "MCN_2710",
+  "en": "Parts Attack",
+  "note": ""
+ },
+ {
+  "id": "MCN_2744",
+  "en": "Mount Punch",
+  "note": ""
+ },
+ {
+  "id": "MCN_27AC",
+  "en": "Horn Homing Missile",
+  "note": ""
+ },
+ {
+  "id": "MCN_27E0",
+  "en": "Flamethrower",
+  "note": ""
+ },
+ {
+  "id": "MCN_2814",
+  "en": "Gust Cannon",
+  "note": ""
+ },
+ {
+  "id": "MCN_2848",
+  "en": "Claw Flurry",
+  "note": ""
+ },
+ {
+  "id": "MCN_287C",
+  "en": "None",
+  "note": ""
+ },
+ {
+  "id": "MCN_28B0",
+  "en": "Venom Sting",
+  "note": ""
+ },
+ {
+  "id": "MCN_28E4",
+  "en": "Arm Bite",
+  "note": ""
+ },
+ {
+  "id": "MCN_2918",
+  "en": "Spin Attack",
+  "note": ""
+ },
+ {
+  "id": "MCN_294C",
+  "en": "Knockdown",
+  "note": ""
+ },
+ {
+  "id": "MCN_2980",
+  "en": "Dropkick",
+  "note": ""
+ },
+ {
+  "id": "MCN_29B4",
+  "en": "Acid",
+  "note": ""
+ },
+ {
+  "id": "MCN_29E8",
+  "en": "Pincer Attack",
+  "note": ""
+ },
+ {
+  "id": "MCN_2A1C",
+  "en": "Satellite Sight Laser",
+  "note": ""
+ },
+ {
+  "id": "MCN_2A50",
+  "en": "Small Twin Laser"
+ },
+ {
+  "id": "MCN_2A84",
+  "en": "Illusion Wave",
+  "note": ""
+ },
+ {
+  "id": "MCN_2AB8",
+  "en": "Subspace Cosmos",
+  "note": ""
+ },
+ {
+  "id": "MCN_2AEC",
+  "en": "Satellite Sight Laser Cannon",
+  "note": ""
+ },
+ {
+  "id": "MCN_2B20",
+  "en": "Iai Slash",
+  "note": ""
+ },
+ {
+  "id": "MCN_2B54",
+  "en": "Eye Laser",
+  "note": ""
+ },
+ {
+  "id": "MCN_2B88",
+  "en": "Hyper Acceleration",
+  "note": ""
+ },
+ {
+  "id": "MCN_2BBC",
+  "en": "Uzahra Head Beam",
+  "note": ""
+ },
+ {
+  "id": "MCN_2BF0",
+  "en": "Uzahra Bite",
+  "note": ""
+ },
+ {
+  "id": "MCN_2C24",
+  "en": "Gravity Cut Beam",
+  "note": ""
+ },
+ {
+  "id": "MCN_2C58",
+  "en": "Uzahra Eye Beam",
+  "note": ""
+ },
+ {
+  "id": "MCN_2C8C",
+  "en": "Large Long-Range Gun"
+ },
+ {
+  "id": "MCN_2CC0",
+  "en": "Magma Cannon",
+  "note": ""
+ },
+ {
+  "id": "MCN_2CF4",
+  "en": "Magma Tentacle",
+  "note": ""
+ },
+ {
+  "id": "MCN_2D28",
+  "en": "Metal Beast Production",
+  "note": ""
+ },
+ {
+  "id": "MCN_2D5C",
+  "en": "None",
+  "note": ""
+ },
+ {
+  "id": "MCN_2D90",
+  "en": "HP Drain",
+  "note": ""
+ },
+ {
+  "id": "MCN_2DC4",
+  "en": "Bite",
+  "note": ""
+ },
+ {
+  "id": "MCN_2DF8",
+  "en": "Undermine",
+  "note": ""
+ },
+ {
+  "id": "MCN_2E2C",
+  "en": "1000 Needles",
+  "note": ""
+ },
+ {
+  "id": "MCN_2E60",
+  "en": "Needle Charge"
+ },
+ {
+  "id": "MCN_2E94",
+  "en": "Jaw Throw",
+  "note": ""
+ },
+ {
+  "id": "MCN_2EC8",
+  "en": "Impale",
+  "note": ""
+ },
+ {
+  "id": "MCN_2EFC",
+  "en": "Dark Matter",
+  "note": ""
+ },
+ {
+  "id": "MCN_2F30",
+  "en": "Space Warp",
+  "note": ""
+ },
+ {
+  "id": "MCN_2F64",
+  "en": "Subspace Orb",
+  "note": ""
+ },
+ {
+  "id": "MCN_2FCC",
+  "en": "Time, Stop!",
+  "note": ""
+ },
+ {
+  "id": "MCN_3000",
+  "en": "Time, Turn Back!",
+  "note": ""
+ },
+ {
+  "id": "MCN_3034",
+  "en": "Getter-1",
+  "note": ""
+ },
+ {
+  "id": "MCN_306E",
+  "en": "Getter-2",
+  "note": ""
+ },
+ {
+  "id": "MCN_30A8",
+  "en": "Getter-3",
+  "note": ""
+ },
+ {
+  "id": "MCN_30E2",
+  "en": "Eagle-Gou",
+  "note": ""
+ },
+ {
+  "id": "MCN_311C",
+  "en": "Jaguar-Gou",
+  "note": ""
+ },
+ {
+  "id": "MCN_3156",
+  "en": "Bear-Gou",
+  "note": ""
+ },
+ {
+  "id": "MCN_3190",
+  "en": "Getter-1/2",
+  "note": ""
+ },
+ {
+  "id": "MCN_31CA",
+  "en": "Getter-2/3",
+  "note": ""
+ },
+ {
+  "id": "MCN_3204",
+  "en": "Getter-3/1",
+  "note": ""
+ },
+ {
+  "id": "MCN_323E",
+  "en": "Getter Dragon",
+  "note": ""
+ },
+ {
+  "id": "MCN_3278",
+  "en": "Getter Liger",
+  "note": ""
+ },
+ {
+  "id": "MCN_32B2",
+  "en": "Getter Poseidon",
+  "note": ""
+ },
+ {
+  "id": "MCN_32EC",
+  "en": "Dragon-Gou",
+  "note": ""
+ },
+ {
+  "id": "MCN_3326",
+  "en": "Liger-Gou",
+  "note": ""
+ },
+ {
+  "id": "MCN_3360",
+  "en": "Poseidon-Gou",
+  "note": ""
+ },
+ {
+  "id": "MCN_340E",
+  "en": "Getter Gai",
+  "note": ""
+ },
+ {
+  "id": "MCN_3448",
+  "en": "Get Machine 1",
+  "note": ""
+ },
+ {
+  "id": "MCN_3482",
+  "en": "Get Machine 2",
+  "note": ""
+ },
+ {
+  "id": "MCN_34BC",
+  "en": "Get Machine 3",
+  "note": ""
+ },
+ {
+  "id": "MCN_34F6",
+  "en": "Shin Getter-1",
+  "note": ""
+ },
+ {
+  "id": "MCN_3530",
+  "en": "Shin Getter-2",
+  "note": ""
+ },
+ {
+  "id": "MCN_356A",
+  "en": "Shin Getter-3",
+  "note": ""
+ },
+ {
+  "id": "MCN_35A4",
+  "en": "Shin Eagle-Gou",
+  "note": ""
+ },
+ {
+  "id": "MCN_35DE",
+  "en": "Shin Jaguar-Gou",
+  "note": ""
+ },
+ {
+  "id": "MCN_3618",
+  "en": "Shin Bear-Gou",
+  "note": ""
+ },
+ {
+  "id": "MCN_3652",
+  "en": "Shin Getter Dragon",
+  "note": ""
+ },
+ {
+  "id": "MCN_368C",
+  "en": "Black Getter",
+  "note": ""
+ },
+ {
+  "id": "MCN_36C6",
+  "en": "Getter Rekka",
+  "note": ""
+ },
+ {
+  "id": "MCN_3700",
+  "en": "Getter Shiten",
+  "note": ""
+ },
+ {
+  "id": "MCN_373A",
+  "en": "Getter Kongo",
+  "note": ""
+ },
+ {
+  "id": "MCN_3774",
+  "en": "Rekka-Gou",
+  "note": ""
+ },
+ {
+  "id": "MCN_37AE",
+  "en": "Shiten-Gou",
+  "note": ""
+ },
+ {
+  "id": "MCN_37E8",
+  "en": "Kongo-Gou",
+  "note": ""
+ },
+ {
+  "id": "MCN_3822",
+  "en": "BT-23",
+  "note": ""
+ },
+ {
+  "id": "MCN_385C",
+  "en": "Lady Command",
+  "note": ""
+ },
+ {
+  "id": "MCN_3896",
+  "en": "Kujira 2005D1",
+  "note": ""
+ },
+ {
+  "id": "MCN_38D0",
+  "en": "Getter Emperor",
+  "note": ""
+ },
+ {
+  "id": "MCN_390A",
+  "en": "Stilva",
+  "note": ""
+ },
+ {
+  "id": "MCN_3944",
+  "en": "Stilva",
+  "note": ""
+ },
+ {
+  "id": "MCN_397E",
+  "en": "Volga 80000",
+  "note": ""
+ },
+ {
+  "id": "MCN_39B8",
+  "en": "Robo Stone",
+  "note": ""
+ },
+ {
+  "id": "MCN_39F2",
+  "en": "Kingdom 007",
+  "note": ""
+ },
+ {
+  "id": "MCN_3A2C",
+  "en": "Gustaf",
+  "note": ""
+ },
+ {
+  "id": "MCN_3A66",
+  "en": "Texas Mack",
+  "note": ""
+ },
+ {
+  "id": "MCN_3AA0",
+  "en": "Battleship Texas",
+  "note": ""
+ },
+ {
+  "id": "MCN_3ADA",
+  "en": "Bazu",
+  "note": ""
+ },
+ {
+  "id": "MCN_3B14",
+  "en": "Baru",
+  "note": ""
+ },
+ {
+  "id": "MCN_3B4E",
+  "en": "Giro",
+  "note": ""
+ },
+ {
+  "id": "MCN_3B88",
+  "en": "Jiga",
+  "note": ""
+ },
+ {
+  "id": "MCN_3BC2",
+  "en": "Mogrow",
+  "note": ""
+ },
+ {
+  "id": "MCN_3BFC",
+  "en": "Gigi",
+  "note": ""
+ },
+ {
+  "id": "MCN_3C36",
+  "en": "Uru",
+  "note": ""
+ },
+ {
+  "id": "MCN_3C70",
+  "en": "Mecha Typhoon",
+  "note": ""
+ },
+ {
+  "id": "MCN_3CAA",
+  "en": "Moba",
+  "note": ""
+ },
+ {
+  "id": "MCN_3CE4",
+  "en": "Pikudoron",
+  "note": ""
+ },
+ {
+  "id": "MCN_3D1E",
+  "en": "Gera",
+  "note": ""
+ },
+ {
+  "id": "MCN_3D58",
+  "en": "Anglerfish",
+  "note": ""
+ },
+ {
+  "id": "MCN_3D92",
+  "en": "MP Getter-1",
+  "note": ""
+ },
+ {
+  "id": "MCN_3DCC",
+  "en": "MP Getter-2",
+  "note": ""
+ },
+ {
+  "id": "MCN_3E06",
+  "en": "MP Getter-3",
+  "note": ""
+ },
+ {
+  "id": "MCN_3E40",
+  "en": "Mecha Hangetsuki",
+  "note": ""
+ },
+ {
+  "id": "MCN_3E7A",
+  "en": "Mecha Ikkakuki",
+  "note": ""
+ },
+ {
+  "id": "MCN_3EB4",
+  "en": "Mecha Kaiouki",
+  "note": ""
+ },
+ {
+  "id": "MCN_3EEE",
+  "en": "Mecha Santoki",
+  "note": ""
+ },
+ {
+  "id": "MCN_3F28",
+  "en": "Kyoraiki",
+  "note": ""
+ },
+ {
+  "id": "MCN_3F62",
+  "en": "Mecha Kotoki",
+  "note": ""
+ },
+ {
+  "id": "MCN_3F9C",
+  "en": "Mecha Gohonki",
+  "note": ""
+ },
+ {
+  "id": "MCN_3FD6",
+  "en": "Mecha Ipponki",
+  "note": ""
+ },
+ {
+  "id": "MCN_4010",
+  "en": "Uzahra",
+  "note": ""
+ },
+ {
+  "id": "MCN_404A",
+  "en": "Mecha Tekkoki",
+  "note": ""
+ },
+ {
+  "id": "MCN_4084",
+  "en": "Maouki",
+  "note": ""
+ },
+ {
+  "id": "MCN_40BE",
+  "en": "Kyojuki",
+  "note": ""
+ },
+ {
+  "id": "MCN_40F8",
+  "en": "Bean",
+  "note": ""
+ },
+ {
+  "id": "MCN_4132",
+  "en": "Worm",
+  "note": ""
+ },
+ {
+  "id": "MCN_416C",
+  "en": "Jakotsu",
+  "note": ""
+ },
+ {
+  "id": "MCN_41A6",
+  "en": "Crab",
+  "note": ""
+ },
+ {
+  "id": "MCN_421A",
+  "en": "Bein RX1",
+  "note": ""
+ },
+ {
+  "id": "MCN_4254",
+  "en": "Garman B25",
+  "note": ""
+ },
+ {
+  "id": "MCN_428E",
+  "en": "Satellite",
+  "note": ""
+ },
+ {
+  "id": "MCN_42C8",
+  "en": "Garon Z54",
+  "note": ""
+ },
+ {
+  "id": "MCN_4302",
+  "en": "Remodeled Uzahra",
+  "note": ""
+ },
+ {
+  "id": "MCN_433C",
+  "en": "Dragon Turtle",
+  "note": ""
+ },
+ {
+  "id": "MCN_4376",
+  "en": "Deviler Mu",
+  "note": ""
+ },
+ {
+  "id": "MCN_43B0",
+  "en": "Vega Zone",
+  "note": ""
+ },
+ {
+  "id": "MCN_43EA",
+  "en": "Satellite",
+  "note": ""
+ },
+ {
+  "id": "MCN_4424",
+  "en": "Mecha Cicada",
+  "note": ""
+ },
+ {
+  "id": "MCN_445E",
+  "en": "Mecha Ant",
+  "note": ""
+ },
+ {
+  "id": "MCN_4498",
+  "en": "Mecha Antlion",
+  "note": ""
+ },
+ {
+  "id": "MCN_44D2",
+  "en": "Mecha Bee",
+  "note": ""
+ },
+ {
+  "id": "MCN_450C",
+  "en": "Mecha Stag",
+  "note": ""
+ },
+ {
+  "id": "MCN_4546",
+  "en": "Hogram D7",
+  "note": ""
+ },
+ {
+  "id": "MCN_4580",
+  "en": "Time Bug Chrono Worm",
+  "note": ""
+ },
+ {
+  "id": "MCN_45F4",
+  "en": "Battleship Dai",
+  "note": ""
+ },
+ {
+  "id": "MCN_462E",
+  "en": "God Turtle",
+  "note": ""
+ },
+ {
+  "id": "MCN_4668",
+  "en": "Super Getter Robo Go",
+  "note": ""
+ },
+ {
+  "id": "MCN_46A2",
+  "en": "Missile Battery",
+  "note": ""
+ },
+ {
+  "id": "MCN_46DC",
+  "en": "Getter Emperor",
+  "note": ""
+ },
+ {
+  "id": "MCN_4716",
+  "en": "Shin Getter-1",
+  "note": ""
+ },
+ {
+  "id": "PIL_00D8",
+  "en": "Ryoma Nagare",
+  "note": ""
+ },
+ {
+  "id": "PIL_01E4",
+  "en": "Hayato Jin",
+  "note": ""
+ },
+ {
+  "id": "PIL_02F0",
+  "en": "Musashi Tomoe",
+  "note": ""
+ },
+ {
+  "id": "PIL_03FC",
+  "en": "Benkei Kuruma",
+  "note": ""
+ },
+ {
+  "id": "PIL_0720",
+  "en": "Gai Daido",
+  "note": ""
+ },
+ {
+  "id": "PIL_082C",
+  "en": "Michiru Saotome",
+  "note": ""
+ },
+ {
+  "id": "PIL_0938",
+  "en": "John Lambert",
+  "note": ""
+ },
+ {
+  "id": "PIL_0A44",
+  "en": "Schwartz",
+  "note": ""
+ },
+ {
+  "id": "PIL_0B50",
+  "en": "Bob Hosner",
+  "note": ""
+ },
+ {
+  "id": "PIL_0C5C",
+  "en": "Sam Hosner",
+  "note": ""
+ },
+ {
+  "id": "PIL_0D68",
+  "en": "Linda Tiramis",
+  "note": ""
+ },
+ {
+  "id": "PIL_0E74",
+  "en": "Heim Shatner",
+  "note": ""
+ },
+ {
+  "id": "PIL_0F80",
+  "en": "Jack King",
+  "note": ""
+ },
+ {
+  "id": "PIL_108C",
+  "en": "Mary King",
+  "note": ""
+ },
+ {
+  "id": "PIL_14BC",
+  "en": "Player",
+  "note": ""
+ },
+ {
+  "id": "PIL_15C8",
+  "en": "Dr. Saotome",
+  "note": ""
+ },
+ {
+  "id": "PIL_16D4",
+  "en": "Furuta",
+  "note": ""
+ },
+ {
+  "id": "PIL_17E0",
+  "en": "Captain Texas",
+  "note": ""
+ },
+ {
+  "id": "PIL_18EC",
+  "en": "Gore",
+  "note": ""
+ },
+ {
+  "id": "PIL_1914",
+  "en": "Cyborg Gore",
+  "note": ""
+ },
+ {
+  "id": "PIL_193C",
+  "en": "Neon",
+  "note": ""
+ },
+ {
+  "id": "PIL_1B7C",
+  "en": "Jiga",
+  "note": ""
+ },
+ {
+  "id": "PIL_1BA4",
+  "en": "Bazu",
+  "note": ""
+ },
+ {
+  "id": "PIL_1BCC",
+  "en": "Cyborg Ryuji",
+  "note": ""
+ },
+ {
+  "id": "PIL_1BF4",
+  "en": "Ipponki",
+  "note": ""
+ },
+ {
+  "id": "PIL_1C1C",
+  "en": "Gohonki",
+  "note": ""
+ },
+ {
+  "id": "PIL_1C44",
+  "en": "Jyuboki",
+  "note": ""
+ },
+ {
+  "id": "PIL_1C6C",
+  "en": "Hyakki Soldier A",
+  "note": ""
+ },
+ {
+  "id": "PIL_1D78",
+  "en": "Hyakki Soldier B",
+  "note": ""
+ },
+ {
+  "id": "PIL_1E84",
+  "en": "General Bat",
+  "note": ""
+ },
+ {
+  "id": "PIL_1EAC",
+  "en": "Cyborg Bat",
+  "note": ""
+ },
+ {
+  "id": "PIL_1ED4",
+  "en": "Emperor Burai",
+  "note": ""
+ },
+ {
+  "id": "PIL_1EFC",
+  "en": "Cyborg Burai",
+  "note": ""
+ },
+ {
+  "id": "PIL_1F24",
+  "en": "Baron Rasetsu",
+  "note": ""
+ },
+ {
+  "id": "PIL_1F4C",
+  "en": "Shinichi Tachibana",
+  "note": ""
+ },
+ {
+  "id": "PIL_1F74",
+  "en": "Lando",
+  "note": ""
+ },
+ {
+  "id": "PIL_1F9C",
+  "en": "Hellreza",
+  "note": ""
+ },
+ {
+  "id": "PIL_1FC4",
+  "en": "Lando Soldier A",
+  "note": ""
+ },
+ {
+  "id": "PIL_20D0",
+  "en": "Lando Soldier B",
+  "note": ""
+ },
+ {
+  "id": "PIL_21DC",
+  "en": "P.O. Gimbug",
+  "note": ""
+ },
+ {
+  "id": "PIL_2204",
+  "en": "Mecha Cicada",
+  "note": ""
+ },
+ {
+  "id": "PIL_222C",
+  "en": "Mecha Ant",
+  "note": ""
+ },
+ {
+  "id": "PIL_2254",
+  "en": "Mecha Antlion",
+  "note": ""
+ },
+ {
+  "id": "PIL_227C",
+  "en": "Mecha Bee",
+  "note": ""
+ },
+ {
+  "id": "PIL_22A4",
+  "en": "Mecha Stag",
+  "note": ""
+ },
+ {
+  "id": "PIL_22CC",
+  "en": "Hogram D7",
+  "note": ""
+ },
+ {
+  "id": "PIL_00E4",
+  "en": "Ryoma Nagare",
+  "note": ""
+ },
+ {
+  "id": "PIL_01F0",
+  "en": "Hayato Jin",
+  "note": ""
+ },
+ {
+  "id": "PIL_02FC",
+  "en": "Musashi Tomoe",
+  "note": ""
+ },
+ {
+  "id": "PIL_0408",
+  "en": "Benkei Kuruma",
+  "note": ""
+ },
+ {
+  "id": "PIL_072C",
+  "en": "Gai Daido",
+  "note": ""
+ },
+ {
+  "id": "PIL_0838",
+  "en": "Michiru Saotome",
+  "note": ""
+ },
+ {
+  "id": "PIL_0944",
+  "en": "John Lambert",
+  "note": ""
+ },
+ {
+  "id": "PIL_0A50",
+  "en": "Schwartz",
+  "note": ""
+ },
+ {
+  "id": "PIL_0B5C",
+  "en": "Bob Hosner",
+  "note": ""
+ },
+ {
+  "id": "PIL_0C68",
+  "en": "Sam Hosner",
+  "note": ""
+ },
+ {
+  "id": "PIL_0D74",
+  "en": "Linda Tiramis",
+  "note": ""
+ },
+ {
+  "id": "PIL_0E80",
+  "en": "Heim Shatner",
+  "note": ""
+ },
+ {
+  "id": "PIL_0F8C",
+  "en": "Jack King",
+  "note": ""
+ },
+ {
+  "id": "PIL_1098",
+  "en": "Mary King",
+  "note": ""
+ },
+ {
+  "id": "PIL_11A4",
+  "en": "Akane Mizuki",
+  "note": ""
+ },
+ {
+  "id": "PIL_12B0",
+  "en": "Tsubaki Akiyama",
+  "note": ""
+ },
+ {
+  "id": "PIL_13BC",
+  "en": "Kaede Shibasaki",
+  "note": ""
+ },
+ {
+  "id": "PIL_14C8",
+  "en": "Player",
+  "note": ""
+ },
+ {
+  "id": "PIL_15D4",
+  "en": "Dr. Saotome",
+  "note": ""
+ },
+ {
+  "id": "PIL_16E0",
+  "en": "Furuta",
+  "note": ""
+ },
+ {
+  "id": "PIL_17EC",
+  "en": "Captain Texas",
+  "note": ""
+ },
+ {
+  "id": "PIL_18F8",
+  "en": "Gore",
+  "note": ""
+ },
+ {
+  "id": "PIL_1920",
+  "en": "Cyborg Gore",
+  "note": ""
+ },
+ {
+  "id": "PIL_1948",
+  "en": "Neon",
+  "note": ""
+ },
+ {
+  "id": "PIL_1B88",
+  "en": "Jiga",
+  "note": ""
+ },
+ {
+  "id": "PIL_1BB0",
+  "en": "Bazu",
+  "note": ""
+ },
+ {
+  "id": "PIL_1BD8",
+  "en": "Cyborg Ryuji",
+  "note": ""
+ },
+ {
+  "id": "PIL_1C00",
+  "en": "Ipponki",
+  "note": ""
+ },
+ {
+  "id": "PIL_1C28",
+  "en": "Gohonki",
+  "note": ""
+ },
+ {
+  "id": "PIL_1C50",
+  "en": "Jyuboki",
+  "note": ""
+ },
+ {
+  "id": "PIL_1C78",
+  "en": "Hyakki Soldier A",
+  "note": ""
+ },
+ {
+  "id": "PIL_1D84",
+  "en": "Hyakki Soldier B",
+  "note": ""
+ },
+ {
+  "id": "PIL_1E90",
+  "en": "General Bat",
+  "note": ""
+ },
+ {
+  "id": "PIL_1EB8",
+  "en": "Cyborg Bat",
+  "note": ""
+ },
+ {
+  "id": "PIL_1EE0",
+  "en": "Emperor Burai",
+  "note": ""
+ },
+ {
+  "id": "PIL_1F08",
+  "en": "Cyborg Burai",
+  "note": ""
+ },
+ {
+  "id": "PIL_1F30",
+  "en": "Baron Rasetsu",
+  "note": ""
+ },
+ {
+  "id": "PIL_1F58",
+  "en": "Shinichi Tachibana",
+  "note": ""
+ },
+ {
+  "id": "PIL_1F80",
+  "en": "Lando",
+  "note": ""
+ },
+ {
+  "id": "PIL_1FA8",
+  "en": "Hellreza",
+  "note": ""
+ },
+ {
+  "id": "PIL_1FD0",
+  "en": "Lando Soldier A",
+  "note": ""
+ },
+ {
+  "id": "PIL_20DC",
+  "en": "Lando Soldier B",
+  "note": ""
+ },
+ {
+  "id": "PIL_21E8",
+  "en": "P.O. Gimbug",
+  "note": ""
+ },
+ {
+  "id": "PIL_2210",
+  "en": "Mecha Cicada",
+  "note": ""
+ },
+ {
+  "id": "PIL_2238",
+  "en": "Mecha Ant",
+  "note": ""
+ },
+ {
+  "id": "PIL_2260",
+  "en": "Mecha Antlion",
+  "note": ""
+ },
+ {
+  "id": "PIL_2288",
+  "en": "Mecha Bee",
+  "note": ""
+ },
+ {
+  "id": "PIL_22B0",
+  "en": "Mecha Stag",
+  "note": ""
+ },
+ {
+  "id": "PIL_22D8",
+  "en": "Hogram D7",
+  "note": ""
+ },
+ {
+  "id": "PIL_2300",
+  "en": "Researcher A",
+  "note": ""
+ },
+ {
+  "id": "PIL_2328",
+  "en": "Researcher B",
+  "note": ""
+ },
+ {
+  "id": "PIL_2350",
+  "en": "Russian Commander",
+  "note": ""
+ }
+]

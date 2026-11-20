@@ -1,0 +1,404 @@
+[
+ {
+  "id": "MF04_044A",
+  "speaker_en": "Musashi",
+  "en": ""
+ },
+ {
+  "id": "MF04_04BE",
+  "speaker_en": "Ryoma",
+  "en": ""
+ },
+ {
+  "id": "MF04_04E4",
+  "speaker_en": "Hayato",
+  "en": ""
+ },
+ {
+  "id": "MF04_055A",
+  "speaker_en": "Dr. Saotome",
+  "en": ""
+ },
+ {
+  "id": "MF04_05FA",
+  "speaker_en": "Ryoma",
+  "en": ""
+ },
+ {
+  "id": "MF04_06DD",
+  "speaker_en": "General Bat",
+  "en": ""
+ },
+ {
+  "id": "MF04_098F",
+  "speaker_en": "General Bat",
+  "en": ""
+ },
+ {
+  "id": "MF04_0731",
+  "speaker_en": "General Bat",
+  "en": ""
+ },
+ {
+  "id": "MF04_0663",
+  "speaker_en": "Dr. Saotome",
+  "en": ""
+ },
+ {
+  "id": "MF04_09ED",
+  "speaker_en": "General Bat",
+  "en": ""
+ },
+ {
+  "id": "MF04_08CD",
+  "speaker_en": "Dr. Saotome",
+  "en": ""
+ },
+ {
+  "id": "MF04_0AD8",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "note": "shown after a centred banner line; translate only this part",
+  "en": ""
+ },
+ {
+  "id": "MF05_001C",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "en": ""
+ },
+ {
+  "id": "MF05_0091",
+  "speaker_en": "Researcher",
+  "en": ""
+ },
+ {
+  "id": "MF05_00EF",
+  "speaker_en": "Musashi",
+  "en": ""
+ },
+ {
+  "id": "MF05_0115",
+  "speaker_en": "Ryoma",
+  "en": ""
+ },
+ {
+  "id": "MF05_016D",
+  "speaker_en": "Dr. Saotome",
+  "en": ""
+ },
+ {
+  "id": "MF05_01FF",
+  "speaker_jp": "$n",
+  "speaker_en": "$n (player)",
+  "en": "",
+  "gender_variant": "male player"
+ },
+ {
+  "id": "MF05_0263",
+  "speaker_jp": "$n",
+  "speaker_en": "$n (player)",
+  "en": "",
+  "gender_variant": "female player"
+ },
+ {
+  "id": "MF05_02B7",
+  "speaker_en": "Researcher",
+  "en": ""
+ },
+ {
+  "id": "MF05_02EB",
+  "speaker_en": "Benkei",
+  "en": ""
+ },
+ {
+  "id": "MF05_032B",
+  "speaker_en": "Hayato",
+  "en": ""
+ },
+ {
+  "id": "MF05_0355",
+  "speaker_en": "Ryoma",
+  "en": ""
+ },
+ {
+  "id": "MF05_0387",
+  "speaker_en": "Hayato",
+  "en": ""
+ },
+ {
+  "id": "MF05_03C5",
+  "speaker_en": "Dr. Saotome",
+  "en": ""
+ },
+ {
+  "id": "MF05_03FF",
+  "speaker_jp": "$n",
+  "speaker_en": "$n (player)",
+  "en": "",
+  "gender_variant": "male player"
+ },
+ {
+  "id": "MF05_0439",
+  "speaker_jp": "$n",
+  "speaker_en": "$n (player)",
+  "en": "",
+  "gender_variant": "female player"
+ },
+ {
+  "id": "MF05_01C3",
+  "speaker_en": "Dr. Saotome",
+  "en": ""
+ },
+ {
+  "id": "MF05_0524",
+  "speaker_en": "Dr. Tachibana",
+  "en": ""
+ },
+ {
+  "id": "MF05_04A8",
+  "speaker_en": "Furuta",
+  "en": ""
+ },
+ {
+  "id": "MF06_0EE5",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "en": ""
+ },
+ {
+  "id": "MF06_001C",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "en": ""
+ },
+ {
+  "id": "MF06_0062",
+  "speaker_en": "Dr. Tachibana",
+  "en": ""
+ },
+ {
+  "id": "MF06_0186",
+  "speaker_en": "Hayato",
+  "en": ""
+ },
+ {
+  "id": "MF06_01C6",
+  "speaker_en": "Dr. Tachibana",
+  "en": ""
+ },
+ {
+  "id": "MF06_0264",
+  "speaker_en": "Kaede",
+  "en": ""
+ },
+ {
+  "id": "MF06_0286",
+  "speaker_en": "Dr. Tachibana",
+  "en": ""
+ },
+ {
+  "id": "MF06_0384",
+  "speaker_en": "Benkei",
+  "en": ""
+ },
+ {
+  "id": "MF06_03CA",
+  "speaker_jp": "$n",
+  "speaker_en": "$n (player)",
+  "en": "",
+  "gender_variant": "male player"
+ },
+ {
+  "id": "MF06_03F8",
+  "speaker_jp": "$n",
+  "speaker_en": "$n (player)",
+  "en": "",
+  "gender_variant": "female player"
+ },
+ {
+  "id": "MF06_042E",
+  "speaker_en": "Dr. Tachibana",
+  "en": ""
+ },
+ {
+  "id": "MF06_04C0",
+  "speaker_en": "Akane",
+  "en": ""
+ },
+ {
+  "id": "MF06_04F6",
+  "speaker_en": "Dr. Tachibana",
+  "en": ""
+ },
+ {
+  "id": "MF06_0560",
+  "speaker_en": "Ryoma",
+  "en": ""
+ },
+ {
+  "id": "MF06_05A8",
+  "speaker_en": "Michiru",
+  "en": ""
+ },
+ {
+  "id": "MF06_05EC",
+  "speaker_en": "Dr. Tachibana",
+  "en": ""
+ },
+ {
+  "id": "MF06_0614",
+  "speaker_jp": "$n",
+  "speaker_en": "$n (player)",
+  "en": "",
+  "gender_variant": "male player"
+ },
+ {
+  "id": "MF06_0660",
+  "speaker_jp": "$n",
+  "speaker_en": "$n (player)",
+  "en": "",
+  "gender_variant": "female player"
+ },
+ {
+  "id": "MF06_06B0",
+  "speaker_en": "Dr. Tachibana",
+  "en": ""
+ },
+ {
+  "id": "MF06_0734",
+  "speaker_en": "Hayato",
+  "en": ""
+ },
+ {
+  "id": "MF06_078C",
+  "speaker_en": "Hayato",
+  "en": ""
+ },
+ {
+  "id": "MF06_07EF",
+  "speaker_jp": "????",
+  "speaker_en": "????",
+  "en": ""
+ },
+ {
+  "id": "MF06_0825",
+  "speaker_en": "Hayato",
+  "en": ""
+ },
+ {
+  "id": "MF06_086B",
+  "speaker_en": "Ryuji",
+  "en": ""
+ },
+ {
+  "id": "MF06_089B",
+  "speaker_en": "Hayato",
+  "en": ""
+ },
+ {
+  "id": "MF06_08D3",
+  "speaker_en": "Ryuji",
+  "en": ""
+ },
+ {
+  "id": "MF06_0A75",
+  "speaker_en": "Hayato",
+  "en": ""
+ },
+ {
+  "id": "MF06_0A99",
+  "speaker_en": "Go",
+  "en": ""
+ },
+ {
+  "id": "MF06_0AE5",
+  "speaker_en": "Gai",
+  "en": ""
+ },
+ {
+  "id": "MF06_0B13",
+  "speaker_en": "Dr. Tachibana",
+  "en": ""
+ },
+ {
+  "id": "MF06_0B49",
+  "speaker_en": "Sho",
+  "en": ""
+ },
+ {
+  "id": "MF06_0B81",
+  "speaker_en": "Hayato",
+  "en": ""
+ },
+ {
+  "id": "MF06_0C3F",
+  "speaker_en": "Benkei",
+  "en": ""
+ },
+ {
+  "id": "MF06_0C89",
+  "speaker_en": "Musashi",
+  "en": ""
+ },
+ {
+  "id": "MF06_0D97",
+  "speaker_en": "Michiru",
+  "en": ""
+ },
+ {
+  "id": "MF06_0DE5",
+  "speaker_en": "Dr. Saotome",
+  "en": ""
+ },
+ {
+  "id": "MF06_0E0F",
+  "speaker_en": "Go",
+  "en": ""
+ },
+ {
+  "id": "MF06_0E3B",
+  "speaker_en": "Dr. Tachibana",
+  "en": ""
+ },
+ {
+  "id": "MF06_0E8B",
+  "speaker_en": "Ryoma",
+  "en": ""
+ },
+ {
+  "id": "MF06_00CA",
+  "speaker_en": "Dr. Tachibana",
+  "en": ""
+ },
+ {
+  "id": "MF06_0124",
+  "speaker_en": "Dr. Tachibana",
+  "en": ""
+ },
+ {
+  "id": "MF06_01FC",
+  "speaker_en": "Dr. Tachibana",
+  "en": ""
+ },
+ {
+  "id": "MF06_0482",
+  "speaker_en": "Tsubaki",
+  "en": ""
+ },
+ {
+  "id": "MF06_0959",
+  "speaker_en": "Ryuji",
+  "en": ""
+ },
+ {
+  "id": "MF06_099F",
+  "speaker_en": "Ryuji",
+  "en": ""
+ },
+ {
+  "id": "MF06_09E7",
+  "speaker_en": "Ryuji",
+  "en": ""
+ }
+]

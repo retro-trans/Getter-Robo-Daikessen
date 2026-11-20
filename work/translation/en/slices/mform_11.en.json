@@ -1,0 +1,420 @@
+[
+ {
+  "id": "MF20_0BAA",
+  "speaker_en": "Dr. Saotome",
+  "en": ""
+ },
+ {
+  "id": "MF20_0BF6",
+  "speaker_en": "Furuta",
+  "en": ""
+ },
+ {
+  "id": "MF20_0C6B",
+  "speaker_en": "Dr. Saotome",
+  "en": ""
+ },
+ {
+  "id": "MF20_0C97",
+  "speaker_en": "Furuta",
+  "en": ""
+ },
+ {
+  "id": "MF20_0D2B",
+  "speaker_en": "Dr. Saotome",
+  "en": ""
+ },
+ {
+  "id": "MF20_0DD5",
+  "speaker_en": "Furuta",
+  "en": ""
+ },
+ {
+  "id": "MF20_0E96",
+  "speaker_en": "Dr. Saotome",
+  "en": ""
+ },
+ {
+  "id": "MF20_0EE7",
+  "speaker_en": "Go",
+  "en": ""
+ },
+ {
+  "id": "MF20_0F25",
+  "speaker_en": "Akane",
+  "en": ""
+ },
+ {
+  "id": "MF20_0F57",
+  "speaker_en": "Gai",
+  "en": ""
+ },
+ {
+  "id": "MF20_0FB7",
+  "speaker_jp": "$n",
+  "speaker_en": "$n (player)",
+  "en": "",
+  "gender_variant": "male player"
+ },
+ {
+  "id": "MF20_0FF9",
+  "speaker_jp": "$n",
+  "speaker_en": "$n (player)",
+  "en": "",
+  "gender_variant": "female player"
+ },
+ {
+  "id": "MF20_103B",
+  "speaker_en": "Hayato",
+  "en": ""
+ },
+ {
+  "id": "MF20_1093",
+  "speaker_en": "Dr. Saotome",
+  "en": ""
+ },
+ {
+  "id": "MF20_10E7",
+  "speaker_en": "Ryoma",
+  "en": ""
+ },
+ {
+  "id": "MF20_1131",
+  "speaker_en": "Sho",
+  "en": ""
+ },
+ {
+  "id": "MF20_1193",
+  "speaker_en": "Dr. Tachibana",
+  "en": ""
+ },
+ {
+  "id": "MF20_1279",
+  "speaker_en": "Dr. Saotome",
+  "en": ""
+ },
+ {
+  "id": "MF20_12FD",
+  "speaker_en": "Michiru",
+  "en": ""
+ },
+ {
+  "id": "MF20_1339",
+  "speaker_en": "Dr. Saotome",
+  "en": ""
+ },
+ {
+  "id": "MF20_13BD",
+  "speaker_en": "Tsubaki",
+  "en": ""
+ },
+ {
+  "id": "MF20_13ED",
+  "speaker_en": "Sho",
+  "en": ""
+ },
+ {
+  "id": "MF20_1417",
+  "speaker_en": "Hayato",
+  "en": ""
+ },
+ {
+  "id": "MF20_1445",
+  "speaker_en": "Dr. Saotome",
+  "en": ""
+ },
+ {
+  "id": "MF20_14BB",
+  "speaker_jp": "$n",
+  "speaker_en": "$n (player)",
+  "en": "",
+  "gender_variant": "male player"
+ },
+ {
+  "id": "MF20_1527",
+  "speaker_jp": "$n",
+  "speaker_en": "$n (player)",
+  "en": "",
+  "gender_variant": "female player"
+ },
+ {
+  "id": "MF20_1579",
+  "speaker_en": "Gimbug",
+  "en": ""
+ },
+ {
+  "id": "MF20_023E",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "en": ""
+ },
+ {
+  "id": "MF20_0A14",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "en": ""
+ },
+ {
+  "id": "MF20_120B",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "en": ""
+ },
+ {
+  "id": "MF20_16D4",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "note": "shown after a centred banner line; translate only this part",
+  "en": ""
+ },
+ {
+  "id": "MF21_0028",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "en": ""
+ },
+ {
+  "id": "MF21_00BE",
+  "speaker_en": "Ryoma",
+  "en": ""
+ },
+ {
+  "id": "MF21_00FC",
+  "speaker_jp": "$n",
+  "speaker_en": "$n (player)",
+  "en": "",
+  "gender_variant": "male player"
+ },
+ {
+  "id": "MF21_0132",
+  "speaker_jp": "$n",
+  "speaker_en": "$n (player)",
+  "en": "",
+  "gender_variant": "female player"
+ },
+ {
+  "id": "MF21_016C",
+  "speaker_en": "Gimbug",
+  "en": ""
+ },
+ {
+  "id": "MF21_0238",
+  "speaker_en": "Musashi",
+  "en": ""
+ },
+ {
+  "id": "MF21_02C2",
+  "speaker_en": "Benkei",
+  "en": ""
+ },
+ {
+  "id": "MF21_02F0",
+  "speaker_en": "Gimbug",
+  "en": ""
+ },
+ {
+  "id": "MF21_0408",
+  "speaker_en": "Go",
+  "en": ""
+ },
+ {
+  "id": "MF21_0434",
+  "speaker_en": "Gimbug",
+  "en": ""
+ },
+ {
+  "id": "MF21_0500",
+  "speaker_en": "Sho",
+  "en": ""
+ },
+ {
+  "id": "MF21_0542",
+  "speaker_en": "Gai",
+  "en": ""
+ },
+ {
+  "id": "MF21_0578",
+  "speaker_en": "Gimbug",
+  "en": ""
+ },
+ {
+  "id": "MF21_062A",
+  "speaker_en": "Dr. Tachibana",
+  "en": ""
+ },
+ {
+  "id": "MF21_068C",
+  "speaker_en": "Gimbug",
+  "en": ""
+ },
+ {
+  "id": "MF21_079C",
+  "speaker_en": "Kaede",
+  "en": ""
+ },
+ {
+  "id": "MF21_07C4",
+  "speaker_en": "Tsubaki",
+  "en": ""
+ },
+ {
+  "id": "MF21_07EE",
+  "speaker_en": "Akane",
+  "en": ""
+ },
+ {
+  "id": "MF21_0822",
+  "speaker_en": "Gimbug",
+  "en": ""
+ },
+ {
+  "id": "MF21_08B6",
+  "speaker_en": "Gai",
+  "en": ""
+ },
+ {
+  "id": "MF21_0906",
+  "speaker_en": "Benkei",
+  "en": ""
+ },
+ {
+  "id": "MF21_094A",
+  "speaker_en": "Hayato",
+  "en": ""
+ },
+ {
+  "id": "MF21_0984",
+  "speaker_en": "Musashi",
+  "en": ""
+ },
+ {
+  "id": "MF21_09D6",
+  "speaker_en": "Go",
+  "en": ""
+ },
+ {
+  "id": "MF21_0A24",
+  "speaker_en": "Akane",
+  "en": ""
+ },
+ {
+  "id": "MF21_0A50",
+  "speaker_en": "Ryoma",
+  "en": ""
+ },
+ {
+  "id": "MF21_0A9E",
+  "speaker_en": "Sho",
+  "en": ""
+ },
+ {
+  "id": "MF21_0AC6",
+  "speaker_en": "Benkei",
+  "en": ""
+ },
+ {
+  "id": "MF21_0B08",
+  "speaker_en": "Go",
+  "en": ""
+ },
+ {
+  "id": "MF21_0B52",
+  "speaker_en": "Schwartz",
+  "en": ""
+ },
+ {
+  "id": "MF21_0BB4",
+  "speaker_en": "Kaede",
+  "en": ""
+ },
+ {
+  "id": "MF21_0BE2",
+  "speaker_en": "Akane",
+  "en": ""
+ },
+ {
+  "id": "MF21_0C0E",
+  "speaker_en": "Tsubaki",
+  "en": ""
+ },
+ {
+  "id": "MF21_0C60",
+  "speaker_en": "Lambert",
+  "en": ""
+ },
+ {
+  "id": "MF21_0CD4",
+  "speaker_en": "Musashi",
+  "en": ""
+ },
+ {
+  "id": "MF21_0D00",
+  "speaker_en": "Hayato",
+  "en": ""
+ },
+ {
+  "id": "MF21_0D2C",
+  "speaker_jp": "$n",
+  "speaker_en": "$n (player)",
+  "en": "",
+  "gender_variant": "male player"
+ },
+ {
+  "id": "MF21_0D4E",
+  "speaker_jp": "$n",
+  "speaker_en": "$n (player)",
+  "en": "",
+  "gender_variant": "female player"
+ },
+ {
+  "id": "MF21_0D70",
+  "speaker_en": "Ryoma",
+  "en": ""
+ },
+ {
+  "id": "MF21_0DEF",
+  "speaker_en": "Gimbug",
+  "en": ""
+ },
+ {
+  "id": "MF21_0F67",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "en": ""
+ },
+ {
+  "id": "MF21_01E4",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "en": ""
+ },
+ {
+  "id": "MF21_0276",
+  "speaker_en": "Hayato",
+  "en": ""
+ },
+ {
+  "id": "MF21_037C",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "en": ""
+ },
+ {
+  "id": "MF21_04BC",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "en": ""
+ },
+ {
+  "id": "MF21_06EE",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "en": ""
+ },
+ {
+  "id": "MF21_0EFD",
+  "speaker_jp": "",
+  "speaker_en": "",
+  "en": ""
+ }
+]

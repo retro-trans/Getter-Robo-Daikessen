@@ -1,0 +1,1843 @@
+[
+ {
+  "jp": "流竜馬 / 竜馬",
+  "en": "Ryoma Nagare / Ryoma",
+  "type": "character",
+  "gender": "male",
+  "role": "Leader of the original Getter Team; pilot of the flight forms (Getter-1, Getter Dragon, Shin Getter-1)",
+  "personality": "Hot-blooded, eager for a fight even against powerful foes; compassionate but vengeful toward those who wrong others; karate master trained by his late father",
+  "series": "Getter Robo",
+  "source": "https://getterrobo.fandom.com/wiki/Ryoma_Nagare_(Daikessen!) https://getterrobo.fandom.com/wiki/Getter_Robo_Daikessen!",
+  "confidence": "high",
+  "note": "Daikessen version is based on the manga version. Some fan sources write 'Ryouma'; the wiki uses 'Ryoma'."
+ },
+ {
+  "jp": "神隼人 / 隼人",
+  "en": "Hayato Jin / Hayato",
+  "type": "character",
+  "gender": "male",
+  "role": "Getter Team member; pilot of the ground forms (Getter-2, Getter Liger, Shin Getter-2)",
+  "personality": "Former revolutionary and troublemaker who disliked authority; cynical realist, the most intelligent of the team, but will not throw away comrades' lives",
+  "series": "Getter Robo",
+  "source": "https://getterrobo.fandom.com/wiki/Hayato_Jin_(Daikessen!)",
+  "confidence": "high",
+  "note": "Japanese name order is Jin Hayato; English uses given-name-first 'Hayato Jin'. In Daikessen he has no ties to NISAR."
+ },
+ {
+  "jp": "巴武蔵 / 武蔵",
+  "en": "Musashi Tomoe / Musashi",
+  "type": "character",
+  "gender": "male",
+  "role": "Third pilot of the original Getter Robo (Getter-3); former school judo captain",
+  "personality": "Lively and happy-go-lucky, stubborn, full of bravado; tough when the Getter or his friends are involved; willing to risk his life for friends",
+  "series": "Getter Robo",
+  "source": "https://getterrobo.fandom.com/wiki/Musashi_Tomoe_(Daikessen!)",
+  "confidence": "high",
+  "note": "Unlike other versions he survives in Daikessen and can pilot Shin Getter Robo. Creator of the judo throw Daisetsuzan Oroshi."
+ },
+ {
+  "jp": "車弁慶 / 弁慶",
+  "en": "Benkei Kuruma / Benkei",
+  "type": "character",
+  "gender": "male",
+  "role": "Pilot of the aquatic/heavy Getter formation (Getter Poseidon); fourth member of the Getter Team (reinforcement, not a replacement for Musashi)",
+  "personality": "Big-hearted, generally happy-go-lucky; will risk his life when friends are in danger; baseball-trained body",
+  "series": "Getter Robo G",
+  "source": "https://getterrobo.fandom.com/wiki/Benkei_Kuruma_(Daikessen!)",
+  "confidence": "high"
+ },
+ {
+  "jp": "早乙女博士 / 早乙女",
+  "en": "Dr. Saotome / Saotome",
+  "type": "character",
+  "gender": "male",
+  "role": "Director of the Saotome Getter Ray Research Institute; creator of Getter Robo; father of Tatsuhito and Michiru (and Genki)",
+  "personality": "Intimidating, likened to a mad scientist, obsessive about Getter Rays, willing to go to extremes, but not heartless and hopeful",
+  "series": "Getter Robo",
+  "source": "https://getterrobo.fandom.com/wiki/Dr._Saotome_(Daikessen!)",
+  "confidence": "high"
+ },
+ {
+  "jp": "早乙女ミチル / ミチル",
+  "en": "Michiru Saotome / Michiru",
+  "type": "character",
+  "gender": "female",
+  "role": "Dr. Saotome's daughter; pilots Lady Command and can pilot other machines including Getter robots",
+  "personality": "Friendly and polite, can be rough with family (especially her father); supportive; treats the Getter Team as close friends (no romance in Daikessen)",
+  "series": "Getter Robo",
+  "source": "https://getterrobo.fandom.com/wiki/Michiru_Saotome_(Daikessen!)",
+  "confidence": "high"
+ },
+ {
+  "jp": "早乙女達人 / 達人",
+  "en": "Tatsuhito Saotome / Tatsuhito",
+  "type": "character",
+  "gender": "male",
+  "role": "Dr. Saotome's eldest son; pilot trainer for candidate pilots; creator of Black Getter; his father's right-hand man",
+  "personality": "Disciplined, focused, close to his family; wears glasses in this version",
+  "series": "Getter Robo",
+  "source": "https://getterrobo.fandom.com/wiki/Tatsuhito_Saotome_(Daikessen!)",
+  "confidence": "high",
+  "note": "Survives to the end in Daikessen, unlike other versions."
+ },
+ {
+  "jp": "一文字號 / 號",
+  "en": "Go Ichimonji / Go",
+  "type": "character",
+  "gender": "male",
+  "role": "Leader of the Tachibana Institute's Getter Team; pilot of Getter Go (flight mode of Getter Robo Go)",
+  "personality": "Hot-blooded, brash and sarcastic, takes risks, works well with his team",
+  "series": "Getter Robo Go",
+  "source": "https://getterrobo.fandom.com/wiki/Go_Ichimonji_(Daikessen!) https://getterrobo.fandom.com/wiki/Getter_Robo_Go_(Mecha)",
+  "confidence": "high",
+  "note": "號 is the old form of 号 (gō). Wiki writes 'Go' (sometimes 'Gō'). Do not confuse with the suffix 号 in machine names (Eagle-Gou etc.)."
+ },
+ {
+  "jp": "橘翔 / 翔",
+  "en": "Sho Tachibana / Sho",
+  "type": "character",
+  "gender": "female",
+  "role": "Pilot of Getter Sho; daughter of Dr. Tachibana, younger sister of Shinichi",
+  "personality": "Serious-minded, brave and diligent; shares a near-psychic bond with her brother Shinichi; earns Schwartz's respect and affection",
+  "series": "Getter Robo Go",
+  "source": "https://getterrobo.fandom.com/wiki/Sho_Tachibana_(Daikessen!)",
+  "confidence": "high"
+ },
+ {
+  "jp": "大道剴 / 剴",
+  "en": "Gai Daido / Gai",
+  "type": "character",
+  "gender": "male",
+  "nickname": "'Getter Lover' (what colleagues call him)",
+  "role": "Pilot of Getter Gai (water/bombardment mode of Getter Robo Go); originally a mechanic",
+  "personality": "Deep affection and respect for the Getter; understands machines by sound and vibration; tough when needed",
+  "series": "Getter Robo Go",
+  "source": "https://getterrobo.fandom.com/wiki/Gai_Daido_(Daikessen!) https://getterrobo.fandom.com/wiki/Getter_Robo_Go_(Mecha)",
+  "confidence": "high",
+  "note": "Wiki also writes 'Daidō'. The form name is 'Getter Gai' (ゲッター剴; also written ゲッター凱 in some places)."
+ },
+ {
+  "jp": "橘博士 / 橘",
+  "en": "Dr. Tachibana / Tachibana",
+  "type": "character",
+  "gender": "male",
+  "role": "Head of the Tachibana Institute; creator of Getter Robo Go, helped develop Getter Robo Zan; colleague and partner of Dr. Saotome; father of Sho and Shinichi",
+  "personality": "Determined that his son's sacrifice not be in vain; puts his faith in the Getter; at heart a pacifist",
+  "series": "Getter Robo Go",
+  "source": "https://getterrobo.fandom.com/wiki/Dr._Tachibana_(Daikessen!)",
+  "confidence": "high"
+ },
+ {
+  "jp": "プロフェッサー・ランドウ / ランドウ",
+  "en": "Professor Lando / Lando",
+  "type": "character",
+  "gender": "male",
+  "role": "Leader of the Vega Zone forces and creator of the Metal Beasts; mad scientist turned cyborg; main antagonist",
+  "personality": "Megalomaniacal, sociopathic, proud of his 'invincible' Metal Beasts, easily frustrated by setbacks",
+  "series": "Getter Robo Go",
+  "source": "https://getterrobo.fandom.com/wiki/Professor_Lando_(Daikessen!)",
+  "confidence": "high",
+  "note": "Naive romanization would be 'Professor Randou'; the wiki uses 'Lando'. Full name on the wiki: Alrich zu Lando."
+ },
+ {
+  "jp": "ブライ大帝",
+  "en": "Emperor Burai",
+  "type": "character",
+  "gender": "male",
+  "role": "Ruler of the Hyakki Empire; pilots Uzahra; later revived as a cyborg",
+  "personality": "Megalomaniacal, power-mad, sees all other lifeforms as beneath him",
+  "series": "Getter Robo G",
+  "source": "https://getterrobo.fandom.com/wiki/Emperor_Burai_(Daikessen!)",
+  "confidence": "high",
+  "note": "Literal 'Great Emperor Burai'; some manga-based pages say 'Burai the Great'. The Daikessen page uses 'Emperor Burai'."
+ },
+ {
+  "jp": "帝王ゴール",
+  "en": "Emperor Gore",
+  "type": "character",
+  "gender": "male",
+  "role": "Ruler of the Dinosaur Empire",
+  "personality": "Highly prideful, believes Dinosaur People superior to humans, terrified of the Getter Robo because of Getter Rays",
+  "series": "Getter Robo",
+  "source": "https://getterrobo.fandom.com/wiki/Emperor_Gore_(Daikessen!)",
+  "confidence": "high",
+  "note": "Naive romanization 'Goru/Gooru'; the established spelling is 'Gore'."
+ },
+ {
+  "jp": "魔王ゴール",
+  "en": "Emperor Gore",
+  "type": "character",
+  "gender": "male",
+  "role": "Ruler of the Dinosaur Empire (alternate title used in the script)",
+  "series": "Getter Robo",
+  "source": "https://getterrobo.fandom.com/wiki/Emperor_Gore_(Daikessen!)",
+  "confidence": "medium",
+  "note": "Literal meaning 'Demon King Gore'. No source gives an English form of this title; the wiki only uses 'Emperor Gore'. Use 'Demon King Gore' only if the script deliberately contrasts the two titles."
+ },
+ {
+  "jp": "バット将軍",
+  "en": "General Bat",
+  "type": "character",
+  "gender": "male",
+  "role": "Emperor Gore's second-in-command, high-ranking warrior of the Dinosaur Empire",
+  "personality": "Devoted to the Empire and Gore; cooler-headed than his lord, knows when he is beaten",
+  "series": "Getter Robo",
+  "source": "https://getterrobo.fandom.com/wiki/General_Bat_(Daikessen!)",
+  "confidence": "high"
+ },
+ {
+  "jp": "改造バット将軍",
+  "en": "Cyborg Bat",
+  "type": "character",
+  "gender": "male",
+  "role": "General Bat revived as a cyborg under Vega Zone; pilots Mecha Typhoon",
+  "series": "game original",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_Daikessen! https://getterrobo.fandom.com/wiki/Mecha_Typhoon_(Daikessen!)",
+  "confidence": "high",
+  "note": "Literal 'Remodeled General Bat'; the wiki calls him 'Cyborg Bat'. 'Cyborg General Bat' is an acceptable longer form."
+ },
+ {
+  "jp": "改造ゴール",
+  "en": "Cyborg Gore",
+  "type": "character",
+  "gender": "male",
+  "role": "Emperor Gore revived as a cyborg under Vega Zone",
+  "series": "game original",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_Daikessen!",
+  "confidence": "high",
+  "note": "Literal 'Remodeled Gore'; wiki: 'Cyborg Gore'."
+ },
+ {
+  "jp": "改造ブライ",
+  "en": "Cyborg Burai",
+  "type": "character",
+  "gender": "male",
+  "role": "Emperor Burai revived as a cyborg under Vega Zone",
+  "series": "game original",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_Daikessen! https://getterrobo.fandom.com/wiki/Emperor_Burai_(Daikessen!)",
+  "confidence": "high",
+  "note": "Literal 'Remodeled Burai'; wiki: 'Cyborg Burai' (gallery caption: 'Emperor Burai as a Cyborg/Zombie')."
+ },
+ {
+  "jp": "ラセツ",
+  "en": "Rasetsu",
+  "type": "character",
+  "gender": "male",
+  "role": "Executive of Vega Zone and Professor Lando's personal aide; commands the Dragon Turtle",
+  "personality": "Very loyal to Lando (unlike his manga counterpart, not a Dinosaur Empire member)",
+  "series": "Getter Robo Go",
+  "source": "https://getterrobo.fandom.com/wiki/Count_Rasetsu_(Daikessen!) https://getterrobo.fandom.com/wiki/Dragon_Turtle_(Daikessen!)",
+  "confidence": "high",
+  "note": "Wiki title: 'Count Rasetsu'. Use 'Count Rasetsu' when a title is needed. Human/cyborg."
+ },
+ {
+  "jp": "ギィムバグ",
+  "en": "Gimbug",
+  "type": "character",
+  "gender": "unknown",
+  "role": "Petty officer of the Andromeda Country (insect army from the future)",
+  "series": "Shin Getter",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_Daikessen! https://getterrobo.fandom.com/wiki/Andromeda_Country",
+  "confidence": "medium",
+  "note": "Wiki lists 'Petty Officer Gimbug' on the game and Andromeda Country pages, but the page itself does not exist, so there is no description or gender. Naive romanization would be 'Giimubagu'."
+ },
+ {
+  "jp": "ニオン",
+  "en": "Neon",
+  "type": "character",
+  "gender": "male",
+  "role": "Leader of the Chiryu Clan group of the Dinosaur Empire sent to attack the Saotome Institute; controls a mass-produced Getter Robo",
+  "personality": "Loyal to the Chiryu Clan, will take any job that might win them equal rights in the Empire; has foresight (can see the future)",
+  "series": "game original",
+  "source": "https://getterrobo.fandom.com/wiki/Neon_(Daikessen!)",
+  "confidence": "high",
+  "note": "Naive romanization 'Nion'; the wiki spells it 'Neon'."
+ },
+ {
+  "jp": "昆虫軍団",
+  "en": "Insect Army",
+  "type": "organization",
+  "role": "Insectoid forces of the Andromeda Country",
+  "series": "Shin Getter",
+  "source": "https://getterrobo.fandom.com/wiki/Andromeda_Country",
+  "confidence": "low",
+  "note": "No English form found. Wiki describes the Andromeda Country's members as humanoid insects with giant biomechanical insects. 'Insect Legion' also works."
+ },
+ {
+  "jp": "ジャック・キング / ジャック",
+  "en": "Jack King / Jack",
+  "type": "character",
+  "gender": "male",
+  "role": "American pilot of Texas Mack's main body; Mary's older brother; Allied Robot Corps",
+  "personality": "Cocky cowboy, brags about small victories; comes to respect the Getter Team; good pilot; speaks Japanese with a heavy American accent and drops English phrases",
+  "series": "Getter Robo",
+  "source": "https://getterrobo.fandom.com/wiki/Jack_King_(Daikessen!) https://getterrobo.fandom.com/wiki/Texas_Mack",
+  "confidence": "high",
+  "note": "His speech style (broken Japanese mixed with English) is a character trait; render it as cowboy-flavored English."
+ },
+ {
+  "jp": "メリー・キング / メリー",
+  "en": "Mary King / Mary",
+  "type": "character",
+  "gender": "female",
+  "role": "Co-pilot of Texas Mack (pilots from the hat / data gathering); Jack's younger sister; Allied Robot Corps",
+  "personality": "Confident in Texas Mack, less cocky than Jack; gains respect for the Getter Team; heavy American accent, drops English phrases",
+  "series": "Getter Robo",
+  "source": "https://getterrobo.fandom.com/wiki/Mary_King_(Daikessen!) https://getterrobo.fandom.com/wiki/Texas_Mack",
+  "confidence": "high",
+  "note": "Naive romanization 'Meri'; established spelling 'Mary'."
+ },
+ {
+  "jp": "ジョン・ランバート / ランバート",
+  "en": "John Lambert / Lambert",
+  "type": "character",
+  "gender": "male",
+  "role": "Co-pilot and gunner of the Stilva α04, partner of Schwartz; US military, Allied Robot Corps",
+  "personality": "Middle-aged, scarred veteran; more accepting of outside help (including the Getter Team) than Schwartz; soft-spoken",
+  "series": "Getter Robo Go",
+  "source": "https://getterrobo.fandom.com/wiki/John_Lambert_(Daikessen!) https://getterrobo.fandom.com/wiki/John_Lambert https://getterrobo.fandom.com/wiki/Stilva_α04",
+  "confidence": "high",
+  "note": "Manga page titles him 'General John Lambert'. He dies in the manga's Alaska arc; alive status listed for Daikessen."
+ },
+ {
+  "jp": "シュワルツ",
+  "en": "Schwartz",
+  "type": "character",
+  "gender": "male",
+  "role": "Pilot/co-pilot of the Stilva α04, partnered with John Lambert; US Army soldier of German descent, Allied Robot Corps",
+  "personality": "Hot-tempered, initially hates the Japanese (past tragedies) and looks down on others and women; grows into a rivalry with Go and develops feelings for Sho",
+  "series": "Getter Robo Go",
+  "source": "https://getterrobo.fandom.com/wiki/Schwartz_Koff_(Daikessen!) https://getterrobo.fandom.com/wiki/Schwartz_Koff",
+  "confidence": "high",
+  "note": "Full name on the wiki: 'Schwartz Koff' (Japanese シュワルツコフ, a play on Schwarzkopf). Naive romanization 'Schwarz'; the wiki spells it 'Schwartz'."
+ },
+ {
+  "jp": "ヒム・シャトナー / シャトナー",
+  "en": "Heim Shatner / Shatner",
+  "type": "character",
+  "gender": "male",
+  "role": "Pilot of Gustaf H-24; German military, Allied Robot Corps",
+  "personality": "Confident, a bit cocky against weaker foes, but no coward; patriotic; swore vengeance on Lando after his hometown was destroyed",
+  "series": "Getter Robo Go",
+  "source": "https://getterrobo.fandom.com/wiki/Heim_Shatner_(Daikessen!) https://getterrobo.fandom.com/wiki/Heim_Shatner",
+  "confidence": "high",
+  "note": "Naive romanization 'Him Shatner'; the wiki spells it 'Heim'."
+ },
+ {
+  "jp": "茜",
+  "en": "Akane",
+  "type": "character",
+  "gender": "female",
+  "role": "Lead pilot of Getter Robo Zan, pilots the flight mode Getter Rekka; member of the Tachibana Institute's ninjutsu-trained black-ops/spy team",
+  "personality": "Hot-blooded, eager for a good fight (like Ryoma) but more level-headed; the one who keeps her teammates in line",
+  "series": "game original",
+  "source": "https://getterrobo.fandom.com/wiki/Akane_Mizuki https://getterrobo.fandom.com/wiki/Getter_Robo_Zan",
+  "confidence": "high",
+  "note": "Full name: Akane Mizuki (水樹茜). New character created for Daikessen. Fights with a sword (Hizanto)."
+ },
+ {
+  "jp": "椿",
+  "en": "Tsubaki",
+  "type": "character",
+  "gender": "female",
+  "role": "Second pilot of Getter Robo Zan, pilots the ground mode (Getter Shiten); Tachibana Institute, ninjutsu-trained",
+  "personality": "Analytical and the most intelligent of the Zan team, makes hard decisions; like Hayato but more compassionate and less cynical; will die alongside teammates if they choose sacrifice",
+  "series": "game original",
+  "source": "https://getterrobo.fandom.com/wiki/Tsubaki_Akiyama https://getterrobo.fandom.com/wiki/Getter_Robo_Zan",
+  "confidence": "high",
+  "note": "Full name: Tsubaki Akiyama (秋山椿). New character created for Daikessen. Tall."
+ },
+ {
+  "jp": "楓",
+  "en": "Kaede",
+  "type": "character",
+  "gender": "female",
+  "role": "Third pilot of Getter Robo Zan, pilots the sea/heavy mode Getter Kongo; Tachibana Institute black-ops team, ninjutsu-trained",
+  "personality": "Lively, happy-go-lucky, stubborn about missions, tough when friends are threatened, indomitable will; scared of bugs; physically powerful judo/ninjutsu fighter",
+  "series": "game original",
+  "source": "https://getterrobo.fandom.com/wiki/Kaede_Shibasaki https://getterrobo.fandom.com/wiki/Getter_Robo_Zan",
+  "confidence": "high",
+  "note": "Full name: Kaede Shibasaki (柴崎楓). New character created for Daikessen. Voiced by Miki Tsuchiya."
+ },
+ {
+  "jp": "信一",
+  "en": "Shinichi",
+  "type": "character",
+  "gender": "male",
+  "role": "Sho's older brother and Dr. Tachibana's son; brainwashed into a Vega Zone cyborg soldier, pilots the Metal Beast Garon Z-54",
+  "personality": "Originally supportive and close to his family (shares a psychic bond with Sho); emotionless mind-slave after conversion; reverts to himself when near death",
+  "series": "Getter Robo Go",
+  "source": "https://getterrobo.fandom.com/wiki/Shinichi_Tachibana_(Daikessen!)",
+  "confidence": "high",
+  "note": "Full name: Shinichi Tachibana. Dies in Daikessen."
+ },
+ {
+  "jp": "竜二",
+  "en": "Ryuji",
+  "type": "character",
+  "gender": "male",
+  "role": "Hayato's cousin; took over Hayato's old revolutionary gang and allied with the Hyakki Empire; cybernetically enhanced, acts as the head of Maoki",
+  "personality": "Cares for his cousin but lusts for power to rule Japan; knows his limits and wants Hayato on his side",
+  "series": "Getter Robo G",
+  "source": "https://getterrobo.fandom.com/wiki/Ryuji_(Daikessen!) https://getterrobo.fandom.com/wiki/Ryuji",
+  "confidence": "high",
+  "note": "Naive romanization 'Ryuuji'; wiki uses 'Ryuji'. Dies in Daikessen."
+ },
+ {
+  "jp": "古田",
+  "en": "Furuta",
+  "type": "character",
+  "gender": "unknown",
+  "role": "Possibly the NISAR staff member Furuta from the Getter Robo Go manga",
+  "series": "Getter Robo Go",
+  "source": "https://getterrobo.fandom.com/wiki/NISAR",
+  "confidence": "low",
+  "note": "Only found as a red link 'Furuta (Manga)' in the wiki's NISAR member list; no page, gender or role. Nothing ties him/her to Daikessen; check the context in the script."
+ },
+ {
+  "jp": "リンダ",
+  "en": "Linda",
+  "type": "character",
+  "gender": "female",
+  "role": "Pilot of the British Army's super robot (Kingdom 007) in the Allied Robot Corps",
+  "personality": "Skilled and very confident; quiet in battle, decent but sometimes awkward socially",
+  "series": "Getter Robo Go",
+  "source": "https://getterrobo.fandom.com/wiki/Linda_Tiramis_(Daikessen!) https://getterrobo.fandom.com/wiki/Linda_Tiramis",
+  "confidence": "high",
+  "note": "Full name: Linda Tiramis. Her Daikessen wiki page says she pilots 'London 007' (a page that does not exist); the game page lists Kingdom 007 as the British unit, so this is probably a wiki slip."
+ },
+ {
+  "jp": "ボブ",
+  "en": "Bob",
+  "type": "character",
+  "gender": "male",
+  "role": "Co-pilot of Robo Sun T-520 with his brother Sam; Canadian Army, Allied Robot Corps",
+  "series": "Getter Robo Go",
+  "source": "https://getterrobo.fandom.com/wiki/Bob_Hosner_(Daikessen!)",
+  "confidence": "high",
+  "note": "Full name: Bob Hosner. Personality section empty on the wiki."
+ },
+ {
+  "jp": "サム",
+  "en": "Sam",
+  "type": "character",
+  "gender": "male",
+  "role": "Co-pilot of Robo Sun T-520 with his brother Bob; Canadian Army, Allied Robot Corps",
+  "series": "Getter Robo Go",
+  "source": "https://getterrobo.fandom.com/wiki/Sam_Hosner_(Daikessen!)",
+  "confidence": "high",
+  "note": "Full name: Sam Hosner. The Robo Sun page calls the two 'twin pilots'."
+ },
+ {
+  "jp": "一本鬼",
+  "en": "Ipponki",
+  "type": "character",
+  "gender": "male",
+  "role": "Hyakki Empire Oni; one of three brothers sent to defeat Getter Robo G",
+  "personality": "Cares for his brothers, deeply loyal to the Hyakki Empire",
+  "series": "Getter Robo G",
+  "source": "https://getterrobo.fandom.com/wiki/Ipponki_(Daikessen!)",
+  "confidence": "high"
+ },
+ {
+  "jp": "五本鬼",
+  "en": "Gohonki",
+  "type": "character",
+  "gender": "male",
+  "role": "Hyakki Empire Oni; one of three brothers sent to defeat Getter Robo G",
+  "personality": "Cares for his brothers, deeply loyal to the Hyakki Empire",
+  "series": "Getter Robo G",
+  "source": "https://getterrobo.fandom.com/wiki/Gohonki_(Daikessen!)",
+  "confidence": "high"
+ },
+ {
+  "jp": "十方鬼",
+  "en": "Jyuboki",
+  "type": "character",
+  "gender": "male",
+  "role": "One of the strongest Hyakki Empire commanders; in charge of the Frontline Base and a planned nuclear strike",
+  "personality": "Usually calm and relaxed, loses himself in rage when angered; very loyal to Emperor Burai; strong psychic powers",
+  "series": "Getter Robo G",
+  "source": "https://getterrobo.fandom.com/wiki/Jyuboki_(Daikessen!)",
+  "confidence": "medium",
+  "note": "Wiki spelling 'Jyuboki' (the page also has the typo 'Jyoboki'). The kanji reading would more naturally be 'Jippoki' or 'Juhoki'; the wiki wins, but consider 'Juboki'."
+ },
+ {
+  "jp": "百鬼兵",
+  "en": "Hyakki Soldiers",
+  "type": "character",
+  "gender": "unknown",
+  "role": "Generic Hyakki Empire foot soldiers (humans converted into Oni)",
+  "series": "Getter Robo G",
+  "source": "https://getterrobo.fandom.com/wiki/Oni_Soldiers_(Daikessen!)",
+  "confidence": "medium",
+  "note": "The wiki page is titled 'Oni Soldiers' (a description, not a quote from the game). 'Oni Soldiers' is fine too."
+ },
+ {
+  "jp": "ランドウ兵",
+  "en": "Lando Soldiers",
+  "type": "character",
+  "gender": "unknown",
+  "role": "Generic foot soldiers of Professor Lando (scientists turned into cyborgs)",
+  "series": "Getter Robo Go",
+  "source": "https://getterrobo.fandom.com/wiki/Vega_Zone_Troopers_(Daikessen!)",
+  "confidence": "medium",
+  "note": "Literal 'Lando soldiers'. The wiki page is titled 'Vega Zone Troopers'; use 'Lando Troopers' or 'Vega Zone Troopers' if preferred."
+ },
+ {
+  "jp": "艦長",
+  "en": "Captain",
+  "type": "character",
+  "gender": "unknown",
+  "role": "Generic ship captain speaker label",
+  "series": "game original",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_Daikessen!",
+  "confidence": "medium",
+  "note": "Generic title. If it refers to the Battleship Texas's commander, he is male (see テキサス艦長)."
+ },
+ {
+  "jp": "テキサス艦長",
+  "en": "Captain Texas",
+  "type": "character",
+  "gender": "male",
+  "role": "Elderly commander of the Battleship Texas; heads the Allied Robot Corps",
+  "personality": "Kind and gentle, strict and determined when needed, intelligent and level-headed; capable of self-sacrifice",
+  "series": "Getter Robo Go",
+  "source": "https://getterrobo.fandom.com/wiki/Captain_Texas_(Daikessen!)",
+  "confidence": "high",
+  "note": "The wiki uses 'Captain Texas'; the meaning is 'Captain of the Texas'. Dies in Daikessen."
+ },
+ {
+  "jp": "テキサスクルー",
+  "en": "Texas Crew",
+  "type": "character",
+  "gender": "unknown",
+  "role": "Crew of the Battleship Texas (generic speaker)",
+  "series": "Getter Robo Go",
+  "source": "https://getterrobo.fandom.com/wiki/Battleship_Texas",
+  "confidence": "medium"
+ },
+ {
+  "jp": "アキラ",
+  "en": "Akira",
+  "type": "character",
+  "gender": "male",
+  "role": "Male player avatar; trainee/extra pilot of the Saotome Institute",
+  "personality": "Hot-blooded but less eager to fight than Ryoma; never backs down when a fight is unavoidable",
+  "series": "game original",
+  "source": "https://getterrobo.fandom.com/wiki/Akira",
+  "confidence": "high",
+  "note": "Not on the requested list; added because the player character may be a speaker. Japanese spelling is not given on the wiki."
+ },
+ {
+  "jp": "南風渓",
+  "en": "Kei Minamikaze",
+  "type": "character",
+  "gender": "female",
+  "role": "Female player avatar; extra pilot of the Saotome Research Institute; back-up pilot of Getter Robo Zan",
+  "personality": "Loyal to her teammates",
+  "series": "Getter Robo Go",
+  "source": "https://getterrobo.fandom.com/wiki/Kei_Minamikaze_(Daikessen!) https://getterrobo.fandom.com/wiki/Getter_Robo_Zan",
+  "confidence": "medium",
+  "note": "Not on the requested list; added as the player character. Taken from the Go manga. Check the kanji against the game script."
+ },
+ {
+  "jp": "恐竜帝国",
+  "en": "Dinosaur Empire",
+  "type": "organization",
+  "role": "Underground empire of evolved dinosaurs led by Emperor Gore",
+  "series": "Getter Robo",
+  "source": "https://getterrobo.fandom.com/wiki/Dinosaur_Empire",
+  "confidence": "high"
+ },
+ {
+  "jp": "百鬼帝国",
+  "en": "Hyakki Empire",
+  "type": "organization",
+  "role": "Empire of humans turned into Oni, led by Emperor Burai",
+  "series": "Getter Robo G",
+  "source": "https://getterrobo.fandom.com/wiki/Hyakki_Empire",
+  "confidence": "high",
+  "note": "Literal 'Hundred Demons Empire'; established English keeps 'Hyakki'."
+ },
+ {
+  "jp": "百鬼獣",
+  "en": "Hyakki Beast",
+  "type": "term",
+  "role": "Giant robots of the Hyakki Empire",
+  "series": "Getter Robo G",
+  "source": "https://getterrobo.fandom.com/wiki/Hyakki_Beasts",
+  "confidence": "high",
+  "note": "Manga term; the anime equivalent is 'Hyakki Robot'. Plural 'Hyakki Beasts'."
+ },
+ {
+  "jp": "メカザウルス",
+  "en": "Mechasaurus",
+  "type": "term",
+  "role": "War machines of the Dinosaur Empire",
+  "series": "Getter Robo",
+  "source": "https://getterrobo.fandom.com/wiki/Mechasaurus",
+  "confidence": "high",
+  "note": "Plural on the wiki: 'Mechasaurs'."
+ },
+ {
+  "jp": "メタルビースト",
+  "en": "Metal Beast",
+  "type": "term",
+  "role": "Robots of Professor Lando's army",
+  "series": "Getter Robo Go",
+  "source": "https://getterrobo.fandom.com/wiki/Metal_Beasts",
+  "confidence": "high",
+  "note": "Plural 'Metal Beasts'."
+ },
+ {
+  "jp": "インベーダー",
+  "en": "Invaders",
+  "type": "organization",
+  "role": "Parasitic entities born of over-exposure to Getter Rays",
+  "series": "Shin Getter",
+  "source": "https://getterrobo.fandom.com/wiki/Invaders",
+  "confidence": "high",
+  "note": "Getter Robo Armageddon element."
+ },
+ {
+  "jp": "ゲッター線",
+  "en": "Getter Rays",
+  "type": "term",
+  "role": "Cosmic radiation that powers the Getter robots",
+  "series": "Getter Robo",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Rays",
+  "confidence": "high",
+  "note": "Also 'Getter Ray energy', 'Getter Energy' in some contexts."
+ },
+ {
+  "jp": "ゲッター炉心",
+  "en": "Getter Reactor",
+  "type": "term",
+  "role": "The Getter Ray reactor core inside a Getter robot",
+  "series": "Getter Robo",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_Daikessen!",
+  "confidence": "medium",
+  "note": "The wiki's game page lists a 'Getter Core' (red link, no page) under Andromeda mecha; if the script means that object, use 'Getter Core'. Literal: 'Getter reactor core'."
+ },
+ {
+  "jp": "早乙女研究所",
+  "en": "Saotome Institute",
+  "type": "place",
+  "role": "Dr. Saotome's lab at the foot of Mt. Asama; home base of the Getter Team",
+  "series": "Getter Robo",
+  "source": "https://getterrobo.fandom.com/wiki/Saotome_Getter_Ray_Research_Institute",
+  "confidence": "high",
+  "note": "Full name: Saotome Getter Ray Research Institute. 'Saotome Research Institute' is also used."
+ },
+ {
+  "jp": "橘研究所",
+  "en": "Tachibana Institute",
+  "type": "place",
+  "role": "Dr. Tachibana's robotics lab; partner of the Saotome Institute; developed Getter Robo Go",
+  "series": "game original",
+  "source": "https://getterrobo.fandom.com/wiki/Tachibana_Institute",
+  "confidence": "high"
+ },
+ {
+  "jp": "浅間山",
+  "en": "Mt. Asama",
+  "type": "place",
+  "role": "Volcano; the Saotome Institute is at its foot",
+  "series": "Getter Robo",
+  "source": "https://getterrobo.fandom.com/wiki/Saotome_Getter_Ray_Research_Institute",
+  "confidence": "high"
+ },
+ {
+  "jp": "隼人の校舎",
+  "en": "Hayato's school",
+  "type": "place",
+  "role": "The school building where Hayato led his revolutionary group",
+  "series": "Getter Robo",
+  "source": "https://getterrobo.fandom.com/wiki/Hayato_Jin_(Daikessen!)",
+  "confidence": "medium",
+  "note": "Descriptive term, no fixed English name. 'Hayato's school building' is an option."
+ },
+ {
+  "jp": "アラスカ基地",
+  "en": "Alaska Base",
+  "type": "place",
+  "role": "Allied base in Alaska attacked by Lando's forces",
+  "series": "Getter Robo Go",
+  "source": "https://getterrobo.fandom.com/wiki/Stilva_α04 https://getterrobo.fandom.com/wiki/Dragon_Turtle",
+  "confidence": "medium",
+  "note": "Descriptive; the Go manga's Alaska arc is set there."
+ },
+ {
+  "jp": "テキサス",
+  "en": "Texas",
+  "type": "unit",
+  "role": "Land-cruising battleship of the Allied Robot Corps (US Army); carries mechs",
+  "series": "Getter Robo Go",
+  "source": "https://getterrobo.fandom.com/wiki/Battleship_Texas",
+  "confidence": "high",
+  "note": "Wiki: 'Battleship Texas'. In dialogue, 'the Texas'."
+ },
+ {
+  "jp": "ドラゴンタートル",
+  "en": "Dragon Turtle",
+  "type": "unit",
+  "role": "Vega Zone mobile fortress/battleship, commanded by Count Rasetsu in Daikessen",
+  "series": "Getter Robo Go",
+  "source": "https://getterrobo.fandom.com/wiki/Dragon_Turtle_(Daikessen!)",
+  "confidence": "high",
+  "note": "Some pages also write 'Turtle Dragon' (redirect); the main title is 'Dragon Turtle'."
+ },
+ {
+  "jp": "ゴッドタートル",
+  "en": "God Turtle",
+  "type": "unit",
+  "role": "Unknown; probably an upgraded Dragon Turtle",
+  "series": "game original",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_Daikessen!",
+  "confidence": "low",
+  "note": "Not found in any source. Literal reading."
+ },
+ {
+  "jp": "ウザーラ",
+  "en": "Uzahra",
+  "type": "unit",
+  "role": "Ultimate creation of the Hyakki Empire; Emperor Burai's personal mech",
+  "series": "Getter Robo G",
+  "source": "https://getterrobo.fandom.com/wiki/Uzahra/Daikessen!",
+  "confidence": "high",
+  "note": "Naive romanization 'Uzaara/Uzara'; established spelling 'Uzahra'."
+ },
+ {
+  "jp": "改造ウザーラ",
+  "en": "Remodeled Uzahra",
+  "type": "unit",
+  "role": "Rebuilt Uzahra under Vega Zone",
+  "series": "game original",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_Daikessen!",
+  "confidence": "medium",
+  "note": "Listed on the wiki's game page (no article). 'Cyborg Uzahra' would match the Cyborg Gore/Bat/Burai naming, but the wiki uses 'Remodeled'."
+ },
+ {
+  "jp": "デビラ・ムウ",
+  "en": "Deviler Mu",
+  "type": "unit",
+  "role": "Enemy machine; later a component of Getter Demon in the Daikessen comic",
+  "series": "game original",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_Daikessen! https://getterrobo.fandom.com/wiki/Getter_Demon",
+  "confidence": "medium",
+  "note": "Naive romanization 'Debira Muu'; wiki: 'Deviler Mu' (red link, no page). Possibly linked to the Go manga's Myu superweapon."
+ },
+ {
+  "jp": "ジャコツ",
+  "en": "Jakotsu",
+  "type": "unit",
+  "role": "Vega Zone Metal Beast",
+  "series": "game original",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_Daikessen!",
+  "confidence": "medium",
+  "note": "Listed on the wiki's game page (no article)."
+ },
+ {
+  "jp": "モグロー",
+  "en": "Mogrow",
+  "type": "unit",
+  "role": "Dinosaur Empire Subterranean Missile Launcher that fires burrowing missiles",
+  "series": "game original",
+  "source": "https://getterrobo.fandom.com/wiki/Subterranean_Missile_Launcher_Mogrow_(Daikessen!)",
+  "confidence": "high",
+  "note": "Full wiki name: 'Subterranean Missile Launcher Mogrow'. Naive 'Moguro'."
+ },
+ {
+  "jp": "ピクドロン",
+  "en": "Pikudoron",
+  "type": "unit",
+  "role": "Giant Mechasaurus escorting Emperor Gore; shoots lightning",
+  "series": "game original",
+  "source": "https://getterrobo.fandom.com/wiki/Pikudoron_(Daikessen!)",
+  "confidence": "high"
+ },
+ {
+  "jp": "メカタイフーン",
+  "en": "Mecha Typhoon",
+  "type": "unit",
+  "role": "Large fan-bladed Mechasaurus; personal mech of Cyborg Bat",
+  "series": "game original",
+  "source": "https://getterrobo.fandom.com/wiki/Mecha_Typhoon_(Daikessen!)",
+  "confidence": "high"
+ },
+ {
+  "jp": "ホグラムＤ７",
+  "en": "Hogram D7",
+  "type": "unit",
+  "role": "Andromeda Country mecha",
+  "series": "game original",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_Daikessen!",
+  "confidence": "medium",
+  "note": "Listed on the wiki's game page (no article)."
+ },
+ {
+  "jp": "クロノウォーム",
+  "en": "Chrono Worm",
+  "type": "unit",
+  "role": "Final boss of the game",
+  "series": "game original",
+  "source": "https://getterrobo.fandom.com/wiki/Chrono_Worm_(Daikessen!)",
+  "confidence": "high",
+  "note": "Video-game exclusive."
+ },
+ {
+  "jp": "メカクワガタ",
+  "en": "Mecha Stag",
+  "type": "unit",
+  "role": "Andromeda Country insect mecha (stag beetle)",
+  "series": "game original",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_Daikessen!",
+  "confidence": "medium",
+  "note": "Wiki game page lists 'Mecha Stag' (no article). Literal 'Mecha Stag Beetle'."
+ },
+ {
+  "jp": "ゲラ",
+  "en": "Gera",
+  "type": "unit",
+  "role": "Jellyfish-like Mechasaurus that absorbs energy and grows",
+  "series": "game original",
+  "source": "https://getterrobo.fandom.com/wiki/Gera_(Daikessen!)",
+  "confidence": "high"
+ },
+ {
+  "jp": "ボルガ",
+  "en": "Volga",
+  "type": "unit",
+  "role": "Huge Russian Army super robot that can turn into a cannon (Volga 80000); appears in Episode 15",
+  "series": "Getter Robo Go",
+  "source": "https://getterrobo.fandom.com/wiki/Volga_80000",
+  "confidence": "high",
+  "note": "Full name: 'Volga 80000'. Naive 'Boruga'."
+ },
+ {
+  "jp": "大雪山",
+  "en": "Daisetsuzan",
+  "type": "place",
+  "role": "Mountain range in Hokkaido; source of Musashi's throw name",
+  "series": "Getter Robo",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_(Mecha)",
+  "confidence": "medium",
+  "note": "As a place, 'Mt. Daisetsu' is the common English form; in the attack name keep 'Daisetsuzan Oroshi'."
+ },
+ {
+  "jp": "ゲットマシン",
+  "en": "Get Machines",
+  "type": "term",
+  "role": "The three jet units that combine into a Getter robot",
+  "series": "Getter Robo",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_(Mecha)",
+  "confidence": "high",
+  "note": "Wiki uses 'Get Machines' (also 'Getter Machines' in prose)."
+ },
+ {
+  "jp": "ゲッターロボ",
+  "en": "Getter Robo",
+  "type": "unit",
+  "series": "Getter Robo",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_(Mecha)",
+  "confidence": "high"
+ },
+ {
+  "jp": "ゲッター１",
+  "en": "Getter-1",
+  "type": "unit",
+  "role": "Getter Robo flight form, Ryoma",
+  "series": "Getter Robo",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_(Mecha)",
+  "confidence": "high",
+  "note": "Wiki mostly writes it with a hyphen ('Getter-1'); 'Getter 1' is also seen."
+ },
+ {
+  "jp": "ゲッター２",
+  "en": "Getter-2",
+  "type": "unit",
+  "role": "Getter Robo ground/speed form, Hayato",
+  "series": "Getter Robo",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_(Mecha)",
+  "confidence": "high",
+  "note": "Wiki mostly writes it with a hyphen ('Getter-2'); 'Getter 2' is also seen."
+ },
+ {
+  "jp": "ゲッター３",
+  "en": "Getter-3",
+  "type": "unit",
+  "role": "Getter Robo land/sea power form, Musashi",
+  "series": "Getter Robo",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_(Mecha)",
+  "confidence": "high",
+  "note": "Wiki mostly writes it with a hyphen ('Getter-3'); 'Getter 3' is also seen."
+ },
+ {
+  "jp": "イーグル号",
+  "en": "Eagle-Gou",
+  "type": "unit",
+  "role": "Get Machine forming Getter-1's head (Ryoma)",
+  "series": "Getter Robo",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_(Mecha)",
+  "confidence": "medium",
+  "note": "The wiki spells it 'Eagle-Gou'. The more common English usage is 'Eagle Go' or plain 'Eagle'; the wiki wins under the project rule."
+ },
+ {
+  "jp": "ジャガー号",
+  "en": "Jaguar-Gou",
+  "type": "unit",
+  "role": "Get Machine forming Getter-2's head (Hayato)",
+  "series": "Getter Robo",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_(Mecha)",
+  "confidence": "medium",
+  "note": "The wiki spells it 'Jaguar-Gou'. The more common English usage is 'Jaguar Go' or plain 'Jaguar'; the wiki wins under the project rule."
+ },
+ {
+  "jp": "ベアー号",
+  "en": "Bear-Gou",
+  "type": "unit",
+  "role": "Get Machine forming Getter-3's head (Musashi)",
+  "series": "Getter Robo",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_(Mecha)",
+  "confidence": "medium",
+  "note": "The wiki spells it 'Bear-Gou'. The more common English usage is 'Bear Go' or plain 'Bear'; the wiki wins under the project rule."
+ },
+ {
+  "jp": "ゲッターロボＧ",
+  "en": "Getter Robo G",
+  "type": "unit",
+  "series": "Getter Robo G",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_G_(Mecha)",
+  "confidence": "high"
+ },
+ {
+  "jp": "ゲッタードラゴン",
+  "en": "Getter Dragon",
+  "type": "unit",
+  "role": "Getter Robo G sky form",
+  "series": "Getter Robo G",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_G_(Mecha)",
+  "confidence": "high"
+ },
+ {
+  "jp": "ゲッターライガー",
+  "en": "Getter Liger",
+  "type": "unit",
+  "role": "Getter Robo G land form",
+  "series": "Getter Robo G",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_G_(Mecha)",
+  "confidence": "high",
+  "note": "Naive 'Raigaa/Raiger'; established 'Liger'."
+ },
+ {
+  "jp": "ゲッターポセイドン",
+  "en": "Getter Poseidon",
+  "type": "unit",
+  "role": "Getter Robo G water form",
+  "series": "Getter Robo G",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_G_(Mecha)",
+  "confidence": "high"
+ },
+ {
+  "jp": "ドラゴン号",
+  "en": "Dragon-Gou",
+  "type": "unit",
+  "role": "Getter Robo G Get Machine",
+  "series": "Getter Robo G",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_G_(Mecha)",
+  "confidence": "medium",
+  "note": "The wiki's G page calls the jets just 'Dragon'; 'Dragon-Gou' keeps them consistent with Eagle-Gou etc. Use plain 'Dragon' if the -Gou form is dropped."
+ },
+ {
+  "jp": "ライガー号",
+  "en": "Liger-Gou",
+  "type": "unit",
+  "role": "Getter Robo G Get Machine",
+  "series": "Getter Robo G",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_G_(Mecha)",
+  "confidence": "medium",
+  "note": "The wiki's G page calls the jets just 'Liger'; 'Liger-Gou' keeps them consistent with Eagle-Gou etc. Use plain 'Liger' if the -Gou form is dropped."
+ },
+ {
+  "jp": "ポセイドン号",
+  "en": "Poseidon-Gou",
+  "type": "unit",
+  "role": "Getter Robo G Get Machine",
+  "series": "Getter Robo G",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_G_(Mecha)",
+  "confidence": "medium",
+  "note": "The wiki's G page calls the jets just 'Poseidon'; 'Poseidon-Gou' keeps them consistent with Eagle-Gou etc. Use plain 'Poseidon' if the -Gou form is dropped."
+ },
+ {
+  "jp": "真ゲッターロボ",
+  "en": "Shin Getter Robo",
+  "type": "unit",
+  "series": "Shin Getter",
+  "source": "https://getterrobo.fandom.com/wiki/Shin_Getter_Robo_(Mecha)",
+  "confidence": "high",
+  "note": "'Shin' kept untranslated (literal 'True Getter Robo')."
+ },
+ {
+  "jp": "真ゲッター１",
+  "en": "Shin Getter-1",
+  "type": "unit",
+  "role": "Shin Getter Robo flight form",
+  "series": "Shin Getter",
+  "source": "https://getterrobo.fandom.com/wiki/Shin_Getter_Robo_(Mecha)",
+  "confidence": "high"
+ },
+ {
+  "jp": "真ゲッター２",
+  "en": "Shin Getter-2",
+  "type": "unit",
+  "role": "Shin Getter Robo ground form",
+  "series": "Shin Getter",
+  "source": "https://getterrobo.fandom.com/wiki/Shin_Getter_Robo_(Mecha)",
+  "confidence": "high"
+ },
+ {
+  "jp": "真ゲッター３",
+  "en": "Shin Getter-3",
+  "type": "unit",
+  "role": "Shin Getter Robo power form",
+  "series": "Shin Getter",
+  "source": "https://getterrobo.fandom.com/wiki/Shin_Getter_Robo_(Mecha)",
+  "confidence": "high"
+ },
+ {
+  "jp": "真ゲッタードラゴン",
+  "en": "Shin Getter Dragon",
+  "type": "unit",
+  "role": "Massive Getter Dragon variant obtained in the final episode; also called Shin Getter Robo G",
+  "series": "game original",
+  "source": "https://getterrobo.fandom.com/wiki/Shin_Getter_Robo_G/Daikessen!",
+  "confidence": "high",
+  "note": "First appeared in Daikessen; later used in Super Robot Wars."
+ },
+ {
+  "jp": "ゲッターロボ號",
+  "en": "Getter Robo Go",
+  "type": "unit",
+  "series": "Getter Robo Go",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_Go_(Mecha)",
+  "confidence": "high"
+ },
+ {
+  "jp": "ゲッター號",
+  "en": "Getter Go",
+  "type": "unit",
+  "role": "Main/flight mode of Getter Robo Go (Go Ichimonji)",
+  "series": "Getter Robo Go",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_Go_(Mecha)",
+  "confidence": "high"
+ },
+ {
+  "jp": "ゲッター凱 / ゲッター剴",
+  "en": "Getter Gai",
+  "type": "unit",
+  "role": "Land bombardment / underwater mode of Getter Robo Go (Gai Daido)",
+  "series": "Getter Robo Go",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_Go_(Mecha)",
+  "confidence": "high",
+  "note": "Official kanji is ゲッター剴; 凱 is a common variant spelling."
+ },
+ {
+  "jp": "ゲッター翔",
+  "en": "Getter Sho",
+  "type": "unit",
+  "role": "High-speed drill mode of Getter Robo Go (Sho Tachibana)",
+  "series": "Getter Robo Go",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_Go_(Mecha)",
+  "confidence": "high"
+ },
+ {
+  "jp": "ブラックゲッター",
+  "en": "Black Getter",
+  "type": "unit",
+  "role": "Black Getter Robo built by Tatsuhito in Daikessen; obtained in Episode 14",
+  "series": "Shin Getter",
+  "source": "https://getterrobo.fandom.com/wiki/Black_Getter",
+  "confidence": "high"
+ },
+ {
+  "jp": "ゲッターエンペラー",
+  "en": "Getter Emperor",
+  "type": "unit",
+  "role": "Ultimate Getter; obtained in Episode 20",
+  "series": "Shin Getter",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Emperor_(Manga) https://getterrobo.fandom.com/wiki/Getter_Robo_Daikessen!",
+  "confidence": "high"
+ },
+ {
+  "jp": "ゲッターロボ斬",
+  "en": "Getter Robo Zan",
+  "type": "unit",
+  "role": "Female-only Getter with a kunoichi motif; obtained in Episode 5, cannot be boarded by a male hero; pilots Akane, Tsubaki, Kaede (Kei as back-up)",
+  "series": "game original",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_Zan",
+  "confidence": "high",
+  "note": "Video-game exclusive. Get Machines: Rekka, Shiten, Kongo. Built with help from Dr. Tachibana."
+ },
+ {
+  "jp": "ゲッター烈火",
+  "en": "Getter Rekka",
+  "type": "unit",
+  "role": "Aerial form of Getter Robo Zan (Akane); armed with the Hizanto katana",
+  "series": "game original",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_Zan",
+  "confidence": "high"
+ },
+ {
+  "jp": "ゲッター紫電",
+  "en": "Getter Shiten",
+  "type": "unit",
+  "role": "Speedy ground form of Getter Robo Zan (Tsubaki); drill on the right hand, shadow clones",
+  "series": "game original",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_Zan https://getterrobo.fandom.com/wiki/Tsubaki_Akiyama",
+  "confidence": "medium",
+  "note": "CONFLICT: the wiki spells it 'Shiten', but 紫電 is normally read 'Shiden' (as in the Shiden fighter plane). Wiki kept under the project rule; 'Getter Shiden' is the more accurate reading."
+ },
+ {
+  "jp": "ゲッター金剛",
+  "en": "Getter Kongo",
+  "type": "unit",
+  "role": "Sea/heavy form of Getter Robo Zan (Kaede)",
+  "series": "game original",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_Zan https://getterrobo.fandom.com/wiki/Kaede_Shibasaki",
+  "confidence": "high",
+  "note": "Macron form 'Kongō'."
+ },
+ {
+  "jp": "テキサスマック",
+  "en": "Texas Mack",
+  "type": "unit",
+  "role": "American cowboy super robot piloted by Jack (body) and Mary (hat)",
+  "series": "Getter Robo",
+  "source": "https://getterrobo.fandom.com/wiki/Texas_Mack",
+  "confidence": "high"
+ },
+ {
+  "jp": "ステルバー",
+  "en": "Stilva",
+  "type": "unit",
+  "role": "US Army transforming stealth-fighter super robot (Stilva α04), crewed by Schwartz and Lambert",
+  "series": "Getter Robo Go",
+  "source": "https://getterrobo.fandom.com/wiki/Stilva_α04",
+  "confidence": "medium",
+  "note": "Wiki spelling 'Stilva α04'. Naive romanization 'Stelvar/Stelver'; the wiki itself uses 'Stelver F24/F28' for other US units, and ja.wikipedia's romanization is 'Stelvar'. Wiki title kept."
+ },
+ {
+  "jp": "ロボストーン",
+  "en": "Robo Stone",
+  "type": "unit",
+  "role": "Probably the Canadian roller super robot piloted by Bob and Sam",
+  "series": "Getter Robo Go",
+  "source": "https://getterrobo.fandom.com/wiki/Robo_Sun_T-520 https://getterrobo.fandom.com/wiki/Getter_Robo_Daikessen!",
+  "confidence": "low",
+  "note": "CONFLICT: the wiki lists the Canadian unit in Daikessen as 'Robo Sun T-520' (manga katakana ロボスーンT520). The game's katakana ロボストーン reads 'Robo Stone'. Check in-game whether it is the same unit. If it is, use 'Robo Sun' to match the wiki."
+ },
+ {
+  "jp": "キングダム００７",
+  "en": "Kingdom 007",
+  "type": "unit",
+  "role": "British humanoid super robot with high endurance (replaces the manga's BB-5); Linda's unit",
+  "series": "Getter Robo Go",
+  "source": "https://getterrobo.fandom.com/wiki/Kingdom_007 https://getterrobo.fandom.com/wiki/Getter_Robo_Daikessen!",
+  "confidence": "high"
+ },
+ {
+  "jp": "グスタフ",
+  "en": "Gustaf",
+  "type": "unit",
+  "role": "German super robot (Gustaf H-24) that splits into helicopter and tank modules; piloted by Heim Shatner",
+  "series": "Getter Robo Go",
+  "source": "https://getterrobo.fandom.com/wiki/Gustaf_H-24",
+  "confidence": "high",
+  "note": "Full name: 'Gustaf H-24'. Note the wiki spells it 'Gustaf', not 'Gustav'."
+ },
+ {
+  "jp": "レディコマンド",
+  "en": "Lady Command",
+  "type": "unit",
+  "role": "Support/repair jet for Getter Robo G; piloted by Michiru",
+  "series": "Getter Robo G",
+  "source": "https://getterrobo.fandom.com/wiki/Lady_Command",
+  "confidence": "high"
+ },
+ {
+  "jp": "スーパーゲッターロボ號",
+  "en": "Super Getter Robo Go",
+  "type": "unit",
+  "role": "Getter Go armored with the G-Arm Riser",
+  "series": "Getter Robo Go",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_Go_(Mecha)",
+  "confidence": "high",
+  "note": "Wiki section title: 'Super Getter Go' (スーパーゲッター號). Anime-derived."
+ },
+ {
+  "jp": "Ｇアームライザー",
+  "en": "G-Arm Riser",
+  "type": "unit",
+  "role": "Support fighter that transports Getter Robo Go and becomes its Super Getter Go armor",
+  "series": "Getter Robo Go",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_Go_(Mecha)",
+  "confidence": "high"
+ },
+ {
+  "jp": "ゲッタートマホーク",
+  "en": "Getter Tomahawk",
+  "type": "weapon",
+  "series": "Getter Robo",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Tomahawk",
+  "confidence": "high",
+  "role": "Getter-1 axe"
+ },
+ {
+  "jp": "トマホークブーメラン",
+  "en": "Tomahawk Boomerang",
+  "type": "weapon",
+  "series": "Getter Robo",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_(Mecha)",
+  "confidence": "high",
+  "role": "Getter-1 thrown tomahawk"
+ },
+ {
+  "jp": "ゲッタービーム",
+  "en": "Getter Beam",
+  "type": "weapon",
+  "series": "Getter Robo",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Beam",
+  "confidence": "high"
+ },
+ {
+  "jp": "ゲッターカッター",
+  "en": "Getter Cutter",
+  "type": "weapon",
+  "series": "Getter Robo",
+  "source": "https://getterrobo.fandom.com/wiki/Black_Getter https://getterrobo.fandom.com/wiki/Getter_Noir",
+  "confidence": "high",
+  "note": "Forearm blades. The wiki's main name is 'Getter Razor (AKA Getter Cutter)'; the katakana here is カッター, so 'Getter Cutter'."
+ },
+ {
+  "jp": "ゲッターマシンガン",
+  "en": "Getter Machine Gun",
+  "type": "weapon",
+  "series": "Getter Robo",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_(Mecha)",
+  "confidence": "high"
+ },
+ {
+  "jp": "ゲッタービジョン",
+  "en": "Getter Vision",
+  "type": "weapon",
+  "series": "Getter Robo",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_(Mecha)",
+  "confidence": "high",
+  "role": "Getter-2 afterimage high-speed move"
+ },
+ {
+  "jp": "ドリルアーム",
+  "en": "Drill Arm",
+  "type": "weapon",
+  "series": "Getter Robo",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_(Mecha)",
+  "confidence": "high",
+  "role": "Getter-2 drill strike"
+ },
+ {
+  "jp": "ドリルストーム",
+  "en": "Drill Storm",
+  "type": "weapon",
+  "series": "Getter Robo",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_(Mecha)",
+  "confidence": "high",
+  "role": "Getter-2 drill tornado"
+ },
+ {
+  "jp": "ジェットドリル",
+  "en": "Jet Drill",
+  "type": "weapon",
+  "series": "Getter Robo",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_(Mecha)",
+  "confidence": "high",
+  "note": "Wiki lists it as an alias of Drill Missile."
+ },
+ {
+  "jp": "ゲッターミサイル",
+  "en": "Getter Missile",
+  "type": "weapon",
+  "series": "Getter Robo",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_(Mecha)",
+  "confidence": "high"
+ },
+ {
+  "jp": "大雪山おろし",
+  "en": "Daisetsuzan Oroshi",
+  "type": "weapon",
+  "series": "Getter Robo",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_G_(Mecha) https://getterrobo.fandom.com/wiki/Getter_Robo_(Mecha)",
+  "confidence": "high",
+  "note": "Musashi's judo throw. The wiki also writes 'Daisetsuzan no Oroshi'. Do not translate it into English; it is a signature name."
+ },
+ {
+  "jp": "ダブルトマホーク",
+  "en": "Double Tomahawk",
+  "type": "weapon",
+  "series": "Getter Robo G",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_G_(Mecha)",
+  "confidence": "high"
+ },
+ {
+  "jp": "ダブルトマホークブーメラン",
+  "en": "Double Tomahawk Boomerang",
+  "type": "weapon",
+  "series": "Getter Robo G",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_G_(Mecha)",
+  "confidence": "high"
+ },
+ {
+  "jp": "スピンカッター",
+  "en": "Spin Cutter",
+  "type": "weapon",
+  "series": "Getter Robo G",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_G_(Mecha)",
+  "confidence": "high"
+ },
+ {
+  "jp": "ゲッタービームランチャー",
+  "en": "Getter Beam Launcher",
+  "type": "weapon",
+  "series": "game original",
+  "source": "https://getterrobo.fandom.com/wiki/Shin_Getter_Robo_G/Daikessen!",
+  "confidence": "medium",
+  "note": "The wiki lists 'Shin Getter Beam Launcher (Daikessen)' for Shin Getter Dragon."
+ },
+ {
+  "jp": "シャインスパーク",
+  "en": "Shine Spark",
+  "type": "weapon",
+  "series": "Getter Robo G",
+  "source": "https://getterrobo.fandom.com/wiki/Shine_Spark",
+  "confidence": "high"
+ },
+ {
+  "jp": "チェーンアタック",
+  "en": "Chain Attack",
+  "type": "weapon",
+  "series": "Getter Robo G",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_G_(Mecha)",
+  "confidence": "high"
+ },
+ {
+  "jp": "ライガーミサイル",
+  "en": "Liger Missile",
+  "type": "weapon",
+  "series": "Getter Robo G",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_G_(Mecha)",
+  "confidence": "high"
+ },
+ {
+  "jp": "マッハスペシャル",
+  "en": "Mach Special",
+  "type": "weapon",
+  "series": "Getter Robo G",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_G_(Mecha)",
+  "confidence": "high"
+ },
+ {
+  "jp": "バーストアタック",
+  "en": "Burst Attack",
+  "type": "weapon",
+  "series": "game original",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_Daikessen!",
+  "confidence": "low",
+  "note": "Not found in any source. Literal reading."
+ },
+ {
+  "jp": "ストロングミサイル",
+  "en": "Strong Missile",
+  "type": "weapon",
+  "series": "Getter Robo G",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_G_(Mecha)",
+  "confidence": "high"
+ },
+ {
+  "jp": "フィンガーネット",
+  "en": "Finger Net",
+  "type": "weapon",
+  "series": "Getter Robo G",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_G_(Mecha)",
+  "confidence": "high"
+ },
+ {
+  "jp": "ゲッターサイクロン",
+  "en": "Getter Cyclone",
+  "type": "weapon",
+  "series": "Getter Robo G",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_G_(Mecha)",
+  "confidence": "high"
+ },
+ {
+  "jp": "ナックルボンバー",
+  "en": "Knuckle Bomber",
+  "type": "weapon",
+  "series": "Getter Robo Go",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_Go_(Mecha)",
+  "confidence": "high"
+ },
+ {
+  "jp": "レッグブレード",
+  "en": "Leg Blade",
+  "type": "weapon",
+  "series": "Getter Robo Go",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_Go_(Mecha)",
+  "confidence": "high"
+ },
+ {
+  "jp": "ハンディミサイルキャノン",
+  "en": "Handy Missile Cannon",
+  "type": "weapon",
+  "series": "Getter Robo Go",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_Go_(Mecha)",
+  "confidence": "high"
+ },
+ {
+  "jp": "マグフォースサンダー",
+  "en": "Mag Force Thunder",
+  "type": "weapon",
+  "series": "Getter Robo Go",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_Go_(Mecha)",
+  "confidence": "high"
+ },
+ {
+  "jp": "ソードトマホーク",
+  "en": "Sword Tomahawk",
+  "type": "weapon",
+  "series": "Getter Robo Go",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_Go_(Mecha)",
+  "confidence": "high",
+  "note": "Super Getter Go weapon. The wiki's full name is 'Jikoken Sword Tomahawk'."
+ },
+ {
+  "jp": "ストリングアタック",
+  "en": "String Attack",
+  "type": "weapon",
+  "series": "Getter Robo Go",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_Go_(Mecha)",
+  "confidence": "high"
+ },
+ {
+  "jp": "ブレストボンバー",
+  "en": "Breast Bomber",
+  "type": "weapon",
+  "series": "Getter Robo Go",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_Go_(Mecha)",
+  "confidence": "high"
+ },
+ {
+  "jp": "トルネードアタック",
+  "en": "Tornado Attack",
+  "type": "weapon",
+  "series": "Getter Robo Go",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_Go_(Mecha)",
+  "confidence": "high"
+ },
+ {
+  "jp": "ハーブンキャノン",
+  "en": "Harpoon Cannon",
+  "type": "weapon",
+  "series": "Getter Robo Go",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_Go_(Mecha)",
+  "confidence": "medium",
+  "note": "The game's katakana ハーブン is likely a misspelling of ハープーン (the anime uses ハープンキャノン). The wiki names Getter Gai's weapon 'Harpoon Cannon'."
+ },
+ {
+  "jp": "インパクトキャノン",
+  "en": "Impact Cannon",
+  "type": "weapon",
+  "series": "Getter Robo Go",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_Go_(Mecha)",
+  "confidence": "high"
+ },
+ {
+  "jp": "ブレストビーム",
+  "en": "Breast Beam",
+  "type": "weapon",
+  "series": "Getter Robo Go",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_Go_(Mecha)",
+  "confidence": "high"
+ },
+ {
+  "jp": "スピントルネードアタック",
+  "en": "Spin Tornado Attack",
+  "type": "weapon",
+  "series": "game original",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_Go_(Mecha)",
+  "confidence": "medium",
+  "note": "No source for this exact name; it builds on Getter Sho's 'Tornado Attack'."
+ },
+ {
+  "jp": "真ゲッタートマホーク",
+  "en": "Shin Getter Tomahawk",
+  "type": "weapon",
+  "series": "Shin Getter",
+  "source": "https://getterrobo.fandom.com/wiki/Shin_Getter_Robo_(Mecha)",
+  "confidence": "medium",
+  "note": "Wiki lists 'Getter Tomahawk' for Shin Getter-1; the prefix follows the game's 真."
+ },
+ {
+  "jp": "真ゲッタービーム",
+  "en": "Shin Getter Beam",
+  "type": "weapon",
+  "series": "Shin Getter",
+  "source": "https://getterrobo.fandom.com/wiki/Shin_Getter_Robo_(Mecha)",
+  "confidence": "high"
+ },
+ {
+  "jp": "ストナーサンシャイン",
+  "en": "Stoner Sunshine",
+  "type": "weapon",
+  "series": "Shin Getter",
+  "source": "https://getterrobo.fandom.com/wiki/Stoner_Sunshine",
+  "confidence": "high",
+  "note": "Do not 'correct' this to 'Stone Sunshine'; 'Stoner Sunshine' is the established name."
+ },
+ {
+  "jp": "真シザーアーム",
+  "en": "Shin Scissor Arm",
+  "type": "weapon",
+  "series": "Shin Getter",
+  "source": "https://getterrobo.fandom.com/wiki/Shin_Getter_Robo_(Mecha)",
+  "confidence": "medium",
+  "note": "Wiki: 'Scissor Arm (Daikessen)'."
+ },
+ {
+  "jp": "真ドリルシェイカー",
+  "en": "Shin Drill Shaker",
+  "type": "weapon",
+  "series": "Shin Getter",
+  "source": "https://getterrobo.fandom.com/wiki/Shin_Getter_Robo_(Mecha)",
+  "confidence": "medium",
+  "note": "Wiki: 'Drill Shaker (Daikessen)'; only hits enemies on or under the ground."
+ },
+ {
+  "jp": "ドリルハリケーン",
+  "en": "Drill Hurricane",
+  "type": "weapon",
+  "series": "Shin Getter",
+  "source": "https://getterrobo.fandom.com/wiki/Shin_Getter_Robo_(Mecha)",
+  "confidence": "high",
+  "note": "The wiki says Drill Tempest is 'also called Drill Hurricane in some media'."
+ },
+ {
+  "jp": "ゲッタースマッシュ",
+  "en": "Getter Smash",
+  "type": "weapon",
+  "series": "Getter Robo",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_(Mecha)",
+  "confidence": "high",
+  "note": "Getter-3 double punch (video-game only)."
+ },
+ {
+  "jp": "ゲッタークラッシュ",
+  "en": "Getter Crush",
+  "type": "weapon",
+  "series": "Getter Robo",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_(Mecha) https://getterrobo.fandom.com/wiki/Shin_Getter_Robo_(Mecha)",
+  "confidence": "medium",
+  "note": "Getter-3 video-game punch combo: 'Getter Crush'. Shin Getter-3's body tackle in Armageddon is 'Getter Crash'. Use 'Getter Crash' if the user is Shin Getter-3."
+ },
+ {
+  "jp": "テキサスマグナム４４４",
+  "en": "Texas Magnum 444",
+  "type": "weapon",
+  "series": "game original",
+  "source": "https://getterrobo.fandom.com/wiki/Texas_Mack",
+  "confidence": "medium",
+  "note": "No source for this exact name; it is a direct reading. Texas Mack uses two revolvers."
+ },
+ {
+  "jp": "テキサスライフル",
+  "en": "Texas Rifle",
+  "type": "weapon",
+  "series": "game original",
+  "source": "https://getterrobo.fandom.com/wiki/Texas_Mack",
+  "confidence": "medium",
+  "note": "Direct reading; the revolvers combine into a rifle (wiki)."
+ },
+ {
+  "jp": "テキサスブレード",
+  "en": "Texas Blade",
+  "type": "weapon",
+  "series": "game original",
+  "source": "https://getterrobo.fandom.com/wiki/Texas_Mack",
+  "confidence": "medium",
+  "note": "Direct reading; the revolvers can turn into swords (wiki)."
+ },
+ {
+  "jp": "ハットマシンアタック",
+  "en": "Hat Machine Attack",
+  "type": "weapon",
+  "series": "game original",
+  "source": "https://getterrobo.fandom.com/wiki/Texas_Mack_(SvN)",
+  "confidence": "medium",
+  "note": "The wiki calls Mary's hat unit the 'Hat Machine'."
+ },
+ {
+  "jp": "超ウエポン砲",
+  "en": "Super Weapon Cannon",
+  "type": "weapon",
+  "series": "game original",
+  "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_Daikessen!",
+  "confidence": "low",
+  "note": "Not found in any source. Literal reading."
+ },
+ {
+  "jp": "ウザーラアイビーム",
+  "en": "Uzahra Eye Beam",
+  "type": "weapon",
+  "series": "game original",
+  "source": "https://getterrobo.fandom.com/wiki/Uzahra/Daikessen!",
+  "confidence": "medium",
+  "note": "Direct reading built on the wiki's 'Uzahra' spelling."
+ },
+ {
+  "jp": "連合軍",
+  "en": "Allied Forces",
+  "type": "organization",
+  "source": "translation decision (no source found; agreed during translation 2026-11-18)",
+  "confidence": "low"
+ },
+ {
+  "jp": "クジラ",
+  "en": "Kujira",
+  "type": "unit",
+  "source": "translation decision (no source found; agreed during translation 2026-11-18)",
+  "confidence": "low",
+  "note": "large transport plane (full name クジラ２００５Ｄ１); kept as a proper name, not 'Whale'"
+ },
+ {
+  "jp": "ランドウ様",
+  "en": "Lord Lando",
+  "type": "term",
+  "source": "translation decision (no source found; agreed during translation 2026-11-18)",
+  "confidence": "low"
+ },
+ {
+  "jp": "反ゲッター線",
+  "en": "Anti-Getter Rays",
+  "type": "term",
+  "source": "translation decision (no source found; agreed during translation 2026-11-18)",
+  "confidence": "low"
+ },
+ {
+  "jp": "量産型ゲッターロボ",
+  "en": "Mass-Production Getter Robo",
+  "type": "unit",
+  "source": "translation decision (no source found; agreed during translation 2026-11-18)",
+  "confidence": "low"
+ },
+ {
+  "jp": "南米基地",
+  "en": "South America Base",
+  "type": "place",
+  "source": "translation decision (no source found; agreed during translation 2026-11-18)",
+  "confidence": "low"
+ },
+ {
+  "jp": "爬虫人類",
+  "en": "Reptilians",
+  "type": "term",
+  "source": "translation decision (no source found; agreed during translation 2026-11-18)",
+  "confidence": "low"
+ },
+ {
+  "jp": "ゲッター斬",
+  "en": "Getter Zan",
+  "type": "unit",
+  "source": "translation decision (no source found; agreed during translation 2026-11-18)",
+  "confidence": "low",
+  "note": "short form of Getter Robo Zan"
+ },
+ {
+  "jp": "ゲッターＧ",
+  "en": "Getter G",
+  "type": "unit",
+  "source": "translation decision (no source found; agreed during translation 2026-11-18)",
+  "confidence": "low",
+  "note": "short form of Getter Robo G"
+ },
+ {
+  "jp": "魔王鬼",
+  "en": "Maouki",
+  "type": "character",
+  "source": "translation decision (no source found; agreed during translation 2026-11-18)",
+  "confidence": "low",
+  "note": "Hyakki oni; reading guessed"
+ },
+ {
+  "jp": "ゲッター計画",
+  "en": "Getter Project",
+  "type": "term",
+  "source": "translation decision (no source found; agreed during translation 2026-11-18)",
+  "confidence": "low"
+ },
+ {
+  "jp": "蛇牙城",
+  "en": "Vega Zone",
+  "type": "place",
+  "source": "Original ANNO19 XA narration (two independent recognition models); https://turkey.at-ninja.jp/getter/index.htm",
+  "confidence": "high",
+  "note": "Native narration reads the kanji as Vega Zone. Replaces the previously guessed Jaga Castle. Do not revert to the literal guessed reading."
+ },
+ {
+  "jp": "マグマ砲",
+  "en": "Magma Cannon",
+  "type": "weapon",
+  "source": "translation decision (no source found; agreed during translation 2026-11-18)",
+  "confidence": "low"
+ },
+ {
+  "jp": "地底魔王",
+  "en": "Underground Demon King",
+  "type": "term",
+  "source": "translation decision (no source found; agreed during translation 2026-11-18)",
+  "confidence": "low"
+ },
+ {
+  "jp": "東葉高校",
+  "en": "Toyo High School",
+  "type": "place",
+  "source": "translation decision (no source found; agreed during translation 2026-11-18)",
+  "confidence": "low",
+  "note": "reading guessed"
+ },
+ {
+  "jp": "超ウエポン・モード",
+  "en": "Super Weapon Mode",
+  "type": "term",
+  "source": "translation decision (no source found; agreed during translation 2026-11-18)",
+  "confidence": "low"
+ },
+ {
+  "jp": "ラセツ男爵",
+  "en": "Baron Rasetsu",
+  "type": "character",
+  "gender": "",
+  "role": "",
+  "personality": "",
+  "series": "",
+  "source": "PIL_PRM/MCN_PRM",
+  "confidence": "medium",
+  "note": ""
+ },
+ {
+  "jp": "ヘルレザー",
+  "en": "Hellreza",
+  "type": "character",
+  "gender": "",
+  "role": "",
+  "personality": "",
+  "series": "",
+  "source": "PIL_PRM/MCN_PRM",
+  "confidence": "medium",
+  "note": ""
+ },
+ {
+  "jp": "大道凱",
+  "en": "Gai Daido",
+  "type": "character",
+  "gender": "",
+  "role": "",
+  "personality": "",
+  "series": "",
+  "source": "PIL_PRM/MCN_PRM",
+  "confidence": "medium",
+  "note": ""
+ },
+ {
+  "jp": "水樹茜",
+  "en": "Akane Mizuki",
+  "type": "character",
+  "gender": "",
+  "role": "",
+  "personality": "",
+  "series": "",
+  "source": "PIL_PRM/MCN_PRM",
+  "confidence": "medium",
+  "note": ""
+ },
+ {
+  "jp": "秋山椿",
+  "en": "Tsubaki Akiyama",
+  "type": "character",
+  "gender": "",
+  "role": "",
+  "personality": "",
+  "series": "",
+  "source": "PIL_PRM/MCN_PRM",
+  "confidence": "medium",
+  "note": ""
+ },
+ {
+  "jp": "柴崎楓",
+  "en": "Kaede Shibasaki",
+  "type": "character",
+  "gender": "",
+  "role": "",
+  "personality": "",
+  "series": "",
+  "source": "PIL_PRM/MCN_PRM",
+  "confidence": "medium",
+  "note": ""
+ },
+ {
+  "jp": "リンダ・ティラミス",
+  "en": "Linda Tiramis",
+  "type": "character",
+  "gender": "",
+  "role": "",
+  "personality": "",
+  "series": "",
+  "source": "https://getterrobo.fandom.com/wiki/Linda_Tiramis",
+  "confidence": "high",
+  "note": ""
+ },
+ {
+  "jp": "ボブ・ホスナー / サム・ホスナー",
+  "en": "Bob Hosner / Sam Hosner",
+  "type": "character",
+  "gender": "",
+  "role": "",
+  "personality": "",
+  "series": "",
+  "source": "PIL_PRM/MCN_PRM",
+  "confidence": "medium",
+  "note": ""
+ },
+ {
+  "jp": "時間蟲クロノウォーム",
+  "en": "Time Bug Chrono Worm",
+  "type": "enemy",
+  "gender": "",
+  "role": "",
+  "personality": "",
+  "series": "",
+  "source": "PIL_PRM/MCN_PRM",
+  "confidence": "medium",
+  "note": ""
+ },
+ {
+  "jp": "橘信一",
+  "en": "Shinichi Tachibana",
+  "type": "character",
+  "gender": "",
+  "role": "",
+  "personality": "",
+  "series": "",
+  "source": "PIL_PRM/MCN_PRM",
+  "confidence": "medium",
+  "note": ""
+ }
+]

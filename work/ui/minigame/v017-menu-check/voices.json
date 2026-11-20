@@ -1,0 +1,23 @@
+{
+  "voices": [
+    {
+      "voice": 1166,
+      "lines": [
+        {
+          "text": "Don't get carried away just because",
+          "x": 163,
+          "y": 350,
+          "flags": "0x10000004"
+        },
+        {
+          "text": "you've combined once or twice.",
+          "x": 177,
+          "y": 376,
+          "flags": "0x10000004"
+        }
+      ]
+    }
+  ],
+  "unknown_voice_skipped": true,
+  "disabled_voices_skipped": true
+}

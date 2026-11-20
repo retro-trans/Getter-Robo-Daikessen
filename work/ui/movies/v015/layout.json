@@ -1,0 +1,20 @@
+{
+  "version": "0.1.5",
+  "subtitle": {
+    "background": "transparent",
+    "font": "Arial Bold",
+    "font_pixels": 12,
+    "text_rgb": [240, 240, 240],
+    "outline_rgb": [0, 0, 0],
+    "outline_pixels": 1,
+    "max_text_width": 282,
+    "max_lines": 2,
+    "line_height": 14,
+    "top_y_for_two_lines": 205,
+    "top_y_for_one_line": 212
+  },
+  "credits": {
+    "lyric_viewport_top": 202,
+    "background": "original credit-roll black"
+  }
+}

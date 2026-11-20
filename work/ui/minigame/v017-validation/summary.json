@@ -1,0 +1,29 @@
+{
+  "version": "0.1.7",
+  "sha256": "621e5a3a30b0756bca2774b0a7f459e8ee01b84d1e9fd43ef2d053d56137c145",
+  "bin_size": 663663840,
+  "voices_checked_natively": 32,
+  "subtitle_cues_checked": 70,
+  "native_tutorial_captures": [
+    "time_limit",
+    "radar",
+    "square",
+    "cross"
+  ],
+  "unknown_voice_skipped": true,
+  "unavailable_voice_backend_skipped": true,
+  "menu_capture": "work/ui/minigame/v017-menu-check/menu_a.png",
+  "transparent_background": true,
+  "flight_caption_y": [
+    84,
+    96
+  ],
+  "menu_caption_y": [
+    350,
+    376
+  ],
+  "overlay_end": "0x800E9C60",
+  "previous_version_archive_restored_sha256": "c860d4af0647a371affaba26eec84054c40f59842bea9ad28e4833285d068693",
+  "real_console_tested": false,
+  "human_listening_review_complete": false
+}

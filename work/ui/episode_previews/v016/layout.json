@@ -1,0 +1,61 @@
+{
+  "confirmation": {
+    "labels": {
+      "Yes": {
+        "x": 124,
+        "y": 125
+      },
+      "No": {
+        "x": 160,
+        "y": 125
+      }
+    },
+    "highlights": {
+      "Yes": {
+        "x": 122,
+        "y": 123,
+        "width": 24,
+        "height": 16
+      },
+      "No": {
+        "x": 158,
+        "y": 123,
+        "width": 24,
+        "height": 16
+      }
+    },
+    "source_screenshot": "codex-clipboard-9008c8a4-5bb6-4cfb-b757-535f11dc321f.png",
+    "native_captures": [
+      "confirmation_no_b.png",
+      "confirmation_yes_selected_b.png"
+    ]
+  },
+  "previews": {
+    "source_screenshot": "codex-clipboard-8720c489-72fa-4d20-9a67-c81ede5dd512.png",
+    "identified_as": "ANNO02",
+    "subtitle_background": "transparent",
+    "line_y": [
+      208,
+      221
+    ],
+    "max_width": 292,
+    "viewport": [
+      320,
+      240
+    ],
+    "native_confirmation": "ANNO02/01_a.png"
+  },
+  "hardware_bounds": {
+    "overlay_base": "0x800A97A8",
+    "original_end": "0x800C6074",
+    "new_code_start": "0x800C6080",
+    "new_end_exclusive": "0x800C621C",
+    "next_overlay": "0x800C67A8",
+    "original_absolute_references_into_extension_region": 0,
+    "native_state_bytes": 2084,
+    "subtitle_capacity_bytes": 2048,
+    "largest_subtitle_bytes": 545,
+    "real_console_tested": false,
+    "track_ownership_required": true
+  }
+}

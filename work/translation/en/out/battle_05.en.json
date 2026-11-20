@@ -1,0 +1,42 @@
+[
+ {
+  "id": "BT_400",
+  "en": "Antlion",
+  "note": ""
+ },
+ {
+  "id": "BT_401",
+  "en": "Bee",
+  "note": ""
+ },
+ {
+  "id": "BT_402",
+  "en": "Stag",
+  "note": ""
+ },
+ {
+  "id": "BT_403",
+  "en": "Guhh...",
+  "note": "SGRD-only variant (no final period) of Lambert's hit line BT_165; align with whatever BT_165 gets in battle_02. [proof] older numbering: Lambert's line is BT_168 (same file set now)."
+ },
+ {
+  "id": "BT_404",
+  "en": "Ugh... ugh...",
+  "note": "SGRD-only variant of Lambert's BT_166; align with battle_02. [proof] older numbering: Lambert's line is BT_169."
+ },
+ {
+  "id": "BT_405",
+  "en": "...N-no way. ...I let my guard down!",
+  "note": "SGRD-only variant of BT_231 (Zan pilot death line, Akane inferred); align with battle_02. [proof] older numbering: the main line is BT_235."
+ },
+ {
+  "id": "BT_406",
+  "en": "This can't be... N-not me, of all people!",
+  "note": "SGRD-only variant of BT_238 (Zan pilot death line, Tsubaki inferred); align with battle_02. [accuracy] aligned with BT_243 (same line). [proof] older numbering: the main line is BT_243."
+ },
+ {
+  "id": "BT_407",
+  "en": "Message",
+  "note": "UNIT.BIN's only string (placeholder label)."
+ }
+]

@@ -1,0 +1,596 @@
+[
+ {
+  "id": "BRF_00D4",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_0110",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_016C",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_02EC",
+  "kind": "chapter title",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_0310",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_034C",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_04A4",
+  "kind": "chapter title",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_04C4",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_0508",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_06C4",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_06EC",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_08A4",
+  "kind": "chapter title",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_08C4",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_0A74",
+  "kind": "chapter title",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_0A94",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_0AC4",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_0CDC",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_0D18",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_0D80",
+  "kind": "lines",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_0F10",
+  "kind": "chapter title",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_0F5C",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_0FAC",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_10DC",
+  "kind": "chapter title",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_1128",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_1178",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_12F4",
+  "kind": "chapter title",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_1314",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_1460",
+  "kind": "chapter title",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_1480",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_1620",
+  "kind": "chapter title",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_1640",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_167C",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_17FC",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_1990",
+  "kind": "chapter title",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_19B0",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_19E0",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_1B30",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_1B58",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_1C68",
+  "kind": "chapter title",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_1C94",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_1CD8",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_1DE4",
+  "kind": "chapter title",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_1DF8",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_1E1C",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_1E58",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_1F60",
+  "kind": "chapter title",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_1F7C",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_1FA4",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_1FD8",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_21D0",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_221C",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_226C",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_22BC",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_22F4",
+  "kind": "lines",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_2660",
+  "kind": "chapter title",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_26AC",
+  "kind": "chapter title",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_26F8",
+  "kind": "chapter title",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_2744",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_2794",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_27C0",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_2804",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_2858",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_2898",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_28E0",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_2948",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_29AC",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_2CAC",
+  "kind": "lines",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_2CEC",
+  "kind": "lines",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_2D2C",
+  "kind": "lines",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_3264",
+  "kind": "chapter title",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_32B0",
+  "kind": "chapter title",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_32FC",
+  "kind": "chapter title",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_3348",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_3398",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_33C4",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_3408",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_345C",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_349C",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_34E4",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_354C",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_35B0",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_3864",
+  "kind": "chapter title",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_38B0",
+  "kind": "chapter title",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_38FC",
+  "kind": "chapter title",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_3948",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_3988",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_39C8",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_421C",
+  "kind": "chapter title",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_4248",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_42AC",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_464C",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_46B8",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_4710",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_487C",
+  "kind": "chapter title",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_4890",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_48CC",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_4930",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_4AF4",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ },
+ {
+  "id": "BRF_4B1C",
+  "kind": "narration",
+  "max_bytes": null,
+  "en": ""
+ }
+]

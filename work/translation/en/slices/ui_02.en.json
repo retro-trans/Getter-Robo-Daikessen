@@ -1,0 +1,1052 @@
+[
+ {
+  "id": "exe_800161C6",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 108,
+  "en": ""
+ },
+ {
+  "id": "exe_80016200",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 96,
+  "en": ""
+ },
+ {
+  "id": "exe_8001623A",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 72,
+  "en": ""
+ },
+ {
+  "id": "exe_80016274",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 72,
+  "en": ""
+ },
+ {
+  "id": "exe_800162AE",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 72,
+  "en": ""
+ },
+ {
+  "id": "exe_800162E8",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 36,
+  "en": ""
+ },
+ {
+  "id": "exe_80016322",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 36,
+  "en": ""
+ },
+ {
+  "id": "exe_8001635C",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 36,
+  "en": ""
+ },
+ {
+  "id": "exe_80016396",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 60,
+  "en": ""
+ },
+ {
+  "id": "exe_800163D0",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 84,
+  "en": ""
+ },
+ {
+  "id": "exe_8001640A",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 108,
+  "en": ""
+ },
+ {
+  "id": "exe_80016444",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 108,
+  "en": ""
+ },
+ {
+  "id": "exe_8001647E",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 60,
+  "en": ""
+ },
+ {
+  "id": "exe_800164B8",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 60,
+  "en": ""
+ },
+ {
+  "id": "exe_800164F2",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 96,
+  "en": ""
+ },
+ {
+  "id": "exe_8001652C",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 72,
+  "en": ""
+ },
+ {
+  "id": "exe_80016566",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 96,
+  "en": ""
+ },
+ {
+  "id": "exe_800165A0",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 48,
+  "en": ""
+ },
+ {
+  "id": "exe_800165DA",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 84,
+  "en": ""
+ },
+ {
+  "id": "exe_80016614",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 84,
+  "en": ""
+ },
+ {
+  "id": "exe_8001664E",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 24,
+  "en": ""
+ },
+ {
+  "id": "exe_80016688",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 24,
+  "en": ""
+ },
+ {
+  "id": "exe_800166C2",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 24,
+  "en": ""
+ },
+ {
+  "id": "exe_800166FC",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 24,
+  "en": ""
+ },
+ {
+  "id": "exe_80016736",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 48,
+  "en": ""
+ },
+ {
+  "id": "exe_80016770",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 24,
+  "en": ""
+ },
+ {
+  "id": "exe_800167AA",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 24,
+  "en": ""
+ },
+ {
+  "id": "exe_800167E4",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 84,
+  "en": ""
+ },
+ {
+  "id": "exe_8001681E",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 24,
+  "en": ""
+ },
+ {
+  "id": "exe_80016858",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 60,
+  "en": ""
+ },
+ {
+  "id": "exe_80016892",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 24,
+  "en": ""
+ },
+ {
+  "id": "exe_800168CC",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 36,
+  "en": ""
+ },
+ {
+  "id": "exe_80016906",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 84,
+  "en": ""
+ },
+ {
+  "id": "exe_80016940",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 84,
+  "en": ""
+ },
+ {
+  "id": "exe_8001697A",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 84,
+  "en": ""
+ },
+ {
+  "id": "exe_800169B4",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 60,
+  "en": ""
+ },
+ {
+  "id": "exe_800169EE",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 60,
+  "en": ""
+ },
+ {
+  "id": "exe_80016A28",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 60,
+  "en": ""
+ },
+ {
+  "id": "exe_80016A62",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 60,
+  "en": ""
+ },
+ {
+  "id": "exe_80016A9C",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 36,
+  "en": ""
+ },
+ {
+  "id": "exe_80016AD6",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 60,
+  "en": ""
+ },
+ {
+  "id": "exe_80016B10",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 60,
+  "en": ""
+ },
+ {
+  "id": "exe_80016B4A",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 60,
+  "en": ""
+ },
+ {
+  "id": "exe_80016B84",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 48,
+  "en": ""
+ },
+ {
+  "id": "exe_80016BBE",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 60,
+  "en": ""
+ },
+ {
+  "id": "exe_80016BF8",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 36,
+  "en": ""
+ },
+ {
+  "id": "exe_80016C32",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 36,
+  "en": ""
+ },
+ {
+  "id": "exe_80016C6C",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 36,
+  "en": ""
+ },
+ {
+  "id": "exe_80016CA6",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 36,
+  "en": ""
+ },
+ {
+  "id": "exe_80016CE0",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 48,
+  "en": ""
+ },
+ {
+  "id": "exe_80016D1A",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 36,
+  "en": ""
+ },
+ {
+  "id": "exe_80016D8E",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 84,
+  "en": ""
+ },
+ {
+  "id": "exe_80016DC8",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 84,
+  "en": ""
+ },
+ {
+  "id": "exe_80016E3C",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 84,
+  "en": ""
+ },
+ {
+  "id": "exe_80016E76",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 72,
+  "en": ""
+ },
+ {
+  "id": "exe_80016EB0",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 96,
+  "en": ""
+ },
+ {
+  "id": "exe_80016EEA",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 72,
+  "en": ""
+ },
+ {
+  "id": "exe_80016F24",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 36,
+  "en": ""
+ },
+ {
+  "id": "exe_80016F5E",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 72,
+  "en": ""
+ },
+ {
+  "id": "exe_80016F98",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 36,
+  "en": ""
+ },
+ {
+  "id": "exe_80016FD2",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 36,
+  "en": ""
+ },
+ {
+  "id": "exe_8001700C",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 60,
+  "en": ""
+ },
+ {
+  "id": "exe_80017046",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 36,
+  "en": ""
+ },
+ {
+  "id": "exe_80017080",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 72,
+  "en": ""
+ },
+ {
+  "id": "exe_800170BA",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 72,
+  "en": ""
+ },
+ {
+  "id": "exe_800170F4",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 84,
+  "en": ""
+ },
+ {
+  "id": "exe_80017168",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 72,
+  "en": ""
+ },
+ {
+  "id": "exe_800171A2",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 84,
+  "en": ""
+ },
+ {
+  "id": "exe_80017216",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 72,
+  "en": ""
+ },
+ {
+  "id": "exe_80017250",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 108,
+  "en": ""
+ },
+ {
+  "id": "exe_8001728A",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 72,
+  "en": ""
+ },
+ {
+  "id": "exe_800172C4",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 84,
+  "en": ""
+ },
+ {
+  "id": "exe_800172FE",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 96,
+  "en": ""
+ },
+ {
+  "id": "exe_80017338",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 36,
+  "en": ""
+ },
+ {
+  "id": "exe_80017372",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 84,
+  "en": ""
+ },
+ {
+  "id": "exe_800173AC",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 36,
+  "en": ""
+ },
+ {
+  "id": "exe_800173E6",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 72,
+  "en": ""
+ },
+ {
+  "id": "exe_80017420",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 84,
+  "en": ""
+ },
+ {
+  "id": "exe_8001745A",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 84,
+  "en": ""
+ },
+ {
+  "id": "exe_80017494",
+  "kind": "unit name",
+  "max_bytes": 23,
+  "max_px": 72,
+  "en": ""
+ },
+ {
+  "id": "exe_800174F5",
+  "kind": "ui",
+  "max_bytes": 6,
+  "max_px": 28,
+  "en": ""
+ },
+ {
+  "id": "exe_80017503",
+  "kind": "ui",
+  "max_bytes": 6,
+  "max_px": 24,
+  "en": ""
+ },
+ {
+  "id": "exe_80017511",
+  "kind": "ui",
+  "max_bytes": 6,
+  "max_px": 28,
+  "en": ""
+ },
+ {
+  "id": "exe_80017526",
+  "kind": "ui",
+  "max_bytes": 6,
+  "max_px": 28,
+  "en": ""
+ },
+ {
+  "id": "exe_8001752D",
+  "kind": "ui",
+  "max_bytes": 6,
+  "max_px": 36,
+  "en": ""
+ },
+ {
+  "id": "exe_80017534",
+  "kind": "ui",
+  "max_bytes": 6,
+  "max_px": 28,
+  "en": ""
+ },
+ {
+  "id": "exe_8001753B",
+  "kind": "ui",
+  "max_bytes": 6,
+  "max_px": 36,
+  "en": ""
+ },
+ {
+  "id": "exe_80017542",
+  "kind": "ui",
+  "max_bytes": 6,
+  "max_px": 28,
+  "en": ""
+ },
+ {
+  "id": "exe_80017549",
+  "kind": "ui",
+  "max_bytes": 6,
+  "max_px": 36,
+  "en": ""
+ },
+ {
+  "id": "exe_80017584",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 60,
+  "en": ""
+ },
+ {
+  "id": "exe_80017590",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 72,
+  "en": ""
+ },
+ {
+  "id": "exe_800175A0",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 48,
+  "en": ""
+ },
+ {
+  "id": "exe_800175AC",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 72,
+  "en": ""
+ },
+ {
+  "id": "exe_800175BC",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 72,
+  "en": ""
+ },
+ {
+  "id": "exe_80017800",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 48,
+  "en": ""
+ },
+ {
+  "id": "exe_8001781C",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 48,
+  "en": ""
+ },
+ {
+  "id": "exe_8001783C",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 48,
+  "en": ""
+ },
+ {
+  "id": "exe_80017858",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 72,
+  "en": ""
+ },
+ {
+  "id": "exe_800178DC",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 48,
+  "en": ""
+ },
+ {
+  "id": "exe_80017914",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 48,
+  "en": ""
+ },
+ {
+  "id": "exe_80017D20",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 216,
+  "en": ""
+ },
+ {
+  "id": "exe_80017D44",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 276,
+  "en": ""
+ },
+ {
+  "id": "exe_80017D74",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 240,
+  "en": ""
+ },
+ {
+  "id": "exe_80017D9C",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 276,
+  "en": ""
+ },
+ {
+  "id": "exe_80017DCC",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 216,
+  "en": ""
+ },
+ {
+  "id": "exe_80017DF0",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 312,
+  "en": ""
+ },
+ {
+  "id": "exe_80017E24",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 444,
+  "en": ""
+ },
+ {
+  "id": "exe_80017E70",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 336,
+  "en": ""
+ },
+ {
+  "id": "exe_80017EA8",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 324,
+  "en": ""
+ },
+ {
+  "id": "exe_80017EE0",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 204,
+  "en": ""
+ },
+ {
+  "id": "exe_80017F04",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 240,
+  "en": ""
+ },
+ {
+  "id": "exe_80017F2C",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 276,
+  "en": ""
+ },
+ {
+  "id": "exe_80017F5C",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 264,
+  "en": ""
+ },
+ {
+  "id": "exe_80017F88",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 336,
+  "en": ""
+ },
+ {
+  "id": "exe_80017FC0",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 492,
+  "en": ""
+ },
+ {
+  "id": "exe_80018014",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 516,
+  "en": ""
+ },
+ {
+  "id": "exe_8001806C",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 300,
+  "en": ""
+ },
+ {
+  "id": "exe_800180A0",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 312,
+  "en": ""
+ },
+ {
+  "id": "exe_800180D4",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 372,
+  "en": ""
+ },
+ {
+  "id": "exe_80018114",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 276,
+  "en": ""
+ },
+ {
+  "id": "exe_80018144",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 348,
+  "en": ""
+ },
+ {
+  "id": "exe_80018180",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 396,
+  "en": ""
+ },
+ {
+  "id": "exe_800181C4",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 324,
+  "en": ""
+ },
+ {
+  "id": "exe_800181FC",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 264,
+  "en": ""
+ },
+ {
+  "id": "exe_80018228",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 116,
+  "en": ""
+ },
+ {
+  "id": "exe_80018240",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 324,
+  "en": ""
+ },
+ {
+  "id": "exe_80018278",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 240,
+  "en": ""
+ },
+ {
+  "id": "exe_800182A0",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 348,
+  "en": ""
+ },
+ {
+  "id": "exe_800182DC",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 408,
+  "en": ""
+ },
+ {
+  "id": "exe_80018320",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 627,
+  "en": ""
+ },
+ {
+  "id": "exe_8001838C",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 372,
+  "en": ""
+ },
+ {
+  "id": "exe_800183CC",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 300,
+  "en": ""
+ },
+ {
+  "id": "exe_80018400",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 276,
+  "en": ""
+ },
+ {
+  "id": "exe_80018430",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 312,
+  "en": ""
+ },
+ {
+  "id": "exe_80018464",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 339,
+  "en": ""
+ },
+ {
+  "id": "exe_800184A0",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 336,
+  "en": ""
+ },
+ {
+  "id": "exe_800184D8",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 408,
+  "en": ""
+ },
+ {
+  "id": "exe_8001851C",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 312,
+  "en": ""
+ },
+ {
+  "id": "exe_80018550",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 372,
+  "en": ""
+ },
+ {
+  "id": "exe_80018590",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 384,
+  "en": ""
+ },
+ {
+  "id": "exe_800185D0",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 276,
+  "en": ""
+ },
+ {
+  "id": "exe_80018600",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 192,
+  "en": ""
+ },
+ {
+  "id": "exe_80018624",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 372,
+  "en": ""
+ },
+ {
+  "id": "exe_80018664",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 120,
+  "en": ""
+ },
+ {
+  "id": "exe_8001867C",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 348,
+  "en": ""
+ },
+ {
+  "id": "exe_800186B8",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 132,
+  "en": ""
+ },
+ {
+  "id": "exe_800186D0",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 288,
+  "en": ""
+ },
+ {
+  "id": "exe_80018704",
+  "kind": "ui",
+  "max_bytes": null,
+  "max_px": 144,
+  "en": ""
+ },
+ {
+  "id": "exe_80018D58",
+  "kind": "dialogue",
+  "max_bytes": null,
+  "max_px": null,
+  "en": ""
+ },
+ {
+  "id": "exe_80018DA8",
+  "kind": "dialogue",
+  "max_bytes": null,
+  "max_px": null,
+  "en": ""
+ }
+]

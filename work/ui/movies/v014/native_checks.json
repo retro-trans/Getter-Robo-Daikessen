@@ -1,0 +1,15 @@
+{
+  "version": "0.1.4",
+  "emulator": "project DuckStation 0.1-12070",
+  "muted": true,
+  "method": "Native game movie launcher, original decoder and GPU; both 24-bit framebuffers captured with scratch memory/register restoration",
+  "checks": [
+    {"movie":"C04","display_ticks":120,"result":"English dialogue visible in both native framebuffers","images":["C04_native_fb0.png","C04_native_fb240.png"]},
+    {"movie":"CG2","display_ticks":290,"result":"Shin Getter Robo subtitle visible at native 29.97 fps timing","images":["CG2_native_fb0.png","CG2_native_fb240.png"]},
+    {"movie":"C16","display_ticks":620,"result":"English credit roll and song subtitle visible together","images":["C16_native_fb0.png","C16_native_fb240.png"]},
+    {"movie":"C05","display_ticks":340,"result":"Tsubaki caption and dialogue visible in native output; final boundary trims affect other frames","images":["C05_native_fb0.png","C05_native_fb240.png"]}
+  ],
+  "full_clip_listening_completed": false,
+  "real_hardware_tested": false,
+  "test_emulator_closed_after_checks": true
+}

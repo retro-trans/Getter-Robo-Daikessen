@@ -1,0 +1,654 @@
+{
+ "version": "0.1.7",
+ "language": "en",
+ "timing": "Native XA position, 150 sectors per second",
+ "style": {
+  "background": "transparent",
+  "font": "native proportional font and shadow",
+  "line_y": [
+   214,
+   226
+  ],
+  "menu_line_y": [
+   350,
+   376
+  ],
+  "max_width": 292,
+  "single_line": "lower row"
+ },
+ "voices": {
+  "V008B": [
+   {
+    "id": "V008B_01",
+    "start": 0,
+    "end": 0.98,
+    "lines": [
+     "Stay calm."
+    ]
+   }
+  ],
+  "V01C0": [
+   {
+    "id": "V01C0_01",
+    "start": 0,
+    "end": 1.4,
+    "lines": [
+     "Quit dawdling!"
+    ]
+   }
+  ],
+  "V022D": [
+   {
+    "id": "V022D_01",
+    "start": 0,
+    "end": 1.62,
+    "lines": [
+     "Don't give up! Come try again."
+    ]
+   }
+  ],
+  "V028E": [
+   {
+    "id": "V028E_01",
+    "start": 0,
+    "end": 1.75,
+    "lines": [
+     "First, let me explain the screen."
+    ]
+   }
+  ],
+  "V0306": [
+   {
+    "id": "V0306_01",
+    "start": 0,
+    "end": 1.98,
+    "lines": [
+     "All right! The combination worked!"
+    ]
+   }
+  ],
+  "V0351": [
+   {
+    "id": "V0351_01",
+    "start": 0,
+    "end": 2.22,
+    "lines": [
+     "We're out of time! Hurry up and combine!"
+    ]
+   }
+  ],
+  "V03C4": [
+   {
+    "id": "V03C4_01",
+    "start": 0,
+    "end": 2.5,
+    "lines": [
+     "Ah... That's disappointing."
+    ]
+   }
+  ],
+  "V03D8": [
+   {
+    "id": "V03D8_01",
+    "start": 0,
+    "end": 2.85,
+    "lines": [
+     "You've completed all the drills. Congratulations!"
+    ]
+   }
+  ],
+  "V03E4": [
+   {
+    "id": "V03E4_01",
+    "start": 0,
+    "end": 1.25,
+    "lines": [
+     "You did it!"
+    ]
+   },
+   {
+    "id": "V03E4_02",
+    "start": 1.4,
+    "end": 2.91,
+    "lines": [
+     "I knew you'd succeed!"
+    ]
+   }
+  ],
+  "V03FC": [
+   {
+    "id": "V03FC_01",
+    "start": 0,
+    "end": 1.35,
+    "lines": [
+     "I won't say another word."
+    ]
+   },
+   {
+    "id": "V03FC_02",
+    "start": 1.35,
+    "end": 3.06,
+    "lines": [
+     "Trust in your own abilities."
+    ]
+   }
+  ],
+  "V03FD": [
+   {
+    "id": "V03FD_01",
+    "start": 0,
+    "end": 3.05,
+    "lines": [
+     "Let's start by moving closer to Unit 2."
+    ]
+   }
+  ],
+  "V046D": [
+   {
+    "id": "V046D_01",
+    "start": 0,
+    "end": 2.3,
+    "lines": [
+     "Crosswinds make it hard to get the timing right."
+    ]
+   },
+   {
+    "id": "V046D_02",
+    "start": 2.3,
+    "end": 4.34,
+    "lines": [
+     "Watch the movement closely, then combine!"
+    ]
+   }
+  ],
+  "V047F": [
+   {
+    "id": "V047F_01",
+    "start": 0,
+    "end": 2.25,
+    "lines": [
+     "You're no Getter pilot yet!"
+    ]
+   },
+   {
+    "id": "V047F_02",
+    "start": 2.25,
+    "end": 4.5,
+    "lines": [
+     "Come back when you're ready!"
+    ]
+   }
+  ],
+  "V0482": [
+   {
+    "id": "V0482_01",
+    "start": 0,
+    "end": 1.05,
+    "lines": [
+     "This is the radar."
+    ]
+   },
+   {
+    "id": "V0482_02",
+    "start": 1.05,
+    "end": 4.62,
+    "lines": [
+     "If you lose sight of the other",
+     "Get Machines, use it to find them."
+    ]
+   }
+  ],
+  "V048E": [
+   {
+    "id": "V048E_01",
+    "start": 0,
+    "end": 5.0,
+    "lines": [
+     "Don't get carried away just because",
+     "you've combined once or twice."
+    ]
+   }
+  ],
+  "V0499": [
+   {
+    "id": "V0499_01",
+    "start": 0,
+    "end": 2.5,
+    "lines": [
+     "It's hard to see ahead at night, but don't worry."
+    ]
+   },
+   {
+    "id": "V0499_02",
+    "start": 2.5,
+    "end": 5.08,
+    "lines": [
+     "I know you can do it!"
+    ]
+   }
+  ],
+  "V04A0": [
+   {
+    "id": "V04A0_01",
+    "start": 0,
+    "end": 1.55,
+    "lines": [
+     "Watch out for the storm winds!"
+    ]
+   },
+   {
+    "id": "V04A0_02",
+    "start": 1.55,
+    "end": 5.12,
+    "lines": [
+     "If a gust makes you lose sight of",
+     "the other Get Machine, use the radar."
+    ]
+   }
+  ],
+  "V04A6": [
+   {
+    "id": "V04A6_01",
+    "start": 0,
+    "end": 3.15,
+    "lines": [
+     "Make the combination succeed,",
+     "no matter how bad the weather!"
+    ]
+   },
+   {
+    "id": "V04A6_02",
+    "start": 3.5,
+    "end": 5.24,
+    "lines": [
+     "The enemy won't wait for you!"
+    ]
+   }
+  ],
+  "V04A7": [
+   {
+    "id": "V04A7_01",
+    "start": 0,
+    "end": 2.6,
+    "lines": [
+     "What's this? Running away?"
+    ]
+   },
+   {
+    "id": "V04A7_02",
+    "start": 2.6,
+    "end": 5.16,
+    "lines": [
+     "Hmph. You're pathetic."
+    ]
+   }
+  ],
+  "V04CC": [
+   {
+    "id": "V04CC_01",
+    "start": 0,
+    "end": 2.6,
+    "lines": [
+     "That last training session was child's play."
+    ]
+   },
+   {
+    "id": "V04CC_02",
+    "start": 2.6,
+    "end": 5.82,
+    "lines": [
+     "This drill won't be so easy!"
+    ]
+   }
+  ],
+  "V04EB": [
+   {
+    "id": "V04EB_01",
+    "start": 0,
+    "end": 2.95,
+    "lines": [
+     "First, let's learn how to combine",
+     "and get the timing right."
+    ]
+   },
+   {
+    "id": "V04EB_02",
+    "start": 3.48,
+    "end": 6.5,
+    "lines": [
+     "I'll guide you. Follow my instructions when you combine."
+    ]
+   }
+  ],
+  "V04EC": [
+   {
+    "id": "V04EC_01",
+    "start": 0,
+    "end": 3.9,
+    "lines": [
+     "When the mark in the center lights",
+     "up, that is your cue to combine."
+    ]
+   },
+   {
+    "id": "V04EC_02",
+    "start": 4.56,
+    "end": 6.18,
+    "lines": [
+     "Use it to get the timing right."
+    ]
+   }
+  ],
+  "V04FC": [
+   {
+    "id": "V04FC_01",
+    "start": 0,
+    "end": 1.4,
+    "lines": [
+     "This is your final drill."
+    ]
+   },
+   {
+    "id": "V04FC_02",
+    "start": 1.4,
+    "end": 5.0,
+    "lines": [
+     "Give it everything you've got, or you'll lose your life!"
+    ]
+   },
+   {
+    "id": "V04FC_03",
+    "start": 5.0,
+    "end": 6.8,
+    "lines": [
+     "Be careful!"
+    ]
+   }
+  ],
+  "V04FE": [
+   {
+    "id": "V04FE_01",
+    "start": 0,
+    "end": 1.95,
+    "lines": [
+     "All right, let's begin the drill!"
+    ]
+   },
+   {
+    "id": "V04FE_02",
+    "start": 2.56,
+    "end": 4.92,
+    "lines": [
+     "Change Getter Simulation!"
+    ]
+   },
+   {
+    "id": "V04FE_03",
+    "start": 4.92,
+    "end": 6.78,
+    "lines": [
+     "Switch on!"
+    ]
+   }
+  ],
+  "V0524": [
+   {
+    "id": "V0524_01",
+    "start": 0,
+    "end": 2.7,
+    "lines": [
+     "This shows the status of the Get Machines."
+    ]
+   },
+   {
+    "id": "V0524_02",
+    "start": 3.26,
+    "end": 5.65,
+    "lines": [
+     "READY appears when they can combine."
+    ]
+   },
+   {
+    "id": "V0524_03",
+    "start": 5.65,
+    "end": 8.25,
+    "lines": [
+     "Use that as your cue to combine."
+    ]
+   }
+  ],
+  "V052A": [
+   {
+    "id": "V052A_01",
+    "start": 0,
+    "end": 1.45,
+    "lines": [
+     "Your machine has transformed."
+    ]
+   },
+   {
+    "id": "V052A_02",
+    "start": 1.45,
+    "end": 3.15,
+    "lines": [
+     "Now you can combine!"
+    ]
+   },
+   {
+    "id": "V052A_03",
+    "start": 3.76,
+    "end": 8.65,
+    "lines": [
+     "Fly your machine straight into",
+     "Unit 2 from directly behind."
+    ]
+   }
+  ],
+  "V052B": [
+   {
+    "id": "V052B_01",
+    "start": 0,
+    "end": 3.5,
+    "lines": [
+     "Use the D-pad to steer your machine."
+    ]
+   },
+   {
+    "id": "V052B_02",
+    "start": 4.0,
+    "end": 6.05,
+    "lines": [
+     "Press Square to speed up."
+    ]
+   },
+   {
+    "id": "V052B_03",
+    "start": 6.6,
+    "end": 8.66,
+    "lines": [
+     "Press X to slow down."
+    ]
+   }
+  ],
+  "V052C": [
+   {
+    "id": "V052C_01",
+    "start": 0,
+    "end": 1.0,
+    "lines": [
+     "Welcome."
+    ]
+   },
+   {
+    "id": "V052C_02",
+    "start": 1.0,
+    "end": 5.1,
+    "lines": [
+     "We train future Getter pilots here."
+    ]
+   },
+   {
+    "id": "V052C_03",
+    "start": 5.1,
+    "end": 8.72,
+    "lines": [
+     "Are you confident in your skills? Why not give it a try?"
+    ]
+   }
+  ],
+  "V052E": [
+   {
+    "id": "V052E_01",
+    "start": 0,
+    "end": 2.6,
+    "lines": [
+     "That covers the screen."
+    ]
+   },
+   {
+    "id": "V052E_02",
+    "start": 2.6,
+    "end": 5.35,
+    "lines": [
+     "I'll explain the rest as we go through the training."
+    ]
+   },
+   {
+    "id": "V052E_03",
+    "start": 6.24,
+    "end": 9.1,
+    "lines": [
+     "When you're ready, press Start to begin!"
+    ]
+   }
+  ],
+  "V053D": [
+   {
+    "id": "V053D_01",
+    "start": 0,
+    "end": 1.3,
+    "lines": [
+     "That worked!"
+    ]
+   },
+   {
+    "id": "V053D_02",
+    "start": 1.3,
+    "end": 3.45,
+    "lines": [
+     "Next, combine with Unit 1."
+    ]
+   },
+   {
+    "id": "V053D_03",
+    "start": 4.1,
+    "end": 6.9,
+    "lines": [
+     "Use the same method as before."
+    ]
+   },
+   {
+    "id": "V053D_04",
+    "start": 7.72,
+    "end": 10.9,
+    "lines": [
+     "If this works, the combination",
+     "is complete. You can do it!"
+    ]
+   }
+  ],
+  "V0541": [
+   {
+    "id": "V0541_01",
+    "start": 0,
+    "end": 1.4,
+    "lines": [
+     "This is the time limit."
+    ]
+   },
+   {
+    "id": "V0541_02",
+    "start": 1.4,
+    "end": 3.9,
+    "lines": [
+     "If you don't combine in time, you're disqualified."
+    ]
+   },
+   {
+    "id": "V0541_03",
+    "start": 3.9,
+    "end": 7.85,
+    "lines": [
+     "The enemy won't wait around for you to combine!"
+    ]
+   },
+   {
+    "id": "V0541_04",
+    "start": 8.42,
+    "end": 11.23,
+    "lines": [
+     "Combining quickly is the key to success."
+    ]
+   }
+  ],
+  "V054D": [
+   {
+    "id": "V054D_01",
+    "start": 0,
+    "end": 1.4,
+    "lines": [
+     "It's easy to read."
+    ]
+   },
+   {
+    "id": "V054D_02",
+    "start": 1.4,
+    "end": 5.65,
+    "lines": [
+     "The center dot is you. The other dot",
+     "is the machine you'll combine with."
+    ]
+   },
+   {
+    "id": "V054D_03",
+    "start": 6.16,
+    "end": 9.1,
+    "lines": [
+     "It's a view from directly overhead."
+    ]
+   },
+   {
+    "id": "V054D_04",
+    "start": 9.42,
+    "end": 10.3,
+    "lines": [
+     "But be careful!"
+    ]
+   },
+   {
+    "id": "V054D_05",
+    "start": 10.3,
+    "end": 13.3,
+    "lines": [
+     "If the other machine leaves your radar,"
+    ]
+   },
+   {
+    "id": "V054D_06",
+    "start": 13.3,
+    "end": 16.75,
+    "lines": [
+     "you'll be disqualified for not trying to combine!"
+    ]
+   },
+   {
+    "id": "V054D_07",
+    "start": 17.28,
+    "end": 19.98,
+    "lines": [
+     "Keep a close eye on the distance between you."
+    ]
+   }
+  ]
+ }
+}

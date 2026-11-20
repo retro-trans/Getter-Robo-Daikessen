@@ -1,0 +1,341 @@
+[
+ {
+  "id": "MF07A_0658",
+  "en": "$s05Impossible!$s80$s13 Are you telling me these creatures$s80$s13 were guided here by the Getter Rays?!",
+  "note": "Burai reacting to the insects; rhetorical 'tode mo iu no ka'. 'Guided here' inferred from context (they came down on the Institute)."
+ },
+ {
+  "id": "MF07A_0796",
+  "en": "Super-particle energy, the Getter Rays...$s80$s13$s80$s13 So there are still mysteries we have yet to unravel..."
+ },
+ {
+  "id": "MF07A_03DA",
+  "en": "Right here!$s80$s13$s05 The Tachibana Institute!",
+  "note": "No speaker tag, but the portrait code in mform.json is the Researcher's ($f25b): completes the Researcher's cut-off 'predicted impact point is...' line (MF07A_0386)."
+ },
+ {
+  "id": "MF07A_06C4",
+  "en": "No,$s80$s13$s80$s13 with Getter Rays that dense,$s80$s13$s80$s13 it's no wonder anything could happen!$s80$s13$s80$s13$s80$s13 Th-$s80$s13this may well stand in the way of our conquest of Earth!"
+ },
+ {
+  "id": "MF07B_0014",
+  "en": "This here's MAP 07B!",
+  "note": "Developer placeholder line; same wording as the other MAP headers."
+ },
+ {
+  "id": "MF07B_0038",
+  "en": "What the?!$s80$s13 What is that?!"
+ },
+ {
+  "id": "MF07B_006A",
+  "en": "Those bastards,$s80$s13 what the hell are they doing at the Institute?!",
+  "note": "yatsura + -yagaru (contempt); matches the MF07A_0072 rendering."
+ },
+ {
+  "id": "MF07B_00AC",
+  "en": "I told you,$s80$s13 it's an intriguing experiment!$/The astonishing energy that drives evolution...$s80$s13 It's a precious sample of Getter Rays, after all!"
+ },
+ {
+  "id": "MF07B_013E",
+  "en": "$s05Emperor Burai!"
+ },
+ {
+  "id": "MF07B_0168",
+  "en": "I never imagined you'd avert it with a trick like that!$s80$s13 I'll give credit where it's due: 'Splendid!'$/But Getter Rays of such extreme concentration! Do you really think this will end without incident?",
+  "note": "'Avert it' = the reactor meltdown dodged by venting the Getter Rays into space (MF06B)."
+ },
+ {
+  "id": "MF07B_0238",
+  "en": "$s05What do you mean?!",
+  "note": "Male player version: the slice has no gender_variant field, but the 0238/0264 pair is the male/female split (portraits $f61d/$f62b, masculine da vs feminine no)."
+ },
+ {
+  "id": "MF07B_0264",
+  "en": "$s05What are you getting at?!",
+  "note": "Female player version (see MF07B_0238)."
+ },
+ {
+  "id": "MF07B_0292",
+  "en": "Oh,$s80$s13 I merely pointed out a possibility!$s80$s13 Ipponki!$s80$s13 Take them on!"
+ },
+ {
+  "id": "MF07B_0302",
+  "en": "Yes, my lord!"
+ },
+ {
+  "id": "MF07B_0324",
+  "en": "Multiple objects incoming from the sky!$s80$s13 Projected impact point is$s30...",
+  "note": "Deliberately cut off; completed by MF07B_0378."
+ },
+ {
+  "id": "MF07B_03A8",
+  "en": "$s05What?!$s80$s13$s20 What in blazes is falling on us?!"
+ },
+ {
+  "id": "MF07B_03F8",
+  "en": "$s05Wh...what?!$s80$s13 What are these things?!"
+ },
+ {
+  "id": "MF07B_0432",
+  "en": "$s05Buuugs!"
+ },
+ {
+  "id": "MF07B_0456",
+  "en": "$s80$s13$s30...Are they...$s80$s13 searching for something?"
+ },
+ {
+  "id": "MF07B_049A",
+  "en": "Waaah!$s80$s13 Gross!$s80$s13$s80$s13 I can't stand bugs!$s80$s13 What the heck are these things?!"
+ },
+ {
+  "id": "MF07B_051C",
+  "en": "$s05Don't tell me...!?$s80$s13$s80$s13 Did the Getter Rays from back then make the insects evolve...?!",
+  "note": "'Back then' = the Getter Ray release in MF06B."
+ },
+ {
+  "id": "MF07B_057C",
+  "en": "$s05No!$s80$s13$s20 Even with Getter Rays,$s80$s13$s20 a change that sudden is impossible!$s80$s13 And yet..."
+ },
+ {
+  "id": "MF07B_0606",
+  "en": "$s05Then$s80$s13 what are those things supposed to be?!"
+ },
+ {
+  "id": "MF07B_064E",
+  "en": "$s05Impossible!$s80$s13 Are you telling me these creatures$s80$s13 were guided here by the Getter Rays?!",
+  "note": "Same line as MF07A_0658."
+ },
+ {
+  "id": "MF07B_0790",
+  "en": "Super-particle energy,$s80$s13$s80$s13 the Getter Rays...$s80$s13$s80$s13$s20 Is it an energy that is$s80$s13 simply$s20 beyond our control...?"
+ },
+ {
+  "id": "MF07B_0378",
+  "en": "Right here!$s80$s13$s05 The Saotome Institute!",
+  "note": "No speaker tag; Researcher's portrait ($f25b); completes the cut-off impact-point line MF07B_0324."
+ },
+ {
+  "id": "MF07B_06BA",
+  "en": "No,$s80$s13$s80$s13$s20 with Getter Rays that dense,$s80$s13 it's no wonder anything could happen!$s80$s13$s80$s13 Th-$s80$s13$s20this$s80$s13$s20 may well stand in the way of our conquest of Earth!"
+ },
+ {
+  "id": "MF08_0028",
+  "en": "This here's MAP 08!",
+  "note": "Developer placeholder line."
+ },
+ {
+  "id": "MF08_004A",
+  "en": "Welcome,$s80$s13 members of the Getter Team!$s80$s13 The doctors$s80$s13 have told me all about you."
+ },
+ {
+  "id": "MF08_00B8",
+  "en": "Captain,$s80$s13 what exactly is this battleship?!"
+ },
+ {
+  "id": "MF08_00F0",
+  "en": "This?$s80$s13$s80$s13$s20 It's being developed for the campaign against the Hyakki Empire:$s80$s13$s80$s13$s20 a large mobile battleship.$s80$s13$s80$s13$s20 We call it the %1Texas%0.",
+  "note": "Clause order kept so the pauses fall at the same points; colour wraps only 'Texas'. Continued by MF08_019A (mform_05)."
+ },
+ {
+  "id": "MF08_01F2",
+  "en": "Even so,$s80$s13 it's way too freakin' big,$s80$s13 this thing."
+ },
+ {
+  "id": "MF08_023C",
+  "en": "$s20And these are the pilots of the Texas's dedicated escort robot,$s80$s13 %1$s20\"Texas Mack\"%0..."
+ },
+ {
+  "id": "MF08_02EA",
+  "en": "How do you do?$s80$s13 I'm Mary King!$s80$s13 Jack's little sister.$s80$s13$f15f Nice to meet you,$s80$s13 Getter Team!"
+ },
+ {
+  "id": "MF08_0384",
+  "en": "Hey!$s80$s13 Me is the big brother, Jack King-desu!",
+  "note": "Jack's broken English-Japanese kept playful (mii / desu)."
+ },
+ {
+  "id": "MF08_0440",
+  "en": "Whoa, whoa,$s80$s13 are these guys really gonna cut it?$s80$s13$s80$s13 And$s80$s13$s20 what's a \"dedicated escort robot\" anyway?"
+ },
+ {
+  "id": "MF08_04CC",
+  "en": "You'll officially be part of the Allied Forces, but you won't always be operating alongside this ship.$/Yet there's no telling when the enemy might attack it.$/That's what the dedicated escort robot is for."
+ },
+ {
+  "id": "MF08_0586",
+  "en": "Captain...$s80$s13 there's one thing I'd like to ask you."
+ },
+ {
+  "id": "MF08_05CA",
+  "en": "What is it?"
+ },
+ {
+  "id": "MF08_05EC",
+  "en": "Earlier,$s80$s13 I ran into the pilots from the various countries in the hangar.$/We didn't actually speak to each other, but...$/they$s80$s13 don't think very kindly of us, do they?",
+  "note": "'We' restored for the unspoken exchange (Hayato and those with him; Gai says he felt it too, so he was there)."
+ },
+ {
+  "id": "MF08_0692",
+  "en": "I felt it too.$s80$s13 Hate to say it, but they seemed kinda hostile, y'know?"
+ },
+ {
+  "id": "MF08_06F8",
+  "en": "$s30...$/$s13Last time, during your battle with the Hyakki Empire, a new enemy appeared: the %3\"Insect Army\"%0."
+ },
+ {
+  "id": "MF08_076A",
+  "en": "Insect Army?$s80$s13 You mean those bugs?"
+ },
+ {
+  "id": "MF08_07A6",
+  "en": "That's what we call them.$/We can't even keep up with the Hyakki Empire as things stand, and now a new enemy on top of that..."
+ },
+ {
+  "id": "MF08_0816",
+  "en": "Sure, they're a powerful enemy, but..."
+ },
+ {
+  "id": "MF08_0846",
+  "en": "What's that got to do with us, huh?"
+ },
+ {
+  "id": "MF08_0880",
+  "en": "Are you aware of the rumor going around that the Insect Army was born from the Getter Reactor explosion in Japan?"
+ },
+ {
+  "id": "MF08_08F2",
+  "en": "$s05There's still no clear causal link on that.$s80$s13 Besides,$s80$s13 the explosion at the Institute was the Hyakki Empire's...",
+  "note": "Trails off as in JP; 'the Institute' left unnamed (Saotome in branch B, Tachibana in branch A of map 06/07)."
+ },
+ {
+  "id": "MF08_0976",
+  "en": "I know the circumstances, and everyone understands that Japan is not the enemy we should be fighting.$/But$s80$s13 surely you can understand this too.$/For those fighting on the front lines, being unable to trust the people fighting beside you is a tremendously unsettling thing."
+ },
+ {
+  "id": "MF08_0A48",
+  "en": "Leave the enemy to Me and the gang,$s80$s13 and You guys$s80$s13 just worry about your own backs, pleeease!",
+  "note": "A veiled jab (watch your own backs), which is why Mary scolds him and he calls it a joke next."
+ },
+ {
+  "id": "MF08_0ABA",
+  "en": "Oh!$s80$s13 Brother!",
+  "note": "Mary scolding Jack (niisan)."
+ },
+ {
+  "id": "MF08_0AEC",
+  "en": "$s05Whoops!$s80$s13 It's a joke!$s80$s13 It's an American joke! Haha..."
+ },
+ {
+  "id": "MF08_0B5C",
+  "en": "$s05Captain!$s80$s13 Multiple enemy contacts on radar!$s80$s13 They're heading straight for us!"
+ },
+ {
+  "id": "MF08_0BCE",
+  "en": "What?!$s80$s13 The Hyakki Empire?!"
+ },
+ {
+  "id": "MF08_0C44",
+  "en": "So this is what you've been building!$/No need to even report this to Lord Burai!$s80$s13 I, the great %3Gohonki%0, will destroy it myself!",
+  "note": "Self-honorific -sama rendered 'the great Gohonki'."
+ },
+ {
+  "id": "MF08_0CC6",
+  "en": "Tch!$s80$s13 Damn Oni!$s80$s13 So they sniffed us out!"
+ },
+ {
+  "id": "MF08_0D16",
+  "en": "Let's smash 'em ourselves!"
+ },
+ {
+  "id": "MF08_0D4C",
+  "en": "You bet!"
+ },
+ {
+  "id": "MF08_0D6E",
+  "en": "My, my,$s80$s13 don't get too worked up before the fight, now."
+ },
+ {
+  "id": "MF08_0DBA",
+  "en": "Oh,$s80$s13 here comes the Getter Team."
+ },
+ {
+  "id": "MF08_0E00",
+  "en": "$s05Bah!$s80$s13 I won't take help from the Japanese!$s80$s13$s05 Butt out!"
+ },
+ {
+  "id": "MF08_0E60",
+  "en": "$s05Knock it off, Schwartz!$s80$s13$s80$s13 The enemy isn't the Japanese!$s80$s13 It's the Hyakki Empire!"
+ },
+ {
+  "id": "MF08_0ED2",
+  "en": "Don't stop me, Lambert!$s80$s13$s80$s13 They've gone and made even more trouble for us!$s80$s13 Like hell I'll fight alongside the likes of them!",
+  "note": "Subject of 'yakkai no tane wo fuyashiyagatte' inferred as the Japanese / Getter Team (the rumored Insect Army origin)."
+ },
+ {
+  "id": "MF08_0F56",
+  "en": "$s05It's not our fault!$s80$s13 That was...",
+  "note": "Male player version (no gender_variant field; portrait $m61a, ore-tachi)."
+ },
+ {
+  "id": "MF08_0F98",
+  "en": "$s05It wasn't our fault!$s80$s13 That was...",
+  "note": "Female player version (portrait $m62a, watashi-tachi ... wa)."
+ },
+ {
+  "id": "MF08_0FDA",
+  "en": "It's all right, $n.$s80$s13 ...We won't make excuses.",
+  "note": "Subject of 'benmei wa shinai' inferred as 'we' (Hayato speaking for the team); 'I' is also possible."
+ },
+ {
+  "id": "MF08_1018",
+  "en": "$s80$s13Hayato...",
+  "note": "Male player version; -san dropped."
+ },
+ {
+  "id": "MF08_1044",
+  "en": "$s80$s13Hayato...",
+  "note": "Female player version; JP identical to MF08_1018."
+ },
+ {
+  "id": "MF08_1070",
+  "en": "We'll show them by fighting!$s80$s13 To prove what we stand for,$s80$s13 that's the only way there is!"
+ },
+ {
+  "id": "MF08_10CE",
+  "en": "$s05What!$s80$s13$s05 A new human weapon?!"
+ },
+ {
+  "id": "MF08_1112",
+  "en": "$s05Damn thing!$s80$s13 It's shooting at everything in sight!$s80$s13 What the hell is going on?!",
+  "note": "koitsu = the unknown beam attacker (revealed later as a satellite); 'thing' keeps it neutral."
+ },
+ {
+  "id": "MF08_1174",
+  "en": "It doesn't care who's friend or foe?!"
+ },
+ {
+  "id": "MF08_11A0",
+  "en": "But this beam...$s80$s13 I feel like I've seen it somewhere...!"
+ },
+ {
+  "id": "MF08_11E8",
+  "en": "$s20This is...$s80$s13$m16b$s05 Could it be?!"
+ },
+ {
+  "id": "MF08_122B",
+  "en": "$s05...It can't be."
+ },
+ {
+  "id": "MF08_1251",
+  "en": "A Getter Beeeam?"
+ },
+ {
+  "id": "MF08_127B",
+  "en": "Save the questions for later!$s80$s13$m01g You can spot the warning signs of the beam with the naked eye!$s80$s13$s80$s13 Don't let it hit you, no matter what!"
+ },
+ {
+  "id": "MF08_133B",
+  "en": "Wonderful!$s80$s13 They live up to their name!",
+  "note": "sasuga ne aimed at the Getter Team (Jack follows with praise for them, MF08_1375); could also be said to them directly ('You're really something!')."
+ }
+]

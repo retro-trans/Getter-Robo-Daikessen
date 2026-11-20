@@ -1,0 +1,335 @@
+[
+ {
+  "id": "MF08_1375",
+  "en": "You are strong-desu! $s80$s13Getter Team!"
+ },
+ {
+  "id": "MF08_13B7",
+  "en": "$s05Tch! $s80$s13I don't accept this! $s80$s13$s80$s13Like I'd ever trust $s80$s13the likes of you Japanese!",
+  "note": "Schwartz uses the contemptuous kisama-tachi; kept at full hostility."
+ },
+ {
+  "id": "MF08_019A",
+  "en": "$s20Though it'll be $s80$s13$s20a while yet before it's fully operational.",
+  "note": "Tail of the Captain's line MF08_00F0 ('We call it the Texas.'); 'it' = the Texas, before Go's 'Even so, it's way too big.'"
+ },
+ {
+  "id": "MF08_02AE",
+  "en": "%3Jack King%0 and...",
+  "note": "Captain's voice (portrait f19a), continuing MF08_023C 'the pilots of the Texas's escort robot Texas Mack...'."
+ },
+ {
+  "id": "MF08_02CC",
+  "en": "%3Mary King%0."
+ },
+ {
+  "id": "MF08_03D2",
+  "en": "Me has heard the rumors about Getter, $s80$s13but as long as we are here, $s80$s13the Texas is totally safe! No problem-desu!",
+  "note": "Jack's continuation of MF08_0384. The source spells it 'No probrem' in full-width letters (likely an accent joke or a typo); rendered as 'No problem-desu!' per the brief. Change to 'probrem' if the misspelling is wanted."
+ },
+ {
+  "id": "MF08_0C02",
+  "en": "All super robots, $s80$s13prepare to launch!"
+ },
+ {
+  "id": "MF08_12F0",
+  "en": "Questions later! $s80$s13$m01g$s80$s13Don't let it hit you, whatever you do!",
+  "note": "Short variant of MF08_127B; 'it' = the unknown beam."
+ },
+ {
+  "id": "MF08_1585",
+  "en": "$s05Captain! $s80$s13Enemy reinforcements!"
+ },
+ {
+  "id": "MF08_15CB",
+  "en": "Reinforcements!? $/$f19aAll super robots, $s80$s13move to cover the Texas! $s80$s13The enemy is going after the Texas!"
+ },
+ {
+  "id": "MF08_145D",
+  "en": "$/The Getter Team failed to protect the Texas.$/Lacking a powerful force, the Allied Forces could not stop the enemy invasion, and the Earth fell into the evil clutches of the Hyakki Empire..."
+ },
+ {
+  "id": "MF09_001C",
+  "en": "This here's MAP09, baby!",
+  "note": "Debug/placeholder map header, same pattern as the other maps."
+ },
+ {
+  "id": "MF09_005B",
+  "en": "$s20About that unidentified beam bombardment in the last battle. $s80$s13$s80$s13$s20This time, $s80$s13we're sortieing to find out what it is.",
+  "note": "Continues in MF09_00DD (Hayato taking command)."
+ },
+ {
+  "id": "MF09_0161",
+  "en": "$s05What!? $s80$s13$s80$s13Like hell I'll fight under the command of some Japanese!"
+ },
+ {
+  "id": "MF09_01BD",
+  "en": "$s05Schwartz! $s80$s13How many times do I have to tell you! $s80$s13$s80$s13This isn't a war between nations! $s80$s13It's humanity's war!"
+ },
+ {
+  "id": "MF09_0247",
+  "en": "$s80$s13$s05But--!"
+ },
+ {
+  "id": "MF09_027B",
+  "en": "There's a reason $s80$s13I was chosen.",
+  "note": "Continues in MF09_02BB (the beam was probably a Getter Beam), which is the reason."
+ },
+ {
+  "id": "MF09_031D",
+  "en": "I knew it~.",
+  "note": "Kaede had guessed 'Getter Beam~?' in MF08_1251."
+ },
+ {
+  "id": "MF09_0341",
+  "en": "The Hyakki Empire, using a Getter Beam!?"
+ },
+ {
+  "id": "MF09_0377",
+  "en": "That's hard to believe.$/The Hyakki Empire hasn't mastered any applied Getter Ray technology, and besides, those guys got hit by the beam attack themselves in the last battle."
+ },
+ {
+  "id": "MF09_0415",
+  "en": "I really doubt that.$/The Hyakki Empire hasn't mastered any applied Getter Ray technology, and anyway, they were hit by the beam attack themselves in the last battle."
+ },
+ {
+  "id": "MF09_04A9",
+  "en": "...Then who on earth!?"
+ },
+ {
+  "id": "MF09_04D3",
+  "en": "I don't know. $s80$s13That's why I was put in command: to find out."
+ },
+ {
+  "id": "MF09_052F",
+  "en": "But we do know where the beam was fired from. $s80$s13It came from a %1satellite%0 in the stratosphere."
+ },
+ {
+  "id": "MF09_058F",
+  "en": "...So it's being fired from that beam satellite!"
+ },
+ {
+  "id": "MF09_05D9",
+  "en": "For now we just gotta smash the thing, right? $s80$s13Who built it doesn't matter!"
+ },
+ {
+  "id": "MF09_0641",
+  "en": "$s05No, $s80$s13we also need to recover the satellite and investigate who built it."
+ },
+ {
+  "id": "MF09_069D",
+  "en": "$s05Enemies near the target!"
+ },
+ {
+  "id": "MF09_06CD",
+  "en": "$s05Is it the Hyakki Empire!?"
+ },
+ {
+  "id": "MF09_06F7",
+  "en": "$s05No, it's not them! $s80$s13What? $s80$s13...Those are$s30...!?$/$s30In-$s80$s13$s05insects!?",
+  "note": "'In-' renders the stutter on ko- of konchu."
+ },
+ {
+  "id": "MF09_076F",
+  "en": "$s05Insects!? $s80$s13$s05Like that time?",
+  "note": "'That time' = the earlier insect attack (kept vague as in the source)."
+ },
+ {
+  "id": "MF09_07AD",
+  "en": "$s05Super robots, $s80$s13$s05emergency launch! $s80$s13$s80$s13Head for the beam satellite $s80$s13and wipe out the insects on the way!"
+ },
+ {
+  "id": "MF09_0831",
+  "en": "$s05! $s80$s13...Heat detected in the beam satellite! $s80$s13$s05It's rising fast!",
+  "note": "Bare '!' kept as a startled beat."
+ },
+ {
+  "id": "MF09_0897",
+  "en": "$s05What!? $s80$s13$s80$s13Is it going to fire the beam!?"
+ },
+ {
+  "id": "MF09_08E7",
+  "en": "A bombardment like that! $s80$s13If it hits us at this close range...!"
+ },
+ {
+  "id": "MF09_0935",
+  "en": "If it hits us at this close range...! $s80$s13Not even a Getter could--!",
+  "note": "Ikura Getter demo trails off; kept unfinished."
+ },
+ {
+  "id": "MF09_0987",
+  "en": "The beam satellite $s80$s13is protected by a special shield, $s80$s13so our attacks won't get through!"
+ },
+ {
+  "id": "MF09_0A8F",
+  "en": "So basically, $s80$s13we just gotta smash the reactors $s80$s13before it fires, right!",
+  "note": "Follows Hayato's MF09_09ED (three Getter Reactors power the satellite); 'the reactors' = those."
+ },
+ {
+  "id": "MF09_0AEB",
+  "en": "I don't know who built it, $s80$s13$s80$s13but I'm not letting Getter Rays get abused any more!",
+  "note": "Passive kept: the abuser is unknown."
+ },
+ {
+  "id": "MF09_0B7D",
+  "en": "$s05How's that! $s80$s13That oughta have stopped it!"
+ },
+ {
+  "id": "MF09_0BBF",
+  "en": "$s80$s13$s05Huh!? $s80$s13Something's wrong with the satellite!"
+ },
+ {
+  "id": "MF09_0C05",
+  "en": "$s05The satellite's heat is still rising! It won't stop!"
+ },
+ {
+  "id": "MF09_0C43",
+  "en": "$s05What!? $s80$s13$s05The beam's going to fire!?"
+ },
+ {
+  "id": "MF09_0C8F",
+  "en": "$s05Damn it! $s80$s13$s05Were we too late!?"
+ },
+ {
+  "id": "MF09_0CD5",
+  "en": "What? $s80$s13...That's..."
+ },
+ {
+  "id": "MF09_0D05",
+  "en": "An object is approaching from the ground! $s80$s13$s80$s13This reading is... $s80$s13$s05I-$s80$s13$s05it can't be!"
+ },
+ {
+  "id": "MF09_0D7F",
+  "en": "...$s80$s13That shape..."
+ },
+ {
+  "id": "MF09_0DAB",
+  "en": "It's Getterrr~!"
+ },
+ {
+  "id": "MF09_0DCF",
+  "en": "Is it finally complete!?",
+  "note": "'It' = Shin Getter Robo, not yet named at this point."
+ },
+ {
+  "id": "MF09_0DFF",
+  "en": "$s80$s13$s05Shin..."
+ },
+ {
+  "id": "MF09_0E29",
+  "en": "$s80$s13$s05Shin..."
+ },
+ {
+  "id": "MF09_0E53",
+  "en": "$s05%1Shin $s80$s13Getter Robo!%0"
+ },
+ {
+  "id": "MF09_0E8D",
+  "en": "$s05Shin $s80$s13$s05Getter Robo, you said!?",
+  "note": "Go echoes Ryoma's shout incredulously (da to)."
+ },
+ {
+  "id": "MF09_0ECB",
+  "en": "$s05Can you hear me! $s80$s13Getter Team! $s80$s13I've just sent $s80$s13Shin Getter Robo your way!"
+ },
+ {
+  "id": "MF09_0FE7",
+  "en": "$s05Incredible..."
+ },
+ {
+  "id": "MF09_1013",
+  "en": "$s30Shin... $s80$s13Getter Robo..."
+ },
+ {
+  "id": "MF09_1051",
+  "en": "......Doctor, $s80$s13that was without a doubt $s80$s13a satellite Getter Beam cannon running on Getter Rays."
+ },
+ {
+  "id": "MF09_1135",
+  "en": "...Hmmm... $s80$s13In all the world, the only ones who can handle Getter Rays on that scale are...",
+  "note": "Trails off; Sho's silence next (MF09_118D) hints at Dr. Tachibana, kept implicit."
+ },
+ {
+  "id": "MF09_118D",
+  "en": "$s30......"
+ },
+ {
+  "id": "MF09_00DD",
+  "en": "At Dr. Saotome's request, $s80$s13I'll be taking command $s80$s13this time. $s80$s13$s80$s13I'm sure you have objections, $s80$s13but I'll ask you to bear with it this once.",
+  "note": "Hayato (portrait f01a), tail of MF09_005B; Schwartz objects next."
+ },
+ {
+  "id": "MF09_02BB",
+  "en": "That beam attack... $s80$s13$s20It hasn't been confirmed, $s80$s13$s20but it was most likely a Getter Beam.",
+  "note": "Hayato (portrait f01a), tail of MF09_027B."
+ },
+ {
+  "id": "MF09_09ED",
+  "en": "But $s80$s13$s80$s13the satellite is powered $s80$s13$s80$s13by the three Getter Reactors around it. $s80$s13$s80$s13Destroy those, $s80$s13and it'll stop!",
+  "note": "Yatsu ('the thing') = the satellite."
+ },
+ {
+  "id": "MF09_0B57",
+  "en": "$s05Let's go!"
+ },
+ {
+  "id": "MF09_1232",
+  "en": "        - Reactor Destroyed -",
+  "note": "Centred banner; kept the source 8 leading spaces (29 chars total, fits one line). Adjust padding at build if centring is off."
+ },
+ {
+  "id": "MF09_1249",
+  "en": "        - Reactor Destroyed -"
+ },
+ {
+  "id": "MF09_1260",
+  "en": "        - Reactor Destroyed -"
+ },
+ {
+  "id": "MF09_0F41",
+  "en": "Ryoma! $s80$s13Get in Shin Getter! $s80$s13Right now $s80$s13it can only put out 20% power, $s80$s13but even so, it can destroy that satellite, $s80$s13shield and all!"
+ },
+ {
+  "id": "MF09_10C5",
+  "en": "We ended up destroying it this time, $s80$s13$s80$s13so as for where $s80$s13and by whom it was built...",
+  "note": "Trails off before the negative (we can't tell), as in the source."
+ },
+ {
+  "id": "MF10_0028",
+  "en": "This here's MAP10, baby!",
+  "note": "Debug/placeholder map header."
+ },
+ {
+  "id": "MF10_004A",
+  "en": "Shin Getter Robo..."
+ },
+ {
+  "id": "MF10_0074",
+  "en": "So that's the new Getter Robo Dr. Saotome developed."
+ },
+ {
+  "id": "MF10_00B6",
+  "en": "That thing was crazy strong! $s80$s13With that on our side, nothing can scare us!"
+ },
+ {
+  "id": "MF10_0116",
+  "en": "$s80$s13But...$/it's too powerful...!"
+ },
+ {
+  "id": "MF10_0154",
+  "en": "Hayato...",
+  "note": "-san honorific dropped."
+ },
+ {
+  "id": "MF10_0178",
+  "en": "Hayato..."
+ },
+ {
+  "id": "MF10_019C",
+  "en": "What're you getting spooked for! $s80$s13That's not like you!"
+ },
+ {
+  "id": "MF10_01E2",
+  "en": "All that strength on a mere 20% of its power... $s80$s13Can you imagine what it'll be like at 100%?$/If it's used the wrong way, who knows what could happen..."
+ }
+]

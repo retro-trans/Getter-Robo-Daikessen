@@ -1,0 +1,963 @@
+[
+ {
+  "id": "BT_000",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "prev": "",
+  "en": ""
+ },
+ {
+  "id": "BT_001",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_002",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_003",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_004",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_005",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_006",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_007",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_008",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_009",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_010",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_011",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_012",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_013",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_014",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_015",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_016",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_017",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_018",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_019",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_020",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_021",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_022",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_023",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_024",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_025",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_026",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_027",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_028",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_029",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_030",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_031",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_032",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_033",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_034",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_035",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_036",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_037",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_038",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_039",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_040",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_041",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_042",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_043",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_044",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_045",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_046",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_047",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_048",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_049",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_050",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_051",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_052",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_053",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_054",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_055",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_056",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_057",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_058",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_059",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_060",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_061",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_062",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_063",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_064",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_065",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_066",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_067",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_068",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_069",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_070",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_071",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_072",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_073",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_074",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_075",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_076",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_077",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_078",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ },
+ {
+  "id": "BT_079",
+  "units": [
+   "BGR",
+   "BORG",
+   "BT23",
+   "GODT",
+   "GR1",
+   "GR12"
+  ],
+  "en": ""
+ }
+]

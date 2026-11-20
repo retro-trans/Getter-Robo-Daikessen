@@ -1,0 +1,4096 @@
+[
+ {
+  "id": "BRF_00B8",
+  "offset": "00B8",
+  "en": "Episode 1: \"Launch! Getter Robo\""
+ },
+ {
+  "id": "BRF_00D4",
+  "offset": "00D4",
+  "en": "Abnormal fluctuations in the magnetic field were detected in the Earth's inner layers."
+ },
+ {
+  "id": "BRF_0110",
+  "offset": "0110",
+  "en": "To counter this unknown crisis, Dr. Saotome developed a new super robot, \"Getter Robo\"."
+ },
+ {
+  "id": "BRF_016C",
+  "offset": "016C",
+  "en": "In search of a new pilot, the Getter Team heads for \"Hayato's school\"."
+ },
+ {
+  "id": "BRF_02EC",
+  "offset": "02EC",
+  "en": "Episode 2: \"Our Time Has Come! The Dinosaur Empire\""
+ },
+ {
+  "id": "BRF_0310",
+  "offset": "0310",
+  "en": "The Getter Team had gained a new Getter pilot, \"Hayato Jin\"."
+ },
+ {
+  "id": "BRF_034C",
+  "offset": "034C",
+  "en": "To analyze the true nature of the \"enemy\", they were at the Saotome Institute on Mt. Asama."
+ },
+ {
+  "id": "BRF_04A4",
+  "offset": "04A4",
+  "en": "Episode 3: \"Getter vs. Getter\""
+ },
+ {
+  "id": "BRF_04C4",
+  "offset": "04C4",
+  "en": "New Getter Robos, built to counter the \"Dinosaur Empire\", were undergoing operational tests."
+ },
+ {
+  "id": "BRF_0508",
+  "offset": "0508",
+  "en": "The Getter Team headed for the production plant to take delivery of them."
+ },
+ {
+  "id": "BRF_06A4",
+  "offset": "06A4",
+  "en": "Episode 4: \"Operation: Destroy Getter Robo\""
+ },
+ {
+  "id": "BRF_06C4",
+  "offset": "06C4",
+  "en": "A mysterious new Mechasaurus suddenly appeared."
+ },
+ {
+  "id": "BRF_06EC",
+  "offset": "06EC",
+  "en": "On receiving the news, the Getter Team rushed to the city, bringing their new power, \"Getter Robo G\"."
+ },
+ {
+  "id": "BRF_08A4",
+  "offset": "08A4",
+  "en": "Episode 5: \"New Power, New Enemy\""
+ },
+ {
+  "id": "BRF_08C4",
+  "offset": "08C4",
+  "en": "Having detected countless high-energy readings, the Getter Team began moving out over the Pacific Ocean to investigate."
+ },
+ {
+  "id": "BRF_0A74",
+  "offset": "0A74",
+  "en": "Episode 6: \"Save the Institutes! (Part 1)\""
+ },
+ {
+  "id": "BRF_0A94",
+  "offset": "0A94",
+  "en": "A new enemy stands in humanity's way: the \"Hyakki Empire\"."
+ },
+ {
+  "id": "BRF_0AC4",
+  "offset": "0AC4",
+  "en": "The Getter Team was heading for the Tachibana Institute to join up with \"Getter Robo Go\", the new force built to counter it, and its new pilots."
+ },
+ {
+  "id": "BRF_0C90",
+  "offset": "0C90",
+  "en": "Choose Destination                      "
+ },
+ {
+  "id": "BRF_0CDC",
+  "offset": "0CDC",
+  "en": "While the team was defending the Tachibana Institute, a distress signal was sent out from the Saotome Institute."
+ },
+ {
+  "id": "BRF_0D18",
+  "offset": "0D18",
+  "en": "With so few forces, the Getter Team cannot afford to split them up; it must choose one of the two and go to its rescue."
+ },
+ {
+  "id": "BRF_0D80",
+  "offset": "0D80",
+  "en": "Which one will you rescue?\\n  1. Tachibana Institute\\n  2. Saotome Institute"
+ },
+ {
+  "id": "BRF_0F10",
+  "offset": "0F10",
+  "en": "Episode 6: \"Save the Institutes! (Part 2)\"                      "
+ },
+ {
+  "id": "BRF_0F5C",
+  "offset": "0F5C",
+  "en": "In the midst of the battle at the Tachibana Institute, the Saotome Institute comes under attack by the Hyakki Empire at the same time."
+ },
+ {
+  "id": "BRF_0FAC",
+  "offset": "0FAC",
+  "en": "But sensing a trap, the Getter Team leaves the Saotome Institute's defense to the base forces there and carries on defending the Tachibana Institute."
+ },
+ {
+  "id": "BRF_10DC",
+  "offset": "10DC",
+  "en": "Episode 6: \"Save the Institutes! (Part 2)\"                      "
+ },
+ {
+  "id": "BRF_1128",
+  "offset": "1128",
+  "en": "In the midst of the battle at the Tachibana Institute, the Saotome Institute comes under attack by the Hyakki Empire at the same time."
+ },
+ {
+  "id": "BRF_1178",
+  "offset": "1178",
+  "en": "Leaving the remaining Hyakki Beasts to the base forces, the Getter Team heads off to rescue the Saotome Institute."
+ },
+ {
+  "id": "BRF_12F4",
+  "offset": "12F4",
+  "en": "Episode 7: \"First Contact\""
+ },
+ {
+  "id": "BRF_1314",
+  "offset": "1314",
+  "en": "Having temporarily evacuated because of the explosion and the release of Getter Rays, the Getter Team heads back to the Tachibana Institute to see how things stand."
+ },
+ {
+  "id": "BRF_1460",
+  "offset": "1460",
+  "en": "Episode 7: \"First Contact\""
+ },
+ {
+  "id": "BRF_1480",
+  "offset": "1480",
+  "en": "Having temporarily evacuated because of the explosion and the release of Getter Rays, the Getter Team heads back to the Saotome Institute to see how things stand."
+ },
+ {
+  "id": "BRF_1620",
+  "offset": "1620",
+  "en": "Episode 8: \"Texas, the Large Mobile Battleship\""
+ },
+ {
+  "id": "BRF_1640",
+  "offset": "1640",
+  "en": "To bring down the Hyakki Empire, the nations of the world pooled their military strength and formed the Allied Forces."
+ },
+ {
+  "id": "BRF_167C",
+  "offset": "167C",
+  "en": "The Getter Team, too, had joined up with the Allied Forces at America Base."
+ },
+ {
+  "id": "BRF_17E0",
+  "offset": "17E0",
+  "en": "Episode 9: \"Shin Getter Robo\""
+ },
+ {
+  "id": "BRF_17FC",
+  "offset": "17FC",
+  "en": "To find out what the mysterious beam fired from the skies above really was, the Allied Forces boarded the Kujira and headed for the stratosphere."
+ },
+ {
+  "id": "BRF_1990",
+  "offset": "1990",
+  "en": "Episode 10: \"The Terrifying Germ Missiles\""
+ },
+ {
+  "id": "BRF_19B0",
+  "offset": "19B0",
+  "en": "Having destroyed the satellite, the Getter Team returned to the Texas."
+ },
+ {
+  "id": "BRF_19E0",
+  "offset": "19E0",
+  "en": "They should have felt relieved, but having witnessed the power of Shin Getter Robo with their own eyes, they were torn between hope and unease."
+ },
+ {
+  "id": "BRF_1B10",
+  "offset": "1B10",
+  "en": "Episode 11: \"The Last Day of the Hyakki Empire\""
+ },
+ {
+  "id": "BRF_1B30",
+  "offset": "1B30",
+  "en": "The Getter Team returned to the Texas once again."
+ },
+ {
+  "id": "BRF_1B58",
+  "offset": "1B58",
+  "en": "The Allied Forces were winning victory after victory, but the shadow of a giant enemy was closing in on them."
+ },
+ {
+  "id": "BRF_1C68",
+  "offset": "1C68",
+  "en": "Episode 12: \"Enter Professor Lando!\""
+ },
+ {
+  "id": "BRF_1C94",
+  "offset": "1C94",
+  "en": "Through the final power of Burai, and of Uzahra, the Earth's environment is drastically transformed."
+ },
+ {
+  "id": "BRF_1CD8",
+  "offset": "1CD8",
+  "en": "Before a land left ravaged and desolate, a new battle was about to begin."
+ },
+ {
+  "id": "BRF_1DE4",
+  "offset": "1DE4",
+  "en": "Episode 13: \"Brother and Sister\""
+ },
+ {
+  "id": "BRF_1DF8",
+  "offset": "1DF8",
+  "en": "A new enemy: Professor Lando."
+ },
+ {
+  "id": "BRF_1E1C",
+  "offset": "1E1C",
+  "en": "And standing in the Allied Forces' way: Sho Tachibana's older brother, \"Shinichi Tachibana\"."
+ },
+ {
+  "id": "BRF_1E58",
+  "offset": "1E58",
+  "en": "Now, the Texas was about to be steeped in sorrow..."
+ },
+ {
+  "id": "BRF_1F60",
+  "offset": "1F60",
+  "en": "Episode 14: \"The Black Getter\""
+ },
+ {
+  "id": "BRF_1F7C",
+  "offset": "1F7C",
+  "en": "Every one of the Getter Robos had been forced through fierce battle after fierce battle."
+ },
+ {
+  "id": "BRF_1FA4",
+  "offset": "1FA4",
+  "en": "The damage had built up and grown worse than anyone had imagined."
+ },
+ {
+  "id": "BRF_1FD8",
+  "offset": "1FD8",
+  "en": "So Dr. Saotome returns to the Institute for a while to carry out large-scale maintenance."
+ },
+ {
+  "id": "BRF_2184",
+  "offset": "2184",
+  "en": "Choose Destination                      "
+ },
+ {
+  "id": "BRF_21D0",
+  "offset": "21D0",
+  "en": "With the Getter Robos' maintenance complete, the Getter Team rejoined the Allied Forces."
+ },
+ {
+  "id": "BRF_221C",
+  "offset": "221C",
+  "en": "Even as this went on, nations around the world had begun fighting Lando's army and were being hard-pressed."
+ },
+ {
+  "id": "BRF_226C",
+  "offset": "226C",
+  "en": "Germany, Russia and Britain in particular, facing powerful enemies, had sent distress signals to the Allied Forces."
+ },
+ {
+  "id": "BRF_22BC",
+  "offset": "22BC",
+  "en": "As the flames of war spread across the globe, the Allied Forces throw themselves into the thick of the fighting."
+ },
+ {
+  "id": "BRF_22F4",
+  "offset": "22F4",
+  "en": "Which country will you aid?\\n  1. Germany\\n  2. Russia\\n  3. Britain"
+ },
+ {
+  "id": "BRF_2660",
+  "offset": "2660",
+  "en": "Episode 15: \"The Terrifying Giant Tornado\"                        "
+ },
+ {
+  "id": "BRF_26AC",
+  "offset": "26AC",
+  "en": "Episode 15: \"Super Weapon Volga\"                         "
+ },
+ {
+  "id": "BRF_26F8",
+  "offset": "26F8",
+  "en": "Episode 15: \"The Revived Emperor\"                          "
+ },
+ {
+  "id": "BRF_2744",
+  "offset": "2744",
+  "en": "The Allied Forces set out to aid nations worldwide and quell the growing war."
+ },
+ {
+  "id": "BRF_2794",
+  "offset": "2794",
+  "en": "A huge black storm cloud suddenly formed in the skies over Germany."
+ },
+ {
+  "id": "BRF_27C0",
+  "offset": "27C0",
+  "en": "This freak storm cloud is spawning one large tornado after another and destroying the city."
+ },
+ {
+  "id": "BRF_2804",
+  "offset": "2804",
+  "en": "The German government dispatches a special investigation unit in response, but the unit vanishes without a trace."
+ },
+ {
+  "id": "BRF_2858",
+  "offset": "2858",
+  "en": "On receiving the call for help, the Allied Forces took on the task of investigating the storm cloud."
+ },
+ {
+  "id": "BRF_2898",
+  "offset": "2898",
+  "en": "Lando's army invaded the Russian plains, targeting a nuclear missile launch base."
+ },
+ {
+  "id": "BRF_28E0",
+  "offset": "28E0",
+  "en": "The Allied Forces rushed to help, but the Russian army had already suffered devastating damage and been driven back to its last line of defense."
+ },
+ {
+  "id": "BRF_2948",
+  "offset": "2948",
+  "en": "An abnormal rise in sea level submerged a British city, and at the same time a vast horde of enemies, believed to be Metal Beasts, appeared."
+ },
+ {
+  "id": "BRF_29AC",
+  "offset": "29AC",
+  "en": "Facing disaster, the British government sent a request for help to the Allied Forces."
+ },
+ {
+  "id": "BRF_2C60",
+  "offset": "2C60",
+  "en": "Choose Destination                      "
+ },
+ {
+  "id": "BRF_2CAC",
+  "offset": "2CAC",
+  "en": "Which country will you aid next?\\n  1. Russia\\n  2. Britain"
+ },
+ {
+  "id": "BRF_2CEC",
+  "offset": "2CEC",
+  "en": "Which country will you aid next?\\n  1. Germany\\n  2. Britain"
+ },
+ {
+  "id": "BRF_2D2C",
+  "offset": "2D2C",
+  "en": "Which country will you aid next?\\n  1. Germany\\n  2. Russia"
+ },
+ {
+  "id": "BRF_3264",
+  "offset": "3264",
+  "en": "Episode 16: \"The Terrifying Giant Tornado\"                        "
+ },
+ {
+  "id": "BRF_32B0",
+  "offset": "32B0",
+  "en": "Episode 16: \"Super Weapon Volga\"                         "
+ },
+ {
+  "id": "BRF_32FC",
+  "offset": "32FC",
+  "en": "Episode 16: \"The Revived Emperor\"                          "
+ },
+ {
+  "id": "BRF_3348",
+  "offset": "3348",
+  "en": "The Allied Forces set out to aid nations worldwide and quell the growing war."
+ },
+ {
+  "id": "BRF_3398",
+  "offset": "3398",
+  "en": "A huge black storm cloud suddenly formed in the skies over Germany."
+ },
+ {
+  "id": "BRF_33C4",
+  "offset": "33C4",
+  "en": "This freak storm cloud is spawning one large tornado after another and destroying the city."
+ },
+ {
+  "id": "BRF_3408",
+  "offset": "3408",
+  "en": "The German government dispatches a special investigation unit in response, but the unit vanishes without a trace."
+ },
+ {
+  "id": "BRF_345C",
+  "offset": "345C",
+  "en": "On receiving the call for help, the Allied Forces took on the task of investigating the storm cloud."
+ },
+ {
+  "id": "BRF_349C",
+  "offset": "349C",
+  "en": "Lando's army invaded the Russian plains, targeting a nuclear missile launch base."
+ },
+ {
+  "id": "BRF_34E4",
+  "offset": "34E4",
+  "en": "The Allied Forces rushed to help, but the Russian army had already suffered devastating damage and been driven back to its last line of defense."
+ },
+ {
+  "id": "BRF_354C",
+  "offset": "354C",
+  "en": "An abnormal rise in sea level submerged a British city, and at the same time a vast horde of enemies, believed to be Metal Beasts, appeared."
+ },
+ {
+  "id": "BRF_35B0",
+  "offset": "35B0",
+  "en": "Facing disaster, the British government sent a request for help to the Allied Forces."
+ },
+ {
+  "id": "BRF_3864",
+  "offset": "3864",
+  "en": "Episode 17: \"The Terrifying Giant Tornado\"                        "
+ },
+ {
+  "id": "BRF_38B0",
+  "offset": "38B0",
+  "en": "Episode 17: \"Super Weapon Volga\"                         "
+ },
+ {
+  "id": "BRF_38FC",
+  "offset": "38FC",
+  "en": "Episode 17: \"The Revived Emperor\"                          "
+ },
+ {
+  "id": "BRF_3948",
+  "offset": "3948",
+  "en": "The Allied Forces set out to aid Germany and quell the fighting."
+ },
+ {
+  "id": "BRF_3988",
+  "offset": "3988",
+  "en": "The Allied Forces set out to aid Russia and quell the fighting."
+ },
+ {
+  "id": "BRF_39C8",
+  "offset": "39C8",
+  "en": "The Allied Forces set out to aid Britain and quell the fighting."
+ },
+ {
+  "id": "BRF_421C",
+  "offset": "421C",
+  "en": "Episode 18: \"Texas vs. Dragon Turtle\""
+ },
+ {
+  "id": "BRF_4248",
+  "offset": "4248",
+  "en": "The colossal mothership of Lando's army, the \"Dragon Turtle\", began its advance on Alaska Base, the Allied Forces' stronghold."
+ },
+ {
+  "id": "BRF_42AC",
+  "offset": "42AC",
+  "en": "Taking the Texas into battle, the Allied Forces throw everything they have into stopping it."
+ },
+ {
+  "id": "BRF_462C",
+  "offset": "462C",
+  "en": "Episode 19: \"Final Battle at Vega Zone\""
+ },
+ {
+  "id": "BRF_464C",
+  "offset": "464C",
+  "en": "Crushed on the Alaska front and driven into a desperate position, Lando's army makes its move to challenge the Allied Forces to a final, decisive battle."
+ },
+ {
+  "id": "BRF_46B8",
+  "offset": "46B8",
+  "en": "Lando gathered all his forces in the Arctic Circle, and even began to set his unfinished ultimate weapon, \"Vega Zone\", in motion."
+ },
+ {
+  "id": "BRF_4710",
+  "offset": "4710",
+  "en": "The Allied Forces, too, sent their entire strength to the Arctic Circle to put an end to this war."
+ },
+ {
+  "id": "BRF_487C",
+  "offset": "487C",
+  "en": "Episode 20: \"Into Space\""
+ },
+ {
+  "id": "BRF_4890",
+  "offset": "4890",
+  "en": "To defeat the Insect Army, the Getter Team at last heads out into space."
+ },
+ {
+  "id": "BRF_48CC",
+  "offset": "48CC",
+  "en": "However, the other nations' super robots could not operate in space for long, so they were unable to take part in this battle."
+ },
+ {
+  "id": "BRF_4930",
+  "offset": "4930",
+  "en": "Without that valuable fighting strength, the Getter Emperor was heading for the Moon."
+ },
+ {
+  "id": "BRF_4ADC",
+  "offset": "4ADC",
+  "en": "Episode 21: \"The Great Battle!\""
+ },
+ {
+  "id": "BRF_4AF4",
+  "offset": "4AF4",
+  "en": "The Getter Emperor finally reached the lunar surface."
+ },
+ {
+  "id": "BRF_4B1C",
+  "offset": "4B1C",
+  "en": "With \"Shin Getter Dragon\", born through a dramatic evolution, the Getter Team challenges the Insect Army to a final battle."
+ },
+ {
+  "id": "MCN_0010",
+  "offset": "0010",
+  "en": "Small Missile",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_0044",
+  "offset": "0044",
+  "en": "Small Jaguar Missile",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_0078",
+  "offset": "0078",
+  "en": "Large Missile",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_00AC",
+  "offset": "00AC",
+  "en": "Getter Tomahawk",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_00E0",
+  "offset": "00E0",
+  "en": "Getter Cutter",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_0114",
+  "offset": "0114",
+  "en": "Tomahawk Boomerang",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_0148",
+  "offset": "0148",
+  "en": "Getter Machine Gun",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_017C",
+  "offset": "017C",
+  "en": "Getter Beam",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_01B0",
+  "offset": "01B0",
+  "en": "Drill Arm",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_01E4",
+  "offset": "01E4",
+  "en": "Getter Arm",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_0218",
+  "offset": "0218",
+  "en": "Jet Drill",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_024C",
+  "offset": "024C",
+  "en": "Drill Storm",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_0280",
+  "offset": "0280",
+  "en": "Getter Vision",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_02B4",
+  "offset": "02B4",
+  "en": "Getter Smash",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_02E8",
+  "offset": "02E8",
+  "en": "Getter Crush",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_031C",
+  "offset": "031C",
+  "en": "Getter Missile",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_0350",
+  "offset": "0350",
+  "en": "Daisetsuzan Oroshi",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_0384",
+  "offset": "0384",
+  "en": "Getter Tomahawk",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_03B8",
+  "offset": "03B8",
+  "en": "Tomahawk Boomerang",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_03EC",
+  "offset": "03EC",
+  "en": "Drill Arm",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_0420",
+  "offset": "0420",
+  "en": "Jet Drill",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_0454",
+  "offset": "0454",
+  "en": "Getter Spin Knuckle",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_0488",
+  "offset": "0488",
+  "en": "Getter Jumping Press",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_04BC",
+  "offset": "04BC",
+  "en": "Vulcan",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_04F0",
+  "offset": "04F0",
+  "en": "Laser",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_0524",
+  "offset": "0524",
+  "en": "Large Missile",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_0558",
+  "offset": "0558",
+  "en": "Double Tomahawk",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_058C",
+  "offset": "058C",
+  "en": "Spin Cutter",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_05C0",
+  "offset": "05C0",
+  "en": "Double Tomahawk Boomerang",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_05F4",
+  "offset": "05F4",
+  "en": "Getter Beam",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_0628",
+  "offset": "0628",
+  "en": "Getter Beam Launcher",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_065C",
+  "offset": "065C",
+  "en": "Shine Spark",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_0690",
+  "offset": "0690",
+  "en": "Drill Arm",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_06C4",
+  "offset": "06C4",
+  "en": "Chain Attack",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_06F8",
+  "offset": "06F8",
+  "en": "Liger Missile",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_072C",
+  "offset": "072C",
+  "en": "Mach Special",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_0760",
+  "offset": "0760",
+  "en": "Burst Attack",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_0794",
+  "offset": "0794",
+  "en": "Strong Missile",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_07C8",
+  "offset": "07C8",
+  "en": "Finger Net",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_07FC",
+  "offset": "07FC",
+  "en": "Getter Cyclone",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_0830",
+  "offset": "0830",
+  "en": "Vulcan",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_0864",
+  "offset": "0864",
+  "en": "Vulcan",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_0898",
+  "offset": "0898",
+  "en": "Missile",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_08CC",
+  "offset": "08CC",
+  "en": "Knuckle Bomber",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_0900",
+  "offset": "0900",
+  "en": "Leg Blade",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_0934",
+  "offset": "0934",
+  "en": "Handy Missile Cannon",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_0968",
+  "offset": "0968",
+  "en": "Mag Force Thunder",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_099C",
+  "offset": "099C",
+  "en": "Knuckle Bomber",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_09D0",
+  "offset": "09D0",
+  "en": "Leg Blade",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_0A04",
+  "offset": "0A04",
+  "en": "Handy Missile Cannon",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_0A38",
+  "offset": "0A38",
+  "en": "Mag Force Thunder",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_0A6C",
+  "offset": "0A6C",
+  "en": "Sword Tomahawk",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_0AA0",
+  "offset": "0AA0",
+  "en": "Breast Bomber",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_0AD4",
+  "offset": "0AD4",
+  "en": "String Attack",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_0B08",
+  "offset": "0B08",
+  "en": "Tornado Attack",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_0B3C",
+  "offset": "0B3C",
+  "en": "Harpoon Cannon",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_0B70",
+  "offset": "0B70",
+  "en": "Impact Cannon",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_0BA4",
+  "offset": "0BA4",
+  "en": "Breast Beam",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_0BD8",
+  "offset": "0BD8",
+  "en": "Spin Tornado Attack",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_0C0C",
+  "offset": "0C0C",
+  "en": "Straight Beam",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_0C40",
+  "offset": "0C40",
+  "en": "Spread Beam",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_0C74",
+  "offset": "0C74",
+  "en": "Guided Missile",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_0CA8",
+  "offset": "0CA8",
+  "en": "Shin Getter Tomahawk",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_0CDC",
+  "offset": "0CDC",
+  "en": "Split Beam",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_0D10",
+  "offset": "0D10",
+  "en": "Shin Getter Beam",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_0D44",
+  "offset": "0D44",
+  "en": "Stoner Sunshine",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_0D78",
+  "offset": "0D78",
+  "en": "Shin Getter Tomahawk",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_0DAC",
+  "offset": "0DAC",
+  "en": "Split Beam",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_0DE0",
+  "offset": "0DE0",
+  "en": "Shin Getter Beam",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_0E14",
+  "offset": "0E14",
+  "en": "Stoner Sunshine",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_0E48",
+  "offset": "0E48",
+  "en": "Shin Getter Drill",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_0E7C",
+  "offset": "0E7C",
+  "en": "Shin Scissor Arm",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_0EB0",
+  "offset": "0EB0",
+  "en": "Shin Drill Hurricane",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_0EE4",
+  "offset": "0EE4",
+  "en": "Shin Drill Shaker",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_0F18",
+  "offset": "0F18",
+  "en": "Shin Getter Vision",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_0F4C",
+  "offset": "0F4C",
+  "en": "Shin Getter Blow",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_0F80",
+  "offset": "0F80",
+  "en": "Shin Getter Crush",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_0FB4",
+  "offset": "0FB4",
+  "en": "Missile Storm",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_0FE8",
+  "offset": "0FE8",
+  "en": "Shin Daisetsuzan Oroshi",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_101C",
+  "offset": "101C",
+  "en": "Small Vulcan",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_1050",
+  "offset": "1050",
+  "en": "Small Vulcan",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_1084",
+  "offset": "1084",
+  "en": "Small Missile",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_10B8",
+  "offset": "10B8",
+  "en": "Hizanto",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_10EC",
+  "offset": "10EC",
+  "en": "Flower Frenzy",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_1120",
+  "offset": "1120",
+  "en": "Twin Flower Frenzy",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_1154",
+  "offset": "1154",
+  "en": "Combined Windmill",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_1188",
+  "offset": "1188",
+  "en": "Demonslayer Ray",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_11BC",
+  "offset": "11BC",
+  "en": "Gale Needles",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_11F0",
+  "offset": "11F0",
+  "en": "Myriad Needles",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_1224",
+  "offset": "1224",
+  "en": "Serpent Spiral Ray",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_1258",
+  "offset": "1258",
+  "en": "Getter Shadow Clone",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_128C",
+  "offset": "128C",
+  "en": "Rush",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_12C0",
+  "offset": "12C0",
+  "en": "Rockbreaker Palm",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_12F4",
+  "offset": "12F4",
+  "en": "Great Blade Shuriken",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_1328",
+  "offset": "1328",
+  "en": "Shura Depth Charge",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_135C",
+  "offset": "135C",
+  "en": "Getter Tomahawk",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_1390",
+  "offset": "1390",
+  "en": "Drill Rock Buster",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_13C4",
+  "offset": "13C4",
+  "en": "Arm Gun",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_13F8",
+  "offset": "13F8",
+  "en": "Dark Frenzy",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_142C",
+  "offset": "142C",
+  "en": "Getter Beam",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_1460",
+  "offset": "1460",
+  "en": "Shin Tomahawk Boomerang",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_1494",
+  "offset": "1494",
+  "en": "Shin Drill Arm",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_14C8",
+  "offset": "14C8",
+  "en": "Shin Strong Missile",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_14FC",
+  "offset": "14FC",
+  "en": "Shin Getter Beam Launcher",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_1530",
+  "offset": "1530",
+  "en": "Shin Shine Spark",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_1564",
+  "offset": "1564",
+  "en": "Silent Vulcan",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_1598",
+  "offset": "1598",
+  "en": "Drill Attack",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_15CC",
+  "offset": "15CC",
+  "en": "Vulcan",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_1600",
+  "offset": "1600",
+  "en": "Hand Cutter",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_1634",
+  "offset": "1634",
+  "en": "Boomerang Wing",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_1668",
+  "offset": "1668",
+  "en": "ST Blaster",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_169C",
+  "offset": "169C",
+  "en": "Blast Succession",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_16D0",
+  "offset": "16D0",
+  "en": "Strike Armed",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_1704",
+  "offset": "1704",
+  "en": "Spread Missile",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_1738",
+  "offset": "1738",
+  "en": "Super Weapon Cannon",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_176C",
+  "offset": "176C",
+  "en": "Heavy Press",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_17A0",
+  "offset": "17A0",
+  "en": "Double Cannon",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_17D4",
+  "offset": "17D4",
+  "en": "Triple Missile",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_1808",
+  "offset": "1808",
+  "en": "Super Heavy Press",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_183C",
+  "offset": "183C",
+  "en": "Stun Saber",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_1870",
+  "offset": "1870",
+  "en": "Homing Torpedo",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_18A4",
+  "offset": "18A4",
+  "en": "Submarine Support",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_18D8",
+  "offset": "18D8",
+  "en": "Large Rapid-Fire Gun",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_190C",
+  "offset": "190C",
+  "en": "Spread Mines",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_1940",
+  "offset": "1940",
+  "en": "Heat Rod",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_1974",
+  "offset": "1974",
+  "en": "Remote Combination",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_19A8",
+  "offset": "19A8",
+  "en": "Texas Magnum 444",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_19DC",
+  "offset": "19DC",
+  "en": "Texas Rifle",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_1A10",
+  "offset": "1A10",
+  "en": "Texas Blade",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_1A44",
+  "offset": "1A44",
+  "en": "Over Boost",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_1A78",
+  "offset": "1A78",
+  "en": "Ground Laser",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_1AAC",
+  "offset": "1AAC",
+  "en": "Dover Cannon",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_1AE0",
+  "offset": "1AE0",
+  "en": "Emperor Beam",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_1B14",
+  "offset": "1B14",
+  "en": "Buzzsaw Boomerang",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_1B48",
+  "offset": "1B48",
+  "en": "Dorsal Cutter",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_1B7C",
+  "offset": "1B7C",
+  "en": "Horn Charge",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_1BB0",
+  "offset": "1BB0",
+  "en": "Horn Boomerang",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_1BE4",
+  "offset": "1BE4",
+  "en": "Pounce",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_1C18",
+  "offset": "1C18",
+  "en": "Arrow Missile",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_1C4C",
+  "offset": "1C4C",
+  "en": "Vacuum Tornado Throw",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_1C80",
+  "offset": "1C80",
+  "en": "Clinging Drill",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_1CB4",
+  "offset": "1CB4",
+  "en": "Tunnel Torpedo Charge",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_1CE8",
+  "offset": "1CE8",
+  "en": "Bite",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_1D1C",
+  "offset": "1D1C",
+  "en": "Launch Bat Men",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_1D50",
+  "offset": "1D50",
+  "en": "Missile",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_1D84",
+  "offset": "1D84",
+  "en": "Scratch Climb",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_1DB8",
+  "offset": "1DB8",
+  "en": "Binding Foot",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_1DEC",
+  "offset": "1DEC",
+  "en": "Large Guided Missile",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_1E20",
+  "offset": "1E20",
+  "en": "Howl",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_1E54",
+  "offset": "1E54",
+  "en": "Tornado Charge",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_1E88",
+  "offset": "1E88",
+  "en": "Tornado Vacuum Slash",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_1EBC",
+  "offset": "1EBC",
+  "en": "Tornado Throw",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_1EF0",
+  "offset": "1EF0",
+  "en": "Thunder Roar",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_1F24",
+  "offset": "1F24",
+  "en": "Horn Scoop Stab",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_1F58",
+  "offset": "1F58",
+  "en": "Cobra Venom",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_1F8C",
+  "offset": "1F8C",
+  "en": "Spread Melt Shock",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_1FC0",
+  "offset": "1FC0",
+  "en": "Plasma Shield",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_1FF4",
+  "offset": "1FF4",
+  "en": "Horiz. Claw Chop",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_2028",
+  "offset": "2028",
+  "en": "Neck Thrust",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_205C",
+  "offset": "205C",
+  "en": "Electric Shock",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_2090",
+  "offset": "2090",
+  "en": "Launch Escorts",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_20C4",
+  "offset": "20C4",
+  "en": "Hurricane",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_20F8",
+  "offset": "20F8",
+  "en": "Getter Tomahawk",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_212C",
+  "offset": "212C",
+  "en": "Getter Cutter",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_2160",
+  "offset": "2160",
+  "en": "Drill Arm",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_2194",
+  "offset": "2194",
+  "en": "Jet Drill",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_21C8",
+  "offset": "21C8",
+  "en": "Getter Smash",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_21FC",
+  "offset": "21FC",
+  "en": "Getter Missile",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_2230",
+  "offset": "2230",
+  "en": "None",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_2264",
+  "offset": "2264",
+  "en": "Wing Cutter",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_2298",
+  "offset": "2298",
+  "en": "Air Cutter",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_22CC",
+  "offset": "22CC",
+  "en": "Tail Slam",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_2300",
+  "offset": "2300",
+  "en": "Shell Shot",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_2334",
+  "offset": "2334",
+  "en": "Tentacle Press",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_2368",
+  "offset": "2368",
+  "en": "Leap",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_239C",
+  "offset": "239C",
+  "en": "Air Torpedo",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_23D0",
+  "offset": "23D0",
+  "en": "Telekinesis",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_2404",
+  "offset": "2404",
+  "en": "Sickle Cutter 1",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_2438",
+  "offset": "2438",
+  "en": "Sickle Cutter 2",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_246C",
+  "offset": "246C",
+  "en": "Disc Cutter Slash",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_24A0",
+  "offset": "24A0",
+  "en": "Homing Disc Cutter",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_24D4",
+  "offset": "24D4",
+  "en": "Large Missile",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_2508",
+  "offset": "2508",
+  "en": "Belt Saber",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_2570",
+  "offset": "2570",
+  "en": "Jyubo Sword",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_25A4",
+  "offset": "25A4",
+  "en": "Uzahra Head Beam",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_25D8",
+  "offset": "25D8",
+  "en": "Uzahra Bite",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_260C",
+  "offset": "260C",
+  "en": "Gravity Cut Beam",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_2640",
+  "offset": "2640",
+  "en": "Uzahra Eye Beam",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_2674",
+  "offset": "2674",
+  "en": "Iron Club Smash",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_26DC",
+  "offset": "26DC",
+  "en": "Missile Launcher",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_2710",
+  "offset": "2710",
+  "en": "Parts Attack",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_2744",
+  "offset": "2744",
+  "en": "Mount Punch",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_27AC",
+  "offset": "27AC",
+  "en": "Horn Homing Missile",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_27E0",
+  "offset": "27E0",
+  "en": "Flamethrower",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_2814",
+  "offset": "2814",
+  "en": "Gust Cannon",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_2848",
+  "offset": "2848",
+  "en": "Claw Flurry",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_287C",
+  "offset": "287C",
+  "en": "None",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_28B0",
+  "offset": "28B0",
+  "en": "Venom Sting",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_28E4",
+  "offset": "28E4",
+  "en": "Arm Bite",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_2918",
+  "offset": "2918",
+  "en": "Spin Attack",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_294C",
+  "offset": "294C",
+  "en": "Knockdown",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_2980",
+  "offset": "2980",
+  "en": "Dropkick",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_29B4",
+  "offset": "29B4",
+  "en": "Acid",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_29E8",
+  "offset": "29E8",
+  "en": "Pincer Attack",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_2A1C",
+  "offset": "2A1C",
+  "en": "Satellite Sight Laser",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_2A50",
+  "offset": "2A50",
+  "en": "Small Twin Laser",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_2A84",
+  "offset": "2A84",
+  "en": "Illusion Wave",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_2AB8",
+  "offset": "2AB8",
+  "en": "Subspace Cosmos",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_2AEC",
+  "offset": "2AEC",
+  "en": "Satellite Sight Laser Cannon",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_2B20",
+  "offset": "2B20",
+  "en": "Iai Slash",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_2B54",
+  "offset": "2B54",
+  "en": "Eye Laser",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_2B88",
+  "offset": "2B88",
+  "en": "Hyper Acceleration",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_2BBC",
+  "offset": "2BBC",
+  "en": "Uzahra Head Beam",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_2BF0",
+  "offset": "2BF0",
+  "en": "Uzahra Bite",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_2C24",
+  "offset": "2C24",
+  "en": "Gravity Cut Beam",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_2C58",
+  "offset": "2C58",
+  "en": "Uzahra Eye Beam",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_2C8C",
+  "offset": "2C8C",
+  "en": "Large Long-Range Gun",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_2CC0",
+  "offset": "2CC0",
+  "en": "Magma Cannon",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_2CF4",
+  "offset": "2CF4",
+  "en": "Magma Tentacle",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_2D28",
+  "offset": "2D28",
+  "en": "Metal Beast Production",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_2D5C",
+  "offset": "2D5C",
+  "en": "None",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_2D90",
+  "offset": "2D90",
+  "en": "HP Drain",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_2DC4",
+  "offset": "2DC4",
+  "en": "Bite",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_2DF8",
+  "offset": "2DF8",
+  "en": "Undermine",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_2E2C",
+  "offset": "2E2C",
+  "en": "1000 Needles",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_2E60",
+  "offset": "2E60",
+  "en": "Needle Charge",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_2E94",
+  "offset": "2E94",
+  "en": "Jaw Throw",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_2EC8",
+  "offset": "2EC8",
+  "en": "Impale",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_2EFC",
+  "offset": "2EFC",
+  "en": "Dark Matter",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_2F30",
+  "offset": "2F30",
+  "en": "Space Warp",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_2F64",
+  "offset": "2F64",
+  "en": "Subspace Orb",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_2FCC",
+  "offset": "2FCC",
+  "en": "Time, Stop!",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_3000",
+  "offset": "3000",
+  "en": "Time, Turn Back!",
+  "max_bytes": 31
+ },
+ {
+  "id": "MCN_3034",
+  "offset": "3034",
+  "en": "Getter-1",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_306E",
+  "offset": "306E",
+  "en": "Getter-2",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_30A8",
+  "offset": "30A8",
+  "en": "Getter-3",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_30E2",
+  "offset": "30E2",
+  "en": "Eagle-Gou",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_311C",
+  "offset": "311C",
+  "en": "Jaguar-Gou",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_3156",
+  "offset": "3156",
+  "en": "Bear-Gou",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_3190",
+  "offset": "3190",
+  "en": "Getter-1/2",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_31CA",
+  "offset": "31CA",
+  "en": "Getter-2/3",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_3204",
+  "offset": "3204",
+  "en": "Getter-3/1",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_323E",
+  "offset": "323E",
+  "en": "Getter Dragon",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_3278",
+  "offset": "3278",
+  "en": "Getter Liger",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_32B2",
+  "offset": "32B2",
+  "en": "Getter Poseidon",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_32EC",
+  "offset": "32EC",
+  "en": "Dragon-Gou",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_3326",
+  "offset": "3326",
+  "en": "Liger-Gou",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_3360",
+  "offset": "3360",
+  "en": "Poseidon-Gou",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_340E",
+  "offset": "340E",
+  "en": "Getter Gai",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_3448",
+  "offset": "3448",
+  "en": "Get Machine 1",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_3482",
+  "offset": "3482",
+  "en": "Get Machine 2",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_34BC",
+  "offset": "34BC",
+  "en": "Get Machine 3",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_34F6",
+  "offset": "34F6",
+  "en": "Shin Getter-1",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_3530",
+  "offset": "3530",
+  "en": "Shin Getter-2",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_356A",
+  "offset": "356A",
+  "en": "Shin Getter-3",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_35A4",
+  "offset": "35A4",
+  "en": "Shin Eagle-Gou",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_35DE",
+  "offset": "35DE",
+  "en": "Shin Jaguar-Gou",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_3618",
+  "offset": "3618",
+  "en": "Shin Bear-Gou",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_3652",
+  "offset": "3652",
+  "en": "Shin Getter Dragon",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_368C",
+  "offset": "368C",
+  "en": "Black Getter",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_36C6",
+  "offset": "36C6",
+  "en": "Getter Rekka",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_3700",
+  "offset": "3700",
+  "en": "Getter Shiten",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_373A",
+  "offset": "373A",
+  "en": "Getter Kongo",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_3774",
+  "offset": "3774",
+  "en": "Rekka-Gou",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_37AE",
+  "offset": "37AE",
+  "en": "Shiten-Gou",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_37E8",
+  "offset": "37E8",
+  "en": "Kongo-Gou",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_3822",
+  "offset": "3822",
+  "en": "BT-23",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_385C",
+  "offset": "385C",
+  "en": "Lady Command",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_3896",
+  "offset": "3896",
+  "en": "Kujira 2005D1",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_38D0",
+  "offset": "38D0",
+  "en": "Getter Emperor",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_390A",
+  "offset": "390A",
+  "en": "Stilva",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_3944",
+  "offset": "3944",
+  "en": "Stilva",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_397E",
+  "offset": "397E",
+  "en": "Volga 80000",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_39B8",
+  "offset": "39B8",
+  "en": "Robo Stone",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_39F2",
+  "offset": "39F2",
+  "en": "Kingdom 007",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_3A2C",
+  "offset": "3A2C",
+  "en": "Gustaf",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_3A66",
+  "offset": "3A66",
+  "en": "Texas Mack",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_3AA0",
+  "offset": "3AA0",
+  "en": "Battleship Texas",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_3ADA",
+  "offset": "3ADA",
+  "en": "Bazu",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_3B14",
+  "offset": "3B14",
+  "en": "Baru",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_3B4E",
+  "offset": "3B4E",
+  "en": "Giro",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_3B88",
+  "offset": "3B88",
+  "en": "Jiga",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_3BC2",
+  "offset": "3BC2",
+  "en": "Mogrow",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_3BFC",
+  "offset": "3BFC",
+  "en": "Gigi",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_3C36",
+  "offset": "3C36",
+  "en": "Uru",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_3C70",
+  "offset": "3C70",
+  "en": "Mecha Typhoon",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_3CAA",
+  "offset": "3CAA",
+  "en": "Moba",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_3CE4",
+  "offset": "3CE4",
+  "en": "Pikudoron",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_3D1E",
+  "offset": "3D1E",
+  "en": "Gera",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_3D58",
+  "offset": "3D58",
+  "en": "Anglerfish",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_3D92",
+  "offset": "3D92",
+  "en": "MP Getter-1",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_3DCC",
+  "offset": "3DCC",
+  "en": "MP Getter-2",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_3E06",
+  "offset": "3E06",
+  "en": "MP Getter-3",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_3E40",
+  "offset": "3E40",
+  "en": "Mecha Hangetsuki",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_3E7A",
+  "offset": "3E7A",
+  "en": "Mecha Ikkakuki",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_3EB4",
+  "offset": "3EB4",
+  "en": "Mecha Kaiouki",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_3EEE",
+  "offset": "3EEE",
+  "en": "Mecha Santoki",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_3F28",
+  "offset": "3F28",
+  "en": "Kyoraiki",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_3F62",
+  "offset": "3F62",
+  "en": "Mecha Kotoki",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_3F9C",
+  "offset": "3F9C",
+  "en": "Mecha Gohonki",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_3FD6",
+  "offset": "3FD6",
+  "en": "Mecha Ipponki",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_4010",
+  "offset": "4010",
+  "en": "Uzahra",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_404A",
+  "offset": "404A",
+  "en": "Mecha Tekkoki",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_4084",
+  "offset": "4084",
+  "en": "Maouki",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_40BE",
+  "offset": "40BE",
+  "en": "Kyojuki",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_40F8",
+  "offset": "40F8",
+  "en": "Bean",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_4132",
+  "offset": "4132",
+  "en": "Worm",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_416C",
+  "offset": "416C",
+  "en": "Jakotsu",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_41A6",
+  "offset": "41A6",
+  "en": "Crab",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_421A",
+  "offset": "421A",
+  "en": "Bein RX1",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_4254",
+  "offset": "4254",
+  "en": "Garman B25",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_428E",
+  "offset": "428E",
+  "en": "Satellite",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_42C8",
+  "offset": "42C8",
+  "en": "Garon Z54",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_4302",
+  "offset": "4302",
+  "en": "Remodeled Uzahra",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_433C",
+  "offset": "433C",
+  "en": "Dragon Turtle",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_4376",
+  "offset": "4376",
+  "en": "Deviler Mu",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_43B0",
+  "offset": "43B0",
+  "en": "Vega Zone",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_43EA",
+  "offset": "43EA",
+  "en": "Satellite",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_4424",
+  "offset": "4424",
+  "en": "Mecha Cicada",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_445E",
+  "offset": "445E",
+  "en": "Mecha Ant",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_4498",
+  "offset": "4498",
+  "en": "Mecha Antlion",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_44D2",
+  "offset": "44D2",
+  "en": "Mecha Bee",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_450C",
+  "offset": "450C",
+  "en": "Mecha Stag",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_4546",
+  "offset": "4546",
+  "en": "Hogram D7",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_4580",
+  "offset": "4580",
+  "en": "Time Bug Chrono Worm",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_45F4",
+  "offset": "45F4",
+  "en": "Battleship Dai",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_462E",
+  "offset": "462E",
+  "en": "God Turtle",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_4668",
+  "offset": "4668",
+  "en": "Super Getter Robo Go",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_46A2",
+  "offset": "46A2",
+  "en": "Missile Battery",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_46DC",
+  "offset": "46DC",
+  "en": "Getter Emperor",
+  "max_bytes": 23
+ },
+ {
+  "id": "MCN_4716",
+  "offset": "4716",
+  "en": "Shin Getter-1",
+  "max_bytes": 23
+ },
+ {
+  "id": "PIL_00D8",
+  "offset": "00D8",
+  "en": "Ryoma Nagare",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_01E4",
+  "offset": "01E4",
+  "en": "Hayato Jin",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_02F0",
+  "offset": "02F0",
+  "en": "Musashi Tomoe",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_03FC",
+  "offset": "03FC",
+  "en": "Benkei Kuruma",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_0720",
+  "offset": "0720",
+  "en": "Gai Daido",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_082C",
+  "offset": "082C",
+  "en": "Michiru Saotome",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_0938",
+  "offset": "0938",
+  "en": "John Lambert",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_0A44",
+  "offset": "0A44",
+  "en": "Schwartz",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_0B50",
+  "offset": "0B50",
+  "en": "Bob Hosner",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_0C5C",
+  "offset": "0C5C",
+  "en": "Sam Hosner",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_0D68",
+  "offset": "0D68",
+  "en": "Linda Tiramis",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_0E74",
+  "offset": "0E74",
+  "en": "Heim Shatner",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_0F80",
+  "offset": "0F80",
+  "en": "Jack King",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_108C",
+  "offset": "108C",
+  "en": "Mary King",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_14BC",
+  "offset": "14BC",
+  "en": "Player",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_15C8",
+  "offset": "15C8",
+  "en": "Dr. Saotome",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_16D4",
+  "offset": "16D4",
+  "en": "Furuta",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_17E0",
+  "offset": "17E0",
+  "en": "Captain Texas",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_18EC",
+  "offset": "18EC",
+  "en": "Gore",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_1914",
+  "offset": "1914",
+  "en": "Cyborg Gore",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_193C",
+  "offset": "193C",
+  "en": "Neon",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_1B7C",
+  "offset": "1B7C",
+  "en": "Jiga",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_1BA4",
+  "offset": "1BA4",
+  "en": "Bazu",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_1BCC",
+  "offset": "1BCC",
+  "en": "Cyborg Ryuji",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_1BF4",
+  "offset": "1BF4",
+  "en": "Ipponki",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_1C1C",
+  "offset": "1C1C",
+  "en": "Gohonki",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_1C44",
+  "offset": "1C44",
+  "en": "Jyuboki",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_1C6C",
+  "offset": "1C6C",
+  "en": "Hyakki Soldier A",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_1D78",
+  "offset": "1D78",
+  "en": "Hyakki Soldier B",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_1E84",
+  "offset": "1E84",
+  "en": "General Bat",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_1EAC",
+  "offset": "1EAC",
+  "en": "Cyborg Bat",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_1ED4",
+  "offset": "1ED4",
+  "en": "Emperor Burai",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_1EFC",
+  "offset": "1EFC",
+  "en": "Cyborg Burai",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_1F24",
+  "offset": "1F24",
+  "en": "Baron Rasetsu",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_1F4C",
+  "offset": "1F4C",
+  "en": "Shinichi Tachibana",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_1F74",
+  "offset": "1F74",
+  "en": "Lando",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_1F9C",
+  "offset": "1F9C",
+  "en": "Hellreza",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_1FC4",
+  "offset": "1FC4",
+  "en": "Lando Soldier A",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_20D0",
+  "offset": "20D0",
+  "en": "Lando Soldier B",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_21DC",
+  "offset": "21DC",
+  "en": "P.O. Gimbug",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_2204",
+  "offset": "2204",
+  "en": "Mecha Cicada",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_222C",
+  "offset": "222C",
+  "en": "Mecha Ant",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_2254",
+  "offset": "2254",
+  "en": "Mecha Antlion",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_227C",
+  "offset": "227C",
+  "en": "Mecha Bee",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_22A4",
+  "offset": "22A4",
+  "en": "Mecha Stag",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_22CC",
+  "offset": "22CC",
+  "en": "Hogram D7",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_00E4",
+  "offset": "00E4",
+  "en": "Ryoma Nagare",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_01F0",
+  "offset": "01F0",
+  "en": "Hayato Jin",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_02FC",
+  "offset": "02FC",
+  "en": "Musashi Tomoe",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_0408",
+  "offset": "0408",
+  "en": "Benkei Kuruma",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_072C",
+  "offset": "072C",
+  "en": "Gai Daido",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_0838",
+  "offset": "0838",
+  "en": "Michiru Saotome",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_0944",
+  "offset": "0944",
+  "en": "John Lambert",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_0A50",
+  "offset": "0A50",
+  "en": "Schwartz",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_0B5C",
+  "offset": "0B5C",
+  "en": "Bob Hosner",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_0C68",
+  "offset": "0C68",
+  "en": "Sam Hosner",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_0D74",
+  "offset": "0D74",
+  "en": "Linda Tiramis",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_0E80",
+  "offset": "0E80",
+  "en": "Heim Shatner",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_0F8C",
+  "offset": "0F8C",
+  "en": "Jack King",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_1098",
+  "offset": "1098",
+  "en": "Mary King",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_11A4",
+  "offset": "11A4",
+  "en": "Akane Mizuki",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_12B0",
+  "offset": "12B0",
+  "en": "Tsubaki Akiyama",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_13BC",
+  "offset": "13BC",
+  "en": "Kaede Shibasaki",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_14C8",
+  "offset": "14C8",
+  "en": "Player",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_15D4",
+  "offset": "15D4",
+  "en": "Dr. Saotome",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_16E0",
+  "offset": "16E0",
+  "en": "Furuta",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_17EC",
+  "offset": "17EC",
+  "en": "Captain Texas",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_18F8",
+  "offset": "18F8",
+  "en": "Gore",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_1920",
+  "offset": "1920",
+  "en": "Cyborg Gore",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_1948",
+  "offset": "1948",
+  "en": "Neon",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_1B88",
+  "offset": "1B88",
+  "en": "Jiga",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_1BB0",
+  "offset": "1BB0",
+  "en": "Bazu",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_1BD8",
+  "offset": "1BD8",
+  "en": "Cyborg Ryuji",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_1C00",
+  "offset": "1C00",
+  "en": "Ipponki",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_1C28",
+  "offset": "1C28",
+  "en": "Gohonki",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_1C50",
+  "offset": "1C50",
+  "en": "Jyuboki",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_1C78",
+  "offset": "1C78",
+  "en": "Hyakki Soldier A",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_1D84",
+  "offset": "1D84",
+  "en": "Hyakki Soldier B",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_1E90",
+  "offset": "1E90",
+  "en": "General Bat",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_1EB8",
+  "offset": "1EB8",
+  "en": "Cyborg Bat",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_1EE0",
+  "offset": "1EE0",
+  "en": "Emperor Burai",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_1F08",
+  "offset": "1F08",
+  "en": "Cyborg Burai",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_1F30",
+  "offset": "1F30",
+  "en": "Baron Rasetsu",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_1F58",
+  "offset": "1F58",
+  "en": "Shinichi Tachibana",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_1F80",
+  "offset": "1F80",
+  "en": "Lando",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_1FA8",
+  "offset": "1FA8",
+  "en": "Hellreza",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_1FD0",
+  "offset": "1FD0",
+  "en": "Lando Soldier A",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_20DC",
+  "offset": "20DC",
+  "en": "Lando Soldier B",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_21E8",
+  "offset": "21E8",
+  "en": "P.O. Gimbug",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_2210",
+  "offset": "2210",
+  "en": "Mecha Cicada",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_2238",
+  "offset": "2238",
+  "en": "Mecha Ant",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_2260",
+  "offset": "2260",
+  "en": "Mecha Antlion",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_2288",
+  "offset": "2288",
+  "en": "Mecha Bee",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_22B0",
+  "offset": "22B0",
+  "en": "Mecha Stag",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_22D8",
+  "offset": "22D8",
+  "en": "Hogram D7",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_2300",
+  "offset": "2300",
+  "en": "Researcher A",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_2328",
+  "offset": "2328",
+  "en": "Researcher B",
+  "max_bytes": 19
+ },
+ {
+  "id": "PIL_2350",
+  "offset": "2350",
+  "en": "Russian Commander",
+  "max_bytes": 19
+ },
+ {
+  "id": "HT_0108",
+  "offset": "0108",
+  "en": "Flamethrower!"
+ },
+ {
+  "id": "HT_0114",
+  "offset": "0114",
+  "en": "Horn Missile!"
+ },
+ {
+  "id": "HT_0124",
+  "offset": "0124",
+  "en": "Thunderbolt!"
+ },
+ {
+  "id": "HT_012C",
+  "offset": "012C",
+  "en": "Parts Attack!"
+ },
+ {
+  "id": "HT_0140",
+  "offset": "0140",
+  "en": "Mount Punch!"
+ },
+ {
+  "id": "HT_0154",
+  "offset": "0154",
+  "en": "Uzahra Eye Beam, fire!"
+ },
+ {
+  "id": "HT_0170",
+  "offset": "0170",
+  "en": "Uzahra Head Beam, fire!"
+ },
+ {
+  "id": "HT_018C",
+  "offset": "018C",
+  "en": "Gravity Cut Beam, fire!"
+ },
+ {
+  "id": "HT_01A4",
+  "offset": "01A4",
+  "en": "Getter Tomahawk!"
+ },
+ {
+  "id": "HT_01BC",
+  "offset": "01BC",
+  "en": "Vacuum Tornado Slash!"
+ },
+ {
+  "id": "HT_01CC",
+  "offset": "01CC",
+  "en": "Tornado Charge!"
+ },
+ {
+  "id": "HT_01D8",
+  "offset": "01D8",
+  "en": "Tornado Throw!"
+ },
+ {
+  "id": "HT_01E4",
+  "offset": "01E4",
+  "en": "Electric Shock, fire!"
+ },
+ {
+  "id": "HT_01F0",
+  "offset": "01F0",
+  "en": "Tentacles!"
+ },
+ {
+  "id": "HT_020C",
+  "offset": "020C",
+  "en": "Magma Tentacle!"
+ },
+ {
+  "id": "HT_021C",
+  "offset": "021C",
+  "en": "Magma Cannon, fire!"
+ },
+ {
+  "id": "HT_022C",
+  "offset": "022C",
+  "en": "Metal Beast Production!"
+ },
+ {
+  "id": "HT_0244",
+  "offset": "0244",
+  "en": "Spawn!"
+ },
+ {
+  "id": "HT_0258",
+  "offset": "0258",
+  "en": "Cosmic Light!"
+ },
+ {
+  "id": "HT_0264",
+  "offset": "0264",
+  "en": "Ryuji"
+ },
+ {
+  "id": "HT_026C",
+  "offset": "026C",
+  "en": "Ugh!"
+ },
+ {
+  "id": "HT_0278",
+  "offset": "0278",
+  "en": "Aaagh!!"
+ },
+ {
+  "id": "HT_0288",
+  "offset": "0288",
+  "en": "Waaaaargh!!"
+ },
+ {
+  "id": "HT_0298",
+  "offset": "0298",
+  "en": "...O-our youuuth!!"
+ },
+ {
+  "id": "HT_02B4",
+  "offset": "02B4",
+  "en": "Raaah!"
+ },
+ {
+  "id": "HT_02C4",
+  "offset": "02C4",
+  "en": "Hyaaah!!"
+ },
+ {
+  "id": "HT_0350",
+  "offset": "0350",
+  "en": "Gore"
+ },
+ {
+  "id": "HT_0358",
+  "offset": "0358",
+  "en": "Ugh..."
+ },
+ {
+  "id": "HT_0360",
+  "offset": "0360",
+  "en": "Gwah!"
+ },
+ {
+  "id": "HT_036C",
+  "offset": "036C",
+  "en": "Graaah!! I lost!!"
+ },
+ {
+  "id": "HT_0384",
+  "offset": "0384",
+  "en": "Take thiiis!"
+ },
+ {
+  "id": "HT_039C",
+  "offset": "039C",
+  "en": "Raaah! Diiie!!"
+ },
+ {
+  "id": "HT_03B4",
+  "offset": "03B4",
+  "en": "Filthy monkeys!!"
+ },
+ {
+  "id": "HT_041C",
+  "offset": "041C",
+  "en": "Cyborg Gore"
+ },
+ {
+  "id": "HT_0428",
+  "offset": "0428",
+  "en": "Ugh..."
+ },
+ {
+  "id": "HT_0430",
+  "offset": "0430",
+  "en": "Gwah!"
+ },
+ {
+  "id": "HT_043C",
+  "offset": "043C",
+  "en": "Aieeeee!!"
+ },
+ {
+  "id": "HT_0450",
+  "offset": "0450",
+  "en": "Take thiiis!"
+ },
+ {
+  "id": "HT_0468",
+  "offset": "0468",
+  "en": "Raaah! Diiie!!"
+ },
+ {
+  "id": "HT_0480",
+  "offset": "0480",
+  "en": "Filthy apes!!"
+ },
+ {
+  "id": "HT_04E8",
+  "offset": "04E8",
+  "en": "Neon"
+ },
+ {
+  "id": "HT_04F0",
+  "offset": "04F0",
+  "en": "Gahh..."
+ },
+ {
+  "id": "HT_04FC",
+  "offset": "04FC",
+  "en": "Gwoooh!"
+ },
+ {
+  "id": "HT_0508",
+  "offset": "0508",
+  "en": "Gwaaaaah!"
+ },
+ {
+  "id": "HT_0518",
+  "offset": "0518",
+  "en": "...Th-this wasn't supposed to happen... Lord Gooore!"
+ },
+ {
+  "id": "HT_0540",
+  "offset": "0540",
+  "en": "Hyaaah!"
+ },
+ {
+  "id": "HT_054C",
+  "offset": "054C",
+  "en": "Die!"
+ },
+ {
+  "id": "HT_0554",
+  "offset": "0554",
+  "en": "This is our power!!"
+ },
+ {
+  "id": "HT_05DC",
+  "offset": "05DC",
+  "en": "Gii!"
+ },
+ {
+  "id": "HT_05E4",
+  "offset": "05E4",
+  "en": "Gigii!"
+ },
+ {
+  "id": "HT_05F0",
+  "offset": "05F0",
+  "en": "Gugyaaaah!"
+ },
+ {
+  "id": "HT_0604",
+  "offset": "0604",
+  "en": "Giiii!"
+ },
+ {
+  "id": "HT_0610",
+  "offset": "0610",
+  "en": "Gugiiii!"
+ },
+ {
+  "id": "HT_0674",
+  "offset": "0674",
+  "en": "Gii!"
+ },
+ {
+  "id": "HT_067C",
+  "offset": "067C",
+  "en": "Gigii!"
+ },
+ {
+  "id": "HT_0688",
+  "offset": "0688",
+  "en": "Gugyaaaah!"
+ },
+ {
+  "id": "HT_069C",
+  "offset": "069C",
+  "en": "Giiii!"
+ },
+ {
+  "id": "HT_06A8",
+  "offset": "06A8",
+  "en": "Gugiiii!"
+ },
+ {
+  "id": "HT_0700",
+  "offset": "0700",
+  "en": "Jiga"
+ },
+ {
+  "id": "HT_0708",
+  "offset": "0708",
+  "en": "Gii!"
+ },
+ {
+  "id": "HT_0710",
+  "offset": "0710",
+  "en": "Gigii!"
+ },
+ {
+  "id": "HT_071C",
+  "offset": "071C",
+  "en": "Gugyaaaah!"
+ },
+ {
+  "id": "HT_0730",
+  "offset": "0730",
+  "en": "Giiii!"
+ },
+ {
+  "id": "HT_073C",
+  "offset": "073C",
+  "en": "Gugiiii!"
+ },
+ {
+  "id": "HT_0794",
+  "offset": "0794",
+  "en": "Bazu"
+ },
+ {
+  "id": "HT_079C",
+  "offset": "079C",
+  "en": "Gii!"
+ },
+ {
+  "id": "HT_07A4",
+  "offset": "07A4",
+  "en": "Gigii!"
+ },
+ {
+  "id": "HT_07B0",
+  "offset": "07B0",
+  "en": "Gugyaaaah!"
+ },
+ {
+  "id": "HT_07C4",
+  "offset": "07C4",
+  "en": "Giiii!"
+ },
+ {
+  "id": "HT_07D0",
+  "offset": "07D0",
+  "en": "Gugiiii!"
+ },
+ {
+  "id": "HT_0828",
+  "offset": "0828",
+  "en": "Ryuji"
+ },
+ {
+  "id": "HT_0830",
+  "offset": "0830",
+  "en": "Ugh!"
+ },
+ {
+  "id": "HT_083C",
+  "offset": "083C",
+  "en": "Aaagh!!"
+ },
+ {
+  "id": "HT_084C",
+  "offset": "084C",
+  "en": "Waaaaargh!!"
+ },
+ {
+  "id": "HT_085C",
+  "offset": "085C",
+  "en": "...O-our youuuth!!"
+ },
+ {
+  "id": "HT_0878",
+  "offset": "0878",
+  "en": "Raaah!"
+ },
+ {
+  "id": "HT_0888",
+  "offset": "0888",
+  "en": "Hyaaah!!"
+ },
+ {
+  "id": "HT_0914",
+  "offset": "0914",
+  "en": "Ipponki"
+ },
+ {
+  "id": "HT_091C",
+  "offset": "091C",
+  "en": "Ngh!"
+ },
+ {
+  "id": "HT_0924",
+  "offset": "0924",
+  "en": "Gyaaah!"
+ },
+ {
+  "id": "HT_0934",
+  "offset": "0934",
+  "en": "Hng!"
+ },
+ {
+  "id": "HT_097C",
+  "offset": "097C",
+  "en": "Gohonki"
+ },
+ {
+  "id": "HT_0984",
+  "offset": "0984",
+  "en": "Ngh!"
+ },
+ {
+  "id": "HT_098C",
+  "offset": "098C",
+  "en": "Gyaaah!"
+ },
+ {
+  "id": "HT_099C",
+  "offset": "099C",
+  "en": "Hng!"
+ },
+ {
+  "id": "HT_09E4",
+  "offset": "09E4",
+  "en": "Jyuboki"
+ },
+ {
+  "id": "HT_09EC",
+  "offset": "09EC",
+  "en": "Ngh!"
+ },
+ {
+  "id": "HT_09F4",
+  "offset": "09F4",
+  "en": "Gyaaah!"
+ },
+ {
+  "id": "HT_0A04",
+  "offset": "0A04",
+  "en": "Hng!"
+ },
+ {
+  "id": "HT_0A58",
+  "offset": "0A58",
+  "en": "Ngh!"
+ },
+ {
+  "id": "HT_0A60",
+  "offset": "0A60",
+  "en": "Gyaaah!"
+ },
+ {
+  "id": "HT_0A70",
+  "offset": "0A70",
+  "en": "Hng!"
+ },
+ {
+  "id": "HT_0AC4",
+  "offset": "0AC4",
+  "en": "Ngh!"
+ },
+ {
+  "id": "HT_0ACC",
+  "offset": "0ACC",
+  "en": "Gyaaah!"
+ },
+ {
+  "id": "HT_0ADC",
+  "offset": "0ADC",
+  "en": "Hng!"
+ },
+ {
+  "id": "HT_0B24",
+  "offset": "0B24",
+  "en": "General Bat"
+ },
+ {
+  "id": "HT_0B30",
+  "offset": "0B30",
+  "en": "Kuh..."
+ },
+ {
+  "id": "HT_0B3C",
+  "offset": "0B3C",
+  "en": "Gwaah!"
+ },
+ {
+  "id": "HT_0B48",
+  "offset": "0B48",
+  "en": "Ughaaaagh!"
+ },
+ {
+  "id": "HT_0B5C",
+  "offset": "0B5C",
+  "en": "Hmmmph!"
+ },
+ {
+  "id": "HT_0B68",
+  "offset": "0B68",
+  "en": "Take this! Hmph!"
+ },
+ {
+  "id": "HT_0B7C",
+  "offset": "0B7C",
+  "en": "Do you think you can beat me?"
+ },
+ {
+  "id": "HT_0B94",
+  "offset": "0B94",
+  "en": "You'd do well not to underestimate the Dinosaur Empire."
+ },
+ {
+  "id": "HT_0C1C",
+  "offset": "0C1C",
+  "en": "Cyborg Bat"
+ },
+ {
+  "id": "HT_0C2C",
+  "offset": "0C2C",
+  "en": "Kuh..."
+ },
+ {
+  "id": "HT_0C38",
+  "offset": "0C38",
+  "en": "Gwaah!"
+ },
+ {
+  "id": "HT_0C44",
+  "offset": "0C44",
+  "en": "Ughaaaagh!"
+ },
+ {
+  "id": "HT_0C58",
+  "offset": "0C58",
+  "en": "Hmmmph!"
+ },
+ {
+  "id": "HT_0C64",
+  "offset": "0C64",
+  "en": "Take this! Hmph!"
+ },
+ {
+  "id": "HT_0C78",
+  "offset": "0C78",
+  "en": "Do you think you can beat me?"
+ },
+ {
+  "id": "HT_0CFC",
+  "offset": "0CFC",
+  "en": "Burai"
+ },
+ {
+  "id": "HT_0D04",
+  "offset": "0D04",
+  "en": "Oogh..."
+ },
+ {
+  "id": "HT_0D10",
+  "offset": "0D10",
+  "en": "Gwuh..."
+ },
+ {
+  "id": "HT_0D2C",
+  "offset": "0D2C",
+  "en": "...How can this be? T-to lose to scum like this..."
+ },
+ {
+  "id": "HT_0D60",
+  "offset": "0D60",
+  "en": "Diiie!"
+ },
+ {
+  "id": "HT_0D6C",
+  "offset": "0D6C",
+  "en": "I will destroy everything!"
+ },
+ {
+  "id": "HT_0D84",
+  "offset": "0D84",
+  "en": "I'll cast every last one of you down into Hell!"
+ },
+ {
+  "id": "HT_0DAC",
+  "offset": "0DAC",
+  "en": "The might of the Hyakki Empire! Learn it the hard way!"
+ },
+ {
+  "id": "HT_0E48",
+  "offset": "0E48",
+  "en": "Cyborg Burai"
+ },
+ {
+  "id": "HT_0E54",
+  "offset": "0E54",
+  "en": "Oogh..."
+ },
+ {
+  "id": "HT_0E60",
+  "offset": "0E60",
+  "en": "Gwuh..."
+ },
+ {
+  "id": "HT_0E7C",
+  "offset": "0E7C",
+  "en": "...How can this be? T-to lose to scum like this..."
+ },
+ {
+  "id": "HT_0EB0",
+  "offset": "0EB0",
+  "en": "Diiie!"
+ },
+ {
+  "id": "HT_0EBC",
+  "offset": "0EBC",
+  "en": "I will destroy everything!"
+ },
+ {
+  "id": "HT_0ED4",
+  "offset": "0ED4",
+  "en": "I'll cast every last one of you down into Hell!"
+ },
+ {
+  "id": "HT_0F70",
+  "offset": "0F70",
+  "en": "Baron Rasetsu"
+ },
+ {
+  "id": "HT_0F7C",
+  "offset": "0F7C",
+  "en": "Ngh..."
+ },
+ {
+  "id": "HT_0F84",
+  "offset": "0F84",
+  "en": "Grr!"
+ },
+ {
+  "id": "HT_0F9C",
+  "offset": "0F9C",
+  "en": "Hnnngh!"
+ },
+ {
+  "id": "HT_0FA8",
+  "offset": "0FA8",
+  "en": "Raaagh!"
+ },
+ {
+  "id": "HT_0FB8",
+  "offset": "0FB8",
+  "en": "For those who stand in our way, there is only death!"
+ },
+ {
+  "id": "HT_1034",
+  "offset": "1034",
+  "en": "Shinichi"
+ },
+ {
+  "id": "HT_103C",
+  "offset": "103C",
+  "en": "Ngh!"
+ },
+ {
+  "id": "HT_1044",
+  "offset": "1044",
+  "en": "Gyaaah!"
+ },
+ {
+  "id": "HT_1054",
+  "offset": "1054",
+  "en": "Hnn!"
+ },
+ {
+  "id": "HT_109C",
+  "offset": "109C",
+  "en": "Lando"
+ },
+ {
+  "id": "HT_10A8",
+  "offset": "10A8",
+  "en": "Damn..."
+ },
+ {
+  "id": "HT_10B0",
+  "offset": "10B0",
+  "en": "Hah... hah... ugh..."
+ },
+ {
+  "id": "HT_10C0",
+  "offset": "10C0",
+  "en": "D-don't you mock me!!"
+ },
+ {
+  "id": "HT_10D8",
+  "offset": "10D8",
+  "en": "Hnnngh!"
+ },
+ {
+  "id": "HT_10E4",
+  "offset": "10E4",
+  "en": "Die!"
+ },
+ {
+  "id": "HT_10F0",
+  "offset": "10F0",
+  "en": "You worthless insects!"
+ },
+ {
+  "id": "HT_110C",
+  "offset": "110C",
+  "en": "Fuhahaha! So you dare to defy me?!"
+ },
+ {
+  "id": "HT_119C",
+  "offset": "119C",
+  "en": "Hellreza"
+ },
+ {
+  "id": "HT_11A8",
+  "offset": "11A8",
+  "en": "Ngh!"
+ },
+ {
+  "id": "HT_11B0",
+  "offset": "11B0",
+  "en": "Gyaaah!"
+ },
+ {
+  "id": "HT_11C0",
+  "offset": "11C0",
+  "en": "Hnn!"
+ },
+ {
+  "id": "HT_1214",
+  "offset": "1214",
+  "en": "Ngh!"
+ },
+ {
+  "id": "HT_121C",
+  "offset": "121C",
+  "en": "Gyaaah!"
+ },
+ {
+  "id": "HT_122C",
+  "offset": "122C",
+  "en": "Hnn!"
+ },
+ {
+  "id": "HT_1280",
+  "offset": "1280",
+  "en": "Waaah!"
+ },
+ {
+  "id": "HT_128C",
+  "offset": "128C",
+  "en": "Gyaaah!"
+ },
+ {
+  "id": "HT_129C",
+  "offset": "129C",
+  "en": "Hyaaah!"
+ },
+ {
+  "id": "HT_12E8",
+  "offset": "12E8",
+  "en": "Gimbug"
+ },
+ {
+  "id": "HT_12F4",
+  "offset": "12F4",
+  "en": "Gii!"
+ },
+ {
+  "id": "HT_12FC",
+  "offset": "12FC",
+  "en": "Gugyah!"
+ },
+ {
+  "id": "HT_1308",
+  "offset": "1308",
+  "en": "Gigyaaaaah!"
+ },
+ {
+  "id": "HT_131C",
+  "offset": "131C",
+  "en": "Gwahaha!"
+ },
+ {
+  "id": "HT_132C",
+  "offset": "132C",
+  "en": "Guhaaaagh!"
+ },
+ {
+  "id": "HT_1340",
+  "offset": "1340",
+  "en": "So this is all the immature primates can do?!"
+ },
+ {
+  "id": "HT_1368",
+  "offset": "1368",
+  "en": "The galaxy is ours!"
+ },
+ {
+  "id": "HT_1380",
+  "offset": "1380",
+  "en": "I will erase the past of all humanity!"
+ },
+ {
+  "id": "HT_13A8",
+  "offset": "13A8",
+  "en": "Vanish, you abominations!"
+ },
+ {
+  "id": "HT_1450",
+  "offset": "1450",
+  "en": "Gii!"
+ },
+ {
+  "id": "HT_1458",
+  "offset": "1458",
+  "en": "Gigii!"
+ },
+ {
+  "id": "HT_1464",
+  "offset": "1464",
+  "en": "Gugyaaaah!"
+ },
+ {
+  "id": "HT_1478",
+  "offset": "1478",
+  "en": "Giiii!"
+ },
+ {
+  "id": "HT_1484",
+  "offset": "1484",
+  "en": "Gugiiii!"
+ },
+ {
+  "id": "HT_14E0",
+  "offset": "14E0",
+  "en": "Gii!"
+ },
+ {
+  "id": "HT_14E8",
+  "offset": "14E8",
+  "en": "Gigii!"
+ },
+ {
+  "id": "HT_14F4",
+  "offset": "14F4",
+  "en": "Gugyaaaah!"
+ },
+ {
+  "id": "HT_1508",
+  "offset": "1508",
+  "en": "Giiii!"
+ },
+ {
+  "id": "HT_1514",
+  "offset": "1514",
+  "en": "Gugiiii!"
+ },
+ {
+  "id": "HT_156C",
+  "offset": "156C",
+  "en": "Antlion"
+ },
+ {
+  "id": "HT_1574",
+  "offset": "1574",
+  "en": "Gii!"
+ },
+ {
+  "id": "HT_157C",
+  "offset": "157C",
+  "en": "Gigii!"
+ },
+ {
+  "id": "HT_1588",
+  "offset": "1588",
+  "en": "Gugyaaaah!"
+ },
+ {
+  "id": "HT_159C",
+  "offset": "159C",
+  "en": "Giiii!"
+ },
+ {
+  "id": "HT_15A8",
+  "offset": "15A8",
+  "en": "Gugiiii!"
+ },
+ {
+  "id": "HT_1604",
+  "offset": "1604",
+  "en": "Gii!"
+ },
+ {
+  "id": "HT_160C",
+  "offset": "160C",
+  "en": "Gigii!"
+ },
+ {
+  "id": "HT_1618",
+  "offset": "1618",
+  "en": "Gugyaaaah!"
+ },
+ {
+  "id": "HT_162C",
+  "offset": "162C",
+  "en": "Giiii!"
+ },
+ {
+  "id": "HT_1638",
+  "offset": "1638",
+  "en": "Gugiiii!"
+ },
+ {
+  "id": "HT_1690",
+  "offset": "1690",
+  "en": "Stag"
+ },
+ {
+  "id": "HT_169C",
+  "offset": "169C",
+  "en": "Gii!"
+ },
+ {
+  "id": "HT_16A4",
+  "offset": "16A4",
+  "en": "Gigii!"
+ },
+ {
+  "id": "HT_16B0",
+  "offset": "16B0",
+  "en": "Gugyaaaah!"
+ },
+ {
+  "id": "HT_16C4",
+  "offset": "16C4",
+  "en": "Giiii!"
+ },
+ {
+  "id": "HT_16D0",
+  "offset": "16D0",
+  "en": "Gugiiii!"
+ },
+ {
+  "id": "HT_1728",
+  "offset": "1728",
+  "en": "Hogram D7"
+ },
+ {
+  "id": "HT_1738",
+  "offset": "1738",
+  "en": "Gii!"
+ },
+ {
+  "id": "HT_1740",
+  "offset": "1740",
+  "en": "Gigii!"
+ },
+ {
+  "id": "HT_174C",
+  "offset": "174C",
+  "en": "Gugyaaaah!"
+ },
+ {
+  "id": "HT_1760",
+  "offset": "1760",
+  "en": "Giiii!"
+ },
+ {
+  "id": "HT_176C",
+  "offset": "176C",
+  "en": "Gugiiii!"
+ }
+]
