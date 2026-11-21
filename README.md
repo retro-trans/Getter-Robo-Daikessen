@@ -34,6 +34,14 @@ with DeltaPatcher or xdelta3. You need your own Japanese disc image as a raw sin
 Check the source hashes in `README-v0.8.26.txt` if your patcher reports a mismatch; keep
 checksum verification enabled.
 
+In Retro Trans **Automatic**, click **Refresh catalog**, then **Browse…** and
+select your original Japanese BIN. Keep **Target: Latest**; the route should read
+`original → 0.8.26`. Choose a new **Patched copy** path and click **Patch**.
+Automatic downloads and verifies the patch, then saves the translated BIN and
+a CUE that already names it. No local patch file is needed. This route starts
+from the original Japanese image, not an earlier English build.
+See [Automatic verification](docs/AUTOMATIC.md) for the tested version and hashes.
+
 For example:
 
 ```

@@ -2,6 +2,11 @@
 
 ## 0.8.26
 
+- Published the verified `original → 0.8.26` route in Retro Trans Automatic.
+  Fixed shared catalog ingestion of checksummed CUE sidecars and tested the
+  existing 0.5.23 Automatic worker against the public patch download. The output
+  matches the release target hash and includes a matching CUE; the original
+  image is unchanged. Existing game release assets and app version are unchanged.
 - Renamed the combination command from `Join` to `Combine`.
 - Kept long command labels and their selection backgrounds inside the
   screen's left edge, including the longer `Combine` label.
