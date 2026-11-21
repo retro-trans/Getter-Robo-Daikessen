@@ -2508,7 +2508,7 @@
   "room": 24,
   "refs": 0,
   "kind": "ui",
-  "en": "Eagle-Gou"
+  "en": "Eagle"
  },
  {
   "id": "exe_80015C90",
@@ -2517,7 +2517,7 @@
   "room": 24,
   "refs": 0,
   "kind": "ui",
-  "en": "Jaguar-Gou"
+  "en": "Jaguar"
  },
  {
   "id": "exe_80015CCA",
@@ -2526,7 +2526,7 @@
   "room": 24,
   "refs": 0,
   "kind": "ui",
-  "en": "Bear-Gou"
+  "en": "Bear"
  },
  {
   "id": "exe_80015D04",
@@ -2589,7 +2589,7 @@
   "room": 24,
   "refs": 0,
   "kind": "ui",
-  "en": "Dragon-Gou"
+  "en": "Dragon"
  },
  {
   "id": "exe_80015E9A",
@@ -2598,7 +2598,7 @@
   "room": 24,
   "refs": 0,
   "kind": "ui",
-  "en": "Liger-Gou"
+  "en": "Liger"
  },
  {
   "id": "exe_80015ED4",
@@ -2607,7 +2607,7 @@
   "room": 24,
   "refs": 0,
   "kind": "ui",
-  "en": "Poseidon-Gou"
+  "en": "Poseidon"
  },
  {
   "id": "exe_80015F82",
@@ -2679,7 +2679,7 @@
   "room": 24,
   "refs": 0,
   "kind": "ui",
-  "en": "Shin Eagle-Gou"
+  "en": "Shin Eagle"
  },
  {
   "id": "exe_80016152",
@@ -2688,7 +2688,7 @@
   "room": 24,
   "refs": 0,
   "kind": "ui",
-  "en": "Shin Jaguar-Gou"
+  "en": "Shin Jaguar"
  },
  {
   "id": "exe_8001618C",
@@ -2697,7 +2697,7 @@
   "room": 24,
   "refs": 0,
   "kind": "ui",
-  "en": "Shin Bear-Gou"
+  "en": "Shin Bear"
  },
  {
   "id": "exe_800161C6",
@@ -2751,7 +2751,7 @@
   "room": 24,
   "refs": 0,
   "kind": "ui",
-  "en": "Rekka-Gou"
+  "en": "Rekka"
  },
  {
   "id": "exe_80016322",
@@ -2760,7 +2760,7 @@
   "room": 24,
   "refs": 0,
   "kind": "ui",
-  "en": "Shiten-Gou"
+  "en": "Shiten"
  },
  {
   "id": "exe_8001635C",
@@ -2769,7 +2769,7 @@
   "room": 24,
   "refs": 0,
   "kind": "ui",
-  "en": "Kongo-Gou"
+  "en": "Kongo"
  },
  {
   "id": "exe_80016396",
@@ -3399,7 +3399,7 @@
   "room": 24,
   "refs": 0,
   "kind": "ui",
-  "en": "MP Eagle-Gou"
+  "en": "MP Eagle"
  },
  {
   "id": "exe_8001745A",
@@ -3408,7 +3408,7 @@
   "room": 24,
   "refs": 0,
   "kind": "ui",
-  "en": "MP Jaguar-Gou"
+  "en": "MP Jaguar"
  },
  {
   "id": "exe_80017494",
@@ -3417,7 +3417,7 @@
   "room": 24,
   "refs": 0,
   "kind": "ui",
-  "en": "MP Bear-Gou"
+  "en": "MP Bear"
  },
  {
   "id": "exe_800174F5",
@@ -5154,7 +5154,7 @@
   "room": 8,
   "refs": 1,
   "kind": "ui",
-  "en": "Join"
+  "en": "Combine"
  },
  {
   "id": "game_8008BC70",
@@ -7512,7 +7512,7 @@
   "room": 12,
   "refs": 1,
   "kind": "ui",
-  "en": "Combo Test"
+  "en": "Combination Test"
  },
  {
   "id": "briefing_800A9EDC",
@@ -7683,7 +7683,7 @@
   "room": 144,
   "refs": 1,
   "kind": "ui",
-  "en": "$f99a%1Eagle-Gou%0 has been added.$/%1Jaguar-Gou%0 has been added.$/%1BT-23%0 has been added.$/%1Lady Command%0 has been added."
+  "en": "$f99a%1Eagle%0 has been added.$/%1Jaguar%0 has been added.$/%1BT-23%0 has been added.$/%1Lady Command%0 has been added."
  },
  {
   "id": "briefing_800AA5AC",
@@ -7692,7 +7692,7 @@
   "room": 36,
   "refs": 1,
   "kind": "ui",
-  "en": "$f99a%1Bear-Gou%0 has been added."
+  "en": "$f99a%1Bear%0 has been added."
  },
  {
   "id": "briefing_800AA5D0",

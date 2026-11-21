@@ -1958,19 +1958,19 @@
  {
   "id": "MCN_30E2",
   "offset": "30E2",
-  "en": "Eagle-Gou",
+  "en": "Eagle",
   "max_bytes": 23
  },
  {
   "id": "MCN_311C",
   "offset": "311C",
-  "en": "Jaguar-Gou",
+  "en": "Jaguar",
   "max_bytes": 23
  },
  {
   "id": "MCN_3156",
   "offset": "3156",
-  "en": "Bear-Gou",
+  "en": "Bear",
   "max_bytes": 23
  },
  {
@@ -2012,19 +2012,19 @@
  {
   "id": "MCN_32EC",
   "offset": "32EC",
-  "en": "Dragon-Gou",
+  "en": "Dragon",
   "max_bytes": 23
  },
  {
   "id": "MCN_3326",
   "offset": "3326",
-  "en": "Liger-Gou",
+  "en": "Liger",
   "max_bytes": 23
  },
  {
   "id": "MCN_3360",
   "offset": "3360",
-  "en": "Poseidon-Gou",
+  "en": "Poseidon",
   "max_bytes": 23
  },
  {
@@ -2072,19 +2072,19 @@
  {
   "id": "MCN_35A4",
   "offset": "35A4",
-  "en": "Shin Eagle-Gou",
+  "en": "Shin Eagle",
   "max_bytes": 23
  },
  {
   "id": "MCN_35DE",
   "offset": "35DE",
-  "en": "Shin Jaguar-Gou",
+  "en": "Shin Jaguar",
   "max_bytes": 23
  },
  {
   "id": "MCN_3618",
   "offset": "3618",
-  "en": "Shin Bear-Gou",
+  "en": "Shin Bear",
   "max_bytes": 23
  },
  {
@@ -2120,19 +2120,19 @@
  {
   "id": "MCN_3774",
   "offset": "3774",
-  "en": "Rekka-Gou",
+  "en": "Rekka",
   "max_bytes": 23
  },
  {
   "id": "MCN_37AE",
   "offset": "37AE",
-  "en": "Shiten-Gou",
+  "en": "Shiten",
   "max_bytes": 23
  },
  {
   "id": "MCN_37E8",
   "offset": "37E8",
-  "en": "Kongo-Gou",
+  "en": "Kongo",
   "max_bytes": 23
  },
  {

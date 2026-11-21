@@ -26,6 +26,7 @@ DISC = os.path.join(ROOT, 'work', 'source', 'disc')
 BIN = os.path.join(ROOT, 'work', 'source', 'vfs', 'bin')
 # kernel RAM free in every RAM dump (docs/VWF.md); 0x8000D000-0x8000DC20 = gdbdbg scratch,
 # 0x8000F000.. = VWF code + tables
+# DC40..DCE8 = difficulty; DD40..DDBC = secondary font; E000..E700 = BIOS.
 POOLS = [(0x8000C000, 0x8000D000), (0x8000E700, 0x8000EF00), (0x8000F600, 0x80010000)]
 IMAGES = {   # tag: (path, base, header bytes)
     'exe': (os.path.join(DISC, 'SLPS_022.32'), 0x80010000, 0x800),

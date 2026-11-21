@@ -108,13 +108,10 @@ def rebuild_entry(tag, method, data, rows, wrapw=None):
     import wrap
     mine = {int(r['offset'], 16): r for r in rows if r['src'] == tag and r.get('en')}
     if method == 'briefing':
+        import briefing_layout
         new = {}
         for o, r in mine.items():
-            # chapter titles are drawn on one line in the briefing header (~280 px, no \n)
-            if r['en'].startswith('Episode ') or '\\n' in r['en']:
-                en = r['en']
-            else:
-                en = wrap.wrap(r['en'], wrapw or wrap.WIDTH)
+            en = briefing_layout.reflow(r['en'])
             new[o] = textcodec.encode(en)
         return briefing.rebuild(data, new)
     d = bytearray(data)

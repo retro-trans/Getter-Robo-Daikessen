@@ -875,33 +875,33 @@
  },
  {
   "jp": "イーグル号",
-  "en": "Eagle-Gou",
+  "en": "Eagle",
   "type": "unit",
   "role": "Get Machine forming Getter-1's head (Ryoma)",
   "series": "Getter Robo",
   "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_(Mecha)",
   "confidence": "medium",
-  "note": "The wiki spells it 'Eagle-Gou'. The more common English usage is 'Eagle Go' or plain 'Eagle'; the wiki wins under the project rule."
+  "note": "User-approved English naming: omit the Japanese vehicle suffix from this Get Machine name."
  },
  {
   "jp": "ジャガー号",
-  "en": "Jaguar-Gou",
+  "en": "Jaguar",
   "type": "unit",
   "role": "Get Machine forming Getter-2's head (Hayato)",
   "series": "Getter Robo",
   "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_(Mecha)",
   "confidence": "medium",
-  "note": "The wiki spells it 'Jaguar-Gou'. The more common English usage is 'Jaguar Go' or plain 'Jaguar'; the wiki wins under the project rule."
+  "note": "User-approved English naming: omit the Japanese vehicle suffix from this Get Machine name."
  },
  {
   "jp": "ベアー号",
-  "en": "Bear-Gou",
+  "en": "Bear",
   "type": "unit",
   "role": "Get Machine forming Getter-3's head (Musashi)",
   "series": "Getter Robo",
   "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_(Mecha)",
   "confidence": "medium",
-  "note": "The wiki spells it 'Bear-Gou'. The more common English usage is 'Bear Go' or plain 'Bear'; the wiki wins under the project rule."
+  "note": "User-approved English naming: omit the Japanese vehicle suffix from this Get Machine name."
  },
  {
   "jp": "ゲッターロボＧ",
@@ -941,33 +941,33 @@
  },
  {
   "jp": "ドラゴン号",
-  "en": "Dragon-Gou",
+  "en": "Dragon",
   "type": "unit",
   "role": "Getter Robo G Get Machine",
   "series": "Getter Robo G",
   "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_G_(Mecha)",
   "confidence": "medium",
-  "note": "The wiki's G page calls the jets just 'Dragon'; 'Dragon-Gou' keeps them consistent with Eagle-Gou etc. Use plain 'Dragon' if the -Gou form is dropped."
+  "note": "User-approved English naming: omit the Japanese vehicle suffix from this Get Machine name."
  },
  {
   "jp": "ライガー号",
-  "en": "Liger-Gou",
+  "en": "Liger",
   "type": "unit",
   "role": "Getter Robo G Get Machine",
   "series": "Getter Robo G",
   "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_G_(Mecha)",
   "confidence": "medium",
-  "note": "The wiki's G page calls the jets just 'Liger'; 'Liger-Gou' keeps them consistent with Eagle-Gou etc. Use plain 'Liger' if the -Gou form is dropped."
+  "note": "User-approved English naming: omit the Japanese vehicle suffix from this Get Machine name."
  },
  {
   "jp": "ポセイドン号",
-  "en": "Poseidon-Gou",
+  "en": "Poseidon",
   "type": "unit",
   "role": "Getter Robo G Get Machine",
   "series": "Getter Robo G",
   "source": "https://getterrobo.fandom.com/wiki/Getter_Robo_G_(Mecha)",
   "confidence": "medium",
-  "note": "The wiki's G page calls the jets just 'Poseidon'; 'Poseidon-Gou' keeps them consistent with Eagle-Gou etc. Use plain 'Poseidon' if the -Gou form is dropped."
+  "note": "User-approved English naming: omit the Japanese vehicle suffix from this Get Machine name."
  },
  {
   "jp": "真ゲッターロボ",

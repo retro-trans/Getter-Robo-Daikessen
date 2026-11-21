@@ -1,0 +1,6 @@
+{
+  "combination_command": "Combine",
+  "get_machine_vehicle_suffix": "omit",
+  "proper_character_name": "Go",
+  "note": "User terminology decisions for v0.8.26; do not rename the character Go or Getter Robo Go."
+}

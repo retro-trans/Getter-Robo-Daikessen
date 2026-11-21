@@ -13,11 +13,11 @@ import gdbdbg
 import minigame_subtitles as mini
 
 
-def run(apply=False):
+def run(apply=False,output=None):
     print('Trace the actual time-limit/radar tutorial; press Start after the introduction and capture Square/X instructions.',flush=True)
     if not apply:return
     _,labels=mini.assemble();d=gdbdbg.Dbg();g=d.g;g.s.settimeout(55);active={d.bp};events=[];captures=[]
-    target=mini.ROOT/'work/ui/minigame/v017-final-tutorial';target.mkdir(parents=True,exist_ok=True)
+    target=Path(output)if output else mini.ROOT/'work/ui/minigame/v017-final-tutorial';target.mkdir(parents=True,exist_ok=True)
     def add(a):g.cmd(f'Z0,{a:x},4');active.add(a)
     def remove(a):g.cmd(f'z0,{a:x},4');active.discard(a)
     def until(a):
@@ -42,7 +42,15 @@ def run(apply=False):
             if off:text.append(g.read(r[18]+off,120).split(b'\0')[0].decode('ascii'))
         mode=struct.unpack('<I',g.read(0x80089AA4,4))[0]
         if mode!=1:raise ValueError('Tutorial is not in native 320x240 mode')
-        captures.append(dict(name=name,seconds=clock(),lines=text))
+        rows=[]
+        for index,expected in enumerate(text):
+            call=until(0x8004DDFC)
+            actual=g.read(call[6],120).split(b'\0')[0].decode('ascii')
+            wanted=204 if len(text)==1 or index else 190
+            if actual!=expected or call[7]!=mini.FOREGROUND or call[5]!=wanted:
+                raise ValueError(f'Unexpected native flight caption: {actual!r}, y={call[5]}, flags={call[7]:#x}')
+            rows.append(call[5]);until(call[31])
+        captures.append(dict(name=name,seconds=clock(),lines=text,rows=rows))
         add(d.bp);d.wait(6);remove(d.bp)
         for y,suffix in [(0,'a'),(240,'b')]:gdbdbg.write_png(str(target/f'{name}_{suffix}.png'),320,240,d.grab(0,y,320,240))
         print(name,text,flush=True)
@@ -70,4 +78,4 @@ def run(apply=False):
 
 
 if __name__=='__main__':
-    parser=argparse.ArgumentParser(description=__doc__);parser.add_argument('--apply',action='store_true');a=parser.parse_args();run(a.apply)
+    parser=argparse.ArgumentParser(description=__doc__);parser.add_argument('--apply',action='store_true');parser.add_argument('--output-dir');a=parser.parse_args();run(a.apply,a.output_dir)

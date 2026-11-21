@@ -17,7 +17,7 @@ import vwf   # noqa: E402
 
 WIDTH = 210
 LINES = 4
-NAME_W = 6 * 7       # longest player name (6 chars) in the full-width Latin cells
+NAME_W = 6 * 12      # six full-width name-entry glyphs, including retained kana/kanji
 BS = chr(92)
 NL = BS + 'n'
 CODE = re.compile(r'\$[fm]\d\d[a-z]|\$[sp][0-9A-Fa-f]{2}|%\d|\$/|\$n|' + re.escape(NL))
@@ -118,6 +118,84 @@ def lines(s):
             cur += '$n'
     res.append(cur)
     return res
+
+
+def reflow(s, limit=WIDTH):
+    """Recalculate story wrapping, retaining pages and structural line breaks.
+
+    Old automatic breaks become spaces. Blank lines, embedded portrait/speaker
+    changes and centered captions keep their breaks. Codes and runtime names
+    remain attached to their word, so a color code or $n's cannot split it.
+    """
+    def visible(value):
+        return ''.join(t if k == 'text' else '$n' if k == 'name' else ''
+                       for k, t in tokens(value))
+
+    def caption(value):
+        return re.fullmatch(r'- .+ -', visible(value).strip()) is not None
+
+    chunks = s.split(NL)
+    joined = chunks[0]
+    for before, after in zip(chunks, chunks[1:]):
+        left = before.rsplit('$/', 1)[-1]
+        right = after.split('$/', 1)[0]
+        hard = (not visible(left).strip() or not visible(right).strip()
+                or caption(left) or caption(right)
+                or re.match(r'\s*\$[fm]\d\d[a-z]', right)
+                or re.match(r'\s*(?:\$s[0-9A-Fa-f]{2})*%2[^%]+%0'
+                            r'(?:\$s[0-9A-Fa-f]{2})*:', right))
+        joined += (NL if hard else ' ') + after
+
+    def paragraph(value):
+        if not visible(value).strip():
+            return value
+        if caption(value):
+            start = value.index('- ')
+            prefix = ''.join(t for k, t in tokens(value[:start]) if k == 'code')
+            title = value[start:].rstrip()
+            padding = max(0, (limit - width(title)) // 2 // char_w(' '))
+            return prefix + ' ' * padding + title
+
+        units, word, word_w = [], '', 0
+        for kind, text in tokens(value):
+            if kind in ('code', 'name'):
+                word += text
+                word_w += NAME_W if kind == 'name' else 0
+                continue
+            for piece in re.split(r'( +)', text):
+                if not piece:
+                    continue
+                if piece.isspace():
+                    if word:
+                        units.append((False, word, word_w))
+                        word, word_w = '', 0
+                    units.append((True, piece, sum(char_w(c) for c in piece)))
+                else:
+                    word += piece
+                    word_w += sum(char_w(c) for c in piece)
+        if word:
+            units.append((False, word, word_w))
+        out, pending, pending_w, line_w = [], '', 0, 0
+        for space, text, pixels in units:
+            if space:
+                pending += text
+                pending_w += pixels
+                continue
+            if pixels > limit:
+                raise ValueError(f'Unbreakable dialogue word exceeds {limit}px: {text!r}')
+            if line_w and line_w + pending_w + pixels > limit:
+                out.append(NL)
+                line_w, pending, pending_w = 0, '', 0
+            if line_w:
+                out.append(pending)
+                line_w += pending_w
+            out.append(text)
+            line_w += pixels
+            pending, pending_w = '', 0
+        return ''.join(out)
+
+    return ''.join(part if part in (NL, '$/') else paragraph(part)
+                   for part in re.split('(' + re.escape(NL) + r'|\$/)', joined))
 
 
 if __name__ == '__main__':

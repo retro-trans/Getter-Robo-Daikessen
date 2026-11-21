@@ -1,13 +1,13 @@
 {
- "version": "0.1.7",
+ "version": "0.8.7",
  "language": "en",
  "timing": "Native XA position, 150 sectors per second",
  "style": {
   "background": "transparent",
   "font": "native proportional font and shadow",
   "line_y": [
-   214,
-   226
+   190,
+   204
   ],
   "menu_line_y": [
    350,
@@ -198,6 +198,25 @@
     ]
    }
   ],
+  "V0488": [
+   {
+    "id": "V0488_01",
+    "start": 0.04,
+    "end": 1.18,
+    "lines": [
+     "Well done!"
+    ]
+   },
+   {
+    "id": "V0488_02",
+    "start": 1.35,
+    "end": 4.7,
+    "lines": [
+     "That's what I'd expect from",
+     "one of us Getter pilots!"
+    ]
+   }
+  ],
   "V048E": [
    {
     "id": "V048E_01",
@@ -316,7 +335,8 @@
     "start": 3.48,
     "end": 6.5,
     "lines": [
-     "I'll guide you. Follow my instructions when you combine."
+     "I'll guide you. Follow my instructions",
+     "when you combine."
     ]
    }
   ],
@@ -353,7 +373,8 @@
     "start": 1.4,
     "end": 5.0,
     "lines": [
-     "Give it everything you've got, or you'll lose your life!"
+     "Give it everything you've got,",
+     "or you'll lose your life!"
     ]
    },
    {
@@ -492,7 +513,8 @@
     "start": 5.1,
     "end": 8.72,
     "lines": [
-     "Are you confident in your skills? Why not give it a try?"
+     "Are you confident in your skills?",
+     "Why not give it a try?"
     ]
    }
   ],
@@ -510,7 +532,8 @@
     "start": 2.6,
     "end": 5.35,
     "lines": [
-     "I'll explain the rest as we go through the training."
+     "I'll explain the rest",
+     "as we go through the training."
     ]
    },
    {
@@ -519,6 +542,34 @@
     "end": 9.1,
     "lines": [
      "When you're ready, press Start to begin!"
+    ]
+   }
+  ],
+  "V053A": [
+   {
+    "id": "V053A_01",
+    "start": 0.04,
+    "end": 2.22,
+    "lines": [
+     "Hmph. I have to hand it to you."
+    ]
+   },
+   {
+    "id": "V053A_02",
+    "start": 2.34,
+    "end": 5.95,
+    "lines": [
+     "I never thought you'd pull off",
+     "a combination this difficult."
+    ]
+   },
+   {
+    "id": "V053A_03",
+    "start": 6.5,
+    "end": 10.7,
+    "lines": [
+     "I recognize you as a full-fledged",
+     "Getter pilot!"
     ]
    }
   ],

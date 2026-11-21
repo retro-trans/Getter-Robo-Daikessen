@@ -76,6 +76,7 @@ def load_rows(name):
 
 def mform_texts(fname, m, test):
     """{string offset: encoded bytes} for one MFORM file."""
+    import wrap
     new = {}
     if test:
         n = 0
@@ -96,7 +97,8 @@ def mform_texts(fname, m, test):
     for r in rows:
         if r['file'] != fname or not r.get('en'):
             continue
-        new[int(r['offset'], 16)] = textcodec.encode(r['en'])
+        # Reflow at build time, so a font change cannot leave stale word breaks.
+        new[int(r['offset'], 16)] = textcodec.encode(wrap.reflow(r['en']))
     return new
 
 
@@ -152,6 +154,14 @@ def build(version, test=False, no_text=False):
     for tag, data in ui_imgs.items():
         if tag != 'exe':
             patched = vwf.patch_overlay(tag, data, ui_text.IMAGES[tag][1])
+            if tag == 'battle':
+                import battle_hint
+                patched = battle_hint.patch_overlay(patched)
+            if tag == 'title':
+                import title_credit
+                import difficulty
+                patched = title_credit.patch_overlay(patched, version)
+                patched = difficulty.patch_title(patched)
             if tag == 'briefing' and not no_text:
                 import episode_preview
                 if episode_preview.TRANSLATION.exists():
@@ -160,11 +170,23 @@ def build(version, test=False, no_text=False):
                 import minigame_subtitles
                 if minigame_subtitles.TRANSLATION.exists():
                     patched = minigame_subtitles.patch_overlay(patched)
+            if tag == 'game' and not no_text:
+                import status_layout
+                patched = status_layout.patch_overlay(patched)
+            if tag in ('briefing', 'flight') and not no_text:
+                import menu_layout
+                patched = (menu_layout.patch_briefing if tag == 'briefing' else menu_layout.patch_flight)(patched)
+                if tag == 'briefing':
+                    import briefing_layout
+                    patched = briefing_layout.patch_overlay(patched)
             files['bin/%s.bin' % tag] = patched
 
     new_vfs = vfs.build(orig_vfs, files)
     exe_src = ui_imgs.get('exe') or read(os.path.join(DISC, 'SLPS_022.32'))
-    exe, labels = vwf.patch_exe(exe_src, ui_blobs)
+    import difficulty
+    exe_src = difficulty.patch_core(exe_src)
+    difficulty_code, _ = difficulty.resident()
+    exe, labels = vwf.patch_exe(exe_src, ui_blobs + [(difficulty.RESIDENT, difficulty_code)])
 
     # keep the built pieces for hot patching (tools/hotpatch.py) / coverage checks; written
     # first so they exist even when the disc image is locked by a running emulator

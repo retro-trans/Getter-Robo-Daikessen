@@ -8,7 +8,7 @@ import gdbdbg
 import minigame_subtitles as mini
 
 
-def capture(apply=False,script='',output=None,tutorial=False):
+def capture(apply=False,script='',output=None,tutorial=False,menu=False):
     print('Native program 9 / standalone training (-1); optional controller script:',script,flush=True)
     if not apply:return
     d=gdbdbg.Dbg();g=d.g;g.s.settimeout(60);active={d.bp}
@@ -23,7 +23,7 @@ def capture(apply=False,script='',output=None,tutorial=False):
     try:
         remove(d.bp)
         until(0x8004CF48);d.setreg(4,9);d.setreg(5,-1)
-        if tutorial:
+        if tutorial or menu:
             r=until(0x800C7574);root=r[4]
             state=struct.unpack('<I',g.read(root+0x30,4))[0]
             # Debug-only standalone user record; bypass the license menu and
@@ -31,7 +31,12 @@ def capture(apply=False,script='',output=None,tutorial=False):
             record=bytearray(0x80)
             struct.pack_into('<II',record,0x28,0x44000000,0x80)
             g.write(0x8000DE00,record)
-            for offset,value in [(8,0x44000000),(0xc,2),(0x20,0),(0x48,0x8000DE00)]:
+            if menu:
+                # Standalone debug entry bypasses the title's controller setup.
+                g.write(0x8008B6DC,struct.pack('<2H',0x20,0x40))
+                g.write(state+0x14,bytes(4))
+            fields=[(8,0x40000000 if menu else 0x44000000),(0xc,1 if menu else 2),(0x1c,0x48000000 if menu else 0x44000000),(0x20,0),(0x48,0x8000DE00)]
+            for offset,value in fields:
                 g.write(state+offset,struct.pack('<I',value))
         r=until(0x800C7A54);root=r[4]
         print('Native flight root',hex(root),flush=True)
@@ -52,4 +57,4 @@ def capture(apply=False,script='',output=None,tutorial=False):
 
 
 if __name__=='__main__':
-    parser=argparse.ArgumentParser(description=__doc__);parser.add_argument('--apply',action='store_true');parser.add_argument('--script',default='');parser.add_argument('--output-dir');parser.add_argument('--tutorial',action='store_true');a=parser.parse_args();capture(a.apply,a.script,a.output_dir,a.tutorial)
+    parser=argparse.ArgumentParser(description=__doc__);parser.add_argument('--apply',action='store_true');parser.add_argument('--script',default='');parser.add_argument('--output-dir');parser.add_argument('--tutorial',action='store_true');parser.add_argument('--menu',action='store_true');a=parser.parse_args();capture(a.apply,a.script,a.output_dir,a.tutorial,a.menu)

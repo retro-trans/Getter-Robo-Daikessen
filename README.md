@@ -15,7 +15,7 @@ reports, proofreading or playtesting — please join my Discord:
 
 ## Play it
 
-The latest release is **[v0.8.0](https://github.com/retro-trans/Getter-Robo-Daikessen/releases/tag/v0.8.0)**,
+The latest release is **[v0.8.26](https://github.com/retro-trans/Getter-Robo-Daikessen/releases/tag/v0.8.26)**,
 a full patch for the Japanese release (**SLPS-02232**): the story scenes, briefings, menus,
 unit and pilot data, every pilot's battle lines, the title cards and interface graphics are in
 English, drawn with a variable-width font. The movies, the next-episode previews and the
@@ -29,19 +29,19 @@ with DeltaPatcher or xdelta3. You need your own Japanese disc image as a raw sin
 
 | Your source image | Patch |
 |---|---|
-| Japanese release, SLPS-02232 | `GetterRoboDaikessen-English-v0.8.0.xdelta` |
+| Japanese release, SLPS-02232 | `GetterRoboDaikessen-English-v0.8.26.xdelta` |
 
-Check the source hashes in `README-v0.8.0.txt` if your patcher reports a mismatch; keep
+Check the source hashes in `README-v0.8.26.txt` if your patcher reports a mismatch; keep
 checksum verification enabled.
 
 For example:
 
 ```
-xdelta3 -d -s "Getter Robo Daikessen! (Japan).bin" GetterRoboDaikessen-English-v0.8.0.xdelta "Getter Robo Daikessen! (English v0.8.0).bin"
+xdelta3 -d -s "Getter Robo Daikessen! (Japan).bin" GetterRoboDaikessen-English-v0.8.26.xdelta "Getter Robo Daikessen! (English v0.8.26).bin"
 ```
 
-The patched BIN is slightly larger than the original, so load it through a CUE that names
-the new file: use `GetterRoboDaikessen-English-v0.8.0.cue` from the release (rename it, or
+The patched BIN is larger than the original, so load it through a CUE that names
+the new file: use `GetterRoboDaikessen-English-v0.8.26.cue` from the release (rename it, or
 the BIN, so the `FILE` line matches), or copy your own CUE and edit its `FILE` line. For a
 CHD, extract it to BIN/CUE first (`chdman extractcd`).
 
@@ -98,8 +98,8 @@ project like this shut down.
 | Proofreading | *none yet - see [Status](#status)* |
 | Playtesting | binhlt0402 |
 
-Translation passes, tooling and reverse engineering were done with Claude (Anthropic),
-directed by binhlt0402. The translation is machine-produced and then edited - see the
+Translation passes, tooling and reverse engineering used Claude (Anthropic) and Codex
+(OpenAI), directed by binhlt0402. The translation is machine-produced and then edited - see the
 release notes for what that means in practice.
 
 The English letters are a hand-drawn pixel font made for this project.

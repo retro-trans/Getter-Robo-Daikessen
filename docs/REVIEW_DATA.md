@@ -45,8 +45,8 @@ Run the three stages in order on each set: **accuracy** (whole set), then **edit
   Emperor Burai, Emperor Gore, Baron Rasetsu, P.O. Gimbug / Petty Officer Gimbug, Lando,
   Hellreza, Shatner, Lambert, Jack King, Mary King, Schwartz, Neon, the Texas, the Kujira,
   Allied Forces, Dinosaur Empire, Hyakki Empire, Oni, Jaga Castle, Getter-1/2/3 (unit names
-  use hyphens), Shin Getter Robo, Getter Ray, Get Machine, Eagle-Gou / Jaguar-Gou / Bear-Gou.
-* UI terms already unified: 逆境 Fury, 回避 Eva, 合体 menu command "Join" (story: "combine"),
+  use hyphens), Shin Getter Robo, Getter Ray, Get Machine, Eagle / Jaguar / Bear.
+* UI terms already unified: 逆境 Fury, 回避 Eva, 合体 menu command "Combine" (story: "combine"),
   搭載 Board, 反撃 Cntr, 防御 Def.
 
 ## Per set

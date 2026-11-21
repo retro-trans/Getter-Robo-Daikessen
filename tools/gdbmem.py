@@ -17,6 +17,7 @@ class Gdb:
     def __init__(self, port=PORT):
         # 120 s: battle and map loads can go long without a pad read or breakpoint hit
         self.s = socket.create_connection(('127.0.0.1', port), timeout=float(__import__('os').environ.get('GR_GDB_TIMEOUT', '120')))
+        self.s.setsockopt(socket.IPPROTO_TCP, socket.TCP_NODELAY, 1)
         self.buf = b''
 
     def _recv_packet(self):

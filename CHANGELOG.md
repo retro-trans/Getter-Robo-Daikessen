@@ -1,5 +1,423 @@
 # Changelog
 
+## 0.8.26
+
+- Renamed the combination command from `Join` to `Combine`.
+- Kept long command labels and their selection backgrounds inside the
+  screen's left edge, including the longer `Combine` label.
+- Removed the Japanese vehicle suffix `-Gou` from Get Machine names in
+  unit data, menus, story dialogue and briefings. Updated the glossary and
+  translation slices consistently; the character Go and Getter Robo Go
+  retain their names. No event commands, placeholders or voice cues changed.
+- Rebuilt from the current translation source, retaining the subtitle,
+  battle-skip, Easy difficulty, UI layout and dialogue-font improvements
+  from 0.8.1–0.8.25. Updated the title version to `v0.8.26`.
+- Prepared the public patch release with installation instructions, source
+  and target hashes, validation records and a verified patch round trip.
+  Original Japanese disc images are not included.
+- Translation still needs human proofreading/listening review and a full
+  playthrough. Physical PlayStation testing remains outstanding.
+
+## 0.8.25
+
+- Fixed the clipped custom-pilot rank on the assignment page. It now uses
+  the compact label font at the top right of the pilot panel, above the
+  skill row. Kept its original red color and native rank values.
+- Moved the stance label slightly left so `2x Move` and `Lv 1` no longer
+  overlap. The six-character player name and two-digit skill level fit.
+- Checked all six rank labels and a maximum-length name in the native
+  renderer using temporary display fields, with no rank/assignment-rule
+  changes. Reused existing drawing code; no code or allocation growth.
+- Updated the title version to `v0.8.25`. EXE, dialogue font, briefing title,
+  393 other VFS files, scripts and media remain unchanged. Loading limits
+  and fixed disc extents pass.
+- Archived 0.8.24 with a verified xdelta round trip and retained ten recent
+  archives. Its BIN/CUE remains temporarily because another application has
+  it open. Local testing build only; no public release. Physical
+  PlayStation testing remains outstanding.
+
+## 0.8.24
+
+- Made dialogue lettering less tall while retaining even native-pixel
+  strokes. Eligible characters omit a duplicate bitmap row using two
+  unscaled native sprites; capitals are eight ink pixels high and lowercase
+  bodies six. Punctuation with distinct strokes keeps its original shape.
+- Kept dialogue widths, line wrapping, wording, colors, transparent
+  backgrounds, typewriter behavior and paging. Menu fonts, the briefing
+  font, assignment layout and the font texture remain unchanged.
+- Checked every printable non-space ASCII character in ordinary/dialogue
+  modes with 188 native geometry probes and captured the reported Episode 2
+  line in-game. Updated the title version to `v0.8.24`; 394 other VFS files,
+  media and scripts are unchanged. Loading limits and disc extents pass.
+- Added audited resident helpers below the observed DF80 BIOS context
+  boundary and below existing string pools, preserving debug scratch and
+  fixtures. Each compacted glyph adds one native 20-byte sprite; physical
+  PlayStation timing/BIOS testing remains outstanding.
+- Archived 0.8.23 with a verified xdelta round trip and retained ten recent
+  archives. Older locked files remain temporarily if open elsewhere.
+- Local testing build only; no public release has been created.
+
+## 0.8.23
+
+- Lowered the episode title within the green briefing bar by one native
+  pixel, centering the visible lettering vertically. Applies to all episode
+  headings. Font size, left alignment, wording, colors and background remain
+  unchanged.
+- Only one coordinate byte changes in briefing.bin; updated the title version
+  to `v0.8.23`. EXE, assignment typography, narration, place labels, scripts
+  and media remain unchanged. No code growth or moved disc extents.
+- Verified native briefing captures and loading limits, and archived 0.8.22
+  with a successful xdelta round trip. Retained ten recent archives; older
+  locked files remain temporarily if another application is using them.
+- Local testing build only; no public release. Physical PlayStation testing
+  remains outstanding.
+
+## 0.8.22
+
+- Reduced assignment-screen numbers to the same 11x13 font as their labels,
+  including level, experience, skill level and all unit stats. Preserved right
+  alignment and aligned the stat baselines and bars with the smaller text.
+- Reduced `Sortie`, `1`, `2`, `3` and `Bench` to the compact font. Kept the
+  pilot name, original panels, transparency, colors, portraits and icons.
+- Native checks cover four-form and single-unit views, 30 stat label/value
+  pairs, level/EXP/skill, all five headings and confirmation/continue/exit.
+- Updated the title version to `v0.8.22`. EXE, 393 other VFS files, media,
+  translated scripts and briefing narration typography remain unchanged.
+  No file growth or moved disc extents; loading limits pass.
+- Verified the 0.8.21 archive round trip and retained ten recent xdelta
+  archives. Older 0.8.19 files remain temporarily if still open elsewhere.
+- Local testing build only; no public release. Physical PlayStation testing
+  remains outstanding.
+
+## 0.8.21
+
+- Increased the Weapons page's `Range` and `Area` secondary headers from
+  11x13 to 14x17, between the 16x20 weapon name and 11x13 labels/values.
+  Other names, labels and numbers retain their existing sizes.
+- Balanced the weapon-details rows with a consistent 34-pixel center pitch,
+  aligning labels and values and leaving 20/21 pixels of top/bottom padding.
+  Original panels, transparency, colors, form links and weapon-list layout
+  remain intact.
+- Added an exact opt-in medium font mode, preserving the existing font code,
+  tables and artwork. Native checks cover the new glyphs/advances, eight
+  existing font modes, row spacing, all four form icons and page/weapon/exit
+  controls. Status drawing outside the Weapons routine is byte-identical.
+- Updated the title version to `v0.8.21`; retained the raised credit block,
+  battle skip hint and Easy/Normal option. No file growth or moved disc
+  extents. Other overlays, media and translated scripts remain unchanged.
+- Verified loading limits and the 0.8.20 archive round trip; kept ten recent
+  xdelta archives. The older 0.8.19 BIN/CUE remains temporarily because it is
+  still open in another application.
+- Local testing build only; no public release has been created. Physical
+  PlayStation testing remains outstanding.
+
+## 0.8.20
+
+- Moved the title version and `github.com / retro-trans` credit upward by
+  24 native pixels, to y=414 and y=430. The credit cell now leaves 37 pixels
+  below it so the full line stays visible when the bottom edge is cropped.
+- Preserved right alignment, text, font, shading, transparency and the
+  spacing between the two lines. Updated the title version to `v0.8.20`.
+- Changes are confined to the title credit wrapper. The EXE, battle skip
+  hint, Easy/Normal option and all 394 other VFS files are unchanged.
+- Verified both native text positions and a title capture with its bottom
+  24 rows cropped; the full credit remains visible and menu navigation works.
+- Verified loading limits and the previous-build archive round trip;
+  retained ten previous xdelta archives. The 0.8.19 BIN/CUE could not be
+  removed because another application still has it open; it is temporarily
+  retained alongside 0.8.20 to avoid interrupting the running game.
+- Local testing build only; no public release has been created.
+
+## 0.8.19
+
+- Added `press START to skip` at the bottom right of active battle attack
+  animations. It uses the existing normal-proportioned 16x10 font, white/gray
+  shading and shadow, with a transparent background.
+- Anchored the prompt to the actual battle viewport (normally 512x240),
+  leaving eight pixels at the right and four below the font cell. It is
+  hidden during setup, pause, fast-finish and cleanup.
+- Preserved native Start skipping, damage, actor synchronization and battle
+  results. Native checks cover actual text placement, 29 visibility cases,
+  first-input Start skipping and disappearance after skipping.
+- Updated the title version to `v0.8.19`. The EXE, Easy/Normal difficulty,
+  font assets, original audio/movies and 393 other VFS files are unchanged.
+- Verified loading limits and the 0.8.18 archive round trip. Retained only
+  the latest full BIN/CUE and ten previous xdelta archives.
+- Local testing build only; no public release has been created. Physical
+  PlayStation testing remains outstanding.
+
+## 0.8.18
+
+- Added a Normal / Easy choice at Game Start, before the original player
+  setup. Circle or Start confirms; Cross returns to the title. Data Load
+  bypasses the selector. The version/retro-trans credit remains visible.
+- Easy keeps returning pilots' earned levels and partial experience between
+  stages instead of resetting them to the stage's assigned level, and raises
+  the level ceiling from 40 to 99. Newly joined/underleveled pilots still
+  receive the original starting level. Normal retains the original rules.
+- Saved the difficulty in the existing player record, preserving native save
+  sizes and checksums. Older saves without the Easy flag continue as Normal.
+  Kept experience awards, native stat growth, skill rules and enemies intact.
+- Native CPU checks cover the 39/40, 40/41 and 98/99 boundaries, stopping at
+  99, all 98 consecutive level-ups, 20 pilot growth records plus the custom
+  player, stage-level/experience retention and native save/load/checksums.
+- Fresh-boot menu checks cover Normal, Easy, cancellation and Data Load.
+  Verified the actual Easy new-game player record carries the saved flag.
+- Preserved 394 other VFS files and original audio/movies; updated the title
+  version to `v0.8.18`. Fixed loading limits checked. Physical PlayStation
+  hardware has not been tested; implementation and checks are documented in
+  `docs/DIFFICULTY.md`.
+- Archived 0.8.17 and verified its restored hash; retained the latest full
+  BIN/CUE and ten previous xdelta archives.
+- Local testing build only; no public release has been created.
+
+## 0.8.17
+
+- Replaced the 512x240 briefing overview's tall text with proportional 16x10
+  cells, which display with normal proportions at 4:3. Applies to its episode
+  title, map-location labels and narration, leaving other windows unchanged.
+- Rewrapped narration across the full 440-pixel inner box width, using the
+  actual font advances. Kept quoted names together and preserved branch-choice
+  line breaks. All 108 briefing entries retain their wording and controls.
+- Added an opt-in briefing font mode; old resident entry points and tables
+  retain their addresses. Native checks cover six glyph modes and 30 dialogue
+  width cases, plus two narration screens and the return to story dialogue.
+- Preserved map models, backgrounds, palettes, status layout, subtitles, audio
+  and movies. Updated the title version to `v0.8.17`; verified fixed loading
+  limits and the 0.8.16 archive round trip. Ten older xdelta archives retained.
+- Local testing build only; no public release has been created.
+
+## 0.8.16
+
+- Moved flight mini-game subtitles to the foremost native drawing bucket,
+  ahead of the unit indicators, radar, portraits and menu panels.
+- Reset the native draw area and origin before subtitle glyphs, preventing
+  HUD-local clipping or offsets from affecting captions.
+- Preserved transparent backgrounds, text, timings, font sizes and positions
+  (flight rows 190/204, menu rows 350/376). All 75 cues remain unchanged.
+- Updated the title-screen version to `v0.8.16`. Status layout, core, font
+  assets, original audio and movies remain unchanged from 0.8.15.
+- Native GPU-list checks confirm single- and two-line flight captions draw
+  after every HUD/world primitive with a full-screen clip and correct buffer
+  origin. Verified 480-line menu captions and unknown/disabled voice guards.
+  Checked cue bounds, loading limits and the old-build archive round
+  trip; retained ten older xdelta archives.
+- Local testing build only; no public release has been created.
+
+## 0.8.15
+
+- Reduced the Weapons panel's `Range` and `Area` secondary headers to the
+  compact 11x13 text mode, smaller than the 16x20 weapon-name header.
+- Reduced operating-terrain text (`Land/Sea`, `Air/Land`, etc.) to 11x13
+  and centered it horizontally and vertically within its original box.
+- Kept all other status typography, values, colors, backgrounds and game
+  data intact. Updated the title version automatically to `v0.8.15`.
+- The renderer remains within its original 8,224-byte allocation. Core,
+  font assets, audio, movies and subtitles are unchanged from 0.8.14.
+- Verified native text sizes/positions, all three status pages, linked form
+  icons, page controls and weapon selection. Land/Sea is centered within
+  half a native pixel. Checked file loading limits and the older-build
+  archive round trip; retained ten older xdelta archives.
+- Local testing build only; no public release has been created.
+
+## 0.8.14
+
+- Added two right-aligned title-screen lines: `v0.8.14` and
+  `github.com / retro-trans`. Small native shadowed text uses a transparent
+  background, with a 12-pixel right margin in the 512x480 title framebuffer.
+- The title version is generated from the build version automatically.
+  Original title artwork, menu and copyright textures are preserved.
+- Only `bin/title.bin` changes from 0.8.13. All 394 other VFS files, the
+  executable, fonts, dialogue, movies, audio and subtitles are unchanged.
+- Verified the wrapper loaded from disc, both native text positions, title
+  Up/Down controls and entry into name setup. Credits do not appear in name
+  setup. Restored the screenshot-only idle-timer fixture after capture.
+- Checked file loading limits and the 0.8.13 xdelta archive round trip;
+  retained the latest full image and ten older patch archives.
+- Local testing build only; no public release has been created.
+
+## 0.8.13
+
+- Matched stat, terrain and weapon values to their compact labels, including
+  shared numeric baselines. Kept HP/energy fractions at the same body size as
+  their labels, and preserved numeric colors and right alignment.
+- Centered weapon names horizontally and vertically within the existing
+  selection rows, including names that wrap onto two lines.
+- Native traces verify 55 label/value pairs and both name layouts. Checked
+  all status pages, form icons and page/weapon/exit controls. Temporary long
+  weapon-name test data was restored; no names or game data are changed.
+- Font artwork, resident font code, backgrounds, models, Lnd positioning,
+  dialogue wrapping, audio and movies remain unchanged from 0.8.12.
+- Local testing build only; no public release has been created.
+
+## 0.8.12
+
+- Moved the map HUD terrain tag (Lnd/Air/Sea/Spc) six native pixels left,
+  from local x=9 to x=3. The widest tag now ends at x=24, leaving three
+  pixels before the HP/energy block at x=27.
+- One coordinate byte changes in the existing game-overlay instruction.
+  Font size, y position, colors, portraits, status pages, dialogue wrapping,
+  gameplay and all other assets remain unchanged from 0.8.11.
+- Compared the native HUD before/after with a temporary Land display fixture,
+  then restored the fixture. Verified one changed disc sector, loading limits
+  and the previous-build archive round trip.
+- Local testing build only; no public release has been created.
+
+## 0.8.11
+
+- Reflowed story dialogue/narration for the current proportional font: 568 of
+  959 entries have updated line breaks. Every rendered line fits 210 pixels,
+  including a conservative six full-width-character player-name allowance.
+- Preserved wording, row boundaries, explicit pages, portrait/speaker cues,
+  pauses, blank lines and centered captions. Story wrapping is now refreshed
+  at build time so later font changes cannot leave stale line breaks.
+- Rebuilt 24 story script containers; their bytecode/headers are identical
+  apart from relocated string pointers. Font, status UI, core, subtitle,
+  movie and audio assets are unchanged from 0.8.10.
+- Checked both pages of the reported Ryoma scene after a fresh disc boot,
+  all compiled story containers, text fit, loading limits and archive restoration.
+- Local testing build only; no public release has been created.
+
+## 0.8.10
+
+- Reduced status pilot/unit names, weapon names, resource labels/fractions,
+  stat values, terrain percentages and operating-terrain text from 19x24 to
+  16x20 cells. Unit HP/EN/Arm./Move labels now match the compact terrain labels.
+- Kept the existing compact text, headings, gradients, restored arrow joins,
+  reverse-L background, translucent panels and native form indicators.
+- Added an opt-in status body-text mode without changing existing font artwork,
+  resident routines or table addresses. Other text modes retain their sizes.
+- Checked all three status pages, form indicators and page/weapon/exit controls,
+  a fresh disc boot, text fit, loading limits and archive restoration. Verified
+  old resident font bytes/addresses and all non-status VFS assets are unchanged.
+- Local testing build only; no public release has been created.
+
+## 0.8.9
+
+- Restored the original status background shapes: the right-facing pilot-card
+  arrows, dark inset blocks, blue reverse-L silhouette and translucent bottom
+  frame. Removed the replacement rectangular preview outline.
+- Reused the game's arrow artwork, native panel coordinates and blend colors.
+  Kept the current font sizes, HP/Energy/Getter Ray wording and form icons.
+  Returned the title tab and bottom frame to their original vertical positions.
+- Compared against captures of the original native drawing routines. Checked
+  all three pages, combined/single-unit icons and page/weapon/exit controls.
+  Disc checks preserve the font, audio, movies and subtitle files from 0.8.8.
+- Local testing build only; no public release has been created.
+
+## 0.8.8
+
+- Restored the referenced status-page arrangement: vertical form icons on all
+  pages, native-sized model and preview origin, unit-name tab, grouped pilot
+  fields, two-column unit/weapon details, and a shared footer with resource
+  bars above the HP and energy rows.
+- Kept the 0.8.7 font artwork/sizes and the HP, Energy and Getter Ray labels,
+  with original translucent panel colors and colorful values.
+- Checked all three pages, vertical form icons, page/weapon/exit controls,
+  loading limits and the previous-build archive round trip. Only the status
+  overlay changes; font assets, subtitles, movies and audio match 0.8.7.
+- Local testing build only; no public release has been created.
+
+## 0.8.7
+
+- Enlarged the main Latin font from seven-pixel to nine-pixel capitals, with
+  wider hand-drawn letters and seven-pixel lowercase bodies. Kept native cells,
+  original color gradients and shadows. Updated proportional/digit spacing.
+- Kept compact text near its previous visible size using 11x13 cells, and kept
+  the native FONT8 text unchanged. Preserved the restored status form indicators.
+- Reflowed 4 minigame and 21 preview captions to fit the larger font; wording,
+  voice selection and cue timing are unchanged.
+- Spaced the four status-stat rows for the taller digits. Checked the main
+  map/briefing menus, dialogue, all status pages, restored form indicators and
+  page/weapon/exit controls. Caption/name fits and loading limits pass; FONT8,
+  movies and audio are unchanged.
+- Local testing build only; no public release has been created.
+
+## 0.8.6
+
+- Restored the status pages' native unit/form icons, combined-unit indicator
+  and translucent connecting panels. Aligned their three rows with the updated
+  pilot cards while keeping the corrected fonts, palettes and model preview.
+- Reused the original sprite-selection routines inside the existing drawing
+  allocation. No unit data, controls, model assets, audio or subtitle changes.
+- Checked the restored indicators on all three pages, including combined and
+  single-unit cases, plus page/weapon/exit controls. The main program, all other
+  VFS files and movie/audio sectors are preserved. Loading limits and the
+  previous-build archive round trip pass.
+- Local testing build only; no public release has been created.
+
+## 0.8.5
+
+- Added five timed captions for both male Combination Test result speeches,
+  including the final drill. Audited all 25 native voice-selection call sites
+  and their shared branches; 34 clips now have 75 cues.
+- Renamed the briefing menu label to Combination Test. Preserved the previous
+  70 cues, raised flight caption placement, translucent UI and colored text.
+- Checked both native success-result voice branches and all five added captions,
+  plus the renamed menu label. All 87 caption lines fit; loading limits pass.
+  Only briefing/flight overlays change; the EXE, other VFS files, movies and
+  audio match 0.8.4. The previous build archive restores to its recorded hash.
+- Original audio and gameplay behavior are unchanged. Local testing build only;
+  no public release has been created.
+
+## 0.8.4
+
+- Raised flight-view subtitles to rows 190/204, with single-line cues on row 204,
+  so the text stays above the bottom edge. HUD overlap is allowed as requested.
+- Preserved transparent captions, text, timing, audio, font size and menu-screen
+  placement. The change replaces two drawing coordinates without growing code.
+- Checked single- and two-line captions during the native tutorial, including
+  their actual draw coordinates. All other disc sectors match 0.8.3; loading
+  limits and the previous build's archive hash round trip pass.
+- Local testing build only; no public release has been created.
+
+## 0.8.3
+
+- Corrected font proportions and spacing in sortie assignment, its confirmation
+  window, and flight training's Stage and Controls menus. Repositioned pilot
+  details, wrapped unit names, resized unit icons and aligned the stat rows.
+- Preserved the assignment and minigame menus' original panel palettes, blending
+  styles and colored text/icons.
+- Restored the status pages' original green grid, translucent blue/green/red
+  panel colors, colored resource maxima and distinct stat colors, retaining the
+  corrected font proportions and layout from 0.8.2.
+- Centered 480-line minigame voice captions with the corrected font proportions;
+  flight-view captions retain their original size and placement.
+- Checked native assignment/status/menu layouts and controls, the longest stage
+  label, caption scaling/centering and all 79 caption-line widths. The EXE,
+  movies/audio and 392 unrelated VFS files are preserved. Loading-limit checks
+  and the 0.8.2 archive hash round trip pass.
+- Local testing build only; no public release has been created. Implementation,
+  checks and real-console limits are documented in `docs/MENU_LAYOUT.md`.
+
+## 0.8.2
+
+- Rearranged the Pilot, Unit and Weapons status pages with consistent panels,
+  aligned values, two-line weapon names and a quieter background grid.
+- Corrected status font and portrait proportions for the native 4:3 display.
+  Resized and repositioned the model preview while preserving native rotation
+  and zoom controls. Three-pilot cards fit above the shared HP/energy footer.
+- Kept the native video/VRAM layout, overlay size, stats, battle calculations
+  and controls. Implementation and hardware limits are in `docs/STATUS_LAYOUT.md`.
+- Checked all three pages on a fresh disc boot, one- and three-pilot layouts,
+  long-name wrapping, page/weapon controls and return to the map. All 358 names
+  pass fit checks; movie/audio sectors are unchanged, loading limits pass and
+  the 0.8.1 archive restores to its recorded hash.
+- Local testing build only; no public release has been created.
+
+## 0.8.1
+
+- Enabled Start to skip battle attack animations in map battles, using the
+  game's existing fast-finish and cleanup path. The original implementation
+  restricted this shortcut to standalone battles.
+- Changed one instruction in `battle.bin`; the overlay size, memory allocation,
+  battle calculations and result-handling routines are unchanged. Details and
+  validation are in `docs/BATTLE_SKIP.md`.
+- Local testing build only; no public release has been created.
+- Native map-battle checks cover early skipping and skipping after the animation
+  starts, with attack/counterattack damage, energy use and experience dialogue.
+  Final-disc comparison preserves every other sector; fixed-load checks pass.
+
 ## 0.8.0
 
 First public release (same content as 0.1.8, plus one fix).

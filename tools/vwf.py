@@ -15,7 +15,7 @@ Hooks:
   C 0x8005B8A0 (typewriter, SJIS) / 0x8005BA80 (ASCII)  column counter in pixels
   D 0x8005B168 / 0x8005B150 (window setup)              max columns = text width in pixels
   E 0x8004E104 (display length of a string)            ceil(pixel width / 12)
-  F 0x8004E2A0 / 0x8004E2A4 (12px number printer)       digit step 12 -> 6 (24 -> 12)
+  F 0x8004E2A0 / 0x8004E2A4 (12px number printer)       digit step 12 -> 7 (24 -> 14)
   H 0x800580D0 / 0x80058280 (list / hex menu items)     label width in pixels (strpx)
 """
 import os
@@ -27,9 +27,10 @@ import font      # noqa: E402
 import masm      # noqa: E402
 
 CAVE = 0x8000F000          # kernel RAM, unused by BIOS / game (docs/VWF.md)
-CAVE_END = 0x80010000
+CAVE_END = 0x8000F600      # next resident UI string pool begins here
 ASCII_TABLE = 0x8007F5C4   # u16[96] ASCII 0x20.. -> SJIS (LE)
 EXE_BASE = 0x80010000
+SECONDARY_CAVE = 0x8000DD40  # after preview scratch DD00..DD20, before DE00 fixture
 
 # punctuation -> symbol code (81xx, must be in the symbol list) or None = needs a spare cell
 PUNCT_SYM = {
@@ -138,6 +139,26 @@ drawadv:
     lw a0, 20(sp)
     jal width
     andi a0, a0, 0xFFFF
+    lui t8, 0x0400
+    and t8, s5, t8
+    beqz t8, da_large_check
+    nop
+    la t8, STATUS_MED_ADV
+    addu t8, t8, v0
+    lbu v0, 0(t8)
+    b da_1
+    nop
+da_large_check:
+    lui t8, 0x0800
+    and t8, s5, t8
+    beqz t8, da_normal
+    nop
+    la t8, STATUS_ADV
+    addu t8, t8, v0
+    lbu v0, 0(t8)
+    b da_1
+    nop
+da_normal:
     li t8, 12
     beq s7, t8, da_1
     nop
@@ -148,6 +169,33 @@ da_1:
     lw ra, 16(sp)
     jr ra
     addiu sp, sp, 24
+
+; Aspect-correct 19x24 cells, opted into only by the status renderer.
+status_glyph_width:
+    lui v1, 0x0400
+    and v1, a3, v1
+    beqz v1, sgw_large
+    nop
+    addiu t0, zero, 11
+    lui a2, 0xD
+    b sgw_done
+    nop
+sgw_large:
+    lui v1, 0x0800
+    and v1, a3, v1
+    beqz v1, sgw_done
+    nop
+    addiu t0, zero, 19
+sgw_done:
+    lw v1, 0x240(gp)
+    jr ra
+    nop
+STATUS_ADV:
+    .byte 0, 2, 3, 5, 6, 8, 10, 11, 13, 14, 16, 17, 19
+    .align 4
+STATUS_MED_ADV:
+    .byte 0, 1, 2, 3, 4, 5, 6, 6, 7, 8, 9, 10, 11
+    .align 4
 
 ; ---- B: dialogue draw loop (0x8005BB80): s0 = pixel x within the line, a2 = item
 ;      called instead of 'addiu s0, s0, 1'; must keep v0, v1, a0-a3, t1 and hi/lo
@@ -181,8 +229,9 @@ dl_sj:
     lbu t6, 0(t5)
 dl_add:
     li t4, 12
-    beq s5, t4, dl_2
+    j dlgadv_body_check
     nop
+dl_double:
     sll t6, t6, 1
 dl_2:
     jr ra
@@ -302,6 +351,77 @@ WA:
     .space 96
 W82:
     .space 256
+; Opt-in status body text. Existing entry points and advance tables stay put.
+; Only the reserved 0x32 high-byte mode opts in; every other flag is unchanged.
+    .align 4
+status_body_glyph_width:
+    srl v1, a3, 24
+    addiu v1, v1, -0x32
+    bnez v1, status_glyph_width
+    nop
+    li t0, 16
+    lui a2, 0x14
+    lw v1, 0x240(gp)
+    jr ra
+    nop
+drawadv_sized:
+    srl t8, s5, 24
+    addiu t8, t8, -0x32
+    bnez t8, drawadv
+    nop
+body_advance:
+    addiu sp, sp, -24
+    sw ra, 16(sp)
+    jal 0x8004DA64
+    sw a2, 20(sp)
+    lw a0, 20(sp)
+    jal width
+    andi a0, a0, 0xFFFF
+    la t8, STATUS_BODY_ADV
+    addu t8, t8, v0
+    lbu v0, 0(t8)
+    j da_1
+    nop
+STATUS_BODY_ADV:
+    .byte 0, 1, 3, 4, 5, 7, 8, 9, 11, 12, 13, 15, 16
+    .align 4
+; 512x240 briefing text: 16x10 cells display square at 4:3.
+; Old entry points remain fixed. Only exact mode 0x22 opts into the new path.
+briefing_glyph_width:
+    srl v1, a3, 24
+    addiu v1, v1, -0x22
+    bnez v1, status_body_glyph_width
+    nop
+    li t0, 16
+    lui a2, 0xA
+    lw v1, 0x240(gp)
+    jr ra
+    nop
+briefing_drawadv:
+    srl t8, s5, 24
+    addiu t8, t8, -0x22
+    bnez t8, drawadv_sized
+    nop
+    j body_advance
+    nop
+dlgadv_body_check:
+    lw t5, 0x5C(s2)
+    nop
+    srl t5, t5, 24
+    ori t5, t5, 0x10
+    addiu t5, t5, -0x32
+    bnez t5, dlgadv_legacy
+    nop
+    la t5, STATUS_BODY_ADV
+    addu t5, t5, t6
+    lbu t6, 0(t5)
+    j dl_2
+    nop
+dlgadv_legacy:
+    beq s5, t4, dl_2
+    nop
+    j dl_double
+    nop
 CAVE_END_LABEL:
 '''
 
@@ -322,6 +442,46 @@ def j(target):
     return 0x08000000 | ((target >> 2) & 0x3FFFFFF)
 
 
+def build_secondary_font(primary=None):
+    """Exact opt-in 0x36 = 14x17; every other font follows its old dispatcher."""
+    if primary is None:
+        _, primary = build_cave()
+    code, labels = masm.assemble(r'''
+secondary_glyph_width:
+    srl v1, a3, 24
+    addiu v1, v1, -0x36
+    bnez v1, briefing_glyph_width
+    nop
+    li t0, 14
+    lui a2, 0x11
+    lw v1, 0x240(gp)
+    jr ra
+    nop
+secondary_drawadv:
+    srl t8, s5, 24
+    addiu t8, t8, -0x36
+    bnez t8, briefing_drawadv
+    nop
+    addiu sp, sp, -24
+    sw ra, 16(sp)
+    jal 0x8004DA64
+    sw a2, 20(sp)
+    lw a0, 20(sp)
+    jal width
+    andi a0, a0, 0xFFFF
+    la t8, SECONDARY_ADV
+    addu t8, t8, v0
+    lbu v0, 0(t8)
+    j da_1
+    nop
+SECONDARY_ADV:
+    .byte 0,1,2,4,5,6,7,8,9,11,12,13,14
+    .align 4
+''', SECONDARY_CAVE, symbols=primary)
+    assert SECONDARY_CAVE+len(code) <= 0x8000DE00
+    return code, labels
+
+
 def jal(target):
     return 0x0C000000 | ((target >> 2) & 0x3FFFFFF)
 
@@ -330,7 +490,9 @@ def exe_patches(labels):
     """{address: u32 instruction} applied to the exe image."""
     L = labels
     p = {}
-    p[0x8004E0A8] = jal(L['drawadv'])                 # A
+    _, secondary = build_secondary_font(L)
+    p[0x8004D7AC] = jal(secondary['secondary_glyph_width'])
+    p[0x8004E0A8] = jal(secondary['secondary_drawadv'])       # A
     p[0x8005BC74] = 0x02004821                        # B: mflo t1 -> addu t1, s0, zero
     p[0x8005BC84] = jal(L['dlgadv'])                  #    addiu s0,s0,1 -> jal dlgadv
     p[0x8005B8A0] = jal(L['colsj'])                   # C1
@@ -339,8 +501,8 @@ def exe_patches(labels):
     p[0x8005B150] = 0x00041843                        #    sra v1,a2,2 -> sra v1, a0, 1
     p[0x8004E104] = j(L['strlen'])                    # E
     p[0x8004E108] = 0x00000000
-    p[0x8004E2A0] = 0x2451FFF4                        # F: addiu s1, v0, -0x18 -> -12
-    p[0x8004E2A4] = 0x2451FFFA                        #    addiu s1, v0, -0xc  -> -6
+    p[0x8004E2A0] = 0x2451FFF6                        # F: addiu s1, v0, -0x18 -> -10
+    p[0x8004E2A4] = 0x2451FFFB                        #    addiu s1, v0, -0xc  -> -5
     # G: message window struct (WINDOW.C) 0x3E8 -> 0x4E8 bytes. The page line buffer at
     # +0x368 had 128 bytes (Japanese pages reach 132, English 178); a longer page ran
     # into the next heap block header and crashed the heap later (Episode 2).
@@ -360,6 +522,13 @@ def exe_patches(labels):
 # Overlay code patches: {overlay tag: {address: (original u32, new u32)}}. The build checks
 # the original word, then writes the new one into bin/<tag>.bin (tools/build.py).
 OVERLAY_PATCHES = {
+    'battle': {
+        # Native Start -> battle fast-finish already exists, but its caller only
+        # permits standalone/demo battles (parent +0x7e8 == -1). Allow the same
+        # cleanup path for map battles. Keep the phase <18 guard and all native
+        # outcome/cleanup code; no battle data or timings are rewritten.
+        0x800AE00C: (0x1462000A, 0x00000000),
+    },
     'title': {
         # Name confirmation: labels use narrow Latin glyphs but these two native
         # selection rectangles still had Japanese-sized positions and widths.
@@ -369,6 +538,8 @@ OVERLAY_PATCHES = {
         0x80092E44: (40, 24),
     },
     'game': {
+        # Map unit HUD: leave a gap between Lnd/Air/Sea/Spc and HP/energy.
+        0x80096270: (0x24040009, 0x24040003),         # label x: 9 -> 3
         # unit status, weapon page (512x480, glyphs drawn 2x tall): the "HP" / "Getter Ray"
         # label (0x800982B8 -> string drawer) is drawn at y+3 like the 12 px digits next to
         # it. Kanji fill the cell, English capitals stop at row 8 and sat 3 lines below the
@@ -426,6 +597,11 @@ def patch_exe(exe, extra=()):
     base = struct.unpack_from('<I', exe, 0x18)[0]
     tsize = struct.unpack_from('<I', exe, 0x1C)[0]
     entry = struct.unpack_from('<I', exe, 0x10)[0]
+    if struct.unpack_from('<I', exe, 0x800+0x8004D7AC-base)[0] != 0x8F830240:
+        raise ValueError('Unexpected native glyph-width hook instruction')
+    import dialogue_font
+    import command_layout
+    exe = bytearray(command_layout.patch_core(dialogue_font.patch_core(exe)))
     cave, labels = build_cave()
     for a, ins in exe_patches(labels).items():
         struct.pack_into('<I', exe, 0x800 + a - base, ins)
@@ -434,7 +610,13 @@ def patch_exe(exe, extra=()):
         struct.pack_into('<H', exe, 0x800 + ASCII_TABLE - base + (c - 0x20) * 2, m[c])
     img = bytearray(exe[0x800:0x800 + tsize])
     blobs = []
-    for dst, data in [(CAVE, cave)] + list(extra):
+    secondary, _ = build_secondary_font(labels)
+    dialogue_blobs, _, _ = dialogue_font.assemble()
+    command_code, _ = command_layout.assemble()
+    assert dialogue_font.RASTER+len(dialogue_blobs[2][1]) <= command_layout.START
+    assert CAVE+len(cave) <= dialogue_font.CHAR
+    assert SECONDARY_CAVE+len(secondary) <= dialogue_font.WINDOW
+    for dst, data in [(CAVE, cave), (SECONDARY_CAVE, secondary)] + dialogue_blobs + [(command_layout.START, command_code)] + list(extra):
         while len(img) % 4:
             img += b'\x00'
         blobs.append((base + len(img), dst, len(data)))

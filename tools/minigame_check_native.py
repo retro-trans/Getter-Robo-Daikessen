@@ -12,8 +12,8 @@ import gdbdbg
 import minigame_subtitles as mini
 
 
-def run(apply=False,only=None,output=None):
-    print('Check all 32 native voice IDs, both caption lines, menu scaling, unknown voices and voices disabled.',flush=True)
+def run(apply=False,only=None,output=None,current=False):
+    print(f'Check all {len(mini.VOICE_IDS)} native voice IDs, both caption lines, menu scaling, unknown voices and voices disabled.',flush=True)
     if not apply:return
     _,labels=mini.assemble();doc=json.loads(mini.TRANSLATION.read_text());d=gdbdbg.Dbg();g=d.g;g.s.settimeout(45);active={d.bp}
     def add(a):g.cmd(f'Z0,{a:x},4');active.add(a)
@@ -33,7 +33,9 @@ def run(apply=False,only=None,output=None):
         d.setreg(37,0x8002EC80)
     target=Path(output)if output else mini.ROOT/'work/ui/minigame/v017-native';target.mkdir(parents=True,exist_ok=True);results=[]
     try:
-        remove(d.bp);until(0x8004CF48);d.setreg(4,9);d.setreg(5,-1)
+        remove(d.bp)
+        if not current:
+            until(0x8004CF48);d.setreg(4,9);d.setreg(5,-1)
         until(0x800C7A54);add(d.bp);d.wait(120);remove(d.bp)
         for voice in (only or mini.VOICE_IDS):
             select_voice(voice);r=until(labels['draw_cue'])
@@ -44,7 +46,7 @@ def run(apply=False,only=None,output=None):
                 r=until(0x8004DDFC)
                 text=g.read(r[6],120).split(b'\0')[0].decode('ascii')
                 if text!=expected:raise ValueError((voice,text,expected))
-                if r[7]!=0x10000004 or r[5]not in (350,376):raise ValueError('Menu caption scale/position mismatch')
+                if r[7]!=(0x38000000|mini.FOREGROUND) or r[5]not in (350,376):raise ValueError('Menu caption scale/position mismatch')
                 lines.append(dict(text=text,x=r[4],y=r[5],flags=hex(r[7])))
                 until(r[31])
             results.append(dict(voice=voice,lines=lines))
@@ -64,4 +66,4 @@ def run(apply=False,only=None,output=None):
 
 
 if __name__=='__main__':
-    parser=argparse.ArgumentParser(description=__doc__);parser.add_argument('--apply',action='store_true');parser.add_argument('--only',nargs='+',type=lambda s:int(s,0));parser.add_argument('--output-dir');a=parser.parse_args();run(a.apply,a.only,a.output_dir)
+    parser=argparse.ArgumentParser(description=__doc__);parser.add_argument('--apply',action='store_true');parser.add_argument('--only',nargs='+',type=lambda s:int(s,0));parser.add_argument('--output-dir');parser.add_argument('--current',action='store_true');a=parser.parse_args();run(a.apply,a.only,a.output_dir,a.current)

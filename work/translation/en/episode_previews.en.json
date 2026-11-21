@@ -1,5 +1,5 @@
 {
-  "version": "0.1.6",
+  "version": "0.8.7",
   "timing": "Original XA sector clock, 150 sectors/second",
   "style": "Native proportional font and shadow; transparent background",
   "previews": {
@@ -154,7 +154,8 @@
         "start": 10.94,
         "end": 16.3,
         "lines": [
-          "Dr. Saotome resorts to one last, life-threatening plan."
+          "Dr. Saotome resorts to",
+          "one last, life-threatening plan."
         ]
       },
       {
@@ -265,7 +266,8 @@
         "start": 11.08,
         "end": 14.85,
         "lines": [
-          "Who is Maouki, the Hyakki Beast standing in their way?"
+          "Who is Maouki, the Hyakki Beast",
+          "standing in their way?"
         ]
       },
       {
@@ -317,7 +319,8 @@
         "start": 8.4,
         "end": 13.25,
         "lines": [
-          "But Emperor Burai has laid a terrible trap for them!"
+          "But Emperor Burai has laid",
+          "a terrible trap for them!"
         ]
       },
       {
@@ -369,7 +372,8 @@
         "start": 8.35,
         "end": 13.2,
         "lines": [
-          "But Emperor Burai has laid a terrible trap for them!"
+          "But Emperor Burai has laid",
+          "a terrible trap for them!"
         ]
       },
       {
@@ -420,7 +424,8 @@
         "start": 8.0,
         "end": 11.3,
         "lines": [
-          "bizarre creatures unlike anything they have ever seen!"
+          "bizarre creatures unlike",
+          "anything they have ever seen!"
         ]
       },
       {
@@ -471,7 +476,8 @@
         "start": 8.0,
         "end": 11.3,
         "lines": [
-          "bizarre creatures unlike anything they have ever seen!"
+          "bizarre creatures unlike",
+          "anything they have ever seen!"
         ]
       },
       {
@@ -532,7 +538,8 @@
         "start": 14.96,
         "end": 18.6,
         "lines": [
-          "Even now, the Hyakki Empire will not let up its attacks!"
+          "Even now, the Hyakki Empire",
+          "will not let up its attacks!"
         ]
       },
       {
@@ -540,7 +547,8 @@
         "start": 18.82,
         "end": 24.0,
         "lines": [
-          "Can the Allied Forces win in such a desperate situation?"
+          "Can the Allied Forces win",
+          "in such a desperate situation?"
         ]
       },
       {
@@ -583,7 +591,8 @@
         "start": 4.8,
         "end": 10.0,
         "lines": [
-          "But the mysterious Insect Army appears once again!"
+          "But the mysterious",
+          "Insect Army appears once again!"
         ]
       },
       {
@@ -608,7 +617,8 @@
         "start": 17.6,
         "end": 22.05,
         "lines": [
-          "At last, the most powerful Getter Robo reveals itself!"
+          "At last, the most powerful",
+          "Getter Robo reveals itself!"
         ]
       },
       {
@@ -703,7 +713,8 @@
         "start": 0,
         "end": 3.9,
         "lines": [
-          "At last, the Hyakki Empire launches its final attack!"
+          "At last, the Hyakki Empire",
+          "launches its final attack!"
         ]
       },
       {
@@ -720,7 +731,8 @@
         "start": 9.6,
         "end": 12.6,
         "lines": [
-          "The Allied Forces and the Getter Team rise to meet him."
+          "The Allied Forces and",
+          "the Getter Team rise to meet him."
         ]
       },
       {
@@ -762,7 +774,8 @@
         "start": 0,
         "end": 2.9,
         "lines": [
-          "A shift in Earth's axis radically alters the environment."
+          "A shift in Earth's axis",
+          "radically alters the environment."
         ]
       },
       {
@@ -778,7 +791,8 @@
         "start": 4.75,
         "end": 10.6,
         "lines": [
-          "Suddenly, the true enemy appears: Professor Lando!"
+          "Suddenly, the true enemy",
+          "appears: Professor Lando!"
         ]
       },
       {
@@ -1190,7 +1204,8 @@
         "start": 3.7,
         "end": 7.9,
         "lines": [
-          "to challenge the Allied Forces to a final showdown!"
+          "to challenge the Allied Forces",
+          "to a final showdown!"
         ]
       },
       {
@@ -1231,7 +1246,8 @@
         "start": 21.28,
         "end": 25.6,
         "lines": [
-          "Now the final battle for the future of humanity begins!"
+          "Now the final battle",
+          "for the future of humanity begins!"
         ]
       },
       {
@@ -1265,7 +1281,8 @@
         "start": 0,
         "end": 3.25,
         "lines": [
-          "A spatial distortion suddenly appears on the Moon!"
+          "A spatial distortion suddenly",
+          "appears on the Moon!"
         ]
       },
       {
@@ -1290,7 +1307,8 @@
         "start": 10.66,
         "end": 14.3,
         "lines": [
-          "A formidable foe blocks their way: the Insect Army!"
+          "A formidable foe blocks",
+          "their way: the Insect Army!"
         ]
       },
       {
@@ -1298,7 +1316,8 @@
         "start": 14.5,
         "end": 17.6,
         "lines": [
-          "Getter Robo G has gone berserk and formed a cocoon."
+          "Getter Robo G has gone berserk",
+          "and formed a cocoon."
         ]
       },
       {
@@ -1382,7 +1401,8 @@
         "start": 13.1,
         "end": 15.9,
         "lines": [
-          "Facing such an overwhelming difference in strength,"
+          "Facing such an overwhelming",
+          "difference in strength,"
         ]
       },
       {
@@ -1406,7 +1426,8 @@
         "start": 22.32,
         "end": 25.2,
         "lines": [
-          "Next time, the final episode of Getter Robo Daikessen!"
+          "Next time, the final episode",
+          "of Getter Robo Daikessen!"
         ]
       },
       {
