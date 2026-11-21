@@ -7,6 +7,7 @@
   existing 0.5.23 Automatic worker against the public patch download. The output
   matches the release target hash and includes a matching CUE; the original
   image is unchanged. Existing game release assets and app version are unchanged.
+  Added the Automatic steps and verification details to the public release notes.
 - Renamed the combination command from `Join` to `Combine`.
 - Kept long command labels and their selection backgrounds inside the
   screen's left edge, including the longer `Combine` label.
