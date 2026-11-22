@@ -1,5 +1,20 @@
 # Changelog
 
+## 0.8.27
+
+- Fixed Getter Rekka's battle pack exceeding the native 86,016-byte unit
+  loading buffer. Its translated pack was 86,120 bytes; tighter lossless
+  compression reduces it to 85,748 bytes. Translated dialogue, animation,
+  models, textures and audio retain identical decoded contents.
+- Check all 114 unit battle packs against this allocation, including loads
+  that the earlier fixed-file scanner could not detect. Reject oversized
+  packs before writing a disc image. The native heap allocation and battle
+  code remain unchanged.
+- Added real-resource regression checks for the overflow, decoded asset
+  preservation, exact-capacity acceptance and rejection after compression.
+- Verified Hizanto, Flower Frenzy, Combined Windmill and Demonslayer Ray in
+  a DuckStation battle. Each attack played through and returned to the map.
+
 ## 0.8.26
 
 - Published the verified `original → 0.8.26` route in Retro Trans Automatic.

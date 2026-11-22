@@ -195,6 +195,9 @@ def build(version, test=False, no_text=False):
     open(os.path.join(bd, 'SLPS_022.32'), 'wb').write(exe)
     open(os.path.join(bd, 'GR.VFS'), 'wb').write(new_vfs)
     json.dump({k: v for k, v in labels.items()}, open(os.path.join(bd, 'vwf_labels.json'), 'w'), indent=1)
+    import loadlimits
+    if loadlimits.main():
+        raise SystemExit('a file is larger than the buffer the game reads it into')
     os.makedirs(OUT, exist_ok=True)
     base = 'GetterRoboDaikessen_EN_v%s' % version
     out_bin = os.path.join(OUT, base + '.bin')
@@ -207,9 +210,6 @@ def build(version, test=False, no_text=False):
     with open(os.path.join(OUT, base + '.cue'), 'w') as f:
         f.write('FILE "%s.bin" BINARY\n  TRACK 01 MODE2/2352\n    INDEX 01 00:00:00\n' % base)
     print('built', out_bin)
-    import loadlimits
-    if loadlimits.main():
-        raise SystemExit('a file is larger than the buffer the game reads it into')
     archive_old(base)
     return out_bin
 

@@ -69,6 +69,18 @@ def main():
             flag = 'OVER' if nn > a3 else 'ok'
             bad += flag == 'OVER'
             print('%-8s %08X %-28s limit %6d  original %6d  built %6d  %s' % (tag, at, name, a3, o, nn, flag))
+    # These loads go through a fixed heap allocation followed by the whole-file
+    # reader, not LOAD(a3), so the instruction scan above cannot discover them.
+    import battletext
+    packs = battletext.unit_pack_sizes(orig, new)
+    for path, old, size in packs:
+        if size > battletext.UNIT_PACK_LIMIT:
+            print('battle unit %-28s limit %6d  original %6d  built %6d  OVER' %
+                  (path, battletext.UNIT_PACK_LIMIT, old, size))
+            bad += 1
+    largest = max(packs, key=lambda row: row[2])
+    print('battle unit packs: %d checked, largest %s %d / %d bytes' %
+          (len(packs), largest[0], largest[2], battletext.UNIT_PACK_LIMIT))
     print('%d file(s) over their load limit' % bad)
     return bad
 

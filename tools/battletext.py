@@ -33,6 +33,10 @@ DISC = os.path.join(ROOT, 'work', 'source', 'disc')
 WRAP_W = 210      # battle lines go through the message window ($f%sa %s: %s, battle.bin 0x800AA4C4)
 NAME_PX = None    # width of the widest "<pilot>: " prefix (computed from the label rows)
 SLICE = 80
+# battle.bin 0x800ACB40..0x800ACB7C allocates 0x15000 bytes before
+# reading a unit PAC through 0x8002E90C. That reader uses the complete file
+# size, not the allocation size. EFFECT.PAC has a separate, larger load.
+UNIT_PACK_LIMIT = 0x15000
 # in-place short forms for lines without a pointer (not relocatable) that do not fit
 SHORT = {'超ウエポン砲発射！': 'Super Wpn Cannon!'}
 
@@ -282,6 +286,40 @@ def rebuild_bin(b, tr, stats):
     return bytes(d)
 
 
+def fit_unit_pack(data, path, log=print):
+    """Keep translated unit packs inside the native allocation without text edits.
+
+    Only oversized packs are recompressed. Preserve all decoded contents and
+    untouched graphics/audio payloads; never enlarge the game's heap allocation.
+    """
+    if len(data) <= UNIT_PACK_LIMIT:
+        return data
+    items = pac.container_items(data)
+    for index, e in enumerate(pac.parse_container(data, 0)):
+        if e['name'].upper() == 'TMV.PAC':
+            tmv = tmv_bytes(data, e)
+            nested = pac.container_items(tmv)
+            for j, child in enumerate(pac.parse_container(tmv, 0)):
+                if child['name'].upper().endswith('.BIN') and child['mode'] == 3:
+                    nested[j] = pac.pack_entry(nested[j], pac.decode_entry(tmv, child), best=True)
+            items[index] = pac.pack_entry(items[index], pac.build_container(nested), best=True)
+        elif e['name'].upper().endswith('.BIN') and e['mode'] == 3:
+            items[index] = pac.pack_entry(items[index], pac.decode_entry(data, e), best=True)
+    packed = pac.build_container(items)
+    if len(packed) > UNIT_PACK_LIMIT:
+        raise ValueError('%s: %d bytes after optimal packing; native unit buffer is %d bytes'
+                         % (path, len(packed), UNIT_PACK_LIMIT))
+    log('battle pack: %s %d -> %d bytes (native limit %d)' %
+        (path, len(data), len(packed), UNIT_PACK_LIMIT))
+    return packed
+
+
+def unit_pack_sizes(original, current):
+    """Audit actual battle unit packs; shared effects do not use this buffer."""
+    paths = sorted({p for p, _, _, _ in units(original)})
+    return [(p, len(vfs_file(original, p)), len(vfs_file(current, p))) for p in paths]
+
+
 def build_files(orig_vfs, files, log=print):
     tr = {r['jp']: r['en'] for r in load() if r.get('en')}
     if not tr:
@@ -321,7 +359,7 @@ def build_files(orig_vfs, files, log=print):
                     items = [pac.pack_entry(it, nb) if it['name'] == e['name'] else it for it in items]
                     changed = True
         if changed:
-            files[p] = pac.build_container(items)
+            files[p] = fit_unit_pack(pac.build_container(items), p, log)
     stats.setdefault('packed', 0)
     log('battle text: %(inplace)d lines in place, %(packed)d moved into free space, %(moved)d appended, '
         '%(grown)d BINs grew' % stats)
