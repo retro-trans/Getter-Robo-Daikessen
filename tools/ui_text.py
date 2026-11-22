@@ -149,6 +149,10 @@ def apply(rows=None, dry=False, log=print):
                 stats['reused' if local else 'pool'] += 1
                 free.append([a, r['room']])     # nothing points at the old slot any more
         log('%-8s in place %3d, old slots reused %3d, pool %3d' % (tag, stats['inplace'], stats['reused'], stats['pool']))
+        if tag == 'exe':
+            for address, name in ui_slices.unit_name_fields(body, base):
+                if not name.isascii():
+                    raise ValueError('Missing English unit name at %08X' % address)
         out[tag] = bytes(data)
     for lo, b in pool.blobs():
         log('pool %08X: %d bytes' % (lo, len(b)))

@@ -1,5 +1,25 @@
 # Changelog
 
+## 0.8.29
+
+- Translated the missing pilot names in both roster tables, including Go
+  Ichimonji, Sho Tachibana, Akane, Tsubaki, Kaede and Reptilian Soldiers A
+  and B. Restored the English unit headings for Getter Go, Getter Sho, Super
+  Getter Go and the two Gigant formations.
+- Read names by their record positions so short names and kanji names are
+  included in extraction and checked when building. Verified the English
+  names in all 53 and 56 pilot slots in the two tables, and all 101 and 110
+  named unit slots in the archive and executable.
+
+## 0.8.28 (local PSP boot-layout test)
+
+- Prepared a diagnostic patch for issue #1 on PSP-3004 with 6.61 PRO-C2.
+  The English boot executable starts at its original disc sector (23).
+  GR.VFS moves four sectors forward to accommodate it, and the disc returns
+  to its original length. All game file contents match v0.8.27, including
+  the title version. The test image reached Game Start in a fresh DuckStation
+  boot. Confirmation with PSX2PSP on the reported PSP is pending.
+
 ## 0.8.27
 
 - Fixed Getter Rekka's battle pack exceeding the native 86,016-byte unit

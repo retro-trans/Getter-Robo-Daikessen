@@ -1,0 +1,346 @@
+[
+ {
+  "id": 0,
+  "ja": "流　竜馬",
+  "en": "Ryoma Nagare",
+  "alternate_record": {
+   "ja": "流竜馬",
+   "en": "Ryoma Nagare"
+  }
+ },
+ {
+  "id": 1,
+  "ja": "神　隼人",
+  "en": "Hayato Jin",
+  "alternate_record": {
+   "ja": "神隼人",
+   "en": "Hayato Jin"
+  }
+ },
+ {
+  "id": 2,
+  "ja": "巴　武蔵",
+  "en": "Musashi Tomoe",
+  "alternate_record": {
+   "ja": "巴武蔵",
+   "en": "Musashi Tomoe"
+  }
+ },
+ {
+  "id": 3,
+  "ja": "車　弁慶",
+  "en": "Benkei Kuruma",
+  "alternate_record": {
+   "ja": "車弁慶",
+   "en": "Benkei Kuruma"
+  }
+ },
+ {
+  "id": 4,
+  "ja": "一文字　號",
+  "en": "Go Ichimonji",
+  "alternate_record": {
+   "ja": "一文字號",
+   "en": "Go Ichimonji"
+  }
+ },
+ {
+  "id": 5,
+  "ja": "橘　翔",
+  "en": "Sho Tachibana",
+  "alternate_record": {
+   "ja": "橘翔",
+   "en": "Sho Tachibana"
+  }
+ },
+ {
+  "id": 6,
+  "ja": "大道　凱",
+  "en": "Gai Daido",
+  "alternate_record": {
+   "ja": "大道凱",
+   "en": "Gai Daido"
+  }
+ },
+ {
+  "id": 7,
+  "ja": "早乙女　ミチル",
+  "en": "Michiru Saotome",
+  "alternate_record": {
+   "ja": "早乙女ミチル",
+   "en": "Michiru Saotome"
+  }
+ },
+ {
+  "id": 8,
+  "ja": "ジョン　ランバート",
+  "en": "John Lambert",
+  "alternate_record": {
+   "ja": "ジョン・ランバート",
+   "en": "John Lambert"
+  }
+ },
+ {
+  "id": 9,
+  "ja": "シュワルツ",
+  "en": "Schwartz"
+ },
+ {
+  "id": 10,
+  "ja": "ボブ　ホスナー",
+  "en": "Bob Hosner",
+  "alternate_record": {
+   "ja": "ボブ・ホスナー",
+   "en": "Bob Hosner"
+  }
+ },
+ {
+  "id": 11,
+  "ja": "サム　ホスナー",
+  "en": "Sam Hosner",
+  "alternate_record": {
+   "ja": "サム・ホスナー",
+   "en": "Sam Hosner"
+  }
+ },
+ {
+  "id": 12,
+  "ja": "リンダ　ティラミス",
+  "en": "Linda Tiramis",
+  "alternate_record": {
+   "ja": "リンダ・ティラミス",
+   "en": "Linda Tiramis"
+  }
+ },
+ {
+  "id": 13,
+  "ja": "ヒム　シャトナー",
+  "en": "Heim Shatner",
+  "alternate_record": {
+   "ja": "ヒム・シャトナー",
+   "en": "Heim Shatner"
+  }
+ },
+ {
+  "id": 14,
+  "ja": "ジャック・キング",
+  "en": "Jack King"
+ },
+ {
+  "id": 15,
+  "ja": "メリー・キング",
+  "en": "Mary King"
+ },
+ {
+  "id": 16,
+  "ja": "水樹　茜",
+  "en": "Akane Mizuki",
+  "alternate_record": {
+   "ja": "茜",
+   "en": "Akane"
+  }
+ },
+ {
+  "id": 17,
+  "ja": "秋山　椿",
+  "en": "Tsubaki Akiyama",
+  "alternate_record": {
+   "ja": "椿",
+   "en": "Tsubaki"
+  }
+ },
+ {
+  "id": 18,
+  "ja": "柴崎　楓",
+  "en": "Kaede Shibasaki",
+  "alternate_record": {
+   "ja": "楓",
+   "en": "Kaede"
+  }
+ },
+ {
+  "id": 19,
+  "ja": "プレイヤー",
+  "en": "Player"
+ },
+ {
+  "id": 20,
+  "ja": "早乙女博士",
+  "en": "Dr. Saotome"
+ },
+ {
+  "id": 21,
+  "ja": "古田",
+  "en": "Furuta"
+ },
+ {
+  "id": 22,
+  "ja": "テキサス艦長",
+  "en": "Captain Texas"
+ },
+ {
+  "id": 23,
+  "ja": "ゴール",
+  "en": "Gore"
+ },
+ {
+  "id": 24,
+  "ja": "改造ゴール",
+  "en": "Cyborg Gore"
+ },
+ {
+  "id": 25,
+  "ja": "ニオン",
+  "en": "Neon"
+ },
+ {
+  "id": 26,
+  "ja": "爬虫兵A",
+  "en": "Reptilian Soldier A"
+ },
+ {
+  "id": 27,
+  "ja": "爬虫兵B",
+  "en": "Reptilian Soldier B"
+ },
+ {
+  "id": 28,
+  "ja": "ジガ",
+  "en": "Jiga"
+ },
+ {
+  "id": 29,
+  "ja": "バズ",
+  "en": "Bazu"
+ },
+ {
+  "id": 30,
+  "ja": "改造竜二",
+  "en": "Cyborg Ryuji"
+ },
+ {
+  "id": 31,
+  "ja": "一本鬼",
+  "en": "Ipponki"
+ },
+ {
+  "id": 32,
+  "ja": "五本鬼",
+  "en": "Gohonki"
+ },
+ {
+  "id": 33,
+  "ja": "十方鬼",
+  "en": "Jyuboki"
+ },
+ {
+  "id": 34,
+  "ja": "百鬼兵A",
+  "en": "Hyakki Soldier A"
+ },
+ {
+  "id": 35,
+  "ja": "百鬼兵B",
+  "en": "Hyakki Soldier B"
+ },
+ {
+  "id": 36,
+  "ja": "バット将軍",
+  "en": "General Bat"
+ },
+ {
+  "id": 37,
+  "ja": "改造バット将軍",
+  "en": "Cyborg Bat"
+ },
+ {
+  "id": 38,
+  "ja": "ブライ大帝",
+  "en": "Emperor Burai"
+ },
+ {
+  "id": 39,
+  "ja": "改造ブライ大帝",
+  "en": "Cyborg Burai"
+ },
+ {
+  "id": 40,
+  "ja": "ラセツ男爵",
+  "en": "Baron Rasetsu"
+ },
+ {
+  "id": 41,
+  "ja": "橘信一",
+  "en": "Shinichi Tachibana"
+ },
+ {
+  "id": 42,
+  "ja": "ランドウ",
+  "en": "Lando"
+ },
+ {
+  "id": 43,
+  "ja": "ヘルレザー",
+  "en": "Hellreza"
+ },
+ {
+  "id": 44,
+  "ja": "ランドウ兵A",
+  "en": "Lando Soldier A"
+ },
+ {
+  "id": 45,
+  "ja": "ランドウ兵B",
+  "en": "Lando Soldier B"
+ },
+ {
+  "id": 46,
+  "ja": "ギィムバグ軍曹",
+  "en": "P.O. Gimbug"
+ },
+ {
+  "id": 47,
+  "ja": "メカ蝉",
+  "en": "Mecha Cicada"
+ },
+ {
+  "id": 48,
+  "ja": "メカ蟻",
+  "en": "Mecha Ant"
+ },
+ {
+  "id": 49,
+  "ja": "メカ蟻地獄",
+  "en": "Mecha Antlion"
+ },
+ {
+  "id": 50,
+  "ja": "メカ蜂",
+  "en": "Mecha Bee"
+ },
+ {
+  "id": 51,
+  "ja": "メカクワガタ",
+  "en": "Mecha Stag"
+ },
+ {
+  "id": 52,
+  "ja": "ホグラムＤ７",
+  "en": "Hogram D7"
+ },
+ {
+  "id": 53,
+  "ja": "研究員Ａ",
+  "en": "Researcher A"
+ },
+ {
+  "id": 54,
+  "ja": "研究員Ｂ",
+  "en": "Researcher B"
+ },
+ {
+  "id": 55,
+  "ja": "ロシア司令官",
+  "en": "Russian Commander"
+ }
+]

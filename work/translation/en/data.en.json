@@ -4092,5 +4092,89 @@
   "id": "HT_176C",
   "offset": "176C",
   "en": "Gugiiii!"
+ },
+ {
+  "id": "MCN_339A",
+  "offset": "339A",
+  "max_bytes": 23,
+  "en": "Getter Go"
+ },
+ {
+  "id": "MCN_33D4",
+  "offset": "33D4",
+  "max_bytes": 23,
+  "en": "Getter Sho"
+ },
+ {
+  "id": "MCN_41E0",
+  "offset": "41E0",
+  "max_bytes": 23,
+  "en": "Gigant x2"
+ },
+ {
+  "id": "PIL_0508",
+  "offset": "0508",
+  "max_bytes": 19,
+  "en": "Go Ichimonji"
+ },
+ {
+  "id": "PIL_0614",
+  "offset": "0614",
+  "max_bytes": 19,
+  "en": "Sho Tachibana"
+ },
+ {
+  "id": "PIL_1198",
+  "offset": "1198",
+  "max_bytes": 19,
+  "en": "Akane"
+ },
+ {
+  "id": "PIL_12A4",
+  "offset": "12A4",
+  "max_bytes": 19,
+  "en": "Tsubaki"
+ },
+ {
+  "id": "PIL_13B0",
+  "offset": "13B0",
+  "max_bytes": 19,
+  "en": "Kaede"
+ },
+ {
+  "id": "PIL_1964",
+  "offset": "1964",
+  "max_bytes": 19,
+  "en": "Reptilian Soldier A"
+ },
+ {
+  "id": "PIL_1A70",
+  "offset": "1A70",
+  "max_bytes": 19,
+  "en": "Reptilian Soldier B"
+ },
+ {
+  "id": "PIL_0514",
+  "offset": "0514",
+  "max_bytes": 19,
+  "en": "Go Ichimonji"
+ },
+ {
+  "id": "PIL_0620",
+  "offset": "0620",
+  "max_bytes": 19,
+  "en": "Sho Tachibana"
+ },
+ {
+  "id": "PIL_1970",
+  "offset": "1970",
+  "max_bytes": 19,
+  "en": "Reptilian Soldier A"
+ },
+ {
+  "id": "PIL_1A7C",
+  "offset": "1A7C",
+  "max_bytes": 19,
+  "en": "Reptilian Soldier B"
  }
 ]

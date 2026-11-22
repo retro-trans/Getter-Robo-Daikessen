@@ -50,6 +50,30 @@ def real_strings(d):
     return {o: s for o, s in refscan.strings(d) if any(o <= r < o + len(s) for r in real)}
 
 
+def roster_fields(tag, data):
+    if tag == 'PIL':
+        count, = struct.unpack_from('<I', data)
+        offsets = struct.unpack_from('<%dI' % count, data, 4)
+        width = 20
+    elif tag == 'MCN':
+        start, size = struct.unpack_from('<II', data, 8)
+        if start + size != len(data) or size % 58:
+            raise ValueError('Unexpected machine name table')
+        offsets = range(start, start + size, 58)
+        width = 24
+    else:
+        return {}
+    return {o: data[o:data.index(b'\0', o, o + width)] for o in offsets}
+
+
+def data_strings(tag, data):
+    if tag == 'PIL':
+        return roster_fields(tag, data)
+    strings = real_strings(data)
+    strings.update(roster_fields(tag, data))
+    return strings
+
+
 def ptr_slots(d, S):
     inside = set()
     for o, s in S.items():
@@ -72,8 +96,10 @@ def extract():
     for tag, path, ent, method in SOURCES:
         pd = vfs_file(v, path)
         data = entry(pd, ent)
-        S = briefing.strings(data) if method == 'briefing' else real_strings(data)
+        S = briefing.strings(data) if method == 'briefing' else data_strings(tag, data)
         for o in sorted(S):
+            if not S[o]:
+                continue
             rid = '%s_%04X' % (tag, o)
             if rid in seen:
                 continue
@@ -115,7 +141,11 @@ def rebuild_entry(tag, method, data, rows, wrapw=None):
             new[o] = textcodec.encode(en)
         return briefing.rebuild(data, new)
     d = bytearray(data)
-    S = real_strings(data)
+    S = data_strings(tag, data)
+    for o, original in roster_fields(tag, data).items():
+        english = mine.get(o, {}).get('en', '').strip()
+        if original and (not english or not english.isascii()):
+            raise ValueError('Missing English name for %s_%04X' % (tag, o))
     slots = ptr_slots(data, S) if method == 'pointers' else {}
     for o, r in mine.items():
         if o not in S:

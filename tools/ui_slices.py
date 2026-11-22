@@ -24,7 +24,9 @@ SKIP = {'exe_8002121E', 'exe_80082C68', 'exe_8003A7C6',   # binary noise
         'exe_8008078C',      # symbol glyph list (font)
         'battle_800AA8BC'}   # full-width digit table used to print numbers                  # kanji glyph lookup table (font)
 WEAPONS = (0x800126F4, 0x80015B8C)               # weapon records 0x34, name field 32
-UNITS = (0x80015BA8, 0x800174CF)                 # unit records 0x3A, name field 24
+UNITS = (0x80015BA8, 0x800174CE)                 # 111 unit records, exclusive end
+
+
 # referenced, but the lui is in another branch's delay slot: cannot be relocated
 FIXED_ROOM = {'game_8008C2E8': 6, 'game_8008C368': 6, 'game_8008D1BC': 6,
               # the ability-select screen draws a computed pointer 0x8008BC60 (padding after
@@ -41,6 +43,13 @@ FIXED_ROOM = {'game_8008C2E8': 6, 'game_8008C368': 6, 'game_8008D1BC': 6,
 # work area): the English must not be longer or it is cut off
 MAX_CHARS = {'title_8008C08C': 29, 'title_8008C0B0': 29,
              'title_8008C190': 15, 'title_8008C1A0': 15, 'title_8008C1B0': 22}
+
+
+def unit_name_fields(body, base):
+    for address in range(UNITS[0], UNITS[1], 58):
+        offset = address - base
+        field = bytes(body[offset:offset + 24])
+        yield address, field[:field.index(0)]
 
 
 def kind(r):
@@ -66,13 +75,13 @@ def jp_px(s):
 def limits(r):
     a = int(r['addr'], 16)
     k = kind(r)
+    if k == 'unit name':
+        return 23, jp_px(r['jp'])
     if r['id'] in FIXED_ROOM:
         return FIXED_ROOM[r['id']], jp_px(r['jp'])
     if r['refs'] == 0:
         if k == 'weapon name' or k == 'skill level':
             mb = 31
-        elif k == 'unit name':
-            mb = 23
         else:
             mb = min(r['room'], (len(r['jp'].encode('cp932')) + 4) & ~3) - 1
     else:

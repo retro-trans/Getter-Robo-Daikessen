@@ -127,6 +127,12 @@ def extract_ui():
                 room += 1
             found.append((a, body[off:off + 2], [], [a], room))
         found += referenced_strings(body, base, found)
+        if tag == 'exe':
+            import ui_slices
+            present = {row[0] for row in found}
+            for address, name in ui_slices.unit_name_fields(body, base):
+                if name and address not in present:
+                    found.append((address, name, [], [], 24))
         for a, s, ptrs, crefs, room in found:
             rows.append({'id': '%s_%08X' % (tag, a), 'file': tag, 'addr': '%08X' % a, 'room': room,
                          'refs': len(ptrs) + len(crefs), 'kind': 'ui', 'jp': s.decode('cp932'), 'en': ''})
