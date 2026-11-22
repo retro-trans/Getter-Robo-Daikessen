@@ -14,7 +14,19 @@ Automatic downloads the public patch and verifies its hash and the complete
 patched image. This route requires the original Japanese BIN; it does not
 upgrade an earlier English build. No new Retro Trans app release is needed.
 
-## Verification — 2026-11-21
+## Verification for 0.8.27 — 2026-11-22
+
+Retro Trans 0.5.23 refreshed the public catalog and selected `original → 0.8.27`.
+Starting with an empty download cache, the Automatic worker downloaded the
+public patch, applied it to the original Japanese BIN, and generated a matching
+CUE. The output matched the disc used for the four Getter Rekka battle tests
+byte for byte (663,666,192 bytes, SHA-256
+`c8b74236cad15dc2cfc39034b94da603882aeffd0a0820b2f673af88af880f09`).
+The original BIN retained its checksum. The
+[hosted catalog validation](https://github.com/retro-trans/retro-trans-tools/actions/runs/44990094257)
+also passed.
+
+## Verification for 0.8.26 — 2026-11-21
 
 - Tested using Retro Trans **0.5.23**, source commit `cbf7858`, through
   `retro_trans.catalog.recognize`, `Catalog.plan` and the same `apply_plan`
