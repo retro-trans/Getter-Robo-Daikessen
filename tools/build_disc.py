@@ -90,12 +90,14 @@ class Disc:
         d[o + 10:o + 18] = struct.pack('<I', e.size) + struct.pack('>I', e.size)
         self._write_sector(e.rec_lba, sub, bytes(d))
 
-    def replace(self, path, data):
+    def replace(self, path, data, *, at_lba=None):
         e = self.entries[path.upper()]
         old_n = (e.size + 2047) // 2048
         new_n = (len(data) + 2047) // 2048
         subs = [self.raw(e.lba + i)[16:20] for i in range(old_n)]
-        if new_n <= old_n:
+        if at_lba is not None:
+            lba = at_lba
+        elif new_n <= old_n:
             lba = e.lba
         elif getattr(self, 'alloc', None):
             lba = self.alloc(new_n)      # caller-provided free space (e.g. a padding file)
@@ -115,6 +117,20 @@ class Disc:
         e.lba, e.size = lba, len(data)
         self._write_dir_record(e)
         return moved
+
+    def replace_boot_files(self, exe, archive):
+        """Lay out the translated startup files within the retail boot area."""
+        boot = self.entries['SLPS_022.32']
+        vfs = self.entries['GR.VFS']
+        following = sorted(e.lba for e in self.entries.values() if e.lba > boot.lba)
+        if boot.lba != 23 or len(following) < 2 or following[0] != vfs.lba:
+            raise ValueError('Unexpected retail boot file layout')
+        archive_lba = max(vfs.lba, boot.lba + (len(exe) + 2047) // 2048)
+        if archive_lba + (len(archive) + 2047) // 2048 > following[1]:
+            raise ValueError('Translated startup files exceed the retail boot area')
+        # Read the original archive subheaders before the larger EXE overlaps them.
+        self.replace(vfs.path, archive, at_lba=archive_lba)
+        self.replace(boot.path, exe, at_lba=boot.lba)
 
     def write_file_sectors(self, path, sectors):
         """Rewrite single Form 1 sectors of a file in place, keeping each one's subheader.

@@ -1,18 +1,17 @@
 # Retro Trans Automatic
 
-The public catalog includes Getter Robo Daikessen English **0.8.29**.
+The public catalog includes Getter Robo Daikessen English **0.8.30**.
 
 1. Open [Retro Trans](https://github.com/retro-trans/retro-trans-tools/releases/latest)
    and click **Refresh catalog**.
 2. In **Automatic**, use **Browse…** to select your original Japanese
-   SLPS-02232 raw BIN, with its CUE alongside it.
-3. Keep **Target: Latest** and check the route is `original → 0.8.29`.
+   SLPS-02232 raw BIN or the published English v0.8.29 BIN, with its CUE alongside it.
+3. Keep **Target: Latest** and check the route ends at `0.8.30`.
 4. Choose a new **Patched copy** path and click **Patch**.
 5. Boot the generated CUE. Keep both generated files together.
 
 Automatic downloads the public patch and verifies its hash and the complete
-patched image. This route requires the original Japanese BIN; it does not
-upgrade an earlier English build. No new Retro Trans app release is needed.
+patched image. Both sources produce the same English disc. No new Retro Trans app release is needed.
 
 ## Verification for 0.8.29 — 2026-11-22
 

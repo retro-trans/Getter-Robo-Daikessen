@@ -15,7 +15,7 @@ reports, proofreading or playtesting — please join my Discord:
 
 ## Play it
 
-The latest release is **[v0.8.29](https://github.com/retro-trans/Getter-Robo-Daikessen/releases/tag/v0.8.29)**,
+The latest release is **[v0.8.30](https://github.com/retro-trans/Getter-Robo-Daikessen/releases/tag/v0.8.30)**,
 a full patch for the Japanese release (**SLPS-02232**): the story scenes, briefings, menus,
 unit and pilot data, every pilot's battle lines, the title cards and interface graphics are in
 English, drawn with a variable-width font. The movies, the next-episode previews and the
@@ -24,34 +24,35 @@ flight training minigame have English subtitles over the original Japanese voice
 ### Apply
 
 Use [Retro Trans](https://github.com/retro-trans/retro-trans-tools), or apply the `.xdelta`
-with DeltaPatcher or xdelta3. You need your own Japanese disc image as a raw single-track BIN
-(MODE2/2352) with its CUE.
+with DeltaPatcher or xdelta3. Use a raw single-track BIN (MODE2/2352) with its CUE.
 
 | Your source image | Patch |
 |---|---|
-| Japanese release, SLPS-02232 | `GetterRoboDaikessen-English-v0.8.29.xdelta` |
+| Japanese release, SLPS-02232 | `GetterRoboDaikessen-English-v0.8.30.xdelta` |
+| Published English v0.8.29 | `GetterRoboDaikessen-English-v0.8.29-to-v0.8.30.xdelta` |
 
-Check the source hashes in `README-v0.8.29.txt` if your patcher reports a mismatch; keep
+Check the source hashes in `README-v0.8.30.txt` if your patcher reports a mismatch; keep
 checksum verification enabled.
 
 In Retro Trans **Automatic**, click **Refresh catalog**, then **Browse…** and
-select your original Japanese BIN. Keep **Target: Latest**; the route should read
-`original → 0.8.29`. Choose a new **Patched copy** path and click **Patch**.
+select your Japanese or published v0.8.29 BIN. Keep **Target: Latest** and check that the route ends at **0.8.30**. Choose a new **Patched copy** path and click **Patch**.
 Automatic downloads and verifies the patch, then saves the translated BIN and
-a CUE that already names it. No local patch file is needed. This route starts
-from the original Japanese image, not an earlier English build.
+a CUE that already names it. No local patch file is needed. Both routes produce the same English image.
 See [Automatic verification](docs/AUTOMATIC.md) for the tested version and hashes.
 
 For example:
 
 ```
-xdelta3 -d -s "Getter Robo Daikessen! (Japan).bin" GetterRoboDaikessen-English-v0.8.29.xdelta GetterRoboDaikessen-English-v0.8.29.bin
+xdelta3 -d -s "Getter Robo Daikessen! (Japan).bin" GetterRoboDaikessen-English-v0.8.30.xdelta GetterRoboDaikessen-English-v0.8.30.bin
 ```
 
-The patched BIN is larger than the original, so load it through a CUE that names
-the new file: use `GetterRoboDaikessen-English-v0.8.29.cue` from the release (rename it, or
+The patched BIN has the original disc length. Load it through a CUE that names
+the new file: use `GetterRoboDaikessen-English-v0.8.30.cue` from the release (rename it, or
 the BIN, so the `FILE` line matches), or copy your own CUE and edit its `FILE` line. For a
 CHD, extract it to BIN/CUE first (`chdman extractcd`).
+
+For PSP, apply the patch to the BIN first, then convert the patched image with PSX2PSP.
+The boot layout was confirmed on a PSP-3004 running 6.61 PRO-C2 using the v0.8.28 diagnostic.
 
 **Boot the new image fresh.** Old emulator save states keep the previous executable and
 data; memory-card saves work.

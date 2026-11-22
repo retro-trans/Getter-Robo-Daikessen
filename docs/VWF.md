@@ -106,7 +106,9 @@ copier: do not use them as text.
 Code + width tables at 0x8000F000 (kernel RAM, unused: zero in every RAM dump; the
 sibling projects use 0x8000EF00-0x80010000 with SCPH-1001). An entry stub appended to the
 exe copies them there, calls BIOS FlushCache (A 44h) and jumps to the original entry
-0x8001A3E4. The exe grows by one sector, so the disc builder moves it to the end of the image.
+0x8001A3E4. Early builds appended the enlarged executable to the end of the
+disc. Starting with 0.8.30 the executable stays at retail sector 23 and the
+archive shifts within the original disc footprint, as in the 0.8.28 PSP boot test.
 
 | site | change |
 | --- | --- |

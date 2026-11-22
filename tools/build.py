@@ -5,8 +5,8 @@
 Steps:
   1. exe  : VWF hooks + ASCII table (tools/vwf.py), UI strings (tools/ui_text.py, later)
   2. GR.VFS: setup.pac (VWF font cells), mformNN.pac (translated scripts), other text files
-  3. disc : copy of the original BIN, SLPS_022.32 and GR.VFS replaced (moved to the end of
-            the image when they grow), new CUE.
+  3. disc : copy of the original BIN, SLPS_022.32 at the retail boot sector and GR.VFS following
+            within the original disc footprint, new CUE.
 Output: work/output/GetterRoboDaikessen_EN_v<ver>.bin/.cue. Older builds are turned into
 work/output/patches/<name>.xdelta (VCDIFF against the original disc, tools/vcdiff.py) and deleted.
 """
@@ -202,8 +202,7 @@ def build(version, test=False, no_text=False):
     base = 'GetterRoboDaikessen_EN_v%s' % version
     out_bin = os.path.join(OUT, base + '.bin')
     d = build_disc.Disc.open_copy(SRC_BIN, out_bin)
-    print('exe moved' if d.replace('SLPS_022.32', exe) else 'exe in place', len(exe))
-    print('vfs moved' if d.replace('GR.VFS', new_vfs) else 'vfs in place', len(new_vfs))
+    d.replace_boot_files(exe, new_vfs)
     for name, raw in movies.items():
         print('movie', name, d.write_raw_sectors(name, raw), 'sectors replaced')
     d.close()

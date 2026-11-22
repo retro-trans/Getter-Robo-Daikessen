@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.8.30
+
+- Adopt the disc layout from the v0.8.28 PSP boot test for the translation,
+  including the v0.8.29 roster fixes. The boot executable starts at sector
+  23, the archive follows it, and the disc keeps its original length.
+- The tester confirmed that the v0.8.28 diagnostic booted on their PSP-3004
+  with 6.61 PRO-C2 after conversion with PSX2PSP. That result covers startup.
+
 ## 0.8.29
 
 - Translated the missing pilot names in both roster tables, including Go
@@ -18,7 +26,7 @@
   GR.VFS moves four sectors forward to accommodate it, and the disc returns
   to its original length. All game file contents match v0.8.27, including
   the title version. The test image reached Game Start in a fresh DuckStation
-  boot. Confirmation with PSX2PSP on the reported PSP is pending.
+  boot. The tester subsequently confirmed startup on the reported PSP.
 
 ## 0.8.27
 
