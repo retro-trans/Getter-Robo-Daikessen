@@ -14,6 +14,15 @@ Automatic downloads the public patch and verifies its hash and the complete
 patched image. This route requires the original Japanese BIN; it does not
 upgrade an earlier English build. No new Retro Trans app release is needed.
 
+## Verification for 0.8.29 — 2026-11-22
+
+Retro Trans 0.5.23 recognized the original Japanese BIN and selected
+`original → 0.8.29` after refreshing the public catalog. The Automatic worker
+downloaded the patch into an empty cache, produced the matching CUE and
+reproduced the tested 663,666,192-byte BIN with SHA-256
+`d9a5b7c4f80c615773289a05e3cdc480e9b1989f8816029718746dbba5909cf8`. The original BIN retained
+its checksum. [Catalog validation run](https://github.com/retro-trans/retro-trans-tools/actions/runs/45034841037).
+
 ## Verification for 0.8.27 — 2026-11-22
 
 Retro Trans 0.5.23 refreshed the public catalog and selected `original → 0.8.27`.
