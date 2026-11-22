@@ -103,12 +103,12 @@ project like this shut down.
 
 | Role | |
 |---|---|
-| Project lead | binhlt0402 |
+| Project lead | pow |
 | Proofreading | *none yet - see [Status](#status)* |
-| Playtesting | binhlt0402 |
+| Playtesting | pow |
 
 Translation passes, tooling and reverse engineering used Claude (Anthropic) and Codex
-(OpenAI), directed by binhlt0402. The translation is machine-produced and then edited - see the
+(OpenAI), directed by pow. The translation is machine-produced and then edited - see the
 release notes for what that means in practice.
 
 The English letters are a hand-drawn pixel font made for this project.

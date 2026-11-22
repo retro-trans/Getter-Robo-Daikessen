@@ -1,5 +1,9 @@
 # Changelog
 
+## Project credits
+
+- Updated the project and release credits to use the nickname pow.
+
 ## 0.8.30
 
 - Adopt the disc layout from the v0.8.28 PSP boot test for the translation,

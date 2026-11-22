@@ -19,6 +19,7 @@ incoming - outside files that need agent to look into
 - Keep only latest version output, the other versions keep as xdelta (dcp for dreamcast) but only at most 10 recent version
 
 ** REMEMBER **
+- Credit the project lead and playtester as pow (lowercase) in project materials and release notes.
 - Follow the editorial-pass workflow in `BASE_RULES.md` for translated scripts: accuracy review, editorial review for clarity and character voice, then final proofreading.
 - Build debug tool using `debug_tools_guide.md`
 - Do not create or publish a GitHub release until the user explicitly requests a release for that build. Translation and local builds do not imply release permission.
