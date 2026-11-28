@@ -4,6 +4,19 @@
 
 - Updated the project and release credits to use the nickname pow.
 
+## 0.8.32
+
+- Set the title-screen copyright to read "Bandai Visual / Tecnosoft" with
+  a normal space on each side of the slash.
+
+## 0.8.31
+
+- Fixed intermittent fading and blinking of the English subtitles in video
+  clips. Low-contrast frames now use the full picture to encode the same
+  outlined text within their original disc sectors. Cue timing is preserved.
+- Decode every subtitled frame and check the brightness difference between
+  the letters and their outlines before building the disc.
+
 ## 0.8.30
 
 - Adopt the disc layout from the v0.8.28 PSP boot test for the translation,

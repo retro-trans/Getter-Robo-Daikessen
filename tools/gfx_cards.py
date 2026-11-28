@@ -360,7 +360,7 @@ def make_reports(previews):
 
 
 # ---------------------------------------------------------------- title screen copyright
-SERIF = FONT        # condensed: line 2 has to end inside COPY0 (COPY1 continues it)
+SERIF = FONT
 COPY_LINES = ['\u00a91999 Dynamic Planning', '\u00a91999 Bandai Visual /', 'Tecnosoft']
 
 
@@ -388,17 +388,21 @@ def make_copyright(previews):
     t0, t1 = gfx_sprites.tim_read(os.path.join(d, f0)), gfx_sprites.tim_read(os.path.join(d, f1))
     h0, w0 = t0['idx'].shape
     h1, w1 = t1['idx'].shape
-    # size: line 2 of COPY0 must end inside it (COPY1 continues the line on screen)
+    # Keep the established type size. The credit is drawn across two sprites.
     dr = ImageDraw.Draw(Image.new('RGB', (1, 1)))
     for sz in range(20, 8, -1):
         fnt = ImageFont.truetype(SERIF, sz)
         if max(dr.textbbox((0, 0), s, font=fnt)[2] for s in COPY_LINES[:2]) <= w0 - 4:
             break
-    a = Image.new('RGBA', (w0, h0), (0, 0, 0, 0))
-    _draw_shadowed(a, (1, 0), COPY_LINES[0], fnt)
-    _draw_shadowed(a, (1, h0 // 2), COPY_LINES[1], fnt)
-    b = Image.new('RGBA', (w1, h1), (0, 0, 0, 0))
-    _draw_shadowed(b, (2, 0), COPY_LINES[2], fnt)
+    # Native title origins are (101, 413) and (286, 432). Typeset the
+    # second line once so a word can cross their seam at normal spacing.
+    dx, dy = 185, 19
+    credit = Image.new('RGBA', (dx + w1, max(h0, dy + h1)))
+    _draw_shadowed(credit, (1, 0), COPY_LINES[0], fnt)
+    _draw_shadowed(credit, (1, h0 // 2), ' '.join(COPY_LINES[1:]), fnt)
+    a = Image.new('RGBA', (w0, h0))
+    a.paste(credit.crop((0, 0, dx, h0)), (0, 0))
+    b = credit.crop((dx, dy, dx + w1, dy + h1))
     i0 = _quant_alpha(np.array(a), t0['clut'].astype(np.uint16))
     i1 = _quant_alpha(np.array(b), t1['clut'].astype(np.uint16))
     save('demo/title.pac', f0, gfx_sprites.tim_write(t0, i0))
@@ -408,9 +412,9 @@ def make_copyright(previews):
     src = np.zeros((240, 320, 3), np.uint8)
     out = np.zeros((240, 320, 3), np.uint8)
     src[:h0, :w0] = rgb0[t0['idx']]
-    src[h0:h0 + h1, :w1] = rgb1[t1['idx']]
+    src[dy:dy + h1, dx:dx + w1] = rgb1[t1['idx']]
     out[:h0, :w0] = rgb0[i0]
-    out[h0:h0 + h1, :w1] = rgb1[i1]
+    out[dy:dy + h1, dx:dx + w1] = rgb1[i1]
     previews.append(('copyright', src, out))
     # title2.pac: the same text on top of artwork (COPY0 256 + COPY1 60 wide, side by side)
     d = os.path.join(UNPACKED, 'demo', 'title2.pac')

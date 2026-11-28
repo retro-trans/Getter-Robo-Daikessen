@@ -20,6 +20,22 @@ A muted native capture in `work/ui/movies/v015/C04_native_fb240.png` confirms th
 transparent subtitle appearance in the real movie player. Validation details and
 the final disc hash are stored in the same versioned folder.
 
+## Subtitle visibility in 0.8.31
+
+On v0.8.30, opening movie C01 frames 142–144 show the same lyric. The middle
+frame spends so few bits on the subtitle that the letters almost disappear.
+The comparison in `work/ui/movies/v0831/opening-comparison.png` shows
+v0.8.30 on the top row and v0.8.31 below.
+
+After partial replacement, the patcher decodes the output using FFmpeg. For
+each active cue it measures the mean brightness of the letter interiors and
+their black outlines against masks drawn with the subtitle font. If their
+difference falls below 175 on the 0–255 scale, jPSXdec re-encodes that frame
+from its edited source PNG, sharing the original sector allocation across the
+whole picture. This can change compression detail outside the letters on
+those frames. Validation measures the final stream again before the disc
+builder accepts it. The contrast check requires NumPy and Pillow.
+
 ## Files
 
 - `work/translation/en/movies.en.json`: all 18 movies, 212 timed English cues,

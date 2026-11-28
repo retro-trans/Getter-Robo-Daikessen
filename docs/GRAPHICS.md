@@ -17,7 +17,7 @@ Previews: `work/ui/gfx_sheets/en_cards.png`, `en_sprites.png` (original | Englis
 | flight/title.pac, flight.pac, result.pac | minigame titles, HUD, plates, stamps | non-antialiased glyphs on the sprite's own 16-colour ramp |
 | flight/result.pac REP_1/2/3 | paper reports | text in fixed rectangles inpainted, redrawn in sampled ink |
 | entry/change.pac EMPTY, FUKA | 空席 / 不可 seat icons | box kept, glyph colour kept |
-| demo/title.pac, title2.pac COPY0/1 | copyright | line 2 continues in COPY1 on screen: sized so it ends inside COPY0 |
+| demo/title.pac, title2.pac COPY0/1 | copyright | line 2 uses normal word spacing across the two native sprites |
 | flight/show.pac FACE000-003 | promo screen (512x480 in four TIMs) | inpainted per line rectangle |
 
 Kept: the game logo, GAME START / DATA LOAD (already English), button icons.

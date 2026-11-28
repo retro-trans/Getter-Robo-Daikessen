@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "language": "en",
-  "version": "0.1.7",
+  "version": "0.8.31",
   "timing": "seconds from XA audio start; video frames located by original disc sectors at 150 sectors/second",
   "movies": {
     "C01": {

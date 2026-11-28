@@ -21,6 +21,8 @@ ANALYSIS = ROOT / 'work/source/movie_analysis'
 JAR = ROOT / 'tools/vendor/jpsxdec/jpsxdec_v2.1-beta/jpsxdec.jar'
 TRANSLATION = ROOT / 'work/translation/en/movies.en.json'
 PATCHED = ROOT / 'work/build/movies'
+# Minimum decoded luma separation (0–255) between letter interiors and outlines.
+MIN_SUBTITLE_CONTRAST = 175
 RENDER_STYLE = {
     'revision': 2,
     'subtitle_background': 'transparent',
@@ -233,6 +235,58 @@ def render(apply=False, movies=None):
         print(name, len(xml), 'frames to replace', flush=True)
 
 
+def subtitle_contrast(path, entry):
+    """Measure the actual decoded pixels in every frame with an active cue."""
+    import numpy as np
+    from PIL import Image
+
+    frames = inventory(path)['frames']
+    times = np.array([frame['sector'] / 150 for frame in frames])
+    decoded = subprocess.check_output([
+        'ffmpeg', '-v', 'error', '-xerror', '-i', str(path), '-map', '0:v:0',
+        '-vf', 'crop=320:48:0:192,format=gray', '-fps_mode', 'passthrough',
+        '-f', 'rawvideo', '-'])
+    strips = np.frombuffer(decoded, dtype=np.uint8).reshape(len(frames), 48, 320)
+    weak = []
+    count = 0
+    minimum = None
+    for cue in entry.get('cues', []):
+        # Gray outside the letters excludes the moving picture from both masks.
+        reference = Image.new('RGB', (320, 240), (128, 128, 128))
+        subtitle(reference, cue['en'])
+        mask = np.asarray(reference)[192:, :, 0]
+        indices = np.flatnonzero((times >= cue['start']) & (times < cue['end']))
+        if not indices.size:
+            raise ValueError(f"{path.stem}: no frame for {cue['id']}")
+        pixels = strips[indices]
+        scores = pixels[:, mask >= 226].mean(axis=1) - pixels[:, mask <= 16].mean(axis=1)
+        if not np.isfinite(scores).all():
+            raise ValueError(f"{path.stem}: empty glyph mask for {cue['id']}")
+        lowest = float(scores.min())
+        minimum = lowest if minimum is None else min(minimum, lowest)
+        weak.extend(indices[scores < MIN_SUBTITLE_CONTRAST].tolist())
+        count += len(indices)
+    return weak, {'frames': count, 'minimum': minimum, 'threshold': MIN_SUBTITLE_CONTRAST}
+
+
+def repair_subtitle_frames(output, entry):
+    weak, _ = subtitle_contrast(output, entry)
+    if not weak:
+        return
+    target = ANALYSIS / output.stem
+    # On nearly full frames partial replacement can spend too few bits on the
+    # text. Let the encoder distribute the same sector budget over the picture.
+    retry = ET.Element('str-replace', version='0.3')
+    edits = {int(node.attrib['frame']): node.text for node in ET.parse(target/'replace.xml').getroot()}
+    for index in weak:
+        ET.SubElement(retry, 'replace', frame=str(index)).text = edits[index]
+    xml = target / 'subtitle-retry.xml'
+    ET.ElementTree(retry).write(xml, encoding='utf-8', xml_declaration=True)
+    java(['-x', target/'original.idx', '-f', output, '-i', '0', '-replaceframes', xml],
+         target, 'subtitle-retry.log')
+    print(output.stem, len(weak), 'low-contrast subtitle frames re-encoded', flush=True)
+
+
 def patch(apply=False, movies=None):
     data = load_translation()
     check_translation(data)
@@ -259,6 +313,7 @@ def patch(apply=False, movies=None):
         log = (target/'patch.log').read_text(encoding='utf-8')
         if '100% Applying patch' not in log or 'SEVERE:' in log or 'ERROR:' in log:
             raise RuntimeError(f'{name}: replacement did not complete; see {target/"patch.log"}')
+        repair_subtitle_frames(output, entry)
         verify_movie(SOURCE/(name+'.STR'), output, fingerprint(entry))
 
 
@@ -323,6 +378,8 @@ def ready_movies(require_decoded=False):
             raise ValueError(f'{name}: original movie changed after verification')
         if require_decoded and report.get('independently_decoded_frames') != len(original['frames']):
             raise ValueError(f'{name}: run movie.py validate --apply before building')
+        if require_decoded and report.get('subtitle_contrast', {}).get('threshold') != MIN_SUBTITLE_CONTRAST:
+            raise ValueError(f'{name}: run movie.py validate --apply to verify subtitle visibility')
         output = PATCHED/(name+'.STR')
         raw = output.read_bytes()
         if hashlib.sha256(raw).hexdigest() != report['patched_sha256']:
@@ -334,6 +391,7 @@ def ready_movies(require_decoded=False):
 def validate(apply=False,movies=None):
     """Decode every patched frame with an independent decoder, retaining the logs."""
     ready = ready_movies()
+    entries = load_translation()['movies']
     for filename in ready:
         name = Path(filename).stem
         if movies and name not in movies:
@@ -354,6 +412,10 @@ def validate(apply=False,movies=None):
         if int(stream['nb_read_frames']) != expected or stream['width'] != 320 or stream['height'] != 240:
             raise ValueError(f'{name}: decoded frame count or dimensions changed')
         report = json.loads((target/'verification.json').read_text(encoding='utf-8'))
+        weak, contrast = subtitle_contrast(PATCHED/filename, entries[name])
+        if weak:
+            raise ValueError(f'{name}: weak subtitles on {len(weak)} frames, starting at {weak[0]}')
+        report['subtitle_contrast'] = contrast
         report['independently_decoded_frames'] = expected
         write_json(target/'verification.json',report)
         print(name, expected, 'frames decode without errors', flush=True)
