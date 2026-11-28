@@ -13,6 +13,14 @@ The public catalog includes Getter Robo Daikessen English **0.8.32**.
 Automatic downloads the public patch and verifies its hash and the complete
 patched image. Both sources produce the same English disc. No new Retro Trans app release is needed.
 
+## Verification for 0.8.32
+
+Retro Trans 0.5.23 downloaded the public full patch and the v0.8.30 upgrade
+through Automatic. Each route produced the matching CUE and the same
+663,111,120-byte BIN with SHA-256
+`4e34ec387192896cfeb12220597033e024c9fb523671e4acecce9c262be21a9d`.
+[Catalog validation run](https://github.com/retro-trans/retro-trans-tools/actions/runs/46149722205).
+
 ## Verification for 0.8.30
 
 Retro Trans 0.5.23 recognized both the original Japanese BIN and the published
